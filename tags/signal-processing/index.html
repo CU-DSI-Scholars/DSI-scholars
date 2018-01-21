@@ -1,0 +1,558 @@
+
+
+
+  
+
+
+
+
+
+  
+
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Hugo 0.32.2 with theme Tranquilpeak 0.4.3-BETA">
+    <title>Signal Processing</title>
+    <meta name="author" content="Columbia Data Science Institute 
+ (DSI) Scholars Program">
+    <meta name="keywords" content="">
+
+    <link rel="icon" href="../../favicon.png">
+    
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="../../tags/signal-processing/index.xml">
+    
+
+    
+    <meta name="description" content="Columbia DSI Scholars Program">
+    <meta property="og:description" content="Columbia DSI Scholars Program">
+    <meta property="og:type" content="blog">
+    <meta property="og:title" content="Signal Processing">
+    <meta property="og:url" content="/tags/signal-processing/">
+    <meta property="og:site_name" content="Columbia DSI Scholars">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Columbia DSI Scholars">
+    <meta name="twitter:description" content="Columbia DSI Scholars Program">
+    
+      <meta name="twitter:creator" content="@DSI_Columbia">
+    
+    
+
+    
+    
+
+    
+      <meta property="og:image" content="https://industry.datascience.columbia.edu/sites/default/files/profiles/photos/Data-Science-Avatar.png">
+    
+
+    
+    
+    
+
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="../../css/style-jsjn0006wyhpyzivf6yceb31gvpjatbcs3qzjvlumobfnugccvobqwxnnaj8.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="1">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="../../">Columbia DSI Scholars</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="../../#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://industry.datascience.columbia.edu/sites/default/files/profiles/photos/Data-Science-Avatar.png" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="1">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="../../#about">
+          <img class="sidebar-profile-picture" src="https://industry.datascience.columbia.edu/sites/default/files/profiles/photos/Data-Science-Avatar.png" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Columbia Data Science Institute 
+ (DSI) Scholars Program</h4>
+        
+          <h5 class="sidebar-profile-bio">The DSI Scholars Program is to engage undergraduate and master students in data science related research with Columbia faculty. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../#about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-info"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/CU-DSI-Scholars">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/DSI_Columbia">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../page/contact-info">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-paper-plane"></i>
+      
+      <span class="sidebar-button-desc">Contact Us</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+  </div>
+</nav>
+
+      
+        
+
+      
+      <div id="main" data-behavior="1"
+        class="
+               hasCoverMetaIn
+               ">
+        
+          <section class="postShorten-group main-content-wrap">
+            
+            
+              
+  
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-left" itemscope itemType="http://schema.org/BlogPosting">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title" itemprop="headline">
+        <a class="link-unstyled" href="../../2018/01/project-human-peri-ictal-single-unit-activity/">
+          Project: Human peri-ictal single unit activity
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2018-01-21T00:00:00Z">
+        
+  January 21, 2018
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="../../categories/project-2018">Project 2018</a>
+    
+  
+
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt" itemprop="articleBody">
+      Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures. Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge. Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and to address fundamental questions about the activity of different cell classes at seizure initiation.
+Faculty Advisor  Professor Catherine Schevon.
+      <p>
+        <a href="../../2018/01/project-human-peri-ictal-single-unit-activity/" class="postShorten-excerpt_link link">Continue reading</a>
+        
+      </p>
+    </div>
+  </div>
+  
+    <a href="../../2018/01/project-human-peri-ictal-single-unit-activity/">
+      <div class="postShorten-thumbnailimg">
+        <img alt="" itemprop="image" src="../../img/m-array.png"/>
+      </div>
+    </a>
+  
+</article>
+
+            
+            
+
+          </section>
+        
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2018 Columbia Data Science Institute 
+ (DSI) Scholars Program. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://industry.datascience.columbia.edu/sites/default/files/profiles/photos/Data-Science-Avatar.png" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Columbia Data Science Institute 
+ (DSI) Scholars Program</h4>
+    
+      <div id="about-card-bio">The DSI Scholars Program is to engage undergraduate and master students in data science related research with Columbia faculty. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Columbia University DSI
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        New York, NY
+      </div>
+    
+  </div>
+</div>
+
+    <div id="algolia-search-modal" class="modal-container">
+  <div class="modal">
+    <div class="modal-header">
+      <span class="close-button"><i class="fa fa-close"></i></span>
+      <a href="https://algolia.com" target="_blank" rel="noopener" class="searchby-algolia text-color-light link-unstyled">
+        <span class="searchby-algolia-text text-color-light text-small">by</span>
+        <img class="searchby-algolia-logo" src="https://www.algolia.com/static_assets/images/press/downloads/algolia-light.svg">
+      </a>
+      <i class="search-icon fa fa-search"></i>
+      <form id="algolia-search-form">
+        <input type="text" id="algolia-search-input" name="search"
+          class="form-control input--large search-input" placeholder="Search" />
+      </form>
+    </div>
+    <div class="modal-body">
+      <div class="no-result text-color-light text-center">no post found</div>
+      <div class="results">
+        
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../2018/01/project-a-longitudinal-network-study-of-alzheimer-s-and-dementia-care-in-relation-to-disparities-and-outcomes/">
+                <h3 class="media-heading">Project: A longitudinal network study of Alzheimer’s and dementia care in relation to disparities and outcomes</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2018
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Alzheimer&rsquo;s disease and related dementia (AD/dementia) represent a looming public health crisis, affecting roughly 5 million people in the U.S. and 11% of older adults. As with other chronic conditions, racial/ethnic and socio-economic disparities exist in the prevalence and burden of illness. However, less is known about how disparities in access to care influence the care trajectories – i.e. the scope, frequency and sequence of services used across health care settings – of those with AD/dementia.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../2018/01/statistical-modeling-for-dynamic-social-networks/">
+                <h3 class="media-heading">Project: Statistical modeling for dynamic social networks</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2018
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Networked systems are ubiquitous in modern society. In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc. We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../2018/01/healthcare-data-analytics-internship/">
+                <h3 class="media-heading">Healthcare data analytics internship</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2018
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Recently Columbia University, Cornell and NewYork-Presbyterian have agreed to integrate their clinical (healthcare) and business IT systems onto one shared platform called Epic. The motivating factors to move to Epic are to enhance the patient experience, improve and integrate care, and give our physicians an integrated technology platform that supports the mission of an academic medical center. The intern will assist with developing the “operational” analytics capabilities of Columbia University Medical Center including financial, healthcare operations and healthcare quality analytics.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../2018/01/project-analysis-pipeline-for-strain-level-microbiome-shotgun-sequencing/">
+                <h3 class="media-heading">Project: Analysis pipeline for strain-level microbiome shotgun sequencing</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2018
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">DNA sequence reads from a community of microbial genomes are currently processed without considering sequence variants. The project involves building a processing pipeline of such billions of short reads, identifying closest strains they might belong to, assembling them into specific clones, calling their variants, and analyzing the dynamic nature of these bacterial strains along sampling points.
+Faculty Advisor  Professor Itsik Pe&rsquo;er. Department/School: Computer Science/SEAS. Location: Computer Science Buiding 506.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../2018/01/project-human-peri-ictal-single-unit-activity/">
+                <h3 class="media-heading">Project: Human peri-ictal single unit activity</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2018
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures. Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge. Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and to address fundamental questions about the activity of different cell classes at seizure initiation.
+Faculty Advisor  Professor Catherine Schevon.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/">
+                <h3 class="media-heading">Project: Informatics approaches to biomedical evidence appraisal using public data</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2018
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">The quality of biomedical evidence can affect research sustainability, patient safety, and the public&rsquo;s trust in biomedical research. However, often the quality of biomedical evidence remains opaque to the public. It is imperative to improve the transparency of evidence quality. This project aims to leverage the public data sources, including but not limited to The ClinicalTrials.gov, The PubMed database for biomedical literature, The National Health and Nutrition Examination Survey (NHANES) database, and so on, to develop and apply novel data mining and visualization methods for appraising the biomedical research evidence, uncovering implicit biases in clinical research designs at different levels, and presenting this information intuitively to the public.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../2018/01/project-political-attitudes-and-social-networks/">
+                <h3 class="media-heading">Project: Political attitudes and social networks</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2018
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">We are collecting and analyzing survey data asking people about the political attitudes and other characteristics of their family, friends, and others in their social circles. Some of this work is described here: http://www.stat.columbia.edu/~gelman/research/unpublished/penumbra_paper_11_clean.pdf and we are also doing polling relevant to the 2018 midterm elections.
+Faculty Advisor  Professor Andrew Gelman. Department/School: Statistics and Political Science/A&amp;S. Location: 1255 Amsterdam.  Project timeline  Start date: 05/15/2018. End date: 08/31/2018.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../2018/01/project-visual-tactile-geometric-reasoning/">
+                <h3 class="media-heading">Project: Visual-tactile geometric reasoning</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2018
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Robotic grasp planning based on raw sensory data is difficult due to occlusion and incomplete scene geometry. Often one sensory modality does not provide enough context to enable reliable planning. A single depth sensor image cannot provide information about occluded regions of an object, and tactile information is incredibly sparse spatially. We are building a Deep Learning CNN that combines both 3D vision and tactile information to perform shape completion of an object seen from a single view only, and plan stable grasps on these completed models.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../2018/01/project-visualization-of-continuous-health-data-measurements/">
+                <h3 class="media-heading">Project: Visualization of continuous health data measurements</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2018
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">The ubiquity of current smart and IoT devices has the potential to transform healthcare. For example, current devices can measure continuously activity levels, heart rate, blood oxygen levels, and electrocardiogram. Our lab is developing new devices which can measure additional streams of health data which are currently not possible. The summer project will involve visualization of this entire set of data, machine learning, and multiparametric data analysis to extract trends that match health outcomes.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../2017/12/announcing-columbia-dsi-scholars-inaugural-class-of-summer-2018/">
+                <h3 class="media-heading">Announcing Columbia DSI Scholars Inaugural Program of Summer 2018</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Dec 12, 2017
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Call for Faculty Participation. December 2017. The Data Science Institute is pleased to announce the launch of the Data Science Institute (DSI) Scholars Program for the Inaugural Class of Summer 2018. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty through a data science research internship. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+      </div>
+    </div>
+    <div class="modal-footer">
+      <p class="results-count text-medium"
+         data-message-zero="no post found"
+         data-message-one="1 post found"
+         data-message-other="{n} posts found">
+         10 posts found
+      </p>
+    </div>
+  </div>
+</div>
+    
+  
+    
+    <div id="cover" style="background-image:url('https://lh3.googleusercontent.com/eLyCqulezsgW4IQ9xgst0yxrhbW8Cn4Y_wUj6P39O5wiD4oihKJvaIxasdcEWmVujMM2M9FS1EUp1NXItJ4eg6NQ6o6taOBreebL4gwfUYXj7gsEBO9vx7MWDoBP7P51kDUiaKnGcxnbuuNu2HCdhGn8YGVKqZoUbfaXSesom1gWe-nLm2uCOekSEYTkY2lqAeEwUUcxvB_43lR4tpKx-L0npnat2RZW3tqzH1ESiyV9a2gOHlNEPg-BoTfFsUdyrarB67rZFa_LAPCI-DFO83RzgR3pIcR6xA04dRanMiJN4AmD0gPPFpKnfjfkAIPk3Js55gxSUBkozoTKKj1MLERaEgcpzCN7M2LOkRhgfTqRCf8kUmRHS--t4WdeevH00rs12iK7jPM40PXUOcjxY7hmjUEwUgcxMYQau5sAL2QC2Vl0TQZcpmY9Z-F9Npz3DgjcVRty-dGWVfGOIlzaxHaij6OLjfYThMXbJasvZ0CJmXehdd1zAIlbkafyxdRyDe3hBZOgNR4LZqP7hWtKIRp9dJzuWnWxDYZwKoV1DyC412ZyDH-oXiZSKqqhjfX4cctP2xlx3joToZbY1rkHUMfbf7Bgiwyhx9XF-s4=w660-h337-no');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="../../js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
+
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+

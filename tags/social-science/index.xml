@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Science on Columbia DSI Scholars</title>
+    <link>/tags/social-science/</link>
+    <description>Recent content in Social Science on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/social-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project: Statistical modeling for dynamic social networks</title>
+      <link>/2018/01/statistical-modeling-for-dynamic-social-networks/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
+      <description>Networked systems are ubiquitous in modern society. In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc. We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction.</description>
+    </item>
+    
+    <item>
+      <title>Project: Political attitudes and social networks</title>
+      <link>/2018/01/project-political-attitudes-and-social-networks/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/project-political-attitudes-and-social-networks/</guid>
+      <description>We are collecting and analyzing survey data asking people about the political attitudes and other characteristics of their family, friends, and others in their social circles. Some of this work is described here: http://www.stat.columbia.edu/~gelman/research/unpublished/penumbra_paper_11_clean.pdf and we are also doing polling relevant to the 2018 midterm elections.
+Faculty Advisor  Professor Andrew Gelman. Department/School: Statistics and Political Science/A&amp;amp;S. Location: 1255 Amsterdam.  Project timeline  Start date: 05/15/2018. End date: 08/31/2018.</description>
+    </item>
+    
+  </channel>
+</rss>
