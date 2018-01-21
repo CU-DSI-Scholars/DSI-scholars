@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data on Columbia DSI Scholars</title>
+    <link>/tags/big-data/</link>
+    <description>Recent content in Big Data on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project: A longitudinal network study of Alzheimer’s and dementia care in relation to disparities and outcomes</title>
+      <link>/2018/01/project-a-longitudinal-network-study-of-alzheimer-s-and-dementia-care-in-relation-to-disparities-and-outcomes/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/project-a-longitudinal-network-study-of-alzheimer-s-and-dementia-care-in-relation-to-disparities-and-outcomes/</guid>
+      <description>Alzheimer&amp;rsquo;s disease and related dementia (AD/dementia) represent a looming public health crisis, affecting roughly 5 million people in the U.S. and 11% of older adults. As with other chronic conditions, racial/ethnic and socio-economic disparities exist in the prevalence and burden of illness. However, less is known about how disparities in access to care influence the care trajectories – i.e. the scope, frequency and sequence of services used across health care settings – of those with AD/dementia.</description>
+    </item>
+    
+  </channel>
+</rss>
