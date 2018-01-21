@@ -6,7 +6,7 @@
     <description>Recent content on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,19 @@
     <item>
       <title>Project: A longitudinal network study of Alzheimer’s and dementia care in relation to disparities and outcomes</title>
       <link>/2018/01/project-a-longitudinal-network-study-of-alzheimer-s-and-dementia-care-in-relation-to-disparities-and-outcomes/</link>
-      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-a-longitudinal-network-study-of-alzheimer-s-and-dementia-care-in-relation-to-disparities-and-outcomes/</guid>
       <description>Alzheimer&amp;rsquo;s disease and related dementia (AD/dementia) represent a looming public health crisis, affecting roughly 5 million people in the U.S. and 11% of older adults. As with other chronic conditions, racial/ethnic and socio-economic disparities exist in the prevalence and burden of illness. However, less is known about how disparities in access to care influence the care trajectories – i.e. the scope, frequency and sequence of services used across health care settings – of those with AD/dementia.</description>
+    </item>
+    
+    <item>
+      <title>Project: Statistical modeling for dynamic social networks</title>
+      <link>/2018/01/statistical-modeling-for-dynamic-social-networks/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
+      <description>Networked systems are ubiquitous in modern society. In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc. We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction.</description>
     </item>
     
     <item>
@@ -40,6 +49,15 @@ Faculty Advisor  Professor Andrew Gelman Department/School: Statistics and Polit
     </item>
     
     <item>
+      <title>Project: Visual-tactile geometric reasoning</title>
+      <link>/2018/01/project-visual-tactile-geometric-reasoning/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/project-visual-tactile-geometric-reasoning/</guid>
+      <description>Robotic grasp planning based on raw sensory data is difficult due to occlusion and incomplete scene geometry. Often one sensory modality does not provide enough context to enable reliable planning. A single depth sensor image cannot provide information about occluded regions of an object, and tactile information is incredibly sparse spatially. We are building a Deep Learning CNN that combines both 3D vision and tactile information to perform shape completion of an object seen from a single view only, and plan stable grasps on these completed models.</description>
+    </item>
+    
+    <item>
       <title>Project: Visualization of continuous health data measurements</title>
       <link>/2018/01/project-visualization-of-continuous-health-data-measurements/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
@@ -58,133 +76,12 @@ Faculty Advisor  Professor Andrew Gelman Department/School: Statistics and Polit
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title></title>
+      <link>/1/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/2015/07/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Tranquilpeak 0.4.3-BETA</title>
-      <link>/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</guid>
-      <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Elements showcase</title>
-      <link>/2015/05/elements-showcase/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/2015/05/elements-showcase/</guid>
-      <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Cover image showcase</title>
-      <link>/2015/05/cover-image-showcase/</link>
-      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/2015/05/cover-image-showcase/</guid>
-      <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>highlighted code showcase</title>
-      <link>/2015/03/highlighted-code-showcase/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/2015/03/highlighted-code-showcase/</guid>
-      <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Tags plugins showcase</title>
-      <link>/2014/10/tags-plugins-showcase/</link>
-      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/2014/10/tags-plugins-showcase/</guid>
-      <description>&lt;p&gt;This post is used to show how tag plugins are displayed. See &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags&#34;&gt;docs&lt;/a&gt; for more info.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hidden social section showcase</title>
-      <link>/2014/08/hidden-social-section-showcase/</link>
-      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/2014/08/hidden-social-section-showcase/</guid>
-      <description>&lt;p&gt;This post is used to show how a site looks if the social section is hidden.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hidden tag section showcase</title>
-      <link>/2014/08/hidden-tag-section-showcase/</link>
-      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/2014/08/hidden-tag-section-showcase/</guid>
-      <description>&lt;p&gt;This post is used to show how a site looks if the tag section is hidden.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hidden pagination showcase</title>
-      <link>/2014/08/hidden-pagination-showcase/</link>
-      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/2014/08/hidden-pagination-showcase/</guid>
-      <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Video integrations showcase</title>
-      <link>/2014/08/video-integrations-showcase/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/2014/08/video-integrations-showcase/</guid>
-      <description>&lt;p&gt;Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>中文測試</title>
-      <link>/2013/10/chinese-test/</link>
-      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/2013/10/chinese-test/</guid>
-      <description>&lt;p&gt;This is a chinese test post to show you how chinese is displayed.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Image gallery showcase</title>
-      <link>/2013/02/image-gallery-showcase/</link>
-      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/2013/02/image-gallery-showcase/</guid>
-      <description>&lt;p&gt;And here is the image gallery!
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>日本語テスト</title>
-      <link>/2013/01/japanese-test/</link>
-      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/2013/01/japanese-test/</guid>
-      <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.
-&lt;/p&gt;</description>
+      <guid>/1/01/</guid>
+      <description>Project: Visual-tactile geometric reasoning       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>

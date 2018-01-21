@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Columbia DSI Scholars</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project: Statistical modeling for dynamic social networks</title>
+      <link>/2018/01/statistical-modeling-for-dynamic-social-networks/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
+      <description>Networked systems are ubiquitous in modern society. In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc. We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction.</description>
+    </item>
+    
+  </channel>
+</rss>
