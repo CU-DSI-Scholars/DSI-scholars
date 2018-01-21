@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project 2018 on Columbia DSI Scholars</title>
+    <link>/categories/project-2018/</link>
+    <description>Recent content in Project 2018 on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/project-2018/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project: Visualization of Continuous Health Data Measurements</title>
+      <link>/2018/01/project-visualization-of-continuous-health-data-measurements/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/project-visualization-of-continuous-health-data-measurements/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

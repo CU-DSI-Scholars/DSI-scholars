@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Info on Columbia DSI Scholars</title>
+    <link>/tags/info/</link>
+    <description>Recent content in Info on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Announcing Columbia DSI Scholars Inaugural Class of Summer 2018</title>
+      <link>/2017/12/announcing-columbia-dsi-scholars-inaugural-class-of-summer-2018/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/12/announcing-columbia-dsi-scholars-inaugural-class-of-summer-2018/</guid>
+      <description>DSI Scholars Program Call for Faculty Participation December 2017 The Data Science Institute is pleased to announce the launch of the Data Science Institute (DSI) Scholars Program for the Inaugural Class of Summer 2018. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty through a data science research internship. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.</description>
+    </item>
+    
+  </channel>
+</rss>
