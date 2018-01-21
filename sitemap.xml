@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/01/project-political-attitudes-and-social-networks/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/01/project-visualization-of-continuous-health-data-measurements/</loc>
     <lastmod>2018-01-21T00:00:00+00:00</lastmod>
   </url>
@@ -94,6 +104,12 @@
   </url>
   
   <url>
+    <loc>/tags/bayesian/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/big-data/</loc>
     <lastmod>2018-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -113,6 +129,12 @@
   
   <url>
     <loc>/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/computing/</loc>
     <lastmod>2018-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -280,6 +302,18 @@
   </url>
   
   <url>
+    <loc>/tags/sql/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/statistics/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/summer-2018/</loc>
     <lastmod>2017-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -306,6 +340,12 @@
   <url>
     <loc>/tags/test/</loc>
     <lastmod>2015-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/text-mining/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
