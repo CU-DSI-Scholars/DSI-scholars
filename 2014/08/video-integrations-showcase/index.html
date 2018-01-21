@@ -330,6 +330,12 @@
         
       
       
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
       <li class="post-action">
         
           <a class="post-action-btn btn btn--default" href="#">
@@ -342,6 +348,10 @@
 
 
             
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
               
             
           </div>
@@ -405,6 +415,12 @@
           </li>
         
       
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
       
       <li class="post-action">
         
@@ -715,6 +731,28 @@ $(document).ready(function() {
 
 
   
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = '\/2014\/08\/video-integrations-showcase\/';
+          
+            this.page.identifier = '\/2014\/08\/video-integrations-showcase\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'dsischolars';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
     
   
 

@@ -394,6 +394,12 @@ sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula
         
       
       
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
       <li class="post-action">
         
           <a class="post-action-btn btn btn--default" href="#">
@@ -406,6 +412,10 @@ sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula
 
 
             
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
               
             
           </div>
@@ -469,6 +479,12 @@ sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula
           </li>
         
       
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
       
       <li class="post-action">
         
@@ -779,6 +795,28 @@ $(document).ready(function() {
 
 
   
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = '\/2015\/05\/elements-showcase\/';
+          
+            this.page.identifier = '\/2015\/05\/elements-showcase\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'dsischolars';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
     
   
 
