@@ -117,12 +117,32 @@ computational analysis.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Project: Real-time brain state classification</title>
+      <link>/2018/01/project-real-time-brain-state-classification/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/project-real-time-brain-state-classification/</guid>
+      <description>&lt;p&gt;Using machine learning to conduct brain state classification at real-time on EEG/fNIRS/fMRI data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Project: Statistical modeling for dynamic social networks</title>
       <link>/2018/01/statistical-modeling-for-dynamic-social-networks/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
       <description>&lt;p&gt;Networked systems are ubiquitous in  modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Analysis pipeline for strain-level microbiome shotgun sequencing</title>
+      <link>/2018/01/project-analysis-pipeline-for-strain-level-microbiome-shotgun-sequencing/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/project-analysis-pipeline-for-strain-level-microbiome-shotgun-sequencing/</guid>
+      <description>&lt;p&gt;DNA sequence reads from a community of microbial genomes are currently processed without considering sequence variants. The project involves building a processing pipeline of such billions of short reads, identifying closest strains they might belong to, assembling them into specific clones, calling their variants, and analyzing the dynamic nature of these bacterial strains along sampling points.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
