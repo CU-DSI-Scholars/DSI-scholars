@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Financial Analytics on Columbia DSI Scholars</title>
+    <link>/tags/financial-analytics/</link>
+    <description>Recent content in Financial Analytics on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/financial-analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project: Data Science and the regulation of financial markets (application closed)</title>
+      <link>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
+      <description>&lt;p&gt;The development of computational data science
+techniques in natural language processing (NLP) and machine
+learning (ML) algorithms to analyze large and complex textual
+information opens new avenues to study intricate processes,
+such as government regulation of financial markets, at a scale
+unimaginable even a few years ago. This project develops scalable
+NLP and ML algorithms (classification, clustering and
+ranking methods) that automatically classify laws into various
+codes/labels, rank feature sets based on use case, and induce
+best structured representation of sentences for various types of
+computational analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Global Interconnections Project (application closed)</title>
+      <link>/2018/01/project-global-interconnections-project-application-closed/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/project-global-interconnections-project-application-closed/</guid>
+      <description>&lt;p&gt;Understand interconnected nature of global multi-national companies via their supply chain, product and services competition, co-investments and co-ownerships as well as other dependencies between operations and revenue streams. We would like to consider the way news on any company specifically propagate down the connection graph and impact other businesses that are related in way that is not necessarily explicit.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

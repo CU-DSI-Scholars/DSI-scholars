@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuroscience on Columbia DSI Scholars</title>
+    <link>/tags/neuroscience/</link>
+    <description>Recent content in Neuroscience on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project: Neuronal Ensemble Detection with Temporal CRF</title>
+      <link>/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</guid>
+      <description>&lt;p&gt;Given calcium imaging data of active neurons, can we detect groups of co-firing neurons, called neuronal ensembles? We have a number of datasets consisting of hundreds of neurons imaged for thousands of time steps, and seek to extend an existing CRF model to consider temporal relationships. The goal is to be able to detect neuronal ensembles that span multiple time steps, and that are not conditioned on external stimuli.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Human peri-ictal single unit activity</title>
+      <link>/2018/01/project-human-peri-ictal-single-unit-activity/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/project-human-peri-ictal-single-unit-activity/</guid>
+      <description>&lt;p&gt;Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures.  Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge.  Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and to address fundamental questions about the activity of different cell classes at seizure initiation.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
