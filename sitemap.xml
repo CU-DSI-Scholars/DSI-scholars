@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/page/faq2018/</loc>
+    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/01/call-for-student-applications-dsi-scholars-summer-2018/</loc>
     <lastmod>2018-01-22T00:00:00+00:00</lastmod>
   </url>
@@ -138,7 +143,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -203,14 +208,14 @@
   </url>
   
   <url>
-    <loc>/tags/info/</loc>
-    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <loc>/categories/info/</loc>
+    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/info/</loc>
-    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <loc>/tags/info/</loc>
+    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -252,7 +257,7 @@
   
   <url>
     <loc>/page/</loc>
-    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
