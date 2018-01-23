@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Columbia DSI Scholars</title>
-    <link>/tags/machine-learning/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project: Data Science and the regulation of financial markets (application closed)</title>
-      <link>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
       <description>&lt;p&gt;The development of computational data science
 techniques in natural language processing (NLP) and machine
 learning (ML) algorithms to analyze large and complex textual
@@ -32,10 +32,10 @@ computational analysis.&lt;/p&gt;</description>
     
     <item>
       <title>Project: Genomic and environmental predictor of preterm birth</title>
-      <link>/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</guid>
       <description>&lt;p&gt;Predicting preterm birth in nulliparous women is challenging and our efforts to develop predictors for that condition from environmental variables produce insufficient classifier accuracy. Recent studies highlight the involvement of common genetic variants in length of pregnancy. This project involves the development of a risk score for preterm birth based on both genetic and environmental attributes.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -43,10 +43,10 @@ computational analysis.&lt;/p&gt;</description>
     
     <item>
       <title>Project: Modeling Genomic Evolution with Machine Learning</title>
-      <link>/2018/01/project-modeling-genomic-evolution-with-machine-learning/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-modeling-genomic-evolution-with-machine-learning/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-modeling-genomic-evolution-with-machine-learning/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-modeling-genomic-evolution-with-machine-learning/</guid>
       <description>&lt;p&gt;A &lt;strong&gt;Fall 2018&lt;/strong&gt; internship is available in the Eaton lab to work on the development and application of machine learning approaches to historical evolutionary inference. Research will involve learning to use high performance distributed computing infrastructure, performing population genetic simulations, fitting machine learning models, and writing reproducible shareable code. The ideal candidate will have experience and interest in Python coding and a reasonable understanding of linear algebra.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -54,19 +54,19 @@ computational analysis.&lt;/p&gt;</description>
     
     <item>
       <title>Project: Real-time brain state classification</title>
-      <link>/2018/01/project-real-time-brain-state-classification/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-real-time-brain-state-classification/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</guid>
       <description>&lt;p&gt;Using machine learning to conduct brain state classification at real-time on EEG/fNIRS/fMRI data.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Statistical modeling for dynamic social networks</title>
-      <link>/2018/01/statistical-modeling-for-dynamic-social-networks/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/statistical-modeling-for-dynamic-social-networks/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
       <description>&lt;p&gt;Networked systems are ubiquitous in modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -74,19 +74,19 @@ computational analysis.&lt;/p&gt;</description>
     
     <item>
       <title>Project: Visual-tactile geometric reasoning</title>
-      <link>/2018/01/project-visual-tactile-geometric-reasoning/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-visual-tactile-geometric-reasoning/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-visual-tactile-geometric-reasoning/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-visual-tactile-geometric-reasoning/</guid>
       <description>&lt;p&gt;Robotic grasp planning based on raw sensory data is difficult due to occlusion and incomplete scene geometry.  Often one sensory modality does not provide enough context to enable reliable planning.  A single depth sensor image cannot provide information about occluded regions of an object, and tactile information is incredibly sparse spatially.  We are building a Deep Learning CNN that combines both 3D vision and tactile information to perform shape completion of an object seen from a single view only, and plan stable grasps on these completed models.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Visualization of continuous health data measurements</title>
-      <link>/2018/01/project-visualization-of-continuous-health-data-measurements/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-visualization-of-continuous-health-data-measurements/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-visualization-of-continuous-health-data-measurements/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-visualization-of-continuous-health-data-measurements/</guid>
       <description>&lt;p&gt;The ubiquity of current smart and IoT devices has the potential to transform healthcare. For example, current devices can measure continuously activity levels, heart rate, blood oxygen levels, and electrocardiogram. Our lab is developing new devices which can measure additional streams of health data which are currently not possible.  The summer project will involve visualization of this entire set of data, machine learning, and multiparametric data analysis to extract trends that match health outcomes.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

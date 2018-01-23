@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sql on Columbia DSI Scholars</title>
-    <link>/tags/sql/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sql/</link>
     <description>Recent content in Sql on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project: Data Science and the regulation of financial markets (application closed)</title>
-      <link>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
       <description>&lt;p&gt;The development of computational data science
 techniques in natural language processing (NLP) and machine
 learning (ML) algorithms to analyze large and complex textual
@@ -32,10 +32,10 @@ computational analysis.&lt;/p&gt;</description>
     
     <item>
       <title>Project: Healthcare data analytics internship</title>
-      <link>/2018/01/project-healthcare-data-analytics-internship/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-healthcare-data-analytics-internship/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-healthcare-data-analytics-internship/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-healthcare-data-analytics-internship/</guid>
       <description>&lt;p&gt;Recently Columbia University, Cornell, and NewYork-Presbyterian have agreed to integrate their clinical (healthcare) and business IT systems onto one shared platform called Epic. The motivating factors to move to Epic are to enhance the patient experience, improve and integrate care, and give our physicians an integrated technology platform that supports the mission of an academic medical center. The intern will assist with developing the “operational” analytics capabilities of Columbia University Medical Center including financial, healthcare operations and healthcare quality analytics.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -43,10 +43,10 @@ computational analysis.&lt;/p&gt;</description>
     
     <item>
       <title>Project: Informatics approaches to biomedical evidence appraisal using public data</title>
-      <link>/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</guid>
       <description>&lt;p&gt;The quality of biomedical evidence can affect research sustainability, patient safety, and the public&amp;rsquo;s trust in biomedical research. However, often the quality of biomedical evidence remains opaque to the public. It is imperative to improve the transparency of evidence quality. This project aims to leverage the public data sources, including but not limited to The ClinicalTrials.gov, The PubMed database for biomedical literature, The National Health and Nutrition Examination Survey (NHANES) database, and so on, to develop and apply novel data mining and visualization methods for appraising the biomedical research evidence, uncovering implicit biases in clinical research designs at different levels, and presenting this information intuitively to the public.  Students on this project will acquire or hone their skills in data mining, results presentation, and user interface designs and evaluation.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

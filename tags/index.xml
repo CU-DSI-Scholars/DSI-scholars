@@ -2,300 +2,300 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Columbia DSI Scholars</title>
-    <link>/tags/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/</link>
     <description>Recent content in Tags on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bayesian</title>
-      <link>/tags/bayesian/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/bayesian/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bayesian/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Data</title>
-      <link>/tags/big-data/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/big-data/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/big-data/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/big-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Genomics</title>
-      <link>/tags/computational-genomics/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/computational-genomics/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/computational-genomics/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/computational-genomics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computing</title>
-      <link>/tags/computing/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/computing/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/computing/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D3</title>
-      <link>/tags/d3/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/d3/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/d3/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/d3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Mining</title>
-      <link>/tags/data-mining/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-mining/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/data-mining/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-mining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deep-learning/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>/tags/education/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/education/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/education/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fall 2018</title>
-      <link>/tags/fall-2018/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2018/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/fall-2018/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Financial Analytics</title>
-      <link>/tags/financial-analytics/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/financial-analytics/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/financial-analytics/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/financial-analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Health</title>
-      <link>/tags/health/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/health/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/health/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Analysis</title>
-      <link>/tags/image-analysis/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/image-analysis/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/image-analysis/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/image-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Info</title>
-      <link>/tags/info/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/info/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/info/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/info/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>/tags/machine-learning/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/machine-learning/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/machine-learning/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matlab</title>
-      <link>/tags/matlab/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/matlab/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/matlab/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/matlab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Analysis</title>
-      <link>/tags/network-analysis/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/network-analysis/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/network-analysis/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/network-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuroscience</title>
-      <link>/tags/neuroscience/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/neuroscience/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/neuroscience/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/neuroscience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nlp</title>
-      <link>/tags/nlp/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/nlp/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/nlp/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Not Accepting Applications</title>
-      <link>/tags/not-accepting-applications/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/not-accepting-applications/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/not-accepting-applications/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/not-accepting-applications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>/tags/python/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/python/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/python/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/r/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shiny</title>
-      <link>/tags/shiny/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/shiny/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/shiny/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/shiny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Signal Processing</title>
-      <link>/tags/signal-processing/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/signal-processing/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/signal-processing/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/signal-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Science</title>
-      <link>/tags/social-science/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/social-science/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/social-science/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/social-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring 2018</title>
-      <link>/tags/spring-2018/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2018/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/spring-2018/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sql</title>
-      <link>/tags/sql/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sql/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sql/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistics</title>
-      <link>/tags/statistics/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/statistics/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/statistics/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/statistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Summer 2018</title>
-      <link>/tags/summer-2018/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2018/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/summer-2018/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text Mining</title>
-      <link>/tags/text-mining/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/text-mining/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/text-mining/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/text-mining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unix</title>
-      <link>/tags/unix/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/unix/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/unix/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/unix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video Processing</title>
-      <link>/tags/video-processing/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/video-processing/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/video-processing/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/video-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualization</title>
-      <link>/tags/visualization/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/visualization/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/visualization/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/visualization/</guid>
       <description></description>
     </item>
     

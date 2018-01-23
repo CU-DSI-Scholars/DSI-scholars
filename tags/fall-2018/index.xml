@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fall 2018 on Columbia DSI Scholars</title>
-    <link>/tags/fall-2018/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2018/</link>
     <description>Recent content in Fall 2018 on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/fall-2018/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2018/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project: Modeling Genomic Evolution with Machine Learning</title>
-      <link>/2018/01/project-modeling-genomic-evolution-with-machine-learning/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-modeling-genomic-evolution-with-machine-learning/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-modeling-genomic-evolution-with-machine-learning/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-modeling-genomic-evolution-with-machine-learning/</guid>
       <description>&lt;p&gt;A &lt;strong&gt;Fall 2018&lt;/strong&gt; internship is available in the Eaton lab to work on the development and application of machine learning approaches to historical evolutionary inference. Research will involve learning to use high performance distributed computing infrastructure, performing population genetic simulations, fitting machine learning models, and writing reproducible shareable code. The ideal candidate will have experience and interest in Python coding and a reasonable understanding of linear algebra.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
