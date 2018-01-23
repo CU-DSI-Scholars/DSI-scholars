@@ -108,7 +108,7 @@
   </url>
   
   <url>
-    <loc>/categories/annoucement/</loc>
+    <loc>/categories/announcement/</loc>
     <lastmod>2018-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -294,6 +294,12 @@
   
   <url>
     <loc>/tags/social-science/</loc>
+    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/spring-2018/</loc>
     <lastmod>2018-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
