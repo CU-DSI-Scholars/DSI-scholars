@@ -41,5 +41,16 @@ computational analysis.&lt;/p&gt;</description>
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Project: Neuronal Ensemble Detection with Temporal CRF (application closed)</title>
+      <link>/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</guid>
+      <description>&lt;p&gt;Given calcium imaging data of active neurons, can we detect groups of co-firing neurons, called neuronal ensembles? We have a number of datasets consisting of hundreds of neurons imaged for thousands of time steps, and seek to extend an existing CRF model to consider temporal relationships. The goal is to be able to detect neuronal ensembles that span multiple time steps, and that are not conditioned on external stimuli.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
