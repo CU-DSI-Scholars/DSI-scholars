@@ -6,10 +6,21 @@
     <description>Recent content in Neuroscience on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project: Breaking the neural code of a cnidarian</title>
+      <link>/2018/01/project-breaking-the-neural-code-of-a-cnidarian/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/project-breaking-the-neural-code-of-a-cnidarian/</guid>
+      <description>&lt;p&gt;Analysis of the relation between the activity of all the neurons in the cnidarian hydra and its behavioral repertoire.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Project: Neuronal Ensemble Detection with Temporal CRF (application closed)</title>
