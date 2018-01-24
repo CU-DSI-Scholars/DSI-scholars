@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Analysis on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/image-analysis/</link>
+    <link>/tags/image-analysis/</link>
     <description>Recent content in Image Analysis on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/image-analysis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/image-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project: Real-time brain state classification</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</link>
+      <link>/2018/01/project-real-time-brain-state-classification/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</guid>
+      <guid>/2018/01/project-real-time-brain-state-classification/</guid>
       <description>&lt;p&gt;Using machine learning to conduct brain state classification at real-time on EEG/fNIRS/fMRI data.&lt;/p&gt;</description>
     </item>
     

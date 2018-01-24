@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/page/</link>
+    <link>/page/</link>
     <description>Recent content in Pages on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Frequently Asked Questions (Summer 2018)</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/page/faq2018/</link>
+      <link>/page/faq2018/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/page/faq2018/</guid>
+      <guid>/page/faq2018/</guid>
       <description>Question: Is there still space to host interns for this program? I have a student researcher in my lab who was interested in participating.
 Answer: The distribution of matching funds has ended. However, we will be happy to host your student researcher in our learning activities as a DSI scholar of Summer 2018.
  Question: Is there any kind of housing stipend/financial remuneration available for participating students.
@@ -25,10 +25,10 @@ Answer: Most of the projects are providing stipends at the level of $5,000 for t
     
     <item>
       <title>Contact Info</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/page/contact-info/</link>
+      <link>/page/contact-info/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/page/contact-info/</guid>
+      <guid>/page/contact-info/</guid>
       <description>The best way to reach us would be by email.
  Data Science Institute: datascience@columbia.edu  Mail: Data Science Institute, 1401 Northwest Corner, Mail Code 4720, 550 West 120th Street, New York, NY 10027 Fax: 212-854-1599 Phone: 212-854-5660  The DSI scholars program: dsi-scholars@columbia.edu  </description>
     </item>

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Announcement</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/announcement/</link>
+      <link>/categories/announcement/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/announcement/</guid>
+      <guid>/categories/announcement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Info</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/info/</link>
+      <link>/categories/info/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/info/</guid>
+      <guid>/categories/info/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project 2018</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-2018/</link>
-      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      <link>/categories/project-2018/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-2018/</guid>
+      <guid>/categories/project-2018/</guid>
       <description></description>
     </item>
     

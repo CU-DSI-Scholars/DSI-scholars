@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Not Accepting Applications on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/not-accepting-applications/</link>
+    <link>/tags/not-accepting-applications/</link>
     <description>Recent content in Not Accepting Applications on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/not-accepting-applications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/not-accepting-applications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project: Data Science and the regulation of financial markets (application closed)</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
+      <link>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
+      <guid>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
       <description>&lt;p&gt;The development of computational data science
 techniques in natural language processing (NLP) and machine
 learning (ML) algorithms to analyze large and complex textual
@@ -32,22 +32,11 @@ computational analysis.&lt;/p&gt;</description>
     
     <item>
       <title>Project: Global Interconnections Project (application closed)</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-global-interconnections-project-application-closed/</link>
+      <link>/2018/01/project-global-interconnections-project-application-closed/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-global-interconnections-project-application-closed/</guid>
+      <guid>/2018/01/project-global-interconnections-project-application-closed/</guid>
       <description>&lt;p&gt;Understand interconnected nature of global multi-national companies via their supply chain, product and services competition, co-investments and co-ownerships as well as other dependencies between operations and revenue streams. We would like to consider the way news on any company specifically propagate down the connection graph and impact other businesses that are related in a way that is not necessarily explicit.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Project: Neuronal Ensemble Detection with Temporal CRF (application closed)</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</link>
-      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</guid>
-      <description>&lt;p&gt;Given calcium imaging data of active neurons, can we detect groups of co-firing neurons, called neuronal ensembles? We have a number of datasets consisting of hundreds of neurons imaged for thousands of time steps, and seek to extend an existing CRF model to consider temporal relationships. The goal is to be able to detect neuronal ensembles that span multiple time steps, and that are not conditioned on external stimuli.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
