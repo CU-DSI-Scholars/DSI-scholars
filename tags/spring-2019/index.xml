@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring 2019 on Columbia DSI Scholars</title>
+    <link>/tags/spring-2019/</link>
+    <description>Recent content in Spring 2019 on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/spring-2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Call for Faculty Participation --- DSI Scholars Spring-Summer 2019</title>
+      <link>/2018/12/call-for-faculty-participation-dsi-scholars-spring-summer-2019/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/call-for-faculty-participation-dsi-scholars-spring-summer-2019/</guid>
+      <description>&lt;h3 id=&#34;call-for-faculty-participation-december-2018&#34;&gt;Call for Faculty Participation. December 2018.&lt;/h3&gt;
+
+&lt;p&gt;The Data Science Institute is pleased to call for Faculty Participation in the 2nd cohort of Data Science Institute (DSI) Scholars Program for Spring-Summer 2019. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty through a data science research internship. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

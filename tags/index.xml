@@ -131,7 +131,7 @@
     <item>
       <title>Info</title>
       <link>/tags/info/</link>
-      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/info/</guid>
       <description></description>
@@ -255,6 +255,15 @@
     </item>
     
     <item>
+      <title>Spring 2019</title>
+      <link>/tags/spring-2019/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spring-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sql</title>
       <link>/tags/sql/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
@@ -278,6 +287,15 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/summer-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer 2019</title>
+      <link>/tags/summer-2019/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/summer-2019/</guid>
       <description></description>
     </item>
     
