@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Blog</title>
+      <link>/categories/blog/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Info</title>
       <link>/categories/info/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
@@ -32,7 +41,7 @@
     <item>
       <title>Project 2018</title>
       <link>/categories/project-2018/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/project-2018/</guid>
       <description></description>
