@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2019/01/call-for-student-applications-dsi-scholars-spring-summer-2019/</loc>
+    <lastmod>2019-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2019/01/project-a-data-driven-approach-for-improving-the-user-experience-of-internet-users/</loc>
     <lastmod>2019-01-11T00:00:00+00:00</lastmod>
   </url>
@@ -120,6 +125,11 @@
   <url>
     <loc>/2018/12/call-for-faculty-participation-dsi-scholars-spring-summer-2019/</loc>
     <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/09/dsi-scholars-summer-2018-meetup-series/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -415,6 +425,12 @@
   </url>
   
   <url>
+    <loc>/tags/learning-activities/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/machine-learning/</loc>
     <lastmod>2019-01-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -470,7 +486,7 @@
   
   <url>
     <loc>/categories/project-2018/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -542,7 +558,7 @@
   
   <url>
     <loc>/tags/summer-2018/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

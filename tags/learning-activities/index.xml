@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning Activities on Columbia DSI Scholars</title>
+    <link>/tags/learning-activities/</link>
+    <description>Recent content in Learning Activities on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/learning-activities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enriched Learning Experience for DSI Scholars Summer 2018</title>
+      <link>/2018/09/dsi-scholars-summer-2018-meetup-series/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/dsi-scholars-summer-2018-meetup-series/</guid>
+      <description>&lt;p&gt;DSI Scholars is different from conventional &lt;em&gt;researh experience for students&lt;/em&gt; programs by providing enrichment activities that build a community of data science learning and research.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
