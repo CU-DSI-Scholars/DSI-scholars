@@ -6,10 +6,28 @@
     <description>Recent content in Visualization on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project: Enhancing Self-Directed Learning Opportunities</title>
+      <link>/2019/01/project-enhancing-self-directed-learning-opportunities/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-enhancing-self-directed-learning-opportunities/</guid>
+      <description>&lt;p&gt;Analyze data from one or more of the following Library Applications/Systems and create visualizations that highlight the most important findings related to our goal of supporting self-directed learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Visualization of continuous health data measurements</title>
+      <link>/2019/01/project-visualization-of-continuous-health-data-measurements/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-visualization-of-continuous-health-data-measurements/</guid>
+      <description>&lt;p&gt;Despite the promise of predictive analytics in healthcare, the lack of continuous internal sensing devices has impeded its realization. With the exception of CGMs, no current commercially available wearable devices yield information intimate to the body. To overcome this deficiency, our research group has developed a minimally invasive wearable device capable of continuous monitoring of glucose and electrolytes in the superficial layer of the skin in an extremely minimally invasive manner.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Project: A longitudinal network study of Alzheimer’s and dementia care in relation to disparities and outcomes</title>

@@ -6,10 +6,50 @@
     <description>Recent content in Statistics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project: Analysis and Prediction of Opioid Outbreak Clusters</title>
+      <link>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
+      <description>&lt;p&gt;We are interested in investigating how deaths and hospitalizations resulting from opioid overdoses cluster across space and time in the US. This analysis will be conducted with the aid of two comprehensive databases: 1) detailed mortality data across the US; and 2) a stratified sample of all hospitalizations in the US, which can be subset to select for opioid overdoses. Analyses will be extended to drug type (prescription drugs, fentanyl etc.) and subject demographics (age, race, etc.). We have previously conducted similar cluster analysis for other health phenomena.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Discovery of genes associated with progression of bladder cancer</title>
+      <link>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
+      <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Measuring Broadband</title>
+      <link>/2019/01/project-measuring-broadband/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-measuring-broadband/</guid>
+      <description>&lt;p&gt;The Federal Communications Commission (FCC) and the Census regularly publish data on U.S. Internet availability, performance and use, at granularities from census block to county and state. The project goal is to answer questions based on the available data, such as &amp;ldquo;How reliable is Internet access?&amp;rdquo;, &amp;ldquo;Who is deploying fiber where?&amp;rdquo;, &amp;ldquo;Can we predict reliability of different technologies?&amp;rdquo;, &amp;ldquo;Can we predict the deployment of fiber?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Outcomes of multivisceral resections in colorectal cancer</title>
+      <link>/2019/01/project-outcomes-of-multivisceral-resections-in-colorectal-cancer/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-outcomes-of-multivisceral-resections-in-colorectal-cancer/</guid>
+      <description>&lt;p&gt;When a colorectal cancer has grown through the wall of the colon or rectum and into other adjacent tissues or organs, it is identified as a T4 primary tumor.  If there is no evidence of distant metastasis then it is labeled a locally advanced tumor.  Such locally advanced tumors account for approximately 5-15 % of new colorectal cancers.  Surgery remains the principal treatment modality for patients with locally advanced colorectal cancer.  Studies have demonstrated planned en bloc or multivisceral resections rather than intraoperative assessment of margins more likely results in R0 resections leading to better local control and long-term survival.  However, the decision-making for a surgeon confronting a T4 colorectal cancer is challenging because surgery related mortality rates after multivisceral resections are reported up to 12%.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Project: Data Science and the regulation of financial markets (application closed)</title>

@@ -6,10 +6,70 @@
     <description>Recent content in Health on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/health/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project: Advancing Public Health Monitoring and Analytics in New York City through Development of a Master Person Index</title>
+      <link>/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</guid>
+      <description>&lt;p&gt;Through a collaboration between Columbia University and the NYC Department of Health and Mental Hygiene (DOHMH), we are seeking a data scientist with JAVA, machine learning and/or SQL skills along with good writing, administrative and organizational abilities to contribute to the developing infrastructure and modeling of an extensible master person index (MPI) and data management solution. The intern would work directly with DOHMH scientists.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Analysis and Prediction of Opioid Outbreak Clusters</title>
+      <link>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
+      <description>&lt;p&gt;We are interested in investigating how deaths and hospitalizations resulting from opioid overdoses cluster across space and time in the US. This analysis will be conducted with the aid of two comprehensive databases: 1) detailed mortality data across the US; and 2) a stratified sample of all hospitalizations in the US, which can be subset to select for opioid overdoses. Analyses will be extended to drug type (prescription drugs, fentanyl etc.) and subject demographics (age, race, etc.). We have previously conducted similar cluster analysis for other health phenomena.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Discovery of genes associated with progression of bladder cancer</title>
+      <link>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
+      <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Injury-Disease Interactions in Older Adults</title>
+      <link>/2019/01/project-injury-disease-interactions-in-older-adults/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-injury-disease-interactions-in-older-adults/</guid>
+      <description>&lt;p&gt;Injury, such as falls, motor vehicle crashes, and drug overdose, is a major source of morbidity and mortality.  The interaction between injury and disease is complex and mutually causative.  For instance, patients with Alzheimer&amp;rsquo;s Disease or Parkinson&amp;rsquo;s Disease are known to be at heightened risk of hip fracture from falls and in turn injurious falls among these patients can drastically alter the trajectory of the disease.  So far, research on injury-disease interaction has been scant and fragmented.  The proposed project is aimed at uncovering the gestalt of the relations between different injuries and different diseases through a data science approach.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Data science for better health</title>
+      <link>/2019/01/project-data-science-for-better-health/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-data-science-for-better-health/</guid>
+      <description>&lt;p&gt;Our goal is use a large pool of homecare data (including structured data, free text clinical notes, and recorded patient-provider phone conversations) to build predictive models that help identify patients at risk for poor outcomes (like hospital admission or falls).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Visualization of continuous health data measurements</title>
+      <link>/2019/01/project-visualization-of-continuous-health-data-measurements/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-visualization-of-continuous-health-data-measurements/</guid>
+      <description>&lt;p&gt;Despite the promise of predictive analytics in healthcare, the lack of continuous internal sensing devices has impeded its realization. With the exception of CGMs, no current commercially available wearable devices yield information intimate to the body. To overcome this deficiency, our research group has developed a minimally invasive wearable device capable of continuous monitoring of glucose and electrolytes in the superficial layer of the skin in an extremely minimally invasive manner.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Project: A longitudinal network study of Alzheimer’s and dementia care in relation to disparities and outcomes</title>

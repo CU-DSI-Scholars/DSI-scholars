@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tensorflow on Columbia DSI Scholars</title>
+    <link>/tags/tensorflow/</link>
+    <description>Recent content in Tensorflow on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project: Discovering the cost function optimized by the primate visual system&#39;s deep hierarchical architecture</title>
+      <link>/2019/01/project-discovering-the-cost-function-optimized-by-the-primate-visual-system-s-deep-hierarchical-architecture/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-discovering-the-cost-function-optimized-by-the-primate-visual-system-s-deep-hierarchical-architecture/</guid>
+      <description>&lt;p&gt;The visual cortex has a distinctive deep hierarchical organization as a result of ontogenetic and phylogenetic optimization. It is unclear what the factors are that shape this particular hierarchical organization. One factor is the compositional and hierarchical nature of our world’s appearance, which may be optimally processed by a hierarchical visual system. Another factor is the need for space and energy efficiency, which constrains the number of neurons and connections. The project will employ computational modeling to understand the contribution of these constraints to shaping the combination of breadth, depth, and skipping connections employed by primate visual cortex.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Learning Representations and Patterns in Mathematical Proofs </title>
+      <link>/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</guid>
+      <description>&lt;p&gt;A common challenge for students in heavy proof-based courses is to come up with a long sequence of logical arguments from the problem statement to the final solution. In doing so, they can often skip steps leading to logical leaps or downright incorrect solutions. Ideally the instructor should identify these mis-steps and help students master such proof-based course material. Here we want to take a data-driven approach to address this challenge.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

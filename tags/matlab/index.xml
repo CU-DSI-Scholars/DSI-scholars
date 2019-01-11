@@ -6,10 +6,28 @@
     <description>Recent content in Matlab on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project: Analysis and Prediction of Opioid Outbreak Clusters</title>
+      <link>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
+      <description>&lt;p&gt;We are interested in investigating how deaths and hospitalizations resulting from opioid overdoses cluster across space and time in the US. This analysis will be conducted with the aid of two comprehensive databases: 1) detailed mortality data across the US; and 2) a stratified sample of all hospitalizations in the US, which can be subset to select for opioid overdoses. Analyses will be extended to drug type (prescription drugs, fentanyl etc.) and subject demographics (age, race, etc.). We have previously conducted similar cluster analysis for other health phenomena.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Distance Metric Learning in Hyperbolic Spaces</title>
+      <link>/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</guid>
+      <description>&lt;p&gt;Effective representations and analyses of symbolic data, such as lexical data (words) and networks (graphs), have become of great interest in recent years, due both to advancements in data collection in Natural Language Processing (NLP), and the ubiquity of social networks. Such data often has no natural numerical representation, and is typically described in terms relational expressions or as pairwise similarities. It turns out that finding numerical representations of such data in “Hyperbolic” spaces&amp;mdash;rather than into the more familiar Euclidean spaces&amp;mdash;is a more effective way to preserve valuable relational information.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Project: Neuronal Ensemble Detection with Temporal CRF (application closed)</title>

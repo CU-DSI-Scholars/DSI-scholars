@@ -6,10 +6,19 @@
     <description>Recent content in Computational Genomics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/computational-genomics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project: Discover novel regulators of macrophage efferocytosis by genome-wide CRISPR screen</title>
+      <link>/2019/01/project-discover-novel-regulators-of-macrophage-efferocytosis-by-genome-wide-crispr-screen/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-discover-novel-regulators-of-macrophage-efferocytosis-by-genome-wide-crispr-screen/</guid>
+      <description>&lt;p&gt;Defective efferocytosis, the phagocytic clearance of apoptotic cells, by macrophages is the cause of many human diseases including tumor, autoimmune diseases and atherosclerosis. Enhancing efferocytosis has potential therapeutic benefits. Many key regulators of efferocytosis have been identified, but a systematic approach to map regulators of efferocytosis in an unbiased manner on a genome-wide scale is missing. This project applies innovative genome-wide CRISPR screen to discover novel regulators of macrophage efferocytosis.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Project: Modeling Genomic Evolution with Machine Learning</title>

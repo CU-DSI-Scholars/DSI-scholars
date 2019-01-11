@@ -6,10 +6,19 @@
     <description>Recent content in Financial Analytics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/financial-analytics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project: Quantifying Global Risks</title>
+      <link>/2019/01/project-quantifying-global-risks/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-quantifying-global-risks/</guid>
+      <description>&lt;p&gt;In a globalized world we live in today consequences of catastrophic events easily transgress national borders. Whether it’s a natural disaster, a war or an economic crisis it’s likely to spread out and affect all of us. We propose a framework to model global risks that is not bound to any specific model and is a hybrid of human and machine intelligence. The core of this approach is in using Bayesian Nets of causalities constructed by an analyst equipped with text mining and a map of economic, political and business interconnections.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Project: Data Science and the regulation of financial markets (application closed)</title>

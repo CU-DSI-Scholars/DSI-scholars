@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia on Columbia DSI Scholars</title>
+    <link>/tags/julia/</link>
+    <description>Recent content in Julia on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/julia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project: Looking for the Weird in TESS</title>
+      <link>/2019/01/project-looking-for-the-weird-in-tess/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-looking-for-the-weird-in-tess/</guid>
+      <description>&lt;p&gt;Last year one of my graduate students developed a novel algorithm for detecting &amp;ldquo;weird&amp;rdquo; signals in photometric time series, such as those taken by NASA&amp;rsquo;s Kepler Mission and now TESS. An undergraduate students will work in my team to run the algorithm on TESS data, which is just starting to be released publicly (&lt;a href=&#34;https://heasarc.gsfc.nasa.gov/docs/tess/status.html&#34;&gt;https://heasarc.gsfc.nasa.gov/docs/tess/status.html&lt;/a&gt;). We hope to detect strange signatures, possibly including analogs to Tabby&amp;rsquo;s Star, interacting binaries and perhaps even technosignatures.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,30 @@
     <description>Recent content in Neuroscience on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project: Discovering the cost function optimized by the primate visual system&#39;s deep hierarchical architecture</title>
+      <link>/2019/01/project-discovering-the-cost-function-optimized-by-the-primate-visual-system-s-deep-hierarchical-architecture/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-discovering-the-cost-function-optimized-by-the-primate-visual-system-s-deep-hierarchical-architecture/</guid>
+      <description>&lt;p&gt;The visual cortex has a distinctive deep hierarchical organization as a result of ontogenetic and phylogenetic optimization. It is unclear what the factors are that shape this particular hierarchical organization. One factor is the compositional and hierarchical nature of our world’s appearance, which may be optimally processed by a hierarchical visual system. Another factor is the need for space and energy efficiency, which constrains the number of neurons and connections. The project will employ computational modeling to understand the contribution of these constraints to shaping the combination of breadth, depth, and skipping connections employed by primate visual cortex.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Training a deep neural network on large-scale brain imaging and cognition data.</title>
+      <link>/2019/01/project-training-a-deep-neural-network-on-large-scale-brain-imaging-and-cognition-data/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-training-a-deep-neural-network-on-large-scale-brain-imaging-and-cognition-data/</guid>
+      <description>&lt;p&gt;The goal of this project is to develop and validate a deep neural network that predicts a child&amp;rsquo;s emotion and cognition. DSI scholars will implement 3D convolutional neural networks on brain imaging data from thousands of children to predict cognitive, emotional, and socio-developmental variables. Statistical evaluation of the model performance will be conducted. The scalable deep neural network analysis will help find brain underpinnings of cognition and emotion.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Project: Breaking the neural code of a cnidarian</title>

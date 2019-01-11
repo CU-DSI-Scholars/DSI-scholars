@@ -6,10 +6,37 @@
     <description>Recent content in Education on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/education/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project: Enhancing Self-Directed Learning Opportunities</title>
+      <link>/2019/01/project-enhancing-self-directed-learning-opportunities/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-enhancing-self-directed-learning-opportunities/</guid>
+      <description>&lt;p&gt;Analyze data from one or more of the following Library Applications/Systems and create visualizations that highlight the most important findings related to our goal of supporting self-directed learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Learning Representations and Patterns in Mathematical Proofs </title>
+      <link>/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</guid>
+      <description>&lt;p&gt;A common challenge for students in heavy proof-based courses is to come up with a long sequence of logical arguments from the problem statement to the final solution. In doing so, they can often skip steps leading to logical leaps or downright incorrect solutions. Ideally the instructor should identify these mis-steps and help students master such proof-based course material. Here we want to take a data-driven approach to address this challenge.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Measuring Liberal Arts: Creating an Index for Higher Education</title>
+      <link>/2019/01/project-measuring-liberal-arts-creating-an-index-for-higher-education/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
+      <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Project: Enhancing self-directed learning opportunities</title>
