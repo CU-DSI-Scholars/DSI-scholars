@@ -6,7 +6,7 @@
     <description>Recent content on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,19 @@
     <item>
       <title>Call for student applications - Spring-Summer 2019</title>
       <link>/2019/01/call-for-student-applications-dsi-scholars-spring-summer-2019/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/call-for-student-applications-dsi-scholars-spring-summer-2019/</guid>
       <description>&lt;p&gt;Columbia University &lt;a href=&#34;http://datascience.columbia.edu/&#34;&gt;Data Science Institute&lt;/a&gt; is pleased to announce that the Data Science Institute (DSI) Scholars Program for Spring-Summer 2019 is open for application. The goal of the DSI Scholars Program is to engage Columbia University&amp;rsquo;s undergraduate and master&amp;rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project: Classifying drug patents</title>
+      <link>/2019/01/project-classifying-drug-patents/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/project-classifying-drug-patents/</guid>
+      <description>&lt;p&gt;Taking out multiple patents on different aspects of a drug in order to cordon off competitors is standard practice in pharmaceuticals. In addition to primary patents, firms commonly attempt to acquire secondary patents on alternative forms of molecules, different formulations, dosages, and compositions, and new uses Policymakers in the U.S. and globally have raised concerns that these secondary patents can raise drug prices and restrict access to medicines. One challenge to assessing the impact of these patents is it is difficult and costly to know if a given patent is &amp;ldquo;primary&amp;rdquo; or &amp;ldquo;secondary.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
     <item>
