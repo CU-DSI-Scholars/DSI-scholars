@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Algorithms</title>
+      <link>/tags/algorithms/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/algorithms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Astronomy</title>
@@ -21,9 +30,27 @@
     </item>
     
     <item>
+      <title>Astrophysics</title>
+      <link>/tags/astrophysics/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/astrophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Vehicles</title>
+      <link>/tags/autonomous-vehicles/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/autonomous-vehicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Aws</title>
       <link>/tags/aws/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/aws/</guid>
       <description></description>
@@ -39,11 +66,29 @@
     </item>
     
     <item>
+      <title>Bayesian Statistics</title>
+      <link>/tags/bayesian-statistics/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bayesian-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Big Data</title>
       <link>/tags/big-data/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biostatistics</title>
+      <link>/tags/biostatistics/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/biostatistics/</guid>
       <description></description>
     </item>
     
@@ -57,9 +102,27 @@
     </item>
     
     <item>
+      <title>C&#43;&#43;</title>
+      <link>/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>/tags/clustering/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computational Genomics</title>
       <link>/tags/computational-genomics/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/computational-genomics/</guid>
       <description></description>
@@ -75,6 +138,24 @@
     </item>
     
     <item>
+      <title>Continuous Monitoring</title>
+      <link>/tags/continuous-monitoring/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/continuous-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptocurrency</title>
+      <link>/tags/cryptocurrency/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>D3</title>
       <link>/tags/d3/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
@@ -84,11 +165,38 @@
     </item>
     
     <item>
+      <title>Dams</title>
+      <link>/tags/dams/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Mining</title>
       <link>/tags/data-mining/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/data-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Structures</title>
+      <link>/tags/data-structures/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data for Good</title>
+      <link>/tags/data-for-good/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-for-good/</guid>
       <description></description>
     </item>
     
@@ -102,18 +210,36 @@
     </item>
     
     <item>
+      <title>Deduplication</title>
+      <link>/tags/deduplication/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deduplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Learning</title>
       <link>/tags/deep-learning/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Earthquakes</title>
+      <link>/tags/earthquakes/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/earthquakes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Education</title>
       <link>/tags/education/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/education/</guid>
       <description></description>
@@ -129,6 +255,24 @@
     </item>
     
     <item>
+      <title>Exodusters</title>
+      <link>/tags/exodusters/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/exodusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fairness</title>
+      <link>/tags/fairness/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fairness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fall 2018</title>
       <link>/tags/fall-2018/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
@@ -140,9 +284,27 @@
     <item>
       <title>Fall 2019</title>
       <link>/tags/fall-2019/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/fall-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Extraction</title>
+      <link>/tags/feature-extraction/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/feature-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>/tags/finance/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/finance/</guid>
       <description></description>
     </item>
     
@@ -156,6 +318,15 @@
     </item>
     
     <item>
+      <title>Genetics</title>
+      <link>/tags/genetics/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gpu</title>
       <link>/tags/gpu/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
@@ -165,11 +336,56 @@
     </item>
     
     <item>
+      <title>Graph Modeling</title>
+      <link>/tags/graph-modeling/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/graph-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Great Migration</title>
+      <link>/tags/great-migration/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/great-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Health</title>
       <link>/tags/health/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Modeling</title>
+      <link>/tags/hierarchical-modeling/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hierarchical-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>/tags/history/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Rights</title>
+      <link>/tags/human-rights/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/human-rights/</guid>
       <description></description>
     </item>
     
@@ -179,6 +395,15 @@
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/image-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Data</title>
+      <link>/tags/image-data/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/image-data/</guid>
       <description></description>
     </item>
     
@@ -228,11 +453,38 @@
     </item>
     
     <item>
+      <title>Lidar</title>
+      <link>/tags/lidar/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lidar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>/tags/linux/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>/tags/machine-learning/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mandarin</title>
+      <link>/tags/mandarin/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mandarin/</guid>
       <description></description>
     </item>
     
@@ -246,11 +498,29 @@
     </item>
     
     <item>
+      <title>Microbiome</title>
+      <link>/tags/microbiome/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/microbiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mongodb</title>
       <link>/tags/mongodb/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>/tags/natural-language-processing/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
@@ -275,7 +545,7 @@
     <item>
       <title>Nlp</title>
       <link>/tags/nlp/</link>
-      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/nlp/</guid>
       <description></description>
@@ -284,16 +554,25 @@
     <item>
       <title>Not Accepting Applications</title>
       <link>/tags/not-accepting-applications/</link>
-      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/not-accepting-applications/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Proveable Approximate Correctness</title>
+      <link>/tags/proveable-approximate-correctness/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/proveable-approximate-correctness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>/tags/python/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/python/</guid>
       <description></description>
@@ -302,9 +581,36 @@
     <item>
       <title>R</title>
       <link>/tags/r/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Projection</title>
+      <link>/tags/random-projection/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/random-projection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Record Linkage</title>
+      <link>/tags/record-linkage/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/record-linkage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satellite Data</title>
+      <link>/tags/satellite-data/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/satellite-data/</guid>
       <description></description>
     </item>
     
@@ -327,6 +633,15 @@
     </item>
     
     <item>
+      <title>Simulation</title>
+      <link>/tags/simulation/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social Science</title>
       <link>/tags/social-science/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
@@ -341,6 +656,24 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparsity</title>
+      <link>/tags/sparsity/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sparsity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Statistics</title>
+      <link>/tags/spatial-statistics/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spatial-statistics/</guid>
       <description></description>
     </item>
     
@@ -365,16 +698,25 @@
     <item>
       <title>Sql</title>
       <link>/tags/sql/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Stata</title>
+      <link>/tags/stata/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/stata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Statistics</title>
       <link>/tags/statistics/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/statistics/</guid>
       <description></description>
@@ -399,6 +741,15 @@
     </item>
     
     <item>
+      <title>Sustainability</title>
+      <link>/tags/sustainability/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sustainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tensorflow</title>
       <link>/tags/tensorflow/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
@@ -417,11 +768,29 @@
     </item>
     
     <item>
+      <title>Time Series</title>
+      <link>/tags/time-series/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unix</title>
       <link>/tags/unix/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/unix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised</title>
+      <link>/tags/unsupervised/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/unsupervised/</guid>
       <description></description>
     </item>
     

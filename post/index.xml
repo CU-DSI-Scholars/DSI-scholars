@@ -6,10 +6,221 @@
     <description>Recent content in Posts on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Call for Student Applications - Fall 2019</title>
+      <link>/2019/09/call-for-student-applications-dsi-scholars-fall-2019/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/call-for-student-applications-dsi-scholars-fall-2019/</guid>
+      <description>&lt;p&gt;Columbia University &lt;a href=&#34;http://datascience.columbia.edu/&#34;&gt;Data Science Institute&lt;/a&gt; is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Fall 2019 are open for application.&lt;/p&gt;
+
+&lt;p&gt;The goal of the DSI Scholars Program is to engage Columbia University&amp;rsquo;s undergraduate and master&amp;rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
+
+&lt;p&gt;The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &amp;ldquo;real world&amp;rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cryptocurrency Analytics: Identifying Bad Actors</title>
+      <link>/2019/09/project-cryptocurrency-analytics-identifying-bad-actors/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-cryptocurrency-analytics-identifying-bad-actors/</guid>
+      <description>&lt;p&gt;Many of the cryptocurrency transactions have involved fraudulent activities including ponzi schemes, ransomware as well money-laundering. The objective is to use Graph Machine Learning methods to identify the miscreants on Bitcoin and Etherium Networks. There are many challenges including the amount of data in 100s of Gigabytes, creation and scalability of algorithms.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data For Good Project: African North Americans Database</title>
+      <link>/2019/09/project-african-north-americans-database/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-african-north-americans-database/</guid>
+      <description>&lt;p&gt;This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, &amp;ldquo;color,&amp;rdquo; birthplace, or other details. The main difficulty in making these matches is that the census data for people with a confirmed identity does not stay uniform decade after decade. Someone might be recorded not with their given name but instead a nickname (Elizabeth to Betsy); women can marry or get remarried and change their names; racial measures by a census taker may change (black to mulatto, or mulatto to white); someone might say they are from Canada, even when they were born in Kentucky, depending on how the question was asked; people who were estimating their ages might be 35 in 1870 and 40 in 1880 and 50 in 1890, for example.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data For Good Project: The Cost of Human Rights</title>
+      <link>/2019/09/project-the-cost-of-human-rights/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-the-cost-of-human-rights/</guid>
+      <description>&lt;p&gt;Under United States securities laws corporations must disclose material risks to their operations. Human rights issues, especially in authoritarian countries, rarely show up in the information that data providers offer to investors, in part due to the risks to those subject to these abuses. The result is a dearth of data on human rights materiality and the tendency of investors to overlook human rights risks of the companies that they finance.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Decoding the human genome with interpretable deep learning</title>
+      <link>/2019/09/project-decoding-the-human-genome-with-interpretable-deep-learning/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-decoding-the-human-genome-with-interpretable-deep-learning/</guid>
+      <description>&lt;p&gt;The function for much of the 3 billion letters in the human genome remain to be understood. Advances in DNA sequencing technology have generated enormous amount of data, yet we don&amp;rsquo;t have the tool to extract rules of how the genome works. Deep learning holds great potential in decoding the genome, in particular due to the digital nature of DNA sequences and the ability to handle large data sets. However, like many other applications, the interpretability of deep learning models hampers its ability to help understand the genome. We are developing deep learning architectures embedded with the principles of gene regulation and we will be leveraging millions of existing whole genome measurements of gene activity to learn a mechanistic model of gene regulation in human cells.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Designing Fair Representations with Provable Guarantees</title>
+      <link>/2019/09/project-designing-fair-representations-with-provable-guarantees/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-designing-fair-representations-with-provable-guarantees/</guid>
+      <description>&lt;p&gt;Designing high quality prediction models while maintaining social equity (in terms of ethnicity, gender, age, etc.) is critical in today&amp;rsquo;s world. Most recent research in algorithmic fairness focuses on developing fair machine learning algorithms such as fair classification, fair regression, or fair clustering. Nevertheless, it can sometimes be more useful to simply preprocess the data so as to &amp;ldquo;remove&amp;rdquo; sensitive information from the input feature space, thus minimizing potential discrimination in subsequent prediction tasks. We call this a &amp;ldquo;fair representation&amp;rdquo; of the data. A key advantage of using a fair data representation is that a practitioner can simply run any off-the-shelf algorithm and still maintain social equity without having to worry about it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Designing effective prediction models via kernel random projections</title>
+      <link>/2019/09/project-designing-effective-prediction-models-via-kernel-random-projections/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-designing-effective-prediction-models-via-kernel-random-projections/</guid>
+      <description>&lt;p&gt;Mixture models are a popular technique for clustering and density estimation due to their simplicity and ease of use. However the success of these models relies crucially on specific assumptions these models make about the underlying data distribution. Gaussian mixture models, for instance, assume that the subpopulations within the data are Gaussians-like, and can thus lead to poor predictions on datasets with more complex intrinsic structures. A common approach in such situations is to resort to more complex data models. An interesting sparsely explored alternative is to find feature transformations that maintain the salient cluster information while simplifying the subpopulation structure, in effect making mixture models highly effective.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Development of unsupervised feature extraction methods for analysis of large earthquake data sets</title>
+      <link>/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</guid>
+      <description>&lt;p&gt;We are requesting a DSI Scholar position for an undergraduate to work with myself and my collaborator Ben Holtzman (Lamont Doherty Earth Observatory, LDEO). We have been collaborating on the development of novel machine learning applications to seismology, specifically unsupervised feature extraction in spectral properties of large numbers of small earthquakes. Our first application was published in Science Advances last year (Holtzman, Pate, Paisley, Waldhauser, Repetto, &amp;ldquo;Machine learning reveals cyclic changes in seismic source spectra in Geysers geothermal field.&amp;rdquo; Science Advances 4, eaao2929. doi:10.1126/sciadv.aao2929, 2018). Currently we are building a synthetic dataset to better understand the features that control clustering behavior, and compare different clustering methods. The DSI Scholar would contribute to this study on the testing of different clustering algorithms, in particular the relation between clusters and known distributions of input parameters in the synthetic dataset. We would first offer the position to a current Junior, Zhouyao Xie, who has expressed strong interest in this project, and certainly has the necessary skillset as a data science major.  Ben and I would work closely with the Scholar in weekly or bi-weekly meetings at the DSI, and they also may collaborate with a graduate student in Seismology at LDEO.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Identification and Risk Analysis of Tailings Dam Failure for Mining Operations</title>
+      <link>/2019/09/project-dynamic-identification-and-risk-analysis-of-tailings-dam-failure-for-mining-operations/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-dynamic-identification-and-risk-analysis-of-tailings-dam-failure-for-mining-operations/</guid>
+      <description>&lt;p&gt;Recently, there have been multiple failures of large tailings dams that store mining wastes, around the world, with devastating impacts (e.g., &lt;a href=&#34;https://en.wikipedia.org/wiki/Brumadinho_dam_disaster&#34;&gt;https://en.wikipedia.org/wiki/Brumadinho_dam_disaster&lt;/a&gt;). These dams are unique in that they continue to be raised as waste piles up and can get as tall as 400 m. The risk and impact of failure increases as the dam gets taller.  There are several thousand such dams around the world. The concept of the project is to develop a continuous status monitoring and risk analysis of these dams, automatically, using globally available satellite data from multiple bands, as well as regularly updated climate data products. Overtopping of the dam during an intense or persistent rainfall event is the leading mode of failure. Foundation failure which leads to a liquefaction or deformation of the dam is the second leading failure mode. The intern will help develop initial examples and machine learning based tools to a) identify dams from satellite imagery given their approximate location (known mine locations, but not dam locations), b) monitor changes in dam height, waste perimeter and height behind the dam, and c) integrate this information with precipitation and soil moisture information into a spatio-temporal risk product for threshold exceedances. A variety of tools, including CNN, semantic segmentation, spatio-temporal models using Markov Random fields and Support vector machines are candidates for different aspects of the analysis. We have identified ~ 4000 dam locations, 200 manually classified images of dams, 60 a variety of satellite and climate data products, and preliminary CNN based classification work, and a Bayesian failure impact model has been done. If this proof of concept work that we want to do is successful, we expect to develop a larger project for external funding.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Efficiently representing genetic diversity from thousands of microbiome samples</title>
+      <link>/2019/09/project-efficiently-representing-genetic-diversity-from-thousands-of-microbiome-samples/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-efficiently-representing-genetic-diversity-from-thousands-of-microbiome-samples/</guid>
+      <description>&lt;p&gt;The microbiome comprises a heterogeneous mix of bacterial strains, many with strong association to human diseases. Recent work has shown that even the same bacteria could have differences in their genomes across multiple individuals. Such differences, termed structural variations, are strongly associated with host disease risk factors [1]. However, methods for their systematic extraction and profiling are currently lacking. This project aims to make cross-sample analysis of structural variants from hundreds of individual microbiomes feasible by efficient representation of metagenomic data. The colored De-Bruijn graph (cDBG) data structure is a natural choice for this representation [2]. However, current cDBG implementations are either fast at the cost of a large space, or highly space efficient but either slow or lacking valuable practical features.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Healthcare machine learning and text mining (NimbleMiner)</title>
+      <link>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</guid>
+      <description>&lt;p&gt;Our lab develops an open-source text mining software called NimbleMiner (&lt;a href=&#34;http://github.com/mtopaz/NimbleMiner&#34;&gt;http://github.com/mtopaz/NimbleMiner&lt;/a&gt;). We will work on improving the software using the latest machine learning techniques.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Integrated Traffic-Communication Simulator for COSMOS testbed</title>
+      <link>/2019/09/project-integrated-traffic-communication-simulator-for-cosmos-testbed/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-integrated-traffic-communication-simulator-for-cosmos-testbed/</guid>
+      <description>&lt;p&gt;Vehicle-to-Vehicle (V2V) has received increasing attention with the development of autonomous driving technology. It is believed that multi-vehicular and multi-informative algorithm is the direction of the autonomous driving technology. However, the stability and liability of the communication prevents the future from extensively embracing V2V-based transportation. Rigorous test is required before V2V can actually hit the road.  Compared with the costly field test, simulation tests are more economical and feasible.  To simulate the V2V communication and evaluate the robustness of current V2V-based algorithm, we are therefore developing a simulation platform integrating different commercial software like SUMO, Veins and OMNET++. These software simulate on the actual New York map, and simulate the vehicular communication in different scenarios and platoon configurations.  Our next step is to use this platform to test our own V2V-based algorithms. The output of this research will eventually provide an open platform which would automatically evaluate personally designed algorithm with least manual work.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Learning the most crucial features of the galaxy merger histories</title>
+      <link>/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</guid>
+      <description>&lt;p&gt;Galaxies in our universe form hierarchically, continuously merging and absorbing smaller galaxies over cosmic time. In this project we aim to identify the most important features of, as well as generate efficient new features from, the merger histories of galaxies. Namely, features that predict (or physically speaking, determine) the properties of galaxies, e.g. their shape or color. This will be done using the results from a large cosmological simulation, IllustrisTNG (www.tng-project.org). We will begin with identifying ways to represent the rich information in the merger history. We will then compare various ML methods oriented towards feature selection or importance analysis: random forests or gradient boosted trees, L1SVM, neural networks (through analysis of e.g. saliency maps). More advanced models can also be applied, such as neural network models designed for feature selection. Finally, we wish to apply / develop methods that can build &amp;lsquo;interpretable&amp;rsquo; new features by constructing them as algebraic formulas from original input features (inspired by e.g. &lt;a href=&#34;https://science.sciencemag.org/content/324/5923/81&#34;&gt;https://science.sciencemag.org/content/324/5923/81&lt;/a&gt;). The overarching goal is to understand better what in the merger history is most crucial in determining a galaxy&amp;rsquo;s present-day properties, an answer to which can be widely applicable to problems in galaxy formation.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Locally advanced primary colon, rectosigmoid and rectal cancers: Perioperative outcomes and survival with multivisceral resection</title>
+      <link>/2019/09/project-locally-advanced-primary-colon-rectosigmoid-and-rectal-cancers-perioperative-outcomes-and-survival-with-multivisceral-resection/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-locally-advanced-primary-colon-rectosigmoid-and-rectal-cancers-perioperative-outcomes-and-survival-with-multivisceral-resection/</guid>
+      <description>&lt;p&gt;Locally advanced colorectal cancers that invade adjacent organs (i.e., T4 primary tumors) without evidence of distant metastasis account for approximately 5-15% of new colorectal cancers.  There are limited multi-institutional study describing the perioperative complication rates and long-term survival of patients undergoing single organ resection after neoadjuvant chemotherapy and/or radiation versus multivisceral resections for patients with T4 colorectal cancers.  Using the American College of Surgeons National Cancer Database (NCDB), we seek to analyze differential outcomes (perioperative complications and overall survival) by procedure performed, tumor details, pathological findings, chemo-radiotherapy regimens, patient demographics.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Measuring Liberal Arts: Creating an Index for Higher Education</title>
+      <link>/2019/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
+      <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&amp;rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Poverty Eradication by 2020 in China: Evidence from Big Data</title>
+      <link>/2019/09/project-poverty-eradication-by-2020-in-china-evidence-from-big-data/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-poverty-eradication-by-2020-in-china-evidence-from-big-data/</guid>
+      <description>&lt;p&gt;In 2013, the Chinese government launched its grand initiative to eradicate rural poverty by 2020. The initiative has made great progress since then, yet little rigorous empirical evidence is available due to data limitations. This project aims to use big data through both official and social media to analyze the trends, achievements, and challenges of this initiative and offer implications for the future and from a comparative perspective.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Single-Cell Transcriptome Profiling in Atherosclerosis</title>
+      <link>/2019/09/project-single-cell-transcriptome-profiling-in-atherosclerosis/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-single-cell-transcriptome-profiling-in-atherosclerosis/</guid>
+      <description>&lt;p&gt;Atherosclerosis—a chronic inflammatory disease of the artery wall—is the underlying cause of human coronary heart diseases. Cells within atherosclerotic lesions are heterogeneous and dynamic. Their pathological features have been characterized by histology and flow cytometry and more recently, by bulk-tissue omics profiling. Despite this progress, our knowledge of cell types and their roles in atherogenesis remains incomplete because of masking of differences across cells when using genomic measurement at bulk level. Single-cell RNA sequencing (scRNA-seq) has catalyzed a revolution in understanding of cellular heterogeneity in organ systems and diseases. This project applies scRNA-seq to define the genetic influences on cell subpopulations and functions in atherosclerotic lesion of transgenic mice for candidate risk genes of human coronary heart diseases as inspired by human genomic discoveries. The students involved in this project are expected to work on: (1) analysis of scRNA-seq data using R/Bioconductor packages; (2) Interpretation of the data using pathway and network analysis. Some relevant workflows are available through the &amp;ldquo;Resources&amp;rdquo; page of our lab website at &lt;a href=&#34;https://hanruizhang.github.io/zhanglab/&#34;&gt;https://hanruizhang.github.io/zhanglab/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal simulation and forecasting of renewable energy</title>
+      <link>/2019/09/project-spatiotemporal-simulation-and-forecasting-of-renewable-energy/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-spatiotemporal-simulation-and-forecasting-of-renewable-energy/</guid>
+      <description>&lt;p&gt;A major obstacle to the decarbonization of the electricity production systems is the multi scale (space and time) variability of wind, solar and hydro energy sources. Much work is being done to understand the high frequency variations in these sources from the perspective of grid integration. However, as with rainfall and other natural systems, these variables can exhibit log-log fractal scaling in space and time, such that the variance of the process increases with temporal duration and with spatial scale. Focusing on high frequency variations thus grossly understates the systemic risk that is associated with these sources. Appropriate national grid design including electricity storage allocation, needs to consider both the periodic annual cycle variations and quasi-periodic inter-annual variability which have larger variance, and the phase lags in these variations across space. The proposed project would explore the development of a multi-level, hierarchical spatio-temporal model for wind or solar using data from the continental USA and its subregions to explore stochastic simulations and multi-scale predictions of the associated risk to inform system design and financial instruments development.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Waymo &amp; Lyft Driverless Car Data Analysis and Driving Modeling</title>
+      <link>/2019/09/project-waymo-lyft-driverless-car-data-analysis-and-driving-modeling/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-waymo-lyft-driverless-car-data-analysis-and-driving-modeling/</guid>
+      <description>&lt;p&gt;Autonomous driving is developing rapidly. A lot of breakthroughs of autonomous driving have emerged in both academy and industry. However, many traffic accidents related to autonomous driving also occur and cause people’s concern on the safety issue of AV. To ensure safety and reliability, rigorous test and simulation is required before AV can really drive on road. For AV test and simulation, realistic data is an essential component. Comprehensive, multi-regime and sufficient self-driving data would definitely help the AV development.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>“Data for Good” Scholars - a new DSI Scholars initiative</title>

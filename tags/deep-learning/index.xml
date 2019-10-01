@@ -6,10 +6,32 @@
     <description>Recent content in Deep Learning on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Decoding the human genome with interpretable deep learning</title>
+      <link>/2019/09/project-decoding-the-human-genome-with-interpretable-deep-learning/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-decoding-the-human-genome-with-interpretable-deep-learning/</guid>
+      <description>&lt;p&gt;The function for much of the 3 billion letters in the human genome remain to be understood. Advances in DNA sequencing technology have generated enormous amount of data, yet we don&amp;rsquo;t have the tool to extract rules of how the genome works. Deep learning holds great potential in decoding the genome, in particular due to the digital nature of DNA sequences and the ability to handle large data sets. However, like many other applications, the interpretability of deep learning models hampers its ability to help understand the genome. We are developing deep learning architectures embedded with the principles of gene regulation and we will be leveraging millions of existing whole genome measurements of gene activity to learn a mechanistic model of gene regulation in human cells.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Learning the most crucial features of the galaxy merger histories</title>
+      <link>/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</guid>
+      <description>&lt;p&gt;Galaxies in our universe form hierarchically, continuously merging and absorbing smaller galaxies over cosmic time. In this project we aim to identify the most important features of, as well as generate efficient new features from, the merger histories of galaxies. Namely, features that predict (or physically speaking, determine) the properties of galaxies, e.g. their shape or color. This will be done using the results from a large cosmological simulation, IllustrisTNG (www.tng-project.org). We will begin with identifying ways to represent the rich information in the merger history. We will then compare various ML methods oriented towards feature selection or importance analysis: random forests or gradient boosted trees, L1SVM, neural networks (through analysis of e.g. saliency maps). More advanced models can also be applied, such as neural network models designed for feature selection. Finally, we wish to apply / develop methods that can build &amp;lsquo;interpretable&amp;rsquo; new features by constructing them as algebraic formulas from original input features (inspired by e.g. &lt;a href=&#34;https://science.sciencemag.org/content/324/5923/81&#34;&gt;https://science.sciencemag.org/content/324/5923/81&lt;/a&gt;). The overarching goal is to understand better what in the merger history is most crucial in determining a galaxy&amp;rsquo;s present-day properties, an answer to which can be widely applicable to problems in galaxy formation.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Project: Discovering the cost function optimized by the primate visual system&#39;s deep hierarchical architecture</title>

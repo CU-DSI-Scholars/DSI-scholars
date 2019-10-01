@@ -6,10 +6,98 @@
     <description>Recent content in Python on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cryptocurrency Analytics: Identifying Bad Actors</title>
+      <link>/2019/09/project-cryptocurrency-analytics-identifying-bad-actors/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-cryptocurrency-analytics-identifying-bad-actors/</guid>
+      <description>&lt;p&gt;Many of the cryptocurrency transactions have involved fraudulent activities including ponzi schemes, ransomware as well money-laundering. The objective is to use Graph Machine Learning methods to identify the miscreants on Bitcoin and Etherium Networks. There are many challenges including the amount of data in 100s of Gigabytes, creation and scalability of algorithms.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Decoding the human genome with interpretable deep learning</title>
+      <link>/2019/09/project-decoding-the-human-genome-with-interpretable-deep-learning/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-decoding-the-human-genome-with-interpretable-deep-learning/</guid>
+      <description>&lt;p&gt;The function for much of the 3 billion letters in the human genome remain to be understood. Advances in DNA sequencing technology have generated enormous amount of data, yet we don&amp;rsquo;t have the tool to extract rules of how the genome works. Deep learning holds great potential in decoding the genome, in particular due to the digital nature of DNA sequences and the ability to handle large data sets. However, like many other applications, the interpretability of deep learning models hampers its ability to help understand the genome. We are developing deep learning architectures embedded with the principles of gene regulation and we will be leveraging millions of existing whole genome measurements of gene activity to learn a mechanistic model of gene regulation in human cells.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Efficiently representing genetic diversity from thousands of microbiome samples</title>
+      <link>/2019/09/project-efficiently-representing-genetic-diversity-from-thousands-of-microbiome-samples/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-efficiently-representing-genetic-diversity-from-thousands-of-microbiome-samples/</guid>
+      <description>&lt;p&gt;The microbiome comprises a heterogeneous mix of bacterial strains, many with strong association to human diseases. Recent work has shown that even the same bacteria could have differences in their genomes across multiple individuals. Such differences, termed structural variations, are strongly associated with host disease risk factors [1]. However, methods for their systematic extraction and profiling are currently lacking. This project aims to make cross-sample analysis of structural variants from hundreds of individual microbiomes feasible by efficient representation of metagenomic data. The colored De-Bruijn graph (cDBG) data structure is a natural choice for this representation [2]. However, current cDBG implementations are either fast at the cost of a large space, or highly space efficient but either slow or lacking valuable practical features.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Integrated Traffic-Communication Simulator for COSMOS testbed</title>
+      <link>/2019/09/project-integrated-traffic-communication-simulator-for-cosmos-testbed/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-integrated-traffic-communication-simulator-for-cosmos-testbed/</guid>
+      <description>&lt;p&gt;Vehicle-to-Vehicle (V2V) has received increasing attention with the development of autonomous driving technology. It is believed that multi-vehicular and multi-informative algorithm is the direction of the autonomous driving technology. However, the stability and liability of the communication prevents the future from extensively embracing V2V-based transportation. Rigorous test is required before V2V can actually hit the road.  Compared with the costly field test, simulation tests are more economical and feasible.  To simulate the V2V communication and evaluate the robustness of current V2V-based algorithm, we are therefore developing a simulation platform integrating different commercial software like SUMO, Veins and OMNET++. These software simulate on the actual New York map, and simulate the vehicular communication in different scenarios and platoon configurations.  Our next step is to use this platform to test our own V2V-based algorithms. The output of this research will eventually provide an open platform which would automatically evaluate personally designed algorithm with least manual work.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Learning the most crucial features of the galaxy merger histories</title>
+      <link>/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</guid>
+      <description>&lt;p&gt;Galaxies in our universe form hierarchically, continuously merging and absorbing smaller galaxies over cosmic time. In this project we aim to identify the most important features of, as well as generate efficient new features from, the merger histories of galaxies. Namely, features that predict (or physically speaking, determine) the properties of galaxies, e.g. their shape or color. This will be done using the results from a large cosmological simulation, IllustrisTNG (www.tng-project.org). We will begin with identifying ways to represent the rich information in the merger history. We will then compare various ML methods oriented towards feature selection or importance analysis: random forests or gradient boosted trees, L1SVM, neural networks (through analysis of e.g. saliency maps). More advanced models can also be applied, such as neural network models designed for feature selection. Finally, we wish to apply / develop methods that can build &amp;lsquo;interpretable&amp;rsquo; new features by constructing them as algebraic formulas from original input features (inspired by e.g. &lt;a href=&#34;https://science.sciencemag.org/content/324/5923/81&#34;&gt;https://science.sciencemag.org/content/324/5923/81&lt;/a&gt;). The overarching goal is to understand better what in the merger history is most crucial in determining a galaxy&amp;rsquo;s present-day properties, an answer to which can be widely applicable to problems in galaxy formation.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Measuring Liberal Arts: Creating an Index for Higher Education</title>
+      <link>/2019/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
+      <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&amp;rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Single-Cell Transcriptome Profiling in Atherosclerosis</title>
+      <link>/2019/09/project-single-cell-transcriptome-profiling-in-atherosclerosis/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-single-cell-transcriptome-profiling-in-atherosclerosis/</guid>
+      <description>&lt;p&gt;Atherosclerosis—a chronic inflammatory disease of the artery wall—is the underlying cause of human coronary heart diseases. Cells within atherosclerotic lesions are heterogeneous and dynamic. Their pathological features have been characterized by histology and flow cytometry and more recently, by bulk-tissue omics profiling. Despite this progress, our knowledge of cell types and their roles in atherogenesis remains incomplete because of masking of differences across cells when using genomic measurement at bulk level. Single-cell RNA sequencing (scRNA-seq) has catalyzed a revolution in understanding of cellular heterogeneity in organ systems and diseases. This project applies scRNA-seq to define the genetic influences on cell subpopulations and functions in atherosclerotic lesion of transgenic mice for candidate risk genes of human coronary heart diseases as inspired by human genomic discoveries. The students involved in this project are expected to work on: (1) analysis of scRNA-seq data using R/Bioconductor packages; (2) Interpretation of the data using pathway and network analysis. Some relevant workflows are available through the &amp;ldquo;Resources&amp;rdquo; page of our lab website at &lt;a href=&#34;https://hanruizhang.github.io/zhanglab/&#34;&gt;https://hanruizhang.github.io/zhanglab/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Waymo &amp; Lyft Driverless Car Data Analysis and Driving Modeling</title>
+      <link>/2019/09/project-waymo-lyft-driverless-car-data-analysis-and-driving-modeling/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-waymo-lyft-driverless-car-data-analysis-and-driving-modeling/</guid>
+      <description>&lt;p&gt;Autonomous driving is developing rapidly. A lot of breakthroughs of autonomous driving have emerged in both academy and industry. However, many traffic accidents related to autonomous driving also occur and cause people’s concern on the safety issue of AV. To ensure safety and reliability, rigorous test and simulation is required before AV can really drive on road. For AV test and simulation, realistic data is an essential component. Comprehensive, multi-regime and sufficient self-driving data would definitely help the AV development.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Project: A Data-driven Approach for Improving the User Experience of Internet Users</title>

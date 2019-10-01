@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; on Columbia DSI Scholars</title>
+    <link>/tags/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efficiently representing genetic diversity from thousands of microbiome samples</title>
+      <link>/2019/09/project-efficiently-representing-genetic-diversity-from-thousands-of-microbiome-samples/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-efficiently-representing-genetic-diversity-from-thousands-of-microbiome-samples/</guid>
+      <description>&lt;p&gt;The microbiome comprises a heterogeneous mix of bacterial strains, many with strong association to human diseases. Recent work has shown that even the same bacteria could have differences in their genomes across multiple individuals. Such differences, termed structural variations, are strongly associated with host disease risk factors [1]. However, methods for their systematic extraction and profiling are currently lacking. This project aims to make cross-sample analysis of structural variants from hundreds of individual microbiomes feasible by efficient representation of metagenomic data. The colored De-Bruijn graph (cDBG) data structure is a natural choice for this representation [2]. However, current cDBG implementations are either fast at the cost of a large space, or highly space efficient but either slow or lacking valuable practical features.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Integrated Traffic-Communication Simulator for COSMOS testbed</title>
+      <link>/2019/09/project-integrated-traffic-communication-simulator-for-cosmos-testbed/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-integrated-traffic-communication-simulator-for-cosmos-testbed/</guid>
+      <description>&lt;p&gt;Vehicle-to-Vehicle (V2V) has received increasing attention with the development of autonomous driving technology. It is believed that multi-vehicular and multi-informative algorithm is the direction of the autonomous driving technology. However, the stability and liability of the communication prevents the future from extensively embracing V2V-based transportation. Rigorous test is required before V2V can actually hit the road.  Compared with the costly field test, simulation tests are more economical and feasible.  To simulate the V2V communication and evaluate the robustness of current V2V-based algorithm, we are therefore developing a simulation platform integrating different commercial software like SUMO, Veins and OMNET++. These software simulate on the actual New York map, and simulate the vehicular communication in different scenarios and platoon configurations.  Our next step is to use this platform to test our own V2V-based algorithms. The output of this research will eventually provide an open platform which would automatically evaluate personally designed algorithm with least manual work.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

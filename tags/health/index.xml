@@ -6,10 +6,21 @@
     <description>Recent content in Health on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/health/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Healthcare machine learning and text mining (NimbleMiner)</title>
+      <link>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</guid>
+      <description>&lt;p&gt;Our lab develops an open-source text mining software called NimbleMiner (&lt;a href=&#34;http://github.com/mtopaz/NimbleMiner&#34;&gt;http://github.com/mtopaz/NimbleMiner&lt;/a&gt;). We will work on improving the software using the latest machine learning techniques.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Project: Advancing Public Health Monitoring and Analytics in New York City through Development of a Master Person Index</title>
