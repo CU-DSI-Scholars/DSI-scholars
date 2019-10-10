@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>/2019/09/project-cost-overruns-in-city-capital-improvement-projects/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2019/09/project-the-cost-of-human-rights-violations/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
   </url>
@@ -456,7 +461,19 @@
   </url>
   
   <url>
+    <loc>/tags/capital-improvement/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/city-government/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -666,14 +683,14 @@
   </url>
   
   <url>
-    <loc>/categories/info/</loc>
-    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
+    <loc>/tags/info/</loc>
+    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/info/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+    <loc>/categories/info/</loc>
+    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -769,6 +786,12 @@
   
   <url>
     <loc>/tags/not-accepting-applications/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nyc/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
