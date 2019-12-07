@@ -26,7 +26,9 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-training-a-deep-neural-network-on-large-scale-brain-imaging-and-cognition-data/</guid>
-      <description>&lt;p&gt;The goal of this project is to develop and validate a deep neural network that predicts a child&amp;rsquo;s emotion and cognition. DSI scholars will implement 3D convolutional neural networks on brain imaging data from thousands of children to predict cognitive, emotional, and socio-developmental variables. Statistical evaluation of the model performance will be conducted. The scalable deep neural network analysis will help find brain underpinnings of cognition and emotion.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The goal of this project is to develop and validate a deep neural network that predicts a child&amp;rsquo;s emotion and cognition. DSI scholars will implement 3D convolutional neural networks on brain imaging data from thousands of children to predict cognitive, emotional, and socio-developmental variables. Statistical evaluation of the model performance will be conducted. The scalable deep neural network analysis will help find brain underpinnings of cognition and emotion.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -35,7 +37,9 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-breaking-the-neural-code-of-a-cnidarian/</guid>
-      <description>&lt;p&gt;Analysis of the relation between the activity of all the neurons in the cnidarian hydra and its behavioral repertoire.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Analysis of the relation between the activity of all the neurons in the cnidarian hydra and its behavioral repertoire.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,7 +48,9 @@
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</guid>
-      <description>&lt;p&gt;Given calcium imaging data of active neurons, can we detect groups of co-firing neurons, called neuronal ensembles? We have a number of datasets consisting of hundreds of neurons imaged for thousands of time steps, and seek to extend an existing CRF model to consider temporal relationships. The goal is to be able to detect neuronal ensembles that span multiple time steps, and that are not conditioned on external stimuli.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Given calcium imaging data of active neurons, can we detect groups of co-firing neurons, called neuronal ensembles? We have a number of datasets consisting of hundreds of neurons imaged for thousands of time steps, and seek to extend an existing CRF model to consider temporal relationships. The goal is to be able to detect neuronal ensembles that span multiple time steps, and that are not conditioned on external stimuli.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,7 +59,9 @@
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-human-peri-ictal-single-unit-activity/</guid>
-      <description>&lt;p&gt;Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures.  Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge.  Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and addressing fundamental questions about the activity of different cell classes at seizure initiation.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures.  Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge.  Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and addressing fundamental questions about the activity of different cell classes at seizure initiation.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

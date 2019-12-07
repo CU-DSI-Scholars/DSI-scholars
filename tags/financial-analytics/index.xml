@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Financial analytics on Columbia DSI Scholars</title>
+    <title>Financial Analytics on Columbia DSI Scholars</title>
     <link>/tags/financial-analytics/</link>
-    <description>Recent content in Financial analytics on Columbia DSI Scholars</description>
+    <description>Recent content in Financial Analytics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
@@ -45,7 +45,9 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-global-interconnections-project-application-closed/</guid>
-      <description>&lt;p&gt;Understand interconnected nature of global multi-national companies via their supply chain, product and services competition, co-investments and co-ownerships as well as other dependencies between operations and revenue streams. We would like to consider the way news on any company specifically propagate down the connection graph and impact other businesses that are related in a way that is not necessarily explicit.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Understand interconnected nature of global multi-national companies via their supply chain, product and services competition, co-investments and co-ownerships as well as other dependencies between operations and revenue streams. We would like to consider the way news on any company specifically propagate down the connection graph and impact other businesses that are related in a way that is not necessarily explicit.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

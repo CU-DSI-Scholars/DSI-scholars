@@ -17,7 +17,9 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
-      <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&amp;rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&amp;rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,7 +28,9 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-enhancing-self-directed-learning-opportunities/</guid>
-      <description>&lt;p&gt;Analyze data from one or more of the following Library Applications/Systems and create visualizations that highlight the most important findings related to our goal of supporting self-directed learning.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Analyze data from one or more of the following Library Applications/Systems and create visualizations that highlight the most important findings related to our goal of supporting self-directed learning.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,7 +57,9 @@
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-enhancing-self-directed-learning-opportunities/</guid>
-      <description>&lt;p&gt;Analyze data from one of the following library applications/systems and create visualizations that highlight the most important findings pertaining to the support of self-directed learning:  Vialogues (TC Video Discussion Application), PocketKnowledge (TC Online Archive), DocDel (E-Reserve System), Pressible (Blogging Platform), Library Website and Mobile App.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Analyze data from one of the following library applications/systems and create visualizations that highlight the most important findings pertaining to the support of self-directed learning:  Vialogues (TC Video Discussion Application), PocketKnowledge (TC Online Archive), DocDel (E-Reserve System), Pressible (Blogging Platform), Library Website and Mobile App.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

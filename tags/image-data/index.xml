@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Image data on Columbia DSI Scholars</title>
+    <title>Image Data on Columbia DSI Scholars</title>
     <link>/tags/image-data/</link>
-    <description>Recent content in Image data on Columbia DSI Scholars</description>
+    <description>Recent content in Image Data on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,9 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/project-waymo-lyft-driverless-car-data-analysis-and-driving-modeling/</guid>
-      <description>&lt;p&gt;Autonomous driving is developing rapidly. A lot of breakthroughs of autonomous driving have emerged in both academy and industry. However, many traffic accidents related to autonomous driving also occur and cause people’s concern on the safety issue of AV. To ensure safety and reliability, rigorous test and simulation is required before AV can really drive on road. For AV test and simulation, realistic data is an essential component. Comprehensive, multi-regime and sufficient self-driving data would definitely help the AV development.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Autonomous driving is developing rapidly. A lot of breakthroughs of autonomous driving have emerged in both academy and industry. However, many traffic accidents related to autonomous driving also occur and cause people’s concern on the safety issue of AV. To ensure safety and reliability, rigorous test and simulation is required before AV can really drive on road. For AV test and simulation, realistic data is an essential component. Comprehensive, multi-regime and sufficient self-driving data would definitely help the AV development.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -17,7 +17,9 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</guid>
-      <description>&lt;p&gt;Our lab develops an open-source text mining software called NimbleMiner (&lt;a href=&#34;http://github.com/mtopaz/NimbleMiner&#34;&gt;http://github.com/mtopaz/NimbleMiner&lt;/a&gt;). We will work on improving the software using the latest machine learning techniques.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our lab develops an open-source text mining software called NimbleMiner (&lt;a href=&#34;http://github.com/mtopaz/NimbleMiner&#34;&gt;http://github.com/mtopaz/NimbleMiner&lt;/a&gt;). We will work on improving the software using the latest machine learning techniques.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,7 +28,9 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/project-locally-advanced-primary-colon-rectosigmoid-and-rectal-cancers-perioperative-outcomes-and-survival-with-multivisceral-resection/</guid>
-      <description>&lt;p&gt;Locally advanced colorectal cancers that invade adjacent organs (i.e., T4 primary tumors) without evidence of distant metastasis account for approximately 5-15% of new colorectal cancers.  There are limited multi-institutional study describing the perioperative complication rates and long-term survival of patients undergoing single organ resection after neoadjuvant chemotherapy and/or radiation versus multivisceral resections for patients with T4 colorectal cancers.  Using the American College of Surgeons National Cancer Database (NCDB), we seek to analyze differential outcomes (perioperative complications and overall survival) by procedure performed, tumor details, pathological findings, chemo-radiotherapy regimens, patient demographics.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Locally advanced colorectal cancers that invade adjacent organs (i.e., T4 primary tumors) without evidence of distant metastasis account for approximately 5-15% of new colorectal cancers.  There are limited multi-institutional study describing the perioperative complication rates and long-term survival of patients undergoing single organ resection after neoadjuvant chemotherapy and/or radiation versus multivisceral resections for patients with T4 colorectal cancers.  Using the American College of Surgeons National Cancer Database (NCDB), we seek to analyze differential outcomes (perioperative complications and overall survival) by procedure performed, tumor details, pathological findings, chemo-radiotherapy regimens, patient demographics.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -35,7 +39,9 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/project-single-cell-transcriptome-profiling-in-atherosclerosis/</guid>
-      <description>&lt;p&gt;Atherosclerosis—a chronic inflammatory disease of the artery wall—is the underlying cause of human coronary heart diseases. Cells within atherosclerotic lesions are heterogeneous and dynamic. Their pathological features have been characterized by histology and flow cytometry and more recently, by bulk-tissue omics profiling. Despite this progress, our knowledge of cell types and their roles in atherogenesis remains incomplete because of masking of differences across cells when using genomic measurement at bulk level. Single-cell RNA sequencing (scRNA-seq) has catalyzed a revolution in understanding of cellular heterogeneity in organ systems and diseases. This project applies scRNA-seq to define the genetic influences on cell subpopulations and functions in atherosclerotic lesion of transgenic mice for candidate risk genes of human coronary heart diseases as inspired by human genomic discoveries. The students involved in this project are expected to work on: (1) analysis of scRNA-seq data using R/Bioconductor packages; (2) Interpretation of the data using pathway and network analysis. Some relevant workflows are available through the &amp;ldquo;Resources&amp;rdquo; page of our lab website at &lt;a href=&#34;https://hanruizhang.github.io/zhanglab/&#34;&gt;https://hanruizhang.github.io/zhanglab/&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Atherosclerosis—a chronic inflammatory disease of the artery wall—is the underlying cause of human coronary heart diseases. Cells within atherosclerotic lesions are heterogeneous and dynamic. Their pathological features have been characterized by histology and flow cytometry and more recently, by bulk-tissue omics profiling. Despite this progress, our knowledge of cell types and their roles in atherogenesis remains incomplete because of masking of differences across cells when using genomic measurement at bulk level. Single-cell RNA sequencing (scRNA-seq) has catalyzed a revolution in understanding of cellular heterogeneity in organ systems and diseases. This project applies scRNA-seq to define the genetic influences on cell subpopulations and functions in atherosclerotic lesion of transgenic mice for candidate risk genes of human coronary heart diseases as inspired by human genomic discoveries. The students involved in this project are expected to work on: (1) analysis of scRNA-seq data using R/Bioconductor packages; (2) Interpretation of the data using pathway and network analysis. Some relevant workflows are available through the &amp;ldquo;Resources&amp;rdquo; page of our lab website at &lt;a href=&#34;https://hanruizhang.github.io/zhanglab/&#34;&gt;https://hanruizhang.github.io/zhanglab/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -62,7 +68,9 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
-      <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;</description>
+      <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -71,7 +79,9 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-measuring-broadband/</guid>
-      <description>&lt;p&gt;The Federal Communications Commission (FCC) and the Census regularly publish data on U.S. Internet availability, performance and use, at granularities from census block to county and state. The project goal is to answer questions based on the available data, such as &amp;ldquo;How reliable is Internet access?&amp;rdquo;, &amp;ldquo;Who is deploying fiber where?&amp;rdquo;, &amp;ldquo;Can we predict reliability of different technologies?&amp;rdquo;, &amp;ldquo;Can we predict the deployment of fiber?&amp;rdquo;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Federal Communications Commission (FCC) and the Census regularly publish data on U.S. Internet availability, performance and use, at granularities from census block to county and state. The project goal is to answer questions based on the available data, such as &amp;ldquo;How reliable is Internet access?&amp;rdquo;, &amp;ldquo;Who is deploying fiber where?&amp;rdquo;, &amp;ldquo;Can we predict reliability of different technologies?&amp;rdquo;, &amp;ldquo;Can we predict the deployment of fiber?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -80,7 +90,9 @@
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-data-science-for-better-health/</guid>
-      <description>&lt;p&gt;Our goal is use a large pool of homecare data (including structured data, free text clinical notes, and recorded patient-provider phone conversations) to build predictive models that help identify patients at risk for poor outcomes (like hospital admission or falls).&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our goal is use a large pool of homecare data (including structured data, free text clinical notes, and recorded patient-provider phone conversations) to build predictive models that help identify patients at risk for poor outcomes (like hospital admission or falls).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -89,7 +101,9 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-technology-transfer-insights-from-data/</guid>
-      <description>&lt;p&gt;CTV’s core mission is to facilitate the transfer of inventions from academic labs to the market for the benefit of society. In a typical year, CTV receives ~400 inventions, completes ~100 licenses and options, and helps form ~20 startups. A good video summary of CTV is here: &lt;a href=&#34;https://vimeo.com/110193999&#34;&gt;https://vimeo.com/110193999&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;CTV’s core mission is to facilitate the transfer of inventions from academic labs to the market for the benefit of society. In a typical year, CTV receives ~400 inventions, completes ~100 licenses and options, and helps form ~20 startups. A good video summary of CTV is here: &lt;a href=&#34;https://vimeo.com/110193999&#34;&gt;https://vimeo.com/110193999&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -117,7 +131,9 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-enhancing-self-directed-learning-opportunities/</guid>
-      <description>&lt;p&gt;Analyze data from one of the following library applications/systems and create visualizations that highlight the most important findings pertaining to the support of self-directed learning:  Vialogues (TC Video Discussion Application), PocketKnowledge (TC Online Archive), DocDel (E-Reserve System), Pressible (Blogging Platform), Library Website and Mobile App.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Analyze data from one of the following library applications/systems and create visualizations that highlight the most important findings pertaining to the support of self-directed learning:  Vialogues (TC Video Discussion Application), PocketKnowledge (TC Online Archive), DocDel (E-Reserve System), Pressible (Blogging Platform), Library Website and Mobile App.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -126,7 +142,9 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
-      <description>&lt;p&gt;Networked systems are ubiquitous in modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Networked systems are ubiquitous in modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -135,7 +153,9 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-healthcare-data-analytics-internship/</guid>
-      <description>&lt;p&gt;Recently Columbia University, Cornell, and NewYork-Presbyterian have agreed to integrate their clinical (healthcare) and business IT systems onto one shared platform called Epic. The motivating factors to move to Epic are to enhance the patient experience, improve and integrate care, and give our physicians an integrated technology platform that supports the mission of an academic medical center. The intern will assist with developing the “operational” analytics capabilities of Columbia University Medical Center including financial, healthcare operations and healthcare quality analytics.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Recently Columbia University, Cornell, and NewYork-Presbyterian have agreed to integrate their clinical (healthcare) and business IT systems onto one shared platform called Epic. The motivating factors to move to Epic are to enhance the patient experience, improve and integrate care, and give our physicians an integrated technology platform that supports the mission of an academic medical center. The intern will assist with developing the “operational” analytics capabilities of Columbia University Medical Center including financial, healthcare operations and healthcare quality analytics.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

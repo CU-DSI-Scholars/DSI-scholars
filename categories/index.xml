@@ -21,7 +21,16 @@
     </item>
     
     <item>
-      <title>info</title>
+      <title>Blog</title>
+      <link>/categories/blog/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Info</title>
       <link>/categories/info/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
@@ -30,11 +39,11 @@
     </item>
     
     <item>
-      <title>Project Fall 2019</title>
-      <link>/categories/project-fall-2019/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <title>Project 2018</title>
+      <link>/categories/project-2018/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/project-fall-2019/</guid>
+      <guid>/categories/project-2018/</guid>
       <description></description>
     </item>
     
@@ -48,20 +57,11 @@
     </item>
     
     <item>
-      <title>Blog</title>
-      <link>/categories/blog/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Project Fall 2019</title>
+      <link>/categories/project-fall-2019/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 2018</title>
-      <link>/categories/project-2018/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/project-2018/</guid>
+      <guid>/categories/project-fall-2019/</guid>
       <description></description>
     </item>
     
