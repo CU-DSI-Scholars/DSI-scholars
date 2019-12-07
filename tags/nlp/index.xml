@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nlp on Columbia DSI Scholars</title>
+    <title>NLP on Columbia DSI Scholars</title>
     <link>/tags/nlp/</link>
-    <description>Recent content in Nlp on Columbia DSI Scholars</description>
+    <description>Recent content in NLP on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
@@ -17,9 +17,7 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
-      <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&amp;rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&amp;rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -37,9 +35,7 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</guid>
-      <description>&lt;p&gt;Through ArXivLab we aim to develop the next generation recommender systems for the scientific literature using statistical machine learning approaches. In collaboration with ArXiv we are currently developing a new scholarly literature browser which will be able to extract knowledge implicit in the mathematical and scientific literature, offer advanced mathematical search capabilities and provide personalized recommendations.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Through ArXivLab we aim to develop the next generation recommender systems for the scientific literature using statistical machine learning approaches. In collaboration with ArXiv we are currently developing a new scholarly literature browser which will be able to extract knowledge implicit in the mathematical and scientific literature, offer advanced mathematical search capabilities and provide personalized recommendations.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -57,9 +53,7 @@
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-project-toxicdocs/</guid>
-      <description>&lt;p&gt;We house the world&amp;rsquo;s largest dataset of once-secret documents on industrial pollution, unleashed from the vaults of corporations like DuPont, Dow, and Monsanto in toxic tort litigation. We are applying data science methods to analyze and render this material useable to a broad audience.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We house the world&amp;rsquo;s largest dataset of once-secret documents on industrial pollution, unleashed from the vaults of corporations like DuPont, Dow, and Monsanto in toxic tort litigation. We are applying data science methods to analyze and render this material useable to a broad audience.&lt;/p&gt;</description>
     </item>
     
     <item>

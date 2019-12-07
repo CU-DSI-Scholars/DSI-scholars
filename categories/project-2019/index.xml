@@ -53,9 +53,7 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</guid>
-      <description>&lt;p&gt;Through ArXivLab we aim to develop the next generation recommender systems for the scientific literature using statistical machine learning approaches. In collaboration with ArXiv we are currently developing a new scholarly literature browser which will be able to extract knowledge implicit in the mathematical and scientific literature, offer advanced mathematical search capabilities and provide personalized recommendations.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Through ArXivLab we aim to develop the next generation recommender systems for the scientific literature using statistical machine learning approaches. In collaboration with ArXiv we are currently developing a new scholarly literature browser which will be able to extract knowledge implicit in the mathematical and scientific literature, offer advanced mathematical search capabilities and provide personalized recommendations.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -82,9 +80,7 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
-      <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -102,9 +98,7 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-enhancing-self-directed-learning-opportunities/</guid>
-      <description>&lt;p&gt;Analyze data from one or more of the following Library Applications/Systems and create visualizations that highlight the most important findings related to our goal of supporting self-directed learning.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Analyze data from one or more of the following Library Applications/Systems and create visualizations that highlight the most important findings related to our goal of supporting self-directed learning.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -131,9 +125,7 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-machine-learning-of-clouds/</guid>
-      <description>&lt;p&gt;The objective is to use new large cloud-resolving simulations to try and better represent cloud processes in coarse-resolution climate models (~100km in horizontal resolution). Those simulations are global (spanning the entire globe) at 2km resolution and 30-minute output. The data will be hosted on google cloud platform (Pangeo) (the data size is about 50TB). We will in particular evaluate the impact of using Constitutional Neural Network (in time and space) and the capacity for out of sample prediction.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The objective is to use new large cloud-resolving simulations to try and better represent cloud processes in coarse-resolution climate models (~100km in horizontal resolution). Those simulations are global (spanning the entire globe) at 2km resolution and 30-minute output. The data will be hosted on google cloud platform (Pangeo) (the data size is about 50TB). We will in particular evaluate the impact of using Constitutional Neural Network (in time and space) and the capacity for out of sample prediction.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -142,9 +134,7 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-measuring-broadband/</guid>
-      <description>&lt;p&gt;The Federal Communications Commission (FCC) and the Census regularly publish data on U.S. Internet availability, performance and use, at granularities from census block to county and state. The project goal is to answer questions based on the available data, such as &amp;ldquo;How reliable is Internet access?&amp;rdquo;, &amp;ldquo;Who is deploying fiber where?&amp;rdquo;, &amp;ldquo;Can we predict reliability of different technologies?&amp;rdquo;, &amp;ldquo;Can we predict the deployment of fiber?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Federal Communications Commission (FCC) and the Census regularly publish data on U.S. Internet availability, performance and use, at granularities from census block to county and state. The project goal is to answer questions based on the available data, such as &amp;ldquo;How reliable is Internet access?&amp;rdquo;, &amp;ldquo;Who is deploying fiber where?&amp;rdquo;, &amp;ldquo;Can we predict reliability of different technologies?&amp;rdquo;, &amp;ldquo;Can we predict the deployment of fiber?&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -171,9 +161,7 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-training-a-deep-neural-network-on-large-scale-brain-imaging-and-cognition-data/</guid>
-      <description>&lt;p&gt;The goal of this project is to develop and validate a deep neural network that predicts a child&amp;rsquo;s emotion and cognition. DSI scholars will implement 3D convolutional neural networks on brain imaging data from thousands of children to predict cognitive, emotional, and socio-developmental variables. Statistical evaluation of the model performance will be conducted. The scalable deep neural network analysis will help find brain underpinnings of cognition and emotion.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The goal of this project is to develop and validate a deep neural network that predicts a child&amp;rsquo;s emotion and cognition. DSI scholars will implement 3D convolutional neural networks on brain imaging data from thousands of children to predict cognitive, emotional, and socio-developmental variables. Statistical evaluation of the model performance will be conducted. The scalable deep neural network analysis will help find brain underpinnings of cognition and emotion.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -182,9 +170,7 @@
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-blockchain-anomaly-detection/</guid>
-      <description>&lt;p&gt;The project has collected a large set of data (&amp;gt;200GB) from a cryptocurrency block chain.  It is developing methods for detecting anomalies in transactions based on newer Social Networks, Graph Analysis and Machine Learning methods. The work involves data cleaning/wrangling and creation and implementation of various algorithms and analyzing the transactions for identifying different set of anomalies and manipulations.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The project has collected a large set of data (&amp;gt;200GB) from a cryptocurrency block chain.  It is developing methods for detecting anomalies in transactions based on newer Social Networks, Graph Analysis and Machine Learning methods. The work involves data cleaning/wrangling and creation and implementation of various algorithms and analyzing the transactions for identifying different set of anomalies and manipulations.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -193,9 +179,7 @@
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-data-science-for-better-health/</guid>
-      <description>&lt;p&gt;Our goal is use a large pool of homecare data (including structured data, free text clinical notes, and recorded patient-provider phone conversations) to build predictive models that help identify patients at risk for poor outcomes (like hospital admission or falls).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our goal is use a large pool of homecare data (including structured data, free text clinical notes, and recorded patient-provider phone conversations) to build predictive models that help identify patients at risk for poor outcomes (like hospital admission or falls).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -213,9 +197,7 @@
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-looking-for-the-weird-in-tess/</guid>
-      <description>&lt;p&gt;Last year one of my graduate students developed a novel algorithm for detecting &amp;ldquo;weird&amp;rdquo; signals in photometric time series, such as those taken by NASA&amp;rsquo;s Kepler Mission and now TESS. An undergraduate students will work in my team to run the algorithm on TESS data, which is just starting to be released publicly (&lt;a href=&#34;https://heasarc.gsfc.nasa.gov/docs/tess/status.html&#34;&gt;https://heasarc.gsfc.nasa.gov/docs/tess/status.html&lt;/a&gt;). We hope to detect strange signatures, possibly including analogs to Tabby&amp;rsquo;s Star, interacting binaries and perhaps even technosignatures.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Last year one of my graduate students developed a novel algorithm for detecting &amp;ldquo;weird&amp;rdquo; signals in photometric time series, such as those taken by NASA&amp;rsquo;s Kepler Mission and now TESS. An undergraduate students will work in my team to run the algorithm on TESS data, which is just starting to be released publicly (&lt;a href=&#34;https://heasarc.gsfc.nasa.gov/docs/tess/status.html&#34;&gt;https://heasarc.gsfc.nasa.gov/docs/tess/status.html&lt;/a&gt;). We hope to detect strange signatures, possibly including analogs to Tabby&amp;rsquo;s Star, interacting binaries and perhaps even technosignatures.&lt;/p&gt;</description>
     </item>
     
     <item>

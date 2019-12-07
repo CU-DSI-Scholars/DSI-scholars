@@ -17,9 +17,7 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-machine-learning-of-clouds/</guid>
-      <description>&lt;p&gt;The objective is to use new large cloud-resolving simulations to try and better represent cloud processes in coarse-resolution climate models (~100km in horizontal resolution). Those simulations are global (spanning the entire globe) at 2km resolution and 30-minute output. The data will be hosted on google cloud platform (Pangeo) (the data size is about 50TB). We will in particular evaluate the impact of using Constitutional Neural Network (in time and space) and the capacity for out of sample prediction.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The objective is to use new large cloud-resolving simulations to try and better represent cloud processes in coarse-resolution climate models (~100km in horizontal resolution). Those simulations are global (spanning the entire globe) at 2km resolution and 30-minute output. The data will be hosted on google cloud platform (Pangeo) (the data size is about 50TB). We will in particular evaluate the impact of using Constitutional Neural Network (in time and space) and the capacity for out of sample prediction.&lt;/p&gt;</description>
     </item>
     
     <item>

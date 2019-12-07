@@ -17,9 +17,7 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</guid>
-      <description>&lt;p&gt;Our lab develops an open-source text mining software called NimbleMiner (&lt;a href=&#34;http://github.com/mtopaz/NimbleMiner&#34;&gt;http://github.com/mtopaz/NimbleMiner&lt;/a&gt;). We will work on improving the software using the latest machine learning techniques.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our lab develops an open-source text mining software called NimbleMiner (&lt;a href=&#34;http://github.com/mtopaz/NimbleMiner&#34;&gt;http://github.com/mtopaz/NimbleMiner&lt;/a&gt;). We will work on improving the software using the latest machine learning techniques.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -46,9 +44,7 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
-      <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -66,9 +62,7 @@
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-data-science-for-better-health/</guid>
-      <description>&lt;p&gt;Our goal is use a large pool of homecare data (including structured data, free text clinical notes, and recorded patient-provider phone conversations) to build predictive models that help identify patients at risk for poor outcomes (like hospital admission or falls).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our goal is use a large pool of homecare data (including structured data, free text clinical notes, and recorded patient-provider phone conversations) to build predictive models that help identify patients at risk for poor outcomes (like hospital admission or falls).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -95,9 +89,7 @@
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</guid>
-      <description>&lt;p&gt;Predicting preterm birth in nulliparous women is challenging and our efforts to develop predictors for that condition from environmental variables produce insufficient classifier accuracy. Recent studies highlight the involvement of common genetic variants in length of pregnancy. This project involves the development of a risk score for preterm birth based on both genetic and environmental attributes.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Predicting preterm birth in nulliparous women is challenging and our efforts to develop predictors for that condition from environmental variables produce insufficient classifier accuracy. Recent studies highlight the involvement of common genetic variants in length of pregnancy. This project involves the development of a risk score for preterm birth based on both genetic and environmental attributes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -115,9 +107,7 @@
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-analysis-pipeline-for-strain-level-microbiome-shotgun-sequencing/</guid>
-      <description>&lt;p&gt;DNA sequence reads from a community of microbial genomes are currently processed without considering sequence variants. The project involves building a processing pipeline of such billions of short reads, identifying closest strains they might belong to, assembling them into specific clones, calling their variants, and analyzing the dynamic nature of these bacterial strains along sampling points.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;DNA sequence reads from a community of microbial genomes are currently processed without considering sequence variants. The project involves building a processing pipeline of such billions of short reads, identifying closest strains they might belong to, assembling them into specific clones, calling their variants, and analyzing the dynamic nature of these bacterial strains along sampling points.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -126,9 +116,7 @@
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-healthcare-data-analytics-internship/</guid>
-      <description>&lt;p&gt;Recently Columbia University, Cornell, and NewYork-Presbyterian have agreed to integrate their clinical (healthcare) and business IT systems onto one shared platform called Epic. The motivating factors to move to Epic are to enhance the patient experience, improve and integrate care, and give our physicians an integrated technology platform that supports the mission of an academic medical center. The intern will assist with developing the “operational” analytics capabilities of Columbia University Medical Center including financial, healthcare operations and healthcare quality analytics.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Recently Columbia University, Cornell, and NewYork-Presbyterian have agreed to integrate their clinical (healthcare) and business IT systems onto one shared platform called Epic. The motivating factors to move to Epic are to enhance the patient experience, improve and integrate care, and give our physicians an integrated technology platform that supports the mission of an academic medical center. The intern will assist with developing the “operational” analytics capabilities of Columbia University Medical Center including financial, healthcare operations and healthcare quality analytics.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -137,9 +125,7 @@
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-human-peri-ictal-single-unit-activity/</guid>
-      <description>&lt;p&gt;Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures.  Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge.  Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and addressing fundamental questions about the activity of different cell classes at seizure initiation.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures.  Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge.  Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and addressing fundamental questions about the activity of different cell classes at seizure initiation.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -148,9 +134,7 @@
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</guid>
-      <description>&lt;p&gt;The quality of biomedical evidence can affect research sustainability, patient safety, and the public&amp;rsquo;s trust in biomedical research. However, often the quality of biomedical evidence remains opaque to the public. It is imperative to improve the transparency of evidence quality. This project aims to leverage the public data sources, including but not limited to The ClinicalTrials.gov, The PubMed database for biomedical literature, The National Health and Nutrition Examination Survey (NHANES) database, and so on, to develop and apply novel data mining and visualization methods for appraising the biomedical research evidence, uncovering implicit biases in clinical research designs at different levels, and presenting this information intuitively to the public.  Students on this project will acquire or hone their skills in data mining, results presentation, and user interface designs and evaluation.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The quality of biomedical evidence can affect research sustainability, patient safety, and the public&amp;rsquo;s trust in biomedical research. However, often the quality of biomedical evidence remains opaque to the public. It is imperative to improve the transparency of evidence quality. This project aims to leverage the public data sources, including but not limited to The ClinicalTrials.gov, The PubMed database for biomedical literature, The National Health and Nutrition Examination Survey (NHANES) database, and so on, to develop and apply novel data mining and visualization methods for appraising the biomedical research evidence, uncovering implicit biases in clinical research designs at different levels, and presenting this information intuitively to the public.  Students on this project will acquire or hone their skills in data mining, results presentation, and user interface designs and evaluation.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -159,9 +143,7 @@
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-visualization-of-continuous-health-data-measurements/</guid>
-      <description>&lt;p&gt;The ubiquity of current smart and IoT devices has the potential to transform healthcare. For example, current devices can measure continuously activity levels, heart rate, blood oxygen levels, and electrocardiogram. Our lab is developing new devices which can measure additional streams of health data which are currently not possible.  The summer project will involve visualization of this entire set of data, machine learning, and multiparametric data analysis to extract trends that match health outcomes.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The ubiquity of current smart and IoT devices has the potential to transform healthcare. For example, current devices can measure continuously activity levels, heart rate, blood oxygen levels, and electrocardiogram. Our lab is developing new devices which can measure additional streams of health data which are currently not possible.  The summer project will involve visualization of this entire set of data, machine learning, and multiparametric data analysis to extract trends that match health outcomes.&lt;/p&gt;</description>
     </item>
     
   </channel>
