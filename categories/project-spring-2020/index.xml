@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Spring 2020 on Columbia DSI Scholars</title>
+    <link>/categories/project-spring-2020/</link>
+    <description>Recent content in Project Spring 2020 on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/project-spring-2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Advanced data science methods to improve spinal electrical stimulation for paralysis</title>
+      <link>/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</guid>
+      <description>&lt;p&gt;We aim to augment recovery in spinal cord (SC) injured patients. Electrical stimulation of the SC can facilitate recovery, but the mechanisms are not yet understood. One knowledge gap lies in the exact pathways that are recruited by stimulation. To close this gap, we have tested the effects of SC stimulation in people undergoing clinically indicated surgery. By testing the distribution and size of muscle responses to SC stimulation, we can infer which circuits are activated. We are also examining how SC injury changes those responses. We propose to use Bayesian methods to understand the  interaction between muscle responses to stimulation and the MRI indicated pattern of damage. The project will involve construction of models linking multiple data modalities that predict muscle activity, followed by the modification of these models to account for patterns of damage. Construction of such models would enable a deeper understanding of SC stimulation  leading to more effective stimulation paradigms.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Combining in vivo calcium imaging datasets and deep learning networks for video analysis (DeepLabCut) to identify novel brain regulators of fine motor learning in mice</title>
+      <link>/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</guid>
+      <description>&lt;p&gt;Our goal is to use deep learning networks to understand which neurons in the brain encode fine motor movements in mice. We collected large datasets entailing calcium imaging data of active neurons and high-resolution videos when mice perform motor tasks. We want to use recent advances in deep learning to (1) estimate the poses of mouse body parts at a high spatiotemporal resolution (2) extract behaviorally-relevant information and (3) align them with neural activity data. Behavioral video analysis is made possible by transfer learning, the ability to take a network that was trained on a task with a large supervised dataset and utilize it on a small supervised dataset. This has been used e.g. in a human pose–estimation algorithm called DeeperCut. Recently, such algorithms were tailored for use in the laboratory in a Python-based toolbox known as DeepLabCut, providing a tool for high-throughput behavioral video analysis. The project has three parts: (1) Train neural networks through frame extraction and posture annotation using DeepLabCut, (2) Apply network to large datasets using DeepLabCut and extract behaviorally-relevant information using Python/Matlab custom-written scripts, (3) Align behavioral data with neural activity data and perform cross-correlations using Python or Matlab custom-written scripts. Ultimately this project will allow to understand the relationship between motor function and neural activity in specific cell-types in the brain. The data science tools acquired by the student have multiple applications, either in circuit neuroscience (e.g. animal behavior, deep brain imaging) or in computer vision (eg animal or human pose/posture estimation).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Community-Based Environmental Impact Tracking for Bauxite Mining in Guinea</title>
+      <link>/2020/01/project-community-based-environmental-impact-tracking-for-bauxite-mining-in-guinea/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-community-based-environmental-impact-tracking-for-bauxite-mining-in-guinea/</guid>
+      <description>&lt;p&gt;This position is associated with a new research project co-funded by the Earth Institute Frontiers seed funding and the UN Development Programme in Guinea. Its goal is to develop remote sensing technologies to track environmental impact from bauxite mining in rural communities and to help establish protocols for their use. We seek a research assistant who can (1)  develop image classification to be applied to satellite imagery to determine extent and abundance of bauxite dust within specific communities in the Boké region (2 develop methods to make classified images available for download to smartphones in the field and (3) adapt existing application technologies to allow users in the field to upload field photographs and locations of potential impacts they identify. The resulting map would represent a composite of satellite imaged areas of impact verified in the field and documentation of other areas of impact not visible by satellite but already identified in the field.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating accurate and equitable data resources for precision public health using machine learning tools</title>
+      <link>/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</guid>
+      <description>&lt;p&gt;The objective of this project is to construct linkages across disparate public health data systems using machine learning tools and assess them for bias and equitable representation of subpopulations defined by demographic and socioeconomic factors.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Discovering latent structure in human information demand</title>
+      <link>/2020/01/project-discovering-latent-structure-in-human-information-demand/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-discovering-latent-structure-in-human-information-demand/</guid>
+      <description>&lt;p&gt;All complex behaviors require animals to coordinate their perception and actions. To successfully achieve a goal, a decision maker (DM; be it a human, animal, or artificial agent) must determine which action to take and, faced with much more information than she can fully process, must decide which source of information to consult to best guide that action. But in contrast with natural tasks, traditional research has focused primarily on action selection but eschewed the process of information demand. We aim to fill this gap by investigating the factors that motivate people to become curious and seek information.  We are collecting behavioral data from a large sample of participants on a battery of online tasks testing various aspects of curiosity, and seek a DSI scholar who can quantitatively analyze the data. The scholar will be supervised by two co-PIs: Jacqueline Gottlieb, in Columbia&amp;rsquo;s Neuroscience Department and Zuckerman Institute, and Vince Dorie, in the DSI. The scholar will obtain training with advanced data analytic methods and the opportunity to co-author what is expected to be a high impact paper with interdisciplinary appeal in economics, neuroscience, and psychology.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Discovery of genes associated with progression of bladder cancer</title>
+      <link>/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
+      <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Efficient representations and prediction of multidimensional time series data</title>
+      <link>/2020/01/project-efficient-representations-and-prediction-of-multidimensional-time-series-data/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-efficient-representations-and-prediction-of-multidimensional-time-series-data/</guid>
+      <description>&lt;p&gt;Big data with temporal dependence brings unique challenges in effective prediction and data analysis. The complex high-dimensional interactions between observations in such data brings unique challenges which standard off-the-shelf machine learning algorithms cannot handle. Even basic tasks of clustering, visualization and identification of recurring patterns are difficult.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Evaluating Reconstructions of the Ocean Carbon Sink </title>
+      <link>/2020/01/project-evaluating-reconstructions-of-the-ocean-carbon-sink/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-evaluating-reconstructions-of-the-ocean-carbon-sink/</guid>
+      <description>&lt;p&gt;The ocean significantly mitigates climate change by absorbing fossil fuel carbon from the atmosphere. Cumulatively since the preindustrial times, the ocean has absorbed 40% of emissions. To understand past changes, diagnose ongoing changes, and to predict the future behavior of the ocean carbon sink, we must understand its spatial and temporal variability. However, the ocean is poorly sampled and so we cannot do this from direct measurements.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Examining The Synergistic Effects Of Cannabis And Prescription Opioid Policies On Chronic Pain, Opioid Prescribing, And Opioid Overdose</title>
+      <link>/2020/01/project-examining-the-synergistic-effects-of-cannabis-and-prescription-opioid-policies-on-chronic-pain-opioid-prescribing-and-opioid-overdose/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-examining-the-synergistic-effects-of-cannabis-and-prescription-opioid-policies-on-chronic-pain-opioid-prescribing-and-opioid-overdose/</guid>
+      <description>&lt;p&gt;The funded study examines policies that regulate the PO supply, including those related to prescription drug monitoring programs, pain management clinic laws, and prescribing limits. In this supplement, we add a set of complementary opioid policies that affect access to treatment for opioid use disorder (e.g., Medicaid coverage of medication for opioid use disorder). Two challenges emerge when studying the impact of PO policies: (1) the&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Group Decision Making and Communication in Limitless Space</title>
+      <link>/2020/01/project-group-decision-making-and-communication-in-limitless-space/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-group-decision-making-and-communication-in-limitless-space/</guid>
+      <description>&lt;p&gt;The introduction of a new technology provides individuals and companies with a large, unowned, and limitless space for communication and organization. How do individuals use or misuse this space in their decision making? Using the online discussion platform Reddit, we seek to analyze what types of subreddits thrive those with depth of discussion or topical complexity or those with cohesive contours? Are there high status actors who are particularly good at recognizing topic gaps which need new subreddits? By merging the Reddit archives with meta data from the public platform, we will be able to observe the rise and fall of online discussions.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>High Quality Video Streaming over Wireless</title>
+      <link>/2020/01/project-high-quality-video-streaming-over-wireless/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-high-quality-video-streaming-over-wireless/</guid>
+      <description>&lt;p&gt;The amount of video content that is being distributed over the Internet is increasing. Video providers rely on HTTP adaptive streaming approaches to deliver video clips to users. Complementary to the video provider, the service provider must determine the priority of each network stream. As part of the project, students will explore wireless network assisted strategies for http adaptive streaming by use of TOS/DSCP. This includes using machine-learning tools to analyze network video traffic and the design of reinforcement learning algorithms to improve users&amp;rsquo;  video Quality of Experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Identifying disease subtypes by comorbidity clustering using structured data from electronic health records</title>
+      <link>/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</guid>
+      <description>&lt;p&gt;A major challenge to implementing precision medicine arises from patients who share a clinical diagnosis but have different biological causes of disease. Disease subtypes that arise from obscure etiological heterogeneity create inefficiencies in healthcare and attenuate power in clinical trials and research studies. The ability to stratify patients into biologically homogenous subgroups improves the potential for translational research by allowing us to design more powerful studies.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Inclusionary Zoning in Paris and New York: Antidote to Gentrification or Trojan&#39;s Horse?</title>
+      <link>/2020/01/project-inclusionary-zoning-in-paris-and-new-york-antidote-to-gentrification-or-trojans-horse/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-inclusionary-zoning-in-paris-and-new-york-antidote-to-gentrification-or-trojans-horse/</guid>
+      <description>&lt;p&gt;The research project examines how Inclusionary Zoning (IZ) impacts the housing markets of neighborhoods where it is implemented. The study focuses on the impacts of IZ in New York City and Paris, two cities at the forefront of adopting IZ in their respective countries.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Influence of past brain state on future perception</title>
+      <link>/2020/01/project-influence-of-past-brain-state-on-future-perception/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-influence-of-past-brain-state-on-future-perception/</guid>
+      <description>&lt;p&gt;We are constantly exposed to inputs from the outside world, but we do not perceive everything we are exposed to. Some inputs are rather weak: we might perceive them at one point in time, but not at another. The state of our brains right before we receive such sensory inputs influences whether or not we perceive them. Brain oscillations are proposed to play a key role in setting these brain states; however, how exactly these brain rhythms influence our perception remains a topic of active research.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Measuring Tax Evasion using Twitter Feeds</title>
+      <link>/2020/01/project-measuring-tax-evasion-using-twitter-feeds/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-measuring-tax-evasion-using-twitter-feeds/</guid>
+      <description>&lt;p&gt;Tax evasion is one of the main sources of informal economic activity and has drastic effects on different macroeconomic variables. However, due to various reasons, it is difficult to directly measure the extent of tax evasion. This project aims to develop a novel way of measuring aggregate tax evasion in national economies using Twitter feeds. To this end, using carefully selected keywords in different national languages, we will collect country and regional level data from Twitter feeds in different frequencies for a large cross section of economies and then construct a measure of tax evasion using the collected data. In addition to fully describing the collected dataset, the project will also examine the evolution of the constructed series.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Startup Cartography Project: Data and quality support</title>
+      <link>/2020/01/project-startup-cartography-project-data-and-quality-support/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-startup-cartography-project-data-and-quality-support/</guid>
+      <description>&lt;p&gt;We are looking for talented data scientists to support the data processing and learning in the Startup Cartography Project and its follow-on project, the Artificial Intelligence in Entrepreneurship Lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Consequences of Language Policing</title>
+      <link>/2020/01/project-the-consequences-of-language-policing/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-the-consequences-of-language-policing/</guid>
+      <description>&lt;p&gt;Contestation over language use is an unavoidable feature of American politics. Yet, despite the rise of language policing on both sides of the aisle, we know surprisingly little about how ordinary citizens respond to norms governing language use from both in-group and out-group members. Following Munger (2017), I would like to leverage social media platforms such as Reddit and Twitter to evaluate whether injunctions to use particular words (e.g., undocumented immigrant, Latinx) are effective. I plan to use an experimental approach, where conditional on mentions of &amp;ldquo;illegal alien&amp;rdquo; or &amp;ldquo;Hispanic/Latino,&amp;rdquo; users are randomly assigned to receive a &amp;ldquo;language correction.&amp;rdquo; Outcome measures would include subsequent use of corrected terms, valence of user responses, and upvoting/liking/RTing behavior.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Evolution of the Smallest Galaxies in the Universe</title>
+      <link>/2020/01/project-the-evolution-of-the-smallest-galaxies-in-the-universe/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-the-evolution-of-the-smallest-galaxies-in-the-universe/</guid>
+      <description>&lt;p&gt;The Milky Way swarms with orbiting satellite dwarf galaxies of astounding diversity. Some galaxies continue to form stars while others stop and dim in brightness. In computer simulations, the evolutionary history of each dwarf galaxy that leads to these differences is known. Galaxies can lose gas and stop forming stars due to early exposure to stellar radiation (reionization), interaction with the hot gas of the host (ram-pressure stripping), or gravitational interactions with the host/dwarf galaxies (tidal effects).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using machine learning and topology to phenotype mouse behavior</title>
+      <link>/2020/01/project-using-machine-learning-and-topology-to-phenotype-mouse-behavior/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-using-machine-learning-and-topology-to-phenotype-mouse-behavior/</guid>
+      <description>&lt;p&gt;A central issue facing systems neuroscience is defining the rich naturalistic behavioral repertoire that mice engage in under psychiatrically relevant situations. Recent advances in deep learning (e.g., DeepLabCut) have made frame by frame detailed pose estimation possible. However, this dense behavioral data requires new techniques for defining the ethogram (full description of behavior). To date, researchers have used frequency based time series approaches to tackle this problem, with significant limitations. An alternative approach would be to take advantage of new topology methods (persistent homology and directed algebraic topology) to characterize the shapes formed by mouse limb trajectories. Such an approach would have broad application in systems neuroscience. For this project, the student will use machine learning to label animal body parts, then topology to characterize the ethogram and compare the results to existing approaches.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

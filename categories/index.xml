@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Announcement</title>
       <link>/categories/announcement/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/announcement/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Info</title>
       <link>/categories/info/</link>
-      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/info/</guid>
       <description></description>
@@ -62,6 +62,24 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/project-fall-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Spring 2020</title>
+      <link>/categories/project-spring-2020/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/project-spring-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Summer 2020</title>
+      <link>/categories/project-summer-2020/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/project-summer-2020/</guid>
       <description></description>
     </item>
     
