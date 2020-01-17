@@ -25,17 +25,6 @@
     </item>
     
     <item>
-      <title>Deep learning for tracking single molecules and proteins</title>
-      <link>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</guid>
-      <description>&lt;p&gt;This project will be focused on creating a deep learning framework for tracking individual molecules and proteins as they move within a cell under various conditions. Using total internal reflection (TIRF) microscopy, we have accumulated more than 10 million trajectories over dozens of experimental preparations with differences in both the imaging approaches as well as the biological context. In our experiments we have captured particles under a wide variety of conditions including increased protein expression level, and a range of drug concentrations. Our biggest challenge is being able to stably track the movement of a particle as it passes by other particles or groups of particles, and to do this in a way that generalizes over novel conditions. The Data Science Institute Scholar chosen for this project would work with scientists in the Javitch laboratory and others across the Columbia campus to conceive of an approach for efficiently and effectively tracking particles. The resulting work would be of great interest to an increasing number of scientists working in this field who currently rely on methods based on feature engineering that are often inaccurate or inflexible compared to modern deep learning methods.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Undergraduate Summer Interns in Statistical Research (Department of Statistics)</title>
       <link>/2020/01/undergraduate-summer-interns-in-statistical-research-department-of-statistics/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
@@ -102,6 +91,28 @@ the internship will be during the first summer session (May 26, 2020 - July 2nd,
     </item>
     
     <item>
+      <title>Data For Good: Data Analysis for a Just Transition in Energy for Thermal Comfort</title>
+      <link>/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</guid>
+      <description>&lt;p&gt;42% of New York City greenhouse gas emissions result from on-site fossil fuel combustion in residential and commercial buildings; space heating is, by far, the majority contributor. Both New York State and NYC have policies to dramatically reduce emissions that will require a transformation in the way buildings are heated, including major efforts in existing buildings. This transition is inextricably linked to existing energy equity issues that we believe significantly overlap across NYC (and elsewhere). These include unreliable heating in the winter, susceptibility to extreme heat (an increasing occurrence with climate change) and struggles to afford energy needs. Various known data sources for NYC are available, though they are disparate and have not been analyzed holistically. Further, we believe there are potential engineering and policy solutions to these challenges. In this project, the DSI scholar will access (and search for where not yet known to qSEL researchers) relevant data sets, analyze those data sets to identify communities exposed to all or a subset of these issues, and assist qSEL researchers in developing models to evaluate possible solutions. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep learning for tracking single molecules and proteins</title>
+      <link>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</guid>
+      <description>&lt;p&gt;This project will be focused on creating a deep learning framework for tracking individual molecules and proteins as they move within a cell under various conditions. Using total internal reflection (TIRF) microscopy, we have accumulated more than 10 million trajectories over dozens of experimental preparations with differences in both the imaging approaches as well as the biological context. In our experiments we have captured particles under a wide variety of conditions including increased protein expression level, and a range of drug concentrations. Our biggest challenge is being able to stably track the movement of a particle as it passes by other particles or groups of particles, and to do this in a way that generalizes over novel conditions. The Data Science Institute Scholar chosen for this project would work with scientists in the Javitch laboratory and others across the Columbia campus to conceive of an approach for efficiently and effectively tracking particles. The resulting work would be of great interest to an increasing number of scientists working in this field who currently rely on methods based on feature engineering that are often inaccurate or inflexible compared to modern deep learning methods.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Discovering latent structure in human information demand</title>
       <link>/2020/01/project-discovering-latent-structure-in-human-information-demand/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
@@ -141,6 +152,17 @@ the internship will be during the first summer session (May 26, 2020 - July 2nd,
       
       <guid>/2020/01/project-examining-the-synergistic-effects-of-cannabis-and-prescription-opioid-policies-on-chronic-pain-opioid-prescribing-and-opioid-overdose/</guid>
       <description>&lt;p&gt;The funded study examines policies that regulate the PO supply, including those related to prescription drug monitoring programs, pain management clinic laws, and prescribing limits. In this supplement, we add a set of complementary opioid policies that affect access to treatment for opioid use disorder (e.g., Medicaid coverage of medication for opioid use disorder). Two challenges emerge when studying the impact of PO policies: (1) the&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Heating Decarbonization Model Data Visualization and Analysis</title>
+      <link>/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</guid>
+      <description>&lt;p&gt;The Quadracci Sustainable Engineering Lab (qSEL) has several research efforts related to the low-carbon energy transition, including pathways to decarbonize building space heating. Recent work has produced large model data sets that have supported recent journal articles. Several maps have been produced using QGIS and data has been made public, but user functionality is limited. While we continue to build on these efforts, we also want to make our results and data available more widely for other researchers and policymakers. The large data sets (10 years of hourly data for more than 72,000 census tracts and six scenarios) and different spatial aggregations (e.g. states and electricity planning/operating regions) present challenges. In this project, the DSI Scholar would first work with qSEL researchers to develop an interactive web interface to display maps of relevant analyses and allow users to produce time series data from the underlying models. Additional research would include further analysis at a regional level – likely New York State – to refine the current model based on additional intraregional and energy source data. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

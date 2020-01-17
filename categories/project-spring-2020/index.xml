@@ -6,21 +6,10 @@
     <description>Recent content in Project Spring 2020 on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/project-spring-2020/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Deep learning for tracking single molecules and proteins</title>
-      <link>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</guid>
-      <description>&lt;p&gt;This project will be focused on creating a deep learning framework for tracking individual molecules and proteins as they move within a cell under various conditions. Using total internal reflection (TIRF) microscopy, we have accumulated more than 10 million trajectories over dozens of experimental preparations with differences in both the imaging approaches as well as the biological context. In our experiments we have captured particles under a wide variety of conditions including increased protein expression level, and a range of drug concentrations. Our biggest challenge is being able to stably track the movement of a particle as it passes by other particles or groups of particles, and to do this in a way that generalizes over novel conditions. The Data Science Institute Scholar chosen for this project would work with scientists in the Javitch laboratory and others across the Columbia campus to conceive of an approach for efficiently and effectively tracking particles. The resulting work would be of great interest to an increasing number of scientists working in this field who currently rely on methods based on feature engineering that are often inaccurate or inflexible compared to modern deep learning methods.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Advanced data science methods to improve spinal electrical stimulation for paralysis</title>
@@ -67,12 +56,34 @@
     </item>
     
     <item>
-      <title>Data For Good Project: The Consequences of Language Policing</title>
+      <title>Data For Good: Data Analysis for a Just Transition in Energy for Thermal Comfort</title>
+      <link>/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</guid>
+      <description>&lt;p&gt;42% of New York City greenhouse gas emissions result from on-site fossil fuel combustion in residential and commercial buildings; space heating is, by far, the majority contributor. Both New York State and NYC have policies to dramatically reduce emissions that will require a transformation in the way buildings are heated, including major efforts in existing buildings. This transition is inextricably linked to existing energy equity issues that we believe significantly overlap across NYC (and elsewhere). These include unreliable heating in the winter, susceptibility to extreme heat (an increasing occurrence with climate change) and struggles to afford energy needs. Various known data sources for NYC are available, though they are disparate and have not been analyzed holistically. Further, we believe there are potential engineering and policy solutions to these challenges. In this project, the DSI scholar will access (and search for where not yet known to qSEL researchers) relevant data sets, analyze those data sets to identify communities exposed to all or a subset of these issues, and assist qSEL researchers in developing models to evaluate possible solutions. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data For Good: The Consequences of Language Policing</title>
       <link>/2020/01/project-the-consequences-of-language-policing/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-the-consequences-of-language-policing/</guid>
       <description>&lt;p&gt;Contestation over language use is an unavoidable feature of American politics. Yet, despite the rise of language policing on both sides of the aisle, we know surprisingly little about how ordinary citizens respond to norms governing language use from both in-group and out-group members. Following Munger (2017), I would like to leverage social media platforms such as Reddit and Twitter to evaluate whether injunctions to use particular words (e.g., undocumented immigrant, Latinx) are effective. I plan to use an experimental approach, where conditional on mentions of &amp;ldquo;illegal alien&amp;rdquo; or &amp;ldquo;Hispanic/Latino,&amp;rdquo; users are randomly assigned to receive a &amp;ldquo;language correction.&amp;rdquo; Outcome measures would include subsequent use of corrected terms, valence of user responses, and upvoting/liking/RTing behavior.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep learning for tracking single molecules and proteins</title>
+      <link>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</guid>
+      <description>&lt;p&gt;This project will be focused on creating a deep learning framework for tracking individual molecules and proteins as they move within a cell under various conditions. Using total internal reflection (TIRF) microscopy, we have accumulated more than 10 million trajectories over dozens of experimental preparations with differences in both the imaging approaches as well as the biological context. In our experiments we have captured particles under a wide variety of conditions including increased protein expression level, and a range of drug concentrations. Our biggest challenge is being able to stably track the movement of a particle as it passes by other particles or groups of particles, and to do this in a way that generalizes over novel conditions. The Data Science Institute Scholar chosen for this project would work with scientists in the Javitch laboratory and others across the Columbia campus to conceive of an approach for efficiently and effectively tracking particles. The resulting work would be of great interest to an increasing number of scientists working in this field who currently rely on methods based on feature engineering that are often inaccurate or inflexible compared to modern deep learning methods.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -139,6 +150,17 @@
       
       <guid>/2020/01/project-group-decision-making-and-communication-in-limitless-space/</guid>
       <description>&lt;p&gt;The introduction of a new technology provides individuals and companies with a large, unowned, and limitless space for communication and organization. How do individuals use or misuse this space in their decision making? Using the online discussion platform Reddit, we seek to analyze what types of subreddits thrive those with depth of discussion or topical complexity or those with cohesive contours? Are there high status actors who are particularly good at recognizing topic gaps which need new subreddits? By merging the Reddit archives with meta data from the public platform, we will be able to observe the rise and fall of online discussions.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Heating Decarbonization Model Data Visualization and Analysis</title>
+      <link>/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</guid>
+      <description>&lt;p&gt;The Quadracci Sustainable Engineering Lab (qSEL) has several research efforts related to the low-carbon energy transition, including pathways to decarbonize building space heating. Recent work has produced large model data sets that have supported recent journal articles. Several maps have been produced using QGIS and data has been made public, but user functionality is limited. While we continue to build on these efforts, we also want to make our results and data available more widely for other researchers and policymakers. The large data sets (10 years of hourly data for more than 72,000 census tracts and six scenarios) and different spatial aggregations (e.g. states and electricity planning/operating regions) present challenges. In this project, the DSI Scholar would first work with qSEL researchers to develop an interactive web interface to display maps of relevant analyses and allow users to produce time series data from the underlying models. Additional research would include further analysis at a regional level – likely New York State – to refine the current model based on additional intraregional and energy source data. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
