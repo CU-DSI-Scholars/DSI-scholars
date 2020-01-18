@@ -135,6 +135,17 @@ the internship will be during the first summer session (May 26, 2020 - July 2nd,
     </item>
     
     <item>
+      <title>Decoding the human genome with interpretable deep learning </title>
+      <link>/2020/01/project-decoding-the-human-genome-with-interpretable-deep-learning/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-decoding-the-human-genome-with-interpretable-deep-learning/</guid>
+      <description>&lt;p&gt;The function for much of the 3 billion letters in the human genome remain to be understood. Advances in DNA sequencing technology have generated enormous amount of data, yet we don’t have the tool to extract rules of how the genome works. Deep learning holds great potential in decoding the genome, in particular due to the digital nature of DNA sequences and the ability to handle large data sets. However, like many other applications, the interpretability of deep learning models hampers its ability to help understand the genome. We are developing deep learning architectures embedded with the principles of gene regulation and we will be leveraging billions of existing measurements of gene activity to learn a mechanistic model of gene regulation in human cells.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Deep learning for tracking single molecules and proteins</title>
       <link>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
