@@ -36,6 +36,17 @@
     </item>
     
     <item>
+      <title>COSMOS Smart Intersections, Cloud-Connected Vehicles</title>
+      <link>/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</guid>
+      <description>&lt;p&gt;Research on: (i) COSMOS cloud connected vehicles, (ii) Monitoring of traffic intersections, using bird’s eye cameras, supported by ultra-low latency computational/communications hubs; (iii) Simultaneous video-based tracking of cars and pedestrians, and prediction of movement based on long-term observations of the intersection; (iv) Real-time computational processing, using deep learning, utilizing GPUs, in support of COSMOS applications; (v) Sub-10ms latency communication between all vehicles and the edge cloud computational/communication hub, to be used in support of autonomous vehicle navigation. The research is performed using the pilot node of project COSMOS infrastructure &lt;a href=&#34;https://cosmos-lab.org/&#34;&gt;https://cosmos-lab.org/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Combining in vivo calcium imaging datasets and deep learning networks for video analysis (DeepLabCut) to identify novel brain regulators of fine motor learning in mice</title>
       <link>/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
