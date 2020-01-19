@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Econometrics on Columbia DSI Scholars</title>
+    <link>/tags/econometrics/</link>
+    <description>Recent content in Econometrics on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/econometrics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Measuring Tax Evasion using Twitter Feeds</title>
+      <link>/2020/01/project-measuring-tax-evasion-using-twitter-feeds/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-measuring-tax-evasion-using-twitter-feeds/</guid>
+      <description>&lt;p&gt;Tax evasion is one of the main sources of informal economic activity and has drastic effects on different macroeconomic variables. However, due to various reasons, it is difficult to directly measure the extent of tax evasion. This project aims to develop a novel way of measuring aggregate tax evasion in national economies using Twitter feeds. To this end, using carefully selected keywords in different national languages, we will collect country and regional level data from Twitter feeds in different frequencies for a large cross section of economies and then construct a measure of tax evasion using the collected data. In addition to fully describing the collected dataset, the project will also examine the evolution of the constructed series.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

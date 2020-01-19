@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sas on Columbia DSI Scholars</title>
+    <link>/tags/sas/</link>
+    <description>Recent content in Sas on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linking State Medicaid and Clinical Registry Data to Assess Long-Term Outcomes for Children with Congenital Heart Disease</title>
+      <link>/2020/01/project-linking-state-medicaid-and-clinical-registry-data-to-assess-long-term-outcomes-for-children-with-congenital-heart-disease/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-linking-state-medicaid-and-clinical-registry-data-to-assess-long-term-outcomes-for-children-with-congenital-heart-disease/</guid>
+      <description>&lt;p&gt;Scholars would assist with Aim 1 of a new R01 working with our lab and the Health Evaluation and Analytics Laboratory at NYU Wagner.&lt;/p&gt;
+
+&lt;p&gt;Congenital heart defects (CHDs) are the most common and resource intensive birth defects managed in the United States (US), affecting ~40,000 births per year in the US. (1) One-year mortality for these children is &amp;gt;10%.  It is &amp;gt;30% for children requiring neonatal surgery. (2) Yet there are currently limited data on long-term outcomes and health expenditures for these children.  Due to marked heterogeneity in disease subtypes and treatments among CHD patients, the power of single-center studies is limited.  Multi-center data are siloed in diagnostic or procedural registries or in-patient databases, or are the product of individual investigations.  Administrative data may lack clinical precision, as ICD codes for this population are not based on physiology.  Further, data on costs and value typically rely on cost-to-charge ratio based costs, which are highly influenced by hospital accounting.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,21 @@
     <description>Recent content in Simulation on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Evolution of the Smallest Galaxies in the Universe</title>
+      <link>/2020/01/project-the-evolution-of-the-smallest-galaxies-in-the-universe/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-the-evolution-of-the-smallest-galaxies-in-the-universe/</guid>
+      <description>&lt;p&gt;The Milky Way swarms with orbiting satellite dwarf galaxies of astounding diversity. Some galaxies continue to form stars while others stop and dim in brightness. In computer simulations, the evolutionary history of each dwarf galaxy that leads to these differences is known. Galaxies can lose gas and stop forming stars due to early exposure to stellar radiation (reionization), interaction with the hot gas of the host (ram-pressure stripping), or gravitational interactions with the host/dwarf galaxies (tidal effects).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Integrated Traffic-Communication Simulator for COSMOS testbed</title>

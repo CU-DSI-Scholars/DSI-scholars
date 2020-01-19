@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markov Models on Columbia DSI Scholars</title>
+    <link>/tags/markov-models/</link>
+    <description>Recent content in Markov Models on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/markov-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistical analyses of Siamese fighting fish aggressive behavior</title>
+      <link>/2020/01/project-statistical-analyses-of-siamese-fighting-fish-aggressive-behavior/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-statistical-analyses-of-siamese-fighting-fish-aggressive-behavior/</guid>
+      <description>&lt;p&gt;Project: analyze behavior of Siamese fighting fish (Betta splendens) as part of a collaboration between the Bendesky and Cunningham labs of the Zuckerman Institute (NeuroTheory Center)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

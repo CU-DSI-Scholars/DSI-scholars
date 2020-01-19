@@ -553,6 +553,12 @@
   </url>
   
   <url>
+    <loc>/tags/aging/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/algorithms/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -561,6 +567,12 @@
   <url>
     <loc>/categories/announcement/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/app-development/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -595,7 +607,7 @@
   
   <url>
     <loc>/tags/bayesian/</loc>
-    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -613,7 +625,7 @@
   
   <url>
     <loc>/tags/biostatistics/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -630,6 +642,12 @@
   </url>
   
   <url>
+    <loc>/tags/c/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/c&#43;&#43;/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -642,8 +660,26 @@
   </url>
   
   <url>
+    <loc>/tags/cities/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/climate/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cloud-computing/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/clustering/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -668,6 +704,12 @@
   <url>
     <loc>/tags/continuous-monitoring/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cosmos/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -703,7 +745,7 @@
   
   <url>
     <loc>/tags/data-for-good/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -721,7 +763,19 @@
   
   <url>
     <loc>/tags/deep-learning/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-nets/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/deeplabcut/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -732,8 +786,26 @@
   </url>
   
   <url>
+    <loc>/tags/econometrics/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/edav/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/education/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/entrepreneurship/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -775,7 +847,7 @@
   
   <url>
     <loc>/tags/finance/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -788,6 +860,12 @@
   <url>
     <loc>/tags/genetics/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gis/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -811,7 +889,7 @@
   
   <url>
     <loc>/tags/health/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -840,13 +918,19 @@
   </url>
   
   <url>
+    <loc>/tags/image-classification/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/image-data/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/info/</loc>
+    <loc>/tags/imputation/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -858,8 +942,14 @@
   </url>
   
   <url>
+    <loc>/tags/info/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/java/</loc>
-    <lastmod>2019-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -895,7 +985,7 @@
   
   <url>
     <loc>/tags/machine-learning/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -906,14 +996,26 @@
   </url>
   
   <url>
+    <loc>/tags/markov-models/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/matlab/</loc>
-    <lastmod>2019-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/microbiome/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/molecular-biology/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -925,7 +1027,7 @@
   
   <url>
     <loc>/tags/natural-language-processing/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -937,13 +1039,13 @@
   
   <url>
     <loc>/tags/neuroscience/</loc>
-    <lastmod>2019-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/nlp/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -954,7 +1056,19 @@
   </url>
   
   <url>
+    <loc>/tags/omics/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/page/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pose-estimation/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -962,6 +1076,12 @@
   <url>
     <loc>/post/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/precision-medicine/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1002,14 +1122,26 @@
   </url>
   
   <url>
+    <loc>/tags/psychology/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/public-health/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/python/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/r/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1021,7 +1153,13 @@
   
   <url>
     <loc>/tags/record-linkage/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sas/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1039,13 +1177,19 @@
   
   <url>
     <loc>/tags/signal-processing/</loc>
-    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/simulation/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/social-media/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1093,19 +1237,19 @@
   
   <url>
     <loc>/tags/sql/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/stata/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/statistics/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1129,13 +1273,13 @@
   
   <url>
     <loc>/tags/sustainability/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1153,7 +1297,7 @@
   
   <url>
     <loc>/tags/time-series/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1170,14 +1314,50 @@
   </url>
   
   <url>
+    <loc>/tags/unsupervised-learning/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/video-analysis/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/video-processing/</loc>
     <lastmod>2018-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/tags/video-streaming/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/visualization/</loc>
     <lastmod>2019-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/web-application-development/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/web-development/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/web-scraping/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
