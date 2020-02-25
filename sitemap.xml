@@ -957,13 +957,13 @@
   </url>
   
   <url>
-    <loc>/categories/info/</loc>
+    <loc>/tags/info/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/info/</loc>
+    <loc>/categories/info/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1024,7 +1024,7 @@
   
   <url>
     <loc>/tags/matlab/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1198,7 +1198,7 @@
   
   <url>
     <loc>/tags/signal-processing/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1270,7 +1270,7 @@
   
   <url>
     <loc>/tags/statistics/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,21 @@
     <description>Recent content in Matlab on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Understanding Orientation</title>
+      <link>/2020/02/project-understanding-orientation/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/project-understanding-orientation/</guid>
+      <description>&lt;p&gt;Orienting to a novel event is a rapid shift in attention to a change in one’s surroundings that appears to be a fundamental biological mechanism for survival and essentially functions as a &amp;ldquo;what is it&amp;rdquo; detector. Orienting appears to play a central role in human learning and development, as it facilitates adaptation to an ever-changing environment.  Thus, orienting can be viewed as an allocational mechanism in which attention sifts through the complex multi-sensory world and selects relevant stimuli for further processing.  The selection of stimuli for further processing has implications for what will be encoded into memories and how strong those memory traces will be.  The ability to differentiate between relevant and irrelevant input, to inhibit the processing of irrelevant stimuli, and to sustain attention requires control, and inhibitory processes that improve with age.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>A system for exploratory data analysis in neuroscience</title>
