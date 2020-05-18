@@ -6,10 +6,23 @@
     <description>Recent content in Announcement on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/announcement/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Call for Student Applications - Summer 2020</title>
+      <link>/2020/05/call-for-student-applications-dsi-scholars-summer-2020/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/call-for-student-applications-dsi-scholars-summer-2020/</guid>
+      <description>&lt;p&gt;Given the COVID-19 environment and the increasing requests for additional support for projects, the Data Science Institute is pleased to announce a second wave of summer research projects through the Data Science Scholars and Data For Good programs. Please note that this is on a compressed timeline and student applications are due Friday is May 22nd, 2020 at 5pm Eastern.&lt;/p&gt;
+
+&lt;p&gt;The goal of the DSI Scholars Program is to engage Columbia University&amp;rsquo;s undergraduate and master&amp;rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
+
+&lt;p&gt;The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &amp;ldquo;real world&amp;rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Supplementary Call for Student Applications - Spring-Summer 2020</title>

@@ -1,0 +1,776 @@
+
+
+  
+    
+  
+
+
+  
+
+
+
+
+
+  
+
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Hugo 0.34 with theme Tranquilpeak 0.4.3-BETA">
+    <title>Advanced Supervised Topic Models</title>
+    <meta name="author" content="Columbia Data Science Institute (DSI) Scholars Program">
+    <meta name="keywords" content="">
+
+    <link rel="icon" href="http://res.cloudinary.com/tz33cu/image/upload/c_scale,w_150/v1516739017/DSI-scholars/Data-Science-Avatar_qkn5fd.png">
+    
+
+    
+    <meta name="description" content="In this project we&rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.
+
+">
+    <meta property="og:description" content="In this project we&rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.
+
+">
+    <meta property="og:type" content="blog">
+    <meta property="og:title" content="Advanced Supervised Topic Models">
+    <meta property="og:url" content="/2020/05/project-advanced-supervised-topic-models/">
+    <meta property="og:site_name" content="Columbia DSI Scholars">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Columbia DSI Scholars">
+    <meta name="twitter:description" content="In this project we&rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.
+
+">
+    
+      <meta name="twitter:creator" content="@dsi_columbia">
+    
+    
+
+    
+    
+
+    
+      <meta property="og:image" content="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png">
+    
+
+    
+      <meta property="og:image" content="https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png">
+    
+    
+    
+
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="../../../css/style-jsjn0006wyhpyzivf6yceb31gvpjatbcs3qzjvlumobfnugccvobqwxnnaj8.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="4">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="../../../">Columbia DSI Scholars</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="http://datascience.columbia.edu/">
+    
+    
+    
+      
+        <img class="header-picture" src="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="4">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="../../../#about">
+          <img class="sidebar-profile-picture" src="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Columbia Data Science Institute (DSI) Scholars Program</h4>
+        
+          <h5 class="sidebar-profile-bio">The DSI Scholars Program is to engage and support undergraduate and master students in participating data science related research with Columbia faculty. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../page/faq2020">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question-circle"></i>
+      
+      <span class="sidebar-button-desc">FAQ</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-university"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../#about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-info"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://forms.gle/FirneensvXgZGE6HA">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-mortar-board"></i>
+      
+      <span class="sidebar-button-desc">Apply Now</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../page/contact-info">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-paper-plane"></i>
+      
+      <span class="sidebar-button-desc">Contact Info</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/CU-DSI-Scholars">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/DSI_Columbia">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="4"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Advanced Supervised Topic Models
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2020-05-18T00:00:00Z">
+        
+  May 18, 2020
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="../../../categories/project-summer-2020-2">Project Summer 2020-2</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>In this project we&rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.</p>
+
+<p></p>
+
+<h2 id="outcome">Outcome</h2>
+
+<p>Student/s will have the opportunity to learn about latent variable models of text and gain hands on experiences working with them.</p>
+
+<h2 id="learning-opportunity">Learning opportunity</h2>
+
+<p>Through this project student/s will be able to learn about various topic models.</p>
+
+<div class="alert success ">
+  <p>One selected candidate will receive a stipend via the DSI Scholars program. Amount is subject to available funding.</p>
+</div>
+
+<h2 id="faculty-advisor">Faculty Advisor</h2>
+
+<ul>
+<li>Professor: <a href="http://www.columbia.edu/~kk3161/">Kriste Krstovski</a></li>
+<li>Department/School: DSI/CBS</li>
+<li>Location: Morningside</li>
+</ul>
+
+<h2 id="project-timeline">Project Timeline</h2>
+
+<ul>
+<li>Anticipated workload: 15-20hrs/week for 6 weeks</li>
+<li>Duration: Summer period: June-August</li>
+</ul>
+
+<h2 id="candidate-requirements">Candidate requirements</h2>
+
+<ul>
+<li>Skills required: Programming experiences with Python. We are seeking student/s that have prior exposure to machine learning and natural language processing either through a course and/or research project. Ideal candidate would have prior working experience with topic models. Experience working with large datasets is a definite plus.</li>
+<li>Additional domain knowledge: NLP, ML, probabilistic modeling (ideally)</li>
+<li>Student eligibility: <del>freshman</del>, <del>sophomore</del>, <del>junior</del>, <del>senior</del>, master&rsquo;s</li>
+</ul>
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="../../../tags/summer-2020-2/">Summer 2020-2</a>
+
+                  </div>
+                
+              
+            
+            
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/" data-tooltip="Analysis and processing of GIS data in assessing international development">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2020/05/project-advanced-supervised-topic-models/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2020/05/project-advanced-supervised-topic-models/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2020/05/project-advanced-supervised-topic-models/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+
+            
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2020 Columbia Data Science Institute (DSI) Scholars Program. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="4">
+        
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/" data-tooltip="Analysis and processing of GIS data in assessing international development">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2020/05/project-advanced-supervised-topic-models/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2020/05/project-advanced-supervised-topic-models/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2020/05/project-advanced-supervised-topic-models/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="4">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=%2F2020%2F05%2Fproject-advanced-supervised-topic-models%2F">
+          <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=%2F2020%2F05%2Fproject-advanced-supervised-topic-models%2F">
+          <i class="fa fa-twitter"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=%2F2020%2F05%2Fproject-advanced-supervised-topic-models%2F">
+          <i class="fa fa-google-plus"></i><span>Share on Google&#43;</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Columbia Data Science Institute (DSI) Scholars Program</h4>
+    
+      <div id="about-card-bio">The DSI Scholars Program is to engage and support undergraduate and master students in participating data science related research with Columbia faculty. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Columbia University DSI
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        New York, NY
+      </div>
+    
+  </div>
+</div>
+
+    <div id="algolia-search-modal" class="modal-container">
+  <div class="modal">
+    <div class="modal-header">
+      <span class="close-button"><i class="fa fa-close"></i></span>
+      <a href="https://algolia.com" target="_blank" rel="noopener" class="searchby-algolia text-color-light link-unstyled">
+        <span class="searchby-algolia-text text-color-light text-small">by</span>
+        <img class="searchby-algolia-logo" src="https://www.algolia.com/static_assets/images/press/downloads/algolia-light.svg">
+      </a>
+      <i class="search-icon fa fa-search"></i>
+      <form id="algolia-search-form">
+        <input type="text" id="algolia-search-input" name="search"
+          class="form-control input--large search-input" placeholder="Search" />
+      </form>
+    </div>
+    <div class="modal-body">
+      <div class="no-result text-color-light text-center">no post found</div>
+      <div class="results">
+        
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/05/project-advanced-supervised-topic-models/">
+                <h3 class="media-heading">Advanced Supervised Topic Models</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>In this project we&rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/">
+                <h3 class="media-heading">Analysis and processing of GIS data in assessing international development</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>We need someone with strong data wrangling capabilities, to be able to determine quick ways to clean and merge data. The format of the data is spatial (GIS) but it could also be manipulated in tabular format.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/">
+                <h3 class="media-heading">Assessing the relationship between sleep and cardiometabolic risk in NYC women</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>This was a 1-year prospective observational study to examine the relation between sleep and cardiometabolic risk among 506 women in the NYC area.  All of the data has been collected and entered int a Redcap database, has been cleaned, and is ready for analysis.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/05/project-bacterial-and-viral-genomic-epidemiology/">
+                <h3 class="media-heading">Bacterial and viral genomic epidemiology</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Bacterial and viral genomic epidemiology. Ongoing and new projects.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/05/project-covid-19-and-community-how-will-columbia-cope/">
+                <h3 class="media-heading">COVID-19 and community: How will Columbia cope?</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>The goal of this project is to mitigate the risks of commuting for Columbia employees when they will have to return to work after the state-on-pause is over from May 15. As Columbia has been preparing for ramping up labs with an emphasis on social distancing within campus, higher risks could arise when the employees have to commute between home and campus. It is estimated approximately one in five residents in NYC might have been infected by COVID-19 . With the fear of exposing to coronavirus, commuters have shifted from transit to individual cars or bikes, leading to a significant drop in subway ridership , more speeding tickets , surging bike traffic , and more crashes with cyclist injuries . On the other hand, low-income people of color, who have been hit the hardest by the coronavirus , could be in a more disadvantaged position after the state “un-pause”, because: (1) they lack accessibility to other travel modes than public transit; (2) they usually live far from their workplace for an affordable accommodation and have to commute a long way; and (3) many of them take night shift but most transportation options are shut down at night after the pandemic. This project aims to address travel safety and equity concerns of essential workers and provide a responsible and safe transportation solution for the Columbia community.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/05/call-for-student-applications-dsi-scholars-summer-2020/">
+                <h3 class="media-heading">Call for Student Applications - Summer 2020</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Given the COVID-19 environment and the increasing requests for additional support for projects, the Data Science Institute is pleased to announce a second wave of summer research projects through the Data Science Scholars and Data For Good programs. Please note that this is on a compressed timeline and student applications are due Friday is May 22nd, 2020 at 5pm Eastern.</p>
+
+<p>The goal of the DSI Scholars Program is to engage Columbia University&rsquo;s undergraduate and master&rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.</p>
+
+<p>The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &ldquo;real world&rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.</p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/05/project-characterizing-network-behavior-in-phishing-emails/">
+                <h3 class="media-heading">Characterizing network behavior in phishing emails</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Targeted phishing is one of the most common and damaging cybersecurity attacks, incurring tens of billions of dollars in losses a year. In order to increase the success of the phishing emails, attackers often craft emails that impersonate real people or legitimate online services, and send them from networks and hosting sites that have a high reputation. This leads major email security services, including Outlook and Gmail, to often misclassify these emails as legitimate.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/05/project-the-cost-of-human-rights-violations/">
+                <h3 class="media-heading">Data For Good Project: The Cost of Human Rights Violations</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Under United States securities laws corporations must disclose material risks to their operations. Human rights issues, especially in authoritarian countries, rarely show up in the information that data providers offer to investors, in part due to the risks to those subject to these abuses. The result is a dearth of data on human rights materiality and the tendency of investors to overlook human rights risks of the companies that they finance.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/05/project-data-for-good-stick2prep---analysis-of-adherence-for-pre-exposure-prophylaxis-prep-against-hiv-in-observational-and-rct-interventions/">
+                <h3 class="media-heading">Data For Good: Stick2PrEP - Analysis of adherence for Pre-exposure prophylaxis (PrEP) against HIV in observational and RCT interventions</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Pre-exposure prophylaxis (PrEP) has been shown to be extremely effective in reducing the acquisition of HIV.  However, achieving the population-level impact of this intervention is contingent on the identification and linkage of appropriate candidates and ongoing engagement in care throughout periods of high and low risk.  Pre-COVID we had a suite of active studies looking at engagement in PrEP care.  These included  our PrEP database, Get2PrEP (studying individuals with positive STI tests but no PrEP engagement), Back2PrEP (evaluating patients who dropped out of care and re-engaged), Lost2PrEP (survey of individuals who have been out of care for 6 months or more), and our major study Stick2PrEP2.0 a randomized-control trial of text message based feedback to individuals receiving PrEP care and evaluating engagement.  At the time of the COVID pandemic we had just started to perform interim analysis on Stick2PrEP2.0.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/05/project-environmental-effects-on-job-mobility/">
+                <h3 class="media-heading">Environmental effects on Job mobility</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>We are studing the level and nature of gender and racial discrimination at different stages of the employment relationship among US firms, and how the environment affects job mobility of employees. We are using company reviews data and employee resume databases from employment-related websites.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+      </div>
+    </div>
+    <div class="modal-footer">
+      <p class="results-count text-medium"
+         data-message-zero="no post found"
+         data-message-one="1 post found"
+         data-message-other="{n} posts found">
+         130 posts found
+      </p>
+    </div>
+  </div>
+</div>
+    
+  
+    
+    <div id="cover" style="background-image:url('http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/CU-bk2_qu8fsv.jpg');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="../../../js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
+
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+  
+    
+  
+
+
+
+    
+  </body>
+</html>
+

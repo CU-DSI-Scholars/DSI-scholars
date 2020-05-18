@@ -6,10 +6,243 @@
     <description>Recent content in Posts on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advanced Supervised Topic Models</title>
+      <link>/2020/05/project-advanced-supervised-topic-models/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-advanced-supervised-topic-models/</guid>
+      <description>&lt;p&gt;In this project we&amp;rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analysis and processing of GIS data in assessing international development</title>
+      <link>/2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/</guid>
+      <description>&lt;p&gt;We need someone with strong data wrangling capabilities, to be able to determine quick ways to clean and merge data. The format of the data is spatial (GIS) but it could also be manipulated in tabular format.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Assessing the relationship between sleep and cardiometabolic risk in NYC women</title>
+      <link>/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</guid>
+      <description>&lt;p&gt;This was a 1-year prospective observational study to examine the relation between sleep and cardiometabolic risk among 506 women in the NYC area.  All of the data has been collected and entered int a Redcap database, has been cleaned, and is ready for analysis.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bacterial and viral genomic epidemiology</title>
+      <link>/2020/05/project-bacterial-and-viral-genomic-epidemiology/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-bacterial-and-viral-genomic-epidemiology/</guid>
+      <description>&lt;p&gt;Bacterial and viral genomic epidemiology. Ongoing and new projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 and community: How will Columbia cope?</title>
+      <link>/2020/05/project-covid-19-and-community-how-will-columbia-cope/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-covid-19-and-community-how-will-columbia-cope/</guid>
+      <description>&lt;p&gt;The goal of this project is to mitigate the risks of commuting for Columbia employees when they will have to return to work after the state-on-pause is over from May 15. As Columbia has been preparing for ramping up labs with an emphasis on social distancing within campus, higher risks could arise when the employees have to commute between home and campus. It is estimated approximately one in five residents in NYC might have been infected by COVID-19 . With the fear of exposing to coronavirus, commuters have shifted from transit to individual cars or bikes, leading to a significant drop in subway ridership , more speeding tickets , surging bike traffic , and more crashes with cyclist injuries . On the other hand, low-income people of color, who have been hit the hardest by the coronavirus , could be in a more disadvantaged position after the state “un-pause”, because: (1) they lack accessibility to other travel modes than public transit; (2) they usually live far from their workplace for an affordable accommodation and have to commute a long way; and (3) many of them take night shift but most transportation options are shut down at night after the pandemic. This project aims to address travel safety and equity concerns of essential workers and provide a responsible and safe transportation solution for the Columbia community.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Call for Student Applications - Summer 2020</title>
+      <link>/2020/05/call-for-student-applications-dsi-scholars-summer-2020/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/call-for-student-applications-dsi-scholars-summer-2020/</guid>
+      <description>&lt;p&gt;Given the COVID-19 environment and the increasing requests for additional support for projects, the Data Science Institute is pleased to announce a second wave of summer research projects through the Data Science Scholars and Data For Good programs. Please note that this is on a compressed timeline and student applications are due Friday is May 22nd, 2020 at 5pm Eastern.&lt;/p&gt;
+
+&lt;p&gt;The goal of the DSI Scholars Program is to engage Columbia University&amp;rsquo;s undergraduate and master&amp;rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
+
+&lt;p&gt;The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &amp;ldquo;real world&amp;rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Characterizing network behavior in phishing emails</title>
+      <link>/2020/05/project-characterizing-network-behavior-in-phishing-emails/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-characterizing-network-behavior-in-phishing-emails/</guid>
+      <description>&lt;p&gt;Targeted phishing is one of the most common and damaging cybersecurity attacks, incurring tens of billions of dollars in losses a year. In order to increase the success of the phishing emails, attackers often craft emails that impersonate real people or legitimate online services, and send them from networks and hosting sites that have a high reputation. This leads major email security services, including Outlook and Gmail, to often misclassify these emails as legitimate.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data For Good Project: The Cost of Human Rights Violations</title>
+      <link>/2020/05/project-the-cost-of-human-rights-violations/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-the-cost-of-human-rights-violations/</guid>
+      <description>&lt;p&gt;Under United States securities laws corporations must disclose material risks to their operations. Human rights issues, especially in authoritarian countries, rarely show up in the information that data providers offer to investors, in part due to the risks to those subject to these abuses. The result is a dearth of data on human rights materiality and the tendency of investors to overlook human rights risks of the companies that they finance.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data For Good: Stick2PrEP - Analysis of adherence for Pre-exposure prophylaxis (PrEP) against HIV in observational and RCT interventions</title>
+      <link>/2020/05/project-data-for-good-stick2prep---analysis-of-adherence-for-pre-exposure-prophylaxis-prep-against-hiv-in-observational-and-rct-interventions/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-data-for-good-stick2prep---analysis-of-adherence-for-pre-exposure-prophylaxis-prep-against-hiv-in-observational-and-rct-interventions/</guid>
+      <description>&lt;p&gt;Pre-exposure prophylaxis (PrEP) has been shown to be extremely effective in reducing the acquisition of HIV.  However, achieving the population-level impact of this intervention is contingent on the identification and linkage of appropriate candidates and ongoing engagement in care throughout periods of high and low risk.  Pre-COVID we had a suite of active studies looking at engagement in PrEP care.  These included  our PrEP database, Get2PrEP (studying individuals with positive STI tests but no PrEP engagement), Back2PrEP (evaluating patients who dropped out of care and re-engaged), Lost2PrEP (survey of individuals who have been out of care for 6 months or more), and our major study Stick2PrEP2.0 a randomized-control trial of text message based feedback to individuals receiving PrEP care and evaluating engagement.  At the time of the COVID pandemic we had just started to perform interim analysis on Stick2PrEP2.0.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Environmental effects on Job mobility</title>
+      <link>/2020/05/project-environmental-effects-on-job-mobility/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-environmental-effects-on-job-mobility/</guid>
+      <description>&lt;p&gt;We are studing the level and nature of gender and racial discrimination at different stages of the employment relationship among US firms, and how the environment affects job mobility of employees. We are using company reviews data and employee resume databases from employment-related websites.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Machine-learning based methods to extract river flow information from satellite imagery</title>
+      <link>/2020/05/project-machine-learning-based-methods-to-extract-river-flow-information-from-satellite-imagery/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-machine-learning-based-methods-to-extract-river-flow-information-from-satellite-imagery/</guid>
+      <description>&lt;p&gt;Humanity thrives along major rivers – this is as true now as it was ages ago. Our dependence on rivers for agriculture and electricity, as well as the need to control its flow because of our proximity, has  resulted in dramatic changes to the nature of the rivers. What were once great perennial rivers are now mere trickles during the summer months. This puts the livelihood of many people, especially poor farmers, in jeopardy. How can we monitor and document changes to the flow through rivers over time? Since river gauge measurements are rare or non-existent, any way in which we can use freely available satellite imagery (Landsat, Sentinel) to determine the changes in flow patterns of rivers over time would be extremely useful. One such tool is Rivamap – it uses OpenCV to analyze satellite imagery to extract information about rivers, especially for large rivers. What about smaller ones – it does not seem to work as well. In this project, the student(s) will have to develop machine-learning based methods  (or extend the capabilities of Rivamap) to study satellite images to extract information about the path and dimensions of rivers of different flow rates and flow patterns. Comparison with ground-truth data will be needed.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Meal timing and circadian rest-activity rhythms in relation to cardiometabolic outcomes</title>
+      <link>/2020/05/project-meal-timing-and-circadian-rest-activity-rhythms-in-relation-to-cardiometabolic-outcomes/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-meal-timing-and-circadian-rest-activity-rhythms-in-relation-to-cardiometabolic-outcomes/</guid>
+      <description>&lt;p&gt;I am conducting studies on meal timing and circadian rest-activity rhythms in relation to cardiometabolic outcomes. Sample sizes of my studies range from n=100 to n=16,000.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mobilization nationalist frames in response to COVID-19: NLP Analysis</title>
+      <link>/2020/05/project-mobilization-nationalist-frames-in-response-to-covid-19-nlp-analysis/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-mobilization-nationalist-frames-in-response-to-covid-19-nlp-analysis/</guid>
+      <description>&lt;p&gt;We are trying to understand how COVID mobilized nationalist frames of references around the world. We will do this by using NLP techniques and analyze newspaper article from before and during the COVID crisis for a groups of maybe 30 countries.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multilanguage analysis of book titles</title>
+      <link>/2020/05/project-multilanguage-analysis-of-book-titles/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-multilanguage-analysis-of-book-titles/</guid>
+      <description>&lt;p&gt;data visualization, statistics, and analysis of translation entries online. More details will be furnished upon request.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multilanguage analysis of search results</title>
+      <link>/2020/05/project-multilanguage-analysis-of-search-results/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-multilanguage-analysis-of-search-results/</guid>
+      <description>&lt;p&gt;The talent students will be given search entries, topics, or terms and will be required to analyze the algorithms of search results across various engines, languages.  More information and details upon request.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Phenotyping COVID-19 patients using NLP and clinical notes</title>
+      <link>/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</guid>
+      <description>&lt;p&gt;Our lab is using clinical notes to phenotype COVID patient outcomes. The aim is to better understand the sequela of COVID-19 from clinical notes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Social media echo chambers enhancing anxiety and depression: the effects of COVID19</title>
+      <link>/2020/05/project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19/</guid>
+      <description>&lt;p&gt;The question we ask is whether online echo-chambers on social media networks enhance the anxiety and depression of individuals during the COVID19 outbreak. More specifically we want to measure the intensity of the communication about COVID19 within the echo-chamber of individuals on Twitter and investigate the impact on their subsequent tweets in terms of the level of anxiety and signs of depressive language in their Tweets.  We measure echo-chambers by the number of users in the social network that tweeted about COVID19. We build on an extensive dataset of Twitter users for whom we have identified a large number of demographic and geographic variables (such as the gender, age, ethnicity, location by state, political affiliation) as well as their social network.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistical analysis of radiation dose parameters for interventional neuroradiology procedures</title>
+      <link>/2020/05/project-statistical-analysis-of-radiation-dose-parameters-for-interventional-neuroradiology-procedures/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-statistical-analysis-of-radiation-dose-parameters-for-interventional-neuroradiology-procedures/</guid>
+      <description>&lt;p&gt;From May 2018 to September 2019, we prospectively recorded radiation exposure parameters for 634 neuro-procedures performed at a single, academic medical center. Procedures were performed with a biplane angiographic system.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template matching and image processing in educational development</title>
+      <link>/2020/05/project-template-matching-and-image-processing-in-educational-development/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-template-matching-and-image-processing-in-educational-development/</guid>
+      <description>&lt;p&gt;Template-matching, image-processing&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Twitter sentiment in NYC parks after COVID-19</title>
+      <link>/2020/05/project-twitter-sentiment-in-nyc-parks-after-covid-19/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-twitter-sentiment-in-nyc-parks-after-covid-19/</guid>
+      <description>&lt;p&gt;During the period 2017-2019 the Earth Institute Urban Design Lab (UDL) in collaboration with  Data Science faculty and students was engaged in a studio of Twitter-based sentiment analysis that explored correlation of indicators of “well-being” within New York City parks in comparison with outside, published as “Twitter sentiment in New York City parks as measure of well-being” in Landscape and Urban Planning Volume 189, September 2019, Pages 235-246.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using machine learning identify trends in HIV incidence, treatment disruption and risk factors in the PHIA multi-country population-based HIV Impact Assessment survey</title>
+      <link>/2020/05/project-using-machine-learning-identify-trends-in-hiv-incidence-treatment-disruption-and-risk-factors-in-the-phia-multi-country-population-based-hiv-impact-assessment-survey/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-using-machine-learning-identify-trends-in-hiv-incidence-treatment-disruption-and-risk-factors-in-the-phia-multi-country-population-based-hiv-impact-assessment-survey/</guid>
+      <description>&lt;p&gt;The PHIA project is a multi-country population-based HIV Impact Assessment survey which has interviewed and tested for HIV over 450,000 people of all ages in Africa. We are also currently conducting a second round of surveys in many countries, and hope to use best practices in big data management to generate a combined dataset across all countries. We want to combine this data with environmental, mobility and social media data and then use machine learning to identify trends in HIV incidence, treatment disruption and risk factors. We would also be interested in looking at other ways to use environmental data to predict potential zoonotic outbreaks.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Supplementary Call for Student Applications - Spring-Summer 2020</title>

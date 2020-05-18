@@ -6,10 +6,21 @@
     <description>Recent content in Finance on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data For Good Project: The Cost of Human Rights Violations</title>
+      <link>/2020/05/project-the-cost-of-human-rights-violations/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-the-cost-of-human-rights-violations/</guid>
+      <description>&lt;p&gt;Under United States securities laws corporations must disclose material risks to their operations. Human rights issues, especially in authoritarian countries, rarely show up in the information that data providers offer to investors, in part due to the risks to those subject to these abuses. The result is a dearth of data on human rights materiality and the tendency of investors to overlook human rights risks of the companies that they finance.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Efficient representations and prediction of multidimensional time series data</title>
