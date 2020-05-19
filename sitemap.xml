@@ -745,7 +745,7 @@
   
   <url>
     <loc>/tags/biostatistics/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -942,6 +942,12 @@
   </url>
   
   <url>
+    <loc>/tags/epidemiology/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/exodusters/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1028,6 +1034,12 @@
   <url>
     <loc>/tags/history/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hiv/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1290,8 +1302,14 @@
   </url>
   
   <url>
+    <loc>/tags/redcap/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/sas/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1316,6 +1334,12 @@
   <url>
     <loc>/tags/simulation/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sleep/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1381,7 +1405,7 @@
   
   <url>
     <loc>/tags/statistics/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1405,6 +1429,12 @@
   
   <url>
     <loc>/tags/summer-2020-2/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/survey-data/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

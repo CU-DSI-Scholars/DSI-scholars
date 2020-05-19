@@ -6,10 +6,21 @@
     <description>Recent content in Statistics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Assessing the relationship between sleep and cardiometabolic risk in NYC women</title>
+      <link>/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</guid>
+      <description>&lt;p&gt;This was a 1-year prospective observational study to examine the relation between sleep and cardiometabolic risk among 506 women in the NYC area. All of the data has been collected and entered in a Redcap database, has been cleaned, and is ready for analysis.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Understanding Orientation</title>

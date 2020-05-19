@@ -104,7 +104,7 @@
     <item>
       <title>Biostatistics</title>
       <link>/tags/biostatistics/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/biostatistics/</guid>
       <description></description>
@@ -372,6 +372,15 @@
     </item>
     
     <item>
+      <title>Epidemiology</title>
+      <link>/tags/epidemiology/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/epidemiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exodusters</title>
       <link>/tags/exodusters/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
@@ -503,6 +512,15 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiv</title>
+      <link>/tags/hiv/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hiv/</guid>
       <description></description>
     </item>
     
@@ -813,9 +831,18 @@
     </item>
     
     <item>
+      <title>Redcap</title>
+      <link>/tags/redcap/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/redcap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sas</title>
       <link>/tags/sas/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/sas/</guid>
       <description></description>
@@ -854,6 +881,15 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleep</title>
+      <link>/tags/sleep/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sleep/</guid>
       <description></description>
     </item>
     
@@ -950,7 +986,7 @@
     <item>
       <title>Statistics</title>
       <link>/tags/statistics/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/statistics/</guid>
       <description></description>
@@ -989,6 +1025,15 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/summer-2020-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey Data</title>
+      <link>/tags/survey-data/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/survey-data/</guid>
       <description></description>
     </item>
     
