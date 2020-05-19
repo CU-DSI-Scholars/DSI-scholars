@@ -6,10 +6,76 @@
     <description>Recent content in Nlp on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advanced Supervised Topic Models</title>
+      <link>/2020/05/project-advanced-supervised-topic-models/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-advanced-supervised-topic-models/</guid>
+      <description>&lt;p&gt;In this project we&amp;rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Environmental effects on Job mobility</title>
+      <link>/2020/05/project-environmental-effects-on-job-mobility/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-environmental-effects-on-job-mobility/</guid>
+      <description>&lt;p&gt;We are studing the level and nature of gender and racial discrimination at different stages of the employment relationship among US firms, and how the environment affects job mobility of employees. We are using company reviews data and employee resume databases from employment-related websites.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multilanguage analysis of book titles</title>
+      <link>/2020/05/project-multilanguage-analysis-of-book-titles/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-multilanguage-analysis-of-book-titles/</guid>
+      <description>&lt;p&gt;data visualization, statistics, and analysis of translation entries online. More details will be furnished upon request.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multilanguage analysis of search results</title>
+      <link>/2020/05/project-multilanguage-analysis-of-search-results/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-multilanguage-analysis-of-search-results/</guid>
+      <description>&lt;p&gt;The talent students will be given search entries, topics, or terms and will be required to analyze the algorithms of search results across various engines, languages.  More information and details upon request.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Phenotyping COVID-19 patients using NLP and clinical notes</title>
+      <link>/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</guid>
+      <description>&lt;p&gt;Our lab is using clinical notes to phenotype COVID patient outcomes. The aim is to better understand the sequela of COVID-19 from clinical notes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Social media echo chambers enhancing anxiety and depression: the effects of COVID-19</title>
+      <link>/2020/05/project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19/</guid>
+      <description>&lt;p&gt;The question we ask is whether online echo-chambers on social media networks enhance the anxiety and depression of individuals during the COVID19 outbreak. More specifically we want to measure the intensity of the communication about COVID-19 within the echo-chamber of individuals on Twitter and investigate the impact on their subsequent tweets in terms of the level of anxiety and signs of depressive language in their Tweets.  We measure echo-chambers by the number of users in the social network that tweeted about COVID-19. We build on an extensive dataset of Twitter users for whom we have identified a large number of demographic and geographic variables (such as the gender, age, ethnicity, location by state, political affiliation) as well as their social network.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Data For Good: The Consequences of Language Policing</title>

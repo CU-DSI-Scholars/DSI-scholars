@@ -744,6 +744,12 @@
   </url>
   
   <url>
+    <loc>/tags/bioinformatics/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/biostatistics/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -830,6 +836,18 @@
   <url>
     <loc>/tags/cosmos/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/covid/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/covid-19/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -996,6 +1014,12 @@
   </url>
   
   <url>
+    <loc>/tags/genomics/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/gis/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1064,6 +1088,12 @@
   <url>
     <loc>/tags/image-data/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/image-processing/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1164,6 +1194,12 @@
   </url>
   
   <url>
+    <loc>/tags/multilanguage/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/natural-language-processing/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1183,7 +1219,7 @@
   
   <url>
     <loc>/tags/nlp/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1206,6 +1242,12 @@
   </url>
   
   <url>
+    <loc>/tags/population-genetics/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/pose-estimation/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1220,6 +1262,12 @@
   <url>
     <loc>/tags/precision-medicine/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/prep/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1290,6 +1338,12 @@
   </url>
   
   <url>
+    <loc>/tags/radiology/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/random-projection/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1314,8 +1368,20 @@
   </url>
   
   <url>
+    <loc>/tags/satellite/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/satellite-data/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sentiment-analysis/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1368,6 +1434,12 @@
   </url>
   
   <url>
+    <loc>/tags/spatial-data/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/spatial-statistics/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1393,7 +1465,7 @@
   
   <url>
     <loc>/tags/sql/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1440,6 +1512,12 @@
   </url>
   
   <url>
+    <loc>/tags/survey-design/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/sustainability/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1452,8 +1530,20 @@
   </url>
   
   <url>
+    <loc>/tags/template-matching/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/tensorflow/</loc>
     <lastmod>2019-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tentative/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1466,6 +1556,18 @@
   <url>
     <loc>/tags/time-series/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/topic-models/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/twitter/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

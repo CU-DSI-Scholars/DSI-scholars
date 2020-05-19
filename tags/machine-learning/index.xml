@@ -12,12 +12,56 @@
     
     
     <item>
+      <title>Advanced Supervised Topic Models</title>
+      <link>/2020/05/project-advanced-supervised-topic-models/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-advanced-supervised-topic-models/</guid>
+      <description>&lt;p&gt;In this project we&amp;rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Characterizing network behavior in phishing emails</title>
+      <link>/2020/05/project-characterizing-network-behavior-in-phishing-emails/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-characterizing-network-behavior-in-phishing-emails/</guid>
+      <description>&lt;p&gt;Targeted phishing is one of the most common and damaging cybersecurity attacks, incurring tens of billions of dollars in losses a year. In order to increase the success of the phishing emails, attackers often craft emails that impersonate real people or legitimate online services, and send them from networks and hosting sites that have a high reputation. This leads major email security services, including Outlook and Gmail, to often misclassify these emails as legitimate.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Data For Good Project: The Cost of Human Rights Violations</title>
       <link>/2020/05/project-the-cost-of-human-rights-violations/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-the-cost-of-human-rights-violations/</guid>
       <description>&lt;p&gt;Under United States securities laws corporations must disclose material risks to their operations. Human rights issues, especially in authoritarian countries, rarely show up in the information that data providers offer to investors, in part due to the risks to those subject to these abuses. The result is a dearth of data on human rights materiality and the tendency of investors to overlook human rights risks of the companies that they finance.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Environmental effects on Job mobility</title>
+      <link>/2020/05/project-environmental-effects-on-job-mobility/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-environmental-effects-on-job-mobility/</guid>
+      <description>&lt;p&gt;We are studing the level and nature of gender and racial discrimination at different stages of the employment relationship among US firms, and how the environment affects job mobility of employees. We are using company reviews data and employee resume databases from employment-related websites.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Machine-learning based methods to extract river flow information from satellite imagery</title>
+      <link>/2020/05/project-machine-learning-based-methods-to-extract-river-flow-information-from-satellite-imagery/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-machine-learning-based-methods-to-extract-river-flow-information-from-satellite-imagery/</guid>
+      <description>&lt;p&gt;Humanity thrives along major rivers – this is as true now as it was ages ago. Our dependence on rivers for agriculture and electricity, as well as the need to control its flow because of our proximity, has  resulted in dramatic changes to the nature of the rivers. What were once great perennial rivers are now mere trickles during the summer months. This puts the livelihood of many people, especially poor farmers, in jeopardy. How can we monitor and document changes to the flow through rivers over time? Since river gauge measurements are rare or non-existent, any way in which we can use freely available satellite imagery (Landsat, Sentinel) to determine the changes in flow patterns of rivers over time would be extremely useful. One such tool is Rivamap – it uses OpenCV to analyze satellite imagery to extract information about rivers, especially for large rivers. What about smaller ones – it does not seem to work as well. In this project, the student(s) will have to develop machine-learning based methods  (or extend the capabilities of Rivamap) to study satellite images to extract information about the path and dimensions of rivers of different flow rates and flow patterns. Comparison with ground-truth data will be needed.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

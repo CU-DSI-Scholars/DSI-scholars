@@ -102,6 +102,15 @@
     </item>
     
     <item>
+      <title>Bioinformatics</title>
+      <link>/tags/bioinformatics/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Biostatistics</title>
       <link>/tags/biostatistics/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
@@ -206,6 +215,24 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/cosmos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covid</title>
+      <link>/tags/covid/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covid 19</title>
+      <link>/tags/covid-19/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/covid-19/</guid>
       <description></description>
     </item>
     
@@ -453,6 +480,15 @@
     </item>
     
     <item>
+      <title>Genomics</title>
+      <link>/tags/genomics/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gis</title>
       <link>/tags/gis/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
@@ -557,6 +593,15 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/image-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>/tags/image-processing/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/image-processing/</guid>
       <description></description>
     </item>
     
@@ -696,6 +741,15 @@
     </item>
     
     <item>
+      <title>Multilanguage</title>
+      <link>/tags/multilanguage/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multilanguage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Natural Language Processing</title>
       <link>/tags/natural-language-processing/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
@@ -725,7 +779,7 @@
     <item>
       <title>Nlp</title>
       <link>/tags/nlp/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/nlp/</guid>
       <description></description>
@@ -750,6 +804,15 @@
     </item>
     
     <item>
+      <title>Population Genetics</title>
+      <link>/tags/population-genetics/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/population-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pose Estimation</title>
       <link>/tags/pose-estimation/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
@@ -764,6 +827,15 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/precision-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prep</title>
+      <link>/tags/prep/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/prep/</guid>
       <description></description>
     </item>
     
@@ -813,6 +885,15 @@
     </item>
     
     <item>
+      <title>Radiology</title>
+      <link>/tags/radiology/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/radiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Random Projection</title>
       <link>/tags/random-projection/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
@@ -849,11 +930,29 @@
     </item>
     
     <item>
+      <title>Satellite</title>
+      <link>/tags/satellite/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/satellite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Satellite Data</title>
       <link>/tags/satellite-data/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/satellite-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis</title>
+      <link>/tags/sentiment-analysis/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sentiment-analysis/</guid>
       <description></description>
     </item>
     
@@ -930,6 +1029,15 @@
     </item>
     
     <item>
+      <title>Spatial Data</title>
+      <link>/tags/spatial-data/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spatial-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spatial Statistics</title>
       <link>/tags/spatial-statistics/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
@@ -968,7 +1076,7 @@
     <item>
       <title>Sql</title>
       <link>/tags/sql/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/sql/</guid>
       <description></description>
@@ -1038,6 +1146,15 @@
     </item>
     
     <item>
+      <title>Survey Design</title>
+      <link>/tags/survey-design/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/survey-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sustainability</title>
       <link>/tags/sustainability/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
@@ -1047,11 +1164,29 @@
     </item>
     
     <item>
+      <title>Template Matching</title>
+      <link>/tags/template-matching/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/template-matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tensorflow</title>
       <link>/tags/tensorflow/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tentative</title>
+      <link>/tags/tentative/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tentative/</guid>
       <description></description>
     </item>
     
@@ -1070,6 +1205,24 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic Models</title>
+      <link>/tags/topic-models/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/topic-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>/tags/twitter/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/twitter/</guid>
       <description></description>
     </item>
     
