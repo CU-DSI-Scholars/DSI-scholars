@@ -6,10 +6,21 @@
     <description>Recent content in Python on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analysis and processing of GIS data in assessing international development</title>
+      <link>/2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/</guid>
+      <description>&lt;p&gt;We need someone with strong data wrangling capabilities, to be able to determine quick ways to clean and merge data. The format of the data is spatial (GIS) but it could also be manipulated in tabular format. GRID3 is a program within &lt;a href=&#34;http://www.ciesin.org/&#34;&gt;CIESIN&lt;/a&gt; which is a research center located at the Lamont-Doherty Campus (with office space on the morningside campus) and is part of Columbia&amp;rsquo;s Earth Institute.  Candidates can learn more about the program at the GRID3 &lt;a href=&#34;https://grid3.org/&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Cryptocurrency Analytics: Identifying Bad Actors</title>
