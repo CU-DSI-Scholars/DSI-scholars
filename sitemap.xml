@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>/page/faq2020-summer/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2020/05/project-machine-learning-based-methods-to-extract-river-flow-information-from-satellite-imagery/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
@@ -1058,13 +1063,13 @@
   
   <url>
     <loc>/tags/info/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/info/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1184,7 +1189,7 @@
   
   <url>
     <loc>/page/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
