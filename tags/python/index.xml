@@ -12,23 +12,23 @@
     
     
     <item>
-      <title>Advanced Supervised Topic Models</title>
-      <link>/2020/05/project-advanced-supervised-topic-models/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/05/project-advanced-supervised-topic-models/</guid>
-      <description>&lt;p&gt;In this project we&amp;rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Analysis and processing of GIS data in assessing international development</title>
       <link>/2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/</guid>
       <description>&lt;p&gt;We need someone with strong data wrangling capabilities, to be able to determine quick ways to clean and merge data. The format of the data is spatial (GIS) but it could also be manipulated in tabular format. GRID3 is a program within &lt;a href=&#34;http://www.ciesin.org/&#34;&gt;CIESIN&lt;/a&gt; which is a research center located at the Lamont-Doherty Campus (with office space on the morningside campus) and is part of Columbia&amp;rsquo;s Earth Institute.  Candidates can learn more about the program at the GRID3 &lt;a href=&#34;https://grid3.org/&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Augmented Supervised Topic Models</title>
+      <link>/2020/05/project-augmented-supervised-topic-models/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-augmented-supervised-topic-models/</guid>
+      <description>&lt;p&gt;In this project we&amp;rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

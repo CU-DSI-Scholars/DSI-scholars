@@ -1,5 +1,9 @@
 
 
+  
+    
+  
+
 
   
 
@@ -16,25 +20,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="Hugo 0.34 with theme Tranquilpeak 0.4.3-BETA">
-    <title>Bayesian Statistics</title>
+    <title>Augmented Supervised Topic Models</title>
     <meta name="author" content="Columbia Data Science Institute (DSI) Scholars Program">
     <meta name="keywords" content="">
 
     <link rel="icon" href="http://res.cloudinary.com/tz33cu/image/upload/c_scale,w_150/v1516739017/DSI-scholars/Data-Science-Avatar_qkn5fd.png">
     
-      <link rel="alternate" type="application/rss+xml" title="RSS" href="../../tags/bayesian-statistics/index.xml">
-    
 
     
-    <meta name="description" content="Columbia DSI Scholars Program">
-    <meta property="og:description" content="Columbia DSI Scholars Program">
+    <meta name="description" content="In this project we&rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.
+
+">
+    <meta property="og:description" content="In this project we&rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.
+
+">
     <meta property="og:type" content="blog">
-    <meta property="og:title" content="Bayesian Statistics">
-    <meta property="og:url" content="/tags/bayesian-statistics/">
+    <meta property="og:title" content="Augmented Supervised Topic Models">
+    <meta property="og:url" content="/2020/05/project-augmented-supervised-topic-models/">
     <meta property="og:site_name" content="Columbia DSI Scholars">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Columbia DSI Scholars">
-    <meta name="twitter:description" content="Columbia DSI Scholars Program">
+    <meta name="twitter:description" content="In this project we&rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.
+
+">
     
       <meta name="twitter:creator" content="@dsi_columbia">
     
@@ -48,6 +56,8 @@
     
 
     
+      <meta property="og:image" content="https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1589993115/textmining_dvxgpk.png">
+    
     
     
 
@@ -59,7 +69,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
     
     
-    <link rel="stylesheet" href="../../css/style-jsjn0006wyhpyzivf6yceb31gvpjatbcs3qzjvlumobfnugccvobqwxnnaj8.min.css" />
+    <link rel="stylesheet" href="../../../css/style-jsjn0006wyhpyzivf6yceb31gvpjatbcs3qzjvlumobfnugccvobqwxnnaj8.min.css" />
     
     
 
@@ -71,10 +81,10 @@
 
   <body>
     <div id="blog">
-      <header id="header" data-behavior="1">
+      <header id="header" data-behavior="4">
   <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
   <div class="header-title">
-    <a class="header-title-link" href="../../">Columbia DSI Scholars</a>
+    <a class="header-title-link" href="../../../">Columbia DSI Scholars</a>
   </div>
   
     
@@ -91,11 +101,11 @@
   
 </header>
 
-      <nav id="sidebar" data-behavior="1">
+      <nav id="sidebar" data-behavior="4">
   <div class="sidebar-container">
     
       <div class="sidebar-profile">
-        <a href="../../#about">
+        <a href="../../../#about">
           <img class="sidebar-profile-picture" src="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png" alt="Author&#39;s picture" />
         </a>
         <h4 class="sidebar-profile-name">Columbia Data Science Institute (DSI) Scholars Program</h4>
@@ -108,7 +118,7 @@
       
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="../../">
+      <a class="sidebar-button-link " href="../../../">
     
       <i class="sidebar-button-icon fa fa-lg fa-home"></i>
       
@@ -118,7 +128,7 @@
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="../../page/faq2020-summer">
+      <a class="sidebar-button-link " href="../../../page/faq2020-summer">
     
       <i class="sidebar-button-icon fa fa-lg fa-question-circle"></i>
       
@@ -128,7 +138,7 @@
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="../../categories">
+      <a class="sidebar-button-link " href="../../../categories">
     
       <i class="sidebar-button-icon fa fa-lg fa-university"></i>
       
@@ -138,7 +148,7 @@
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="../../tags">
+      <a class="sidebar-button-link " href="../../../tags">
     
       <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
       
@@ -148,7 +158,7 @@
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="../../#about">
+      <a class="sidebar-button-link " href="../../../#about">
     
       <i class="sidebar-button-icon fa fa-lg fa-info"></i>
       
@@ -172,7 +182,7 @@
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="../../page/contact-info">
+      <a class="sidebar-button-link " href="../../../page/contact-info">
     
       <i class="sidebar-button-icon fa fa-lg fa-paper-plane"></i>
       
@@ -210,40 +220,26 @@
 </nav>
 
       
-        
 
-      
-      <div id="main" data-behavior="1"
+      <div id="main" data-behavior="4"
         class="
                hasCoverMetaIn
                ">
-        
-          <section class="postShorten-group main-content-wrap">
-            
-            
-              
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
   
-    
+    <h1 class="post-title" itemprop="headline">
+      Augmented Supervised Topic Models
+    </h1>
   
-
-
   
-
-<article class="postShorten postShorten--thumbnailimg-left" itemscope itemType="http://schema.org/BlogPosting">
-  <div class="postShorten-wrap">
-    
-    <div class="postShorten-header">
-      <h1 class="postShorten-title" itemprop="headline">
-        <a class="link-unstyled" href="../../2019/09/project-spatiotemporal-simulation-and-forecasting-of-renewable-energy/">
-          Spatiotemporal simulation and forecasting of renewable energy
-        </a>
-      </h1>
-      
   <div class="postShorten-meta post-meta">
     
-      <time itemprop="datePublished" datetime="2019-09-30T00:00:00Z">
+      <time itemprop="datePublished" datetime="2020-05-18T00:00:00Z">
         
-  September 30, 2019
+  May 18, 2020
 
       </time>
     
@@ -252,37 +248,147 @@
   
     <span>in</span>
     
-      <a class="category-link" href="../../categories/project-fall-2019">Project Fall 2019</a>
+      <a class="category-link" href="../../../categories/project-summer-2020-2">Project Summer 2020-2</a>
     
   
 
   </div>
 
-    </div>
-    <div class="postShorten-excerpt" itemprop="articleBody">
-      <p>A major obstacle to the decarbonization of the electricity production systems is the multi scale (space and time) variability of wind, solar and hydro energy sources. Much work is being done to understand the high frequency variations in these sources from the perspective of grid integration. However, as with rainfall and other natural systems, these variables can exhibit log-log fractal scaling in space and time, such that the variance of the process increases with temporal duration and with spatial scale. Focusing on high frequency variations thus grossly understates the systemic risk that is associated with these sources. Appropriate national grid design including electricity storage allocation, needs to consider both the periodic annual cycle variations and quasi-periodic inter-annual variability which have larger variance, and the phase lags in these variations across space. The proposed project would explore the development of a multi-level, hierarchical spatio-temporal model for wind or solar using data from the continental USA and its subregions to explore stochastic simulations and multi-scale predictions of the associated risk to inform system design and financial instruments development.</p>
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>In this project we&rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.</p>
 
 <p></p>
-      <p>
-        <a href="../../2019/09/project-spatiotemporal-simulation-and-forecasting-of-renewable-energy/" class="postShorten-excerpt_link link">Continue reading</a>
+
+<h2 id="outcome">Outcome</h2>
+
+<p>Student/s will have the opportunity to learn about latent variable models of text and gain hands on experiences working with them.</p>
+
+<h2 id="learning-opportunity">Learning opportunity</h2>
+
+<p>Through this project student/s will be able to learn about various topic models.</p>
+
+<div class="alert success ">
+  <p>One selected candidate may receive a stipend via the DSI Scholars program. Amount is subject to available funding.</p>
+</div>
+
+<h2 id="faculty-advisor">Faculty Advisor</h2>
+
+<ul>
+<li>Professor: <a href="http://www.columbia.edu/~kk3161/">Kriste Krstovski</a></li>
+<li>Department/School: DSI/CBS</li>
+<li>Location: Morningside</li>
+</ul>
+
+<h2 id="project-timeline">Project Timeline</h2>
+
+<ul>
+<li>Anticipated workload: 15-20hrs/week for 6 weeks</li>
+<li>Duration: Summer period: June-August</li>
+</ul>
+
+<h2 id="candidate-requirements">Candidate requirements</h2>
+
+<ul>
+<li>Skills required: Programming experiences with Python. We are seeking student/s that have prior exposure to machine learning and natural language processing either through a course and/or research project. Ideal candidate would have prior working experience with topic models. Experience working with large datasets is a definite plus.</li>
+<li>Additional domain knowledge: NLP, ML, probabilistic modeling (ideally)</li>
+<li>Student eligibility: <del>freshman</del>, <del>sophomore</del>, <del>junior</del>, <del>senior</del>, master&rsquo;s</li>
+</ul>
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="../../../tags/summer-2020-2/">Summer 2020-2</a>
+
+  <a class="tag tag--primary tag--small" href="../../../tags/python/">Python</a>
+
+  <a class="tag tag--primary tag--small" href="../../../tags/machine-learning/">Machine learning</a>
+
+  <a class="tag tag--primary tag--small" href="../../../tags/nlp/">NLP</a>
+
+  <a class="tag tag--primary tag--small" href="../../../tags/topic-models/">Topic models</a>
+
+                  </div>
+                
+              
+            
+            
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/" data-tooltip="Assessing the relationship between sleep and cardiometabolic risk in NYC women">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/05/project-bacterial-and-viral-genomic-epidemiology/" data-tooltip="Bacterial and viral genomic epidemiology">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
         
-      </p>
-    </div>
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2020/05/project-augmented-supervised-topic-models/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2020/05/project-augmented-supervised-topic-models/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2020/05/project-augmented-supervised-topic-models/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
   </div>
-  
-    <a href="../../2019/09/project-spatiotemporal-simulation-and-forecasting-of-renewable-energy/">
-      <div class="postShorten-thumbnailimg">
-        <img alt="" itemprop="image" src="//res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569961440/renewable_energy_w0ni8w.png"/>
-      </div>
-    </a>
-  
-</article>
+
 
             
+              
             
-
-          </section>
-        
+          </div>
+        </article>
         <footer id="footer" class="main-content-wrap">
   <span class="copyrights">
     &copy; 2020 Columbia Data Science Institute (DSI) Scholars Program. All Rights Reserved
@@ -290,6 +396,96 @@
 </footer>
 
       </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="4">
+        
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/" data-tooltip="Assessing the relationship between sleep and cardiometabolic risk in NYC women">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/05/project-bacterial-and-viral-genomic-epidemiology/" data-tooltip="Bacterial and viral genomic epidemiology">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2020/05/project-augmented-supervised-topic-models/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2020/05/project-augmented-supervised-topic-models/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2020/05/project-augmented-supervised-topic-models/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="4">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=%2F2020%2F05%2Fproject-augmented-supervised-topic-models%2F">
+          <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=%2F2020%2F05%2Fproject-augmented-supervised-topic-models%2F">
+          <i class="fa fa-twitter"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=%2F2020%2F05%2Fproject-augmented-supervised-topic-models%2F">
+          <i class="fa fa-google-plus"></i><span>Share on Google&#43;</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
     </div>
     
     <div id="about">
@@ -343,7 +539,7 @@
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="../../2020/05/call-for-student-applications-dsi-scholars-summer-2020/">
+              <a class="link-unstyled" href="../../../2020/05/call-for-student-applications-dsi-scholars-summer-2020/">
                 <h3 class="media-heading">Call for Student Applications - Summer 2020</h3>
               </a>
               <span class="media-meta">
@@ -364,7 +560,7 @@
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="../../2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/">
+              <a class="link-unstyled" href="../../../2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/">
                 <h3 class="media-heading">Analysis and processing of GIS data in assessing international development</h3>
               </a>
               <span class="media-meta">
@@ -383,7 +579,7 @@
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="../../2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/">
+              <a class="link-unstyled" href="../../../2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/">
                 <h3 class="media-heading">Assessing the relationship between sleep and cardiometabolic risk in NYC women</h3>
               </a>
               <span class="media-meta">
@@ -402,7 +598,7 @@
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="../../2020/05/project-augmented-supervised-topic-models/">
+              <a class="link-unstyled" href="../../../2020/05/project-augmented-supervised-topic-models/">
                 <h3 class="media-heading">Augmented Supervised Topic Models</h3>
               </a>
               <span class="media-meta">
@@ -421,7 +617,7 @@
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="../../2020/05/project-bacterial-and-viral-genomic-epidemiology/">
+              <a class="link-unstyled" href="../../../2020/05/project-bacterial-and-viral-genomic-epidemiology/">
                 <h3 class="media-heading">Bacterial and viral genomic epidemiology</h3>
               </a>
               <span class="media-meta">
@@ -440,7 +636,7 @@
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="../../2020/05/project-covid-19-and-commuting-how-will-columbia-cope/">
+              <a class="link-unstyled" href="../../../2020/05/project-covid-19-and-commuting-how-will-columbia-cope/">
                 <h3 class="media-heading">COVID-19 and commuting: How will Columbia cope?</h3>
               </a>
               <span class="media-meta">
@@ -459,7 +655,7 @@
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="../../2020/05/project-characterizing-network-behavior-in-phishing-emails/">
+              <a class="link-unstyled" href="../../../2020/05/project-characterizing-network-behavior-in-phishing-emails/">
                 <h3 class="media-heading">Characterizing network behavior in phishing emails</h3>
               </a>
               <span class="media-meta">
@@ -478,7 +674,7 @@
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="../../2020/05/project-the-cost-of-human-rights-violations/">
+              <a class="link-unstyled" href="../../../2020/05/project-the-cost-of-human-rights-violations/">
                 <h3 class="media-heading">Data For Good Project: The Cost of Human Rights Violations</h3>
               </a>
               <span class="media-meta">
@@ -497,7 +693,7 @@
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="../../2020/05/project-machine-learning-based-methods-to-extract-river-flow-information-from-satellite-imagery/">
+              <a class="link-unstyled" href="../../../2020/05/project-machine-learning-based-methods-to-extract-river-flow-information-from-satellite-imagery/">
                 <h3 class="media-heading">Machine-learning based methods to extract river flow information from satellite imagery</h3>
               </a>
               <span class="media-meta">
@@ -516,7 +712,7 @@
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="../../2020/05/project-multilanguage-analysis-of-book-titles/">
+              <a class="link-unstyled" href="../../../2020/05/project-multilanguage-analysis-of-book-titles/">
                 <h3 class="media-heading">Multilanguage analysis of book titles</h3>
               </a>
               <span class="media-meta">
@@ -559,7 +755,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
 
 
-<script src="../../js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
+<script src="../../../js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
 
 
 
@@ -575,6 +771,10 @@ $(document).ready(function() {
 });
 </script>
 
+
+  
+    
+  
 
 
 

@@ -12,17 +12,6 @@
     
     
     <item>
-      <title>Advanced Supervised Topic Models</title>
-      <link>/2020/05/project-advanced-supervised-topic-models/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/05/project-advanced-supervised-topic-models/</guid>
-      <description>&lt;p&gt;In this project we&amp;rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Analysis and processing of GIS data in assessing international development</title>
       <link>/2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
@@ -40,6 +29,17 @@
       
       <guid>/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</guid>
       <description>&lt;p&gt;This was a 1-year prospective observational study to examine the relation between sleep and cardiometabolic risk among 506 women in the NYC area. All of the data has been collected and entered in a Redcap database, has been cleaned, and is ready for analysis.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Augmented Supervised Topic Models</title>
+      <link>/2020/05/project-augmented-supervised-topic-models/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-augmented-supervised-topic-models/</guid>
+      <description>&lt;p&gt;In this project we&amp;rsquo;ll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
