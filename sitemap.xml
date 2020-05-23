@@ -88,11 +88,6 @@
   </url>
   
   <url>
-    <loc>/2020/05/project-twitter-sentiment-in-nyc-parks-after-covid-19/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2020/05/project-using-machine-learning-identify-trends-in-hiv-incidence-treatment-disruption-and-risk-factors-in-the-phia-multi-country-population-based-hiv-impact-assessment-survey/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
@@ -1364,12 +1359,6 @@
   </url>
   
   <url>
-    <loc>/tags/sentiment-analysis/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/shiny/</loc>
     <lastmod>2018-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1414,12 +1403,6 @@
   <url>
     <loc>/tags/sparsity/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/spatial-data/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
