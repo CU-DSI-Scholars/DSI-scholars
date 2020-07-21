@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2020/07/midsummer-2020-update/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2020/06/project-ctv_l2m-summer-undergraduate-internship/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url>
@@ -666,7 +671,7 @@
   
   <url>
     <loc>/categories/announcement/</loc>
-    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -761,7 +766,7 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -791,7 +796,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1078,13 +1083,13 @@
   </url>
   
   <url>
-    <loc>/tags/info/</loc>
+    <loc>/categories/info/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/info/</loc>
+    <loc>/tags/info/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1229,7 +1234,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1445,13 +1450,13 @@
   
   <url>
     <loc>/tags/summer-2020/</loc>
-    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/summer-2020-2/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
