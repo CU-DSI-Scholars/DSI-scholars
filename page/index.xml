@@ -6,10 +6,20 @@
     <description>Recent content in Pages on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PI Frequently Asked Questions</title>
+      <link>/page/pi_faq_fall_2020/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/page/pi_faq_fall_2020/</guid>
+      <description>Question: How does the DSI Scholars stipend/matching fund process work?
+Answer: Stipends are issued directly by Student Financial Services in coordination with the Data Science Institute. PIs for selected projects will be asked to make a commitment as to the level of their support, after which the DSI will arrange for the stipend to be issued. Simultaneously, the DSI staff will work with the PI&amp;rsquo;s department administrators to transfer the base amount to the DSI.</description>
+    </item>
     
     <item>
       <title>Frequently Asked Questions (Summer 2020)</title>
