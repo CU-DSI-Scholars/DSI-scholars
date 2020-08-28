@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/page/pi_faq_fall_2020/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <loc>/page/dsi_programs/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/2020/08/call-for-faculty-participation-dsi-scholars-fall-2020/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/pi_faq_fall_2020/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -806,7 +811,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1100,13 +1105,13 @@
   
   <url>
     <loc>/tags/info/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/info/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1232,7 +1237,7 @@
   
   <url>
     <loc>/page/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

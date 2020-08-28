@@ -6,19 +6,19 @@
     <description>Recent content in Info on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>PI Frequently Asked Questions</title>
-      <link>/page/pi_faq_fall_2020/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <title>DSI Student Project Programs</title>
+      <link>/page/dsi_programs/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/page/pi_faq_fall_2020/</guid>
-      <description>Question: How does the DSI Scholars stipend/matching fund process work?
-Answer: Stipends are issued directly by Student Financial Services in coordination with the Data Science Institute. PIs for selected projects will be asked to make a commitment as to the level of their support, after which the DSI will arrange for the stipend to be issued. Simultaneously, the DSI staff will work with the PI&amp;rsquo;s department administrators to transfer the base amount to the DSI.</description>
+      <guid>/page/dsi_programs/</guid>
+      <description>If you&amp;rsquo;re not sure which Data Science Institute student project program is right for you, submit to Campus Connections and we will route your request to the best destination, including those below. What follows are the programs the DSI runs directly.
+    Capstone Campus Connections DSI Scholars Data For Good     Frequency Fall/Spring Continuous Fall/Spring/Summer Fall/Spring/Summer   Target MS Data Science All students All students All students   Student selection 5-6 students, registered for course Students apply directly with PI Centralized application, PI decides Centralized application, PI decides   Project criteria Clear project, sufficient work for semester long study Various Research internship, mentoring Volunteer, social good   Student incentive Required, course credit Paid work, course credit Research experience Social good   How to apply Email Sining Chen Apply here Apply here by Sep 4th Email dsi-scholars@columbia.</description>
     </item>
     
     <item>
@@ -32,6 +32,16 @@ Answer: Stipends are issued directly by Student Financial Services in coordinati
 &lt;p&gt;The Data Science Institute is calling for faculty submissions of research projects for the Fall 2020 session of Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with 42 projects and received more than 730 unique applications from Columbia Students. The program’s unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfqjr-kQUTyYnVOZRMqK_i8E4oAvJLFnYsHLBHkNXfvKPYuAw/viewform?usp=sf_link&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PI Frequently Asked Questions</title>
+      <link>/page/pi_faq_fall_2020/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/page/pi_faq_fall_2020/</guid>
+      <description>Question: How does the DSI Scholars stipend/matching fund process work?
+Answer: Stipends are issued directly by Student Financial Services in coordination with the Data Science Institute. PIs for selected projects will be asked to make a commitment as to the level of their support, after which the DSI will arrange for the stipend to be issued. Simultaneously, the DSI staff will work with the PI&amp;rsquo;s department administrators to transfer the base amount to the DSI.</description>
     </item>
     
     <item>
