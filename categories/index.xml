@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Announcement</title>
       <link>/categories/announcement/</link>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/announcement/</guid>
       <description></description>
@@ -30,11 +30,38 @@
     </item>
     
     <item>
+      <title>Closed Projects Fall 2020</title>
+      <link>/categories/closed-projects-fall-2020/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/closed-projects-fall-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data for Good</title>
+      <link>/categories/data-for-good/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data-for-good/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Info</title>
       <link>/categories/info/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Projects Fall 2020</title>
+      <link>/categories/open-projects-fall-2020/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/open-projects-fall-2020/</guid>
       <description></description>
     </item>
     

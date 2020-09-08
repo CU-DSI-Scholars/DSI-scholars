@@ -1,0 +1,771 @@
+
+
+  
+    
+  
+
+
+  
+
+
+
+
+
+  
+
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Hugo 0.34 with theme Tranquilpeak 0.4.3-BETA">
+    <title>Measuring Liberal Arts: Creating an Index for Higher Education</title>
+    <meta name="author" content="Columbia Data Science Institute (DSI) Scholars Program">
+    <meta name="keywords" content="">
+
+    <link rel="icon" href="http://res.cloudinary.com/tz33cu/image/upload/c_scale,w_150/v1516739017/DSI-scholars/Data-Science-Avatar_qkn5fd.png">
+    
+
+    
+    <meta name="description" content="This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.
+
+">
+    <meta property="og:description" content="This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.
+
+">
+    <meta property="og:type" content="blog">
+    <meta property="og:title" content="Measuring Liberal Arts: Creating an Index for Higher Education">
+    <meta property="og:url" content="/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/">
+    <meta property="og:site_name" content="Columbia DSI Scholars">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Columbia DSI Scholars">
+    <meta name="twitter:description" content="This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.
+
+">
+    
+      <meta name="twitter:creator" content="@dsi_columbia">
+    
+    
+
+    
+    
+
+    
+      <meta property="og:image" content="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png">
+    
+
+    
+      <meta property="og:image" content="https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png">
+    
+    
+    
+
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="../../../css/style-jsjn0006wyhpyzivf6yceb31gvpjatbcs3qzjvlumobfnugccvobqwxnnaj8.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="../../../">Columbia DSI Scholars</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="http://datascience.columbia.edu/">
+    
+    
+    
+      
+        <img class="header-picture" src="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="../../../#about">
+          <img class="sidebar-profile-picture" src="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Columbia Data Science Institute (DSI) Scholars Program</h4>
+        
+          <h5 class="sidebar-profile-bio">The DSI Scholars Program is to engage and support undergraduate and master students in participating data science related research with Columbia faculty. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../page/faq2020-summer">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question-circle"></i>
+      
+      <span class="sidebar-button-desc">FAQ</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-university"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../#about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-info"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://forms.gle/FirneensvXgZGE6HA">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-mortar-board"></i>
+      
+      <span class="sidebar-button-desc">Apply Now</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../page/contact-info">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-paper-plane"></i>
+      
+      <span class="sidebar-button-desc">Contact Info</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/CU-DSI-Scholars">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/DSI_Columbia">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="5"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Measuring Liberal Arts: Creating an Index for Higher Education
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2020-09-08T00:00:00Z">
+        
+  September 8, 2020
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="../../../categories/open-projects-fall-2020">Open Projects Fall 2020</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.</p>
+
+<p></p>
+
+<div class="alert success ">
+  <p>This project is eligible for a matching fund stipend from the Data Science Institute. This not a guarantee of payment, and the total amount is subject to available funding.</p>
+</div>
+
+<h2 id="faculty-advisor">Faculty Advisor</h2>
+
+<ul>
+<li>Professor: <a href="incite.columbia.edu">Peter Bearman</a></li>
+<li>Department/School: Arts and Sciences</li>
+<li>Location: 3078 Broadway - Morningside Campus</li>
+<li>By leveraging the ideas and empirical tools of the social and human sciences, INCITE conceives and conducts collaborative research, projects, and programs that generate knowledge, promote just, equitable societies, and enrich our intellectual environment. INCITE is home to big data projects, offering a vibrant mix of cutting-edge qualitative and quantitative projects. Our current grant portfolio exceeds $3 million and we have hired several DSI students in the past few years.</li>
+</ul>
+
+<h2 id="project-timeline">Project Timeline</h2>
+
+<ul>
+<li>Earliest starting date: 10/1/2020</li>
+<li>End date: 7/31/2020</li>
+<li>Number of hours per week of research expected during Fall 2020: ~10</li>
+</ul>
+
+<h2 id="candidate-requirements">Candidate requirements</h2>
+
+<ul>
+<li>Skill sets: Fluency in Python, SQL, Git/Github, as well as a working knowledge the Unix command line. Knowledge of AWS services (especially EC2 and S3), NLP, machine learning classifiers, and the R programming language are also desirable but not required.</li>
+<li>Student eligibility: <del>freshman</del>, sophomore, junior, senior, master&rsquo;s</li>
+<li>International students on F1 or J1 visa: <strong>eligible</strong></li>
+<li>Academic Credit Possible: No</li>
+</ul>
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="../../../tags/fall-2020/">Fall 2020</a>
+
+                  </div>
+                
+              
+            
+            
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/09/project-identify-molecular-signiture-of-head-and-neck-cancer-in-minority-populations/" data-tooltip="Identify molecular signiture of head and neck cancer in minority populations">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/09/project-measuring-the-network-impact-of-covid-19/" data-tooltip="Measuring the network impact of COVID-19">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+
+            
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2020 Columbia Data Science Institute (DSI) Scholars Program. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/09/project-identify-molecular-signiture-of-head-and-neck-cancer-in-minority-populations/" data-tooltip="Identify molecular signiture of head and neck cancer in minority populations">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/09/project-measuring-the-network-impact-of-covid-19/" data-tooltip="Measuring the network impact of COVID-19">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=%2F2020%2F09%2Fproject-measuring-liberal-arts-creating-an-index-for-higher-education%2F">
+          <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=%2F2020%2F09%2Fproject-measuring-liberal-arts-creating-an-index-for-higher-education%2F">
+          <i class="fa fa-twitter"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=%2F2020%2F09%2Fproject-measuring-liberal-arts-creating-an-index-for-higher-education%2F">
+          <i class="fa fa-google-plus"></i><span>Share on Google&#43;</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Columbia Data Science Institute (DSI) Scholars Program</h4>
+    
+      <div id="about-card-bio">The DSI Scholars Program is to engage and support undergraduate and master students in participating data science related research with Columbia faculty. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Columbia University DSI
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        New York, NY
+      </div>
+    
+  </div>
+</div>
+
+    <div id="algolia-search-modal" class="modal-container">
+  <div class="modal">
+    <div class="modal-header">
+      <span class="close-button"><i class="fa fa-close"></i></span>
+      <a href="https://algolia.com" target="_blank" rel="noopener" class="searchby-algolia text-color-light link-unstyled">
+        <span class="searchby-algolia-text text-color-light text-small">by</span>
+        <img class="searchby-algolia-logo" src="https://www.algolia.com/static_assets/images/press/downloads/algolia-light.svg">
+      </a>
+      <i class="search-icon fa fa-search"></i>
+      <form id="algolia-search-form">
+        <input type="text" id="algolia-search-input" name="search"
+          class="form-control input--large search-input" placeholder="Search" />
+      </form>
+    </div>
+    <div class="modal-body">
+      <div class="no-result text-color-light text-center">no post found</div>
+      <div class="results">
+        
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/09/call-for-student-applications-dsi-scholars-fall-2020/">
+                <h3 class="media-heading">Call for Student Applications - Fall 2020</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Columbia University <a href="http://datascience.columbia.edu/">Data Science Institute</a> is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Fall 2020 are open for application.</p>
+
+<p>The goal of the DSI Scholars Program is to engage Columbia University&rsquo;s undergraduate and master&rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.</p>
+
+<p>The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &ldquo;real world&rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.</p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/09/project-biomarker-discovery-for-cancer-immunotherapy/">
+                <h3 class="media-heading">Biomarker discovery for cancer immunotherapy</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Immune checkpoint blockade therapy has shown successful clinical outcomes in the treatment of  various solid tumors such as head and neck squamous cell carcinoma (HNSCC), melanoma, non-small cell lung cancer (NSCLC) and others. However, immune checkpoint inhibitors work best in patients who exhibit certain tumor biomarkers. In a collaboration with the Department of Hematology Oncology, the Department of Systems Biology, and the Mailman School of Public Health at Columbia University we aim to identify biomarkers which are associated with treatment outcome in patients with solid tumors who underwent immunotherapy. The project includes bioinformatic analysis of sequencing data. Mentoring and training will be provided.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/09/project-biomechanical-indicators-of-adaptive-decision-making-in-children-with-unilateral-cerebral-palsy/">
+                <h3 class="media-heading">Biomechanical indicators of adaptive decision making in children with unilateral cerebral palsy</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>The project will entail data processing and data analysis of behavioral and biomechanical data (collected) from experiments. The goal will be to develop a manuscript for publication at the end of the Spring semester 2021</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/">
+                <h3 class="media-heading">California&#39;s Water Data Challenge: Generating User-guided Prediction of Water Supply in the Californian Rivers</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Freshwater supply is critical for managing and meeting human and ecological demands. However, while stocks of water in both natural and artificial reservoirs are helpful for increasing availability, droughts and floods, as well as whiplash events affect reliability on these systems, posing grave consequences on water users. This risk is particularly salient in the state of California, where many local communities have been plagued by extreme hydrological events. In this current research, we contribute to California&rsquo;s Water Data Challenge effort where a diverse group of volunteers convened to form a multi-disciplinary team that addresses the crucial issues of extreme events in California using data science approaches. Members include researchers and professionals who come from a range of backgrounds representing academia and private sectors. We combine a range of publicly available datasets with Machine Learning (ML) techniques to explore predictability of extreme events during California’s water years. More specifically, we use a variety of water districts and showcase how ML prediction models are not only able to predict the flow of water at varying time horizons, they capture uncertainties posed by the climate and human influences.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/09/project-can-we-detect-covid-in-the-internet/">
+                <h3 class="media-heading">Can we detect COVID in the Internet?</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>COVID-19 has changed the way we use the internet, from taking classes to social interactions and entertainment. The FCC publishes a large dataset of network measurements from thousands of homes, with gigabytes of data. The project goal is to analyze the data and answer questions such as: Has the increased usage reduced internet speeds? Can we tell how much people are staying at home from data usage records? Is the increased use of video conferencing reflected in the upload metrics?</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/09/project-chinas-war-on-poverty/">
+                <h3 class="media-heading">China&#39;s War on Poverty</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>In 2013, the Chinese government launched its grand initiative to eradicate rural poverty by 2020. The initiative has made great progress since then, yet little rigorous empirical evidence is available due to data limitations. This project aims to use big data through both official and social media to analyze the trends, achievements, and challenges of this initiative and offer implications for the future and from a comparative perspective.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/09/project-dfg-food-insecurity-obesity-and-covid-19/">
+                <h3 class="media-heading">Data For Good: Food Insecurity, Obesity, and COVID-19</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>New York Presbyterian/Columbia University Irving Medical Center (NYP/CUIMC) serves a high number of racial/ethnic minority and low-income patients. In this project, we will create a data repository of all patients who have completed a universal screen in a clinical encounter for social determinants of health, including food insecurity. The scholar will handle large datasets extracted from the medical record for database creation and data visualizations. The dataset will include patient demographics, food security, and clinical outcomes. This data resource will allow the scholar to partner with researchers to examine predictors of food insecurity, clinical courses, and health outcomes among a large population of patients, including a time period prior to the COVID-19 surge in New York City.  The project will be co-mentored through the members of the University-wide Food Systems Network, a novel collaboration of researchers at the Medical Center, Earth Institute, SIPA, and Teacher&rsquo;s College.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/09/project-dfg-improving-observed-and-modeled-air-pollution-data-quality-over-sub-saharan-africa-using-machine-learning/">
+                <h3 class="media-heading">Data For Good: Improving observed and modeled air pollution data quality over sub-Saharan Africa using machine learning</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>The goal of the project is twofold: 1) to better understand and further improve the use of low cost air pollution sensors and 2) to analyze and characterize air pollution data in sub-Saharan Africa. Air pollution kills an estimated 700,000 people per year in Africa, but existing air pollution data in Africa is extremely sparse and estimates of the associated mortality are uncertain. Low cost air pollution sensors have the potential to rapidly revolutionize air quality awareness and data availability in data-sparse areas of  the world, including sub-Saharan Africa. However, use of low cost sensors requires careful calibration, performance evaluation, and other quality assurance before the data can be fully trusted to the same degree as regulatory-grade monitors. As part of a larger project led by Dr. Westervelt, fine particulate matter (PM2.5) sensors have already been deployed in several African megacities, including Kinshasa, Democratic Republic of Congo; Nairobi, Kenya; Kampala, Uganda; Accra, Ghana, and Lomé, Togo. In Kampala and Accra, sensors are co-located with a regulatory-grade PM2.5 instrument for several months, allowing for a direct comparison between low cost and regulatory-grade PM2.5 measurements, and also allowing for the development of calibration factors.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/09/project-data-driven-approaches-to-finding-undiagnosed-hs-patients-in-ehr/">
+                <h3 class="media-heading">Data driven approaches to finding undiagnosed HS patients in EHR</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Electronic Health Records (EHR) provide a rich integrated source of phenotypic information that allow for automated extraction and recognition of phenotypes from EHR narratives and provide an efficient framework for conducting epidemiological and clinical studies.  In addition, when EHR are linked to genetic data in electronic biorepositories such as eMERGE and All of US, phenotype information embedded in EHR can be used to efficiently construct cohorts powered for genetic discoveries. However, limitations arise from repurposing data generated from healthcare processes for research, which can include data sparseness, low quality data and diagnostic errors. Phenotyping algorithms are developed to overcome these limitations providing a robust means to assess case status.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../2020/09/project-decode-the-dna-methylation-in-memory/">
+                <h3 class="media-heading">Decode the DNA Methylation in Memory</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Memory is a basic function of our brain that enables us to use the past experiences to service the present and future on a daily base, and memory function is often disrupted in neurological and psychiatric diseases, such as Alzheimer’s disease and posttraumatic stress disorder. To understand the molecular mechanism of memory storage, we will focus on DNA methylation, a chemical modification of our genome, that is hypothesized to play a critical role for memory. We have identified thousands of DNA methylation changes at numerous genomic loci occurred during the formation of fear and reward memory in the mouse brain. We will develop new computational tools to analyze these changes of DNA methylation and search for the common sequence features of these genomic loci. The result of this project will lead to a systematic understanding of the principle on the function and regulation of DNA methylation in memory, and will pave the way to develop new therapeutic strategies for diseases involved memory defects.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+      </div>
+    </div>
+    <div class="modal-footer">
+      <p class="results-count text-medium"
+         data-message-zero="no post found"
+         data-message-one="1 post found"
+         data-message-other="{n} posts found">
+         152 posts found
+      </p>
+    </div>
+  </div>
+</div>
+    
+  
+    
+    <div id="cover" style="background-image:url('http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/CU-bk2_qu8fsv.jpg');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="../../../js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
+
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+  
+    
+  
+
+
+
+    
+  </body>
+</html>
+
