@@ -20,7 +20,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="Hugo 0.34 with theme Tranquilpeak 0.4.3-BETA">
-    <title>Single-nucleus and spatial transcriptomics analysis of APOE mouse and human brain samples</title>
+    <title>Deconvolution methods for detecting contamination in microbiome samples</title>
     <meta name="author" content="Columbia Data Science Institute (DSI) Scholars Program">
     <meta name="keywords" content="">
 
@@ -28,19 +28,19 @@
     
 
     
-    <meta name="description" content="We are conducting a large-scale study analyzing brain tissues from mice and humans with different APOE genotypes, using both single-nucleus sequencing and spatial transcriptomics to assess RNA expression differences caused by APOE genotype. We are working with an expert bioinformatics core, but would like a data science student to help perform the analyses and act as an in-lab lead for the bioinformatics analysis. Prior experience analyzing RNA-sequencing data is preferred, but not required.
+    <meta name="description" content="Complex microbial communities play an important role in numerous fields, from human health to bioremediation. One critical challenge in their data analysis is to separate true biological data from contamination of various sources. While contemporary experimental procedures include various negative controls, a comprehensive statistical approach for their analysis has not been developed. Such a framework would have a far-reaching impact on the field.
 
 ">
-    <meta property="og:description" content="We are conducting a large-scale study analyzing brain tissues from mice and humans with different APOE genotypes, using both single-nucleus sequencing and spatial transcriptomics to assess RNA expression differences caused by APOE genotype. We are working with an expert bioinformatics core, but would like a data science student to help perform the analyses and act as an in-lab lead for the bioinformatics analysis. Prior experience analyzing RNA-sequencing data is preferred, but not required.
+    <meta property="og:description" content="Complex microbial communities play an important role in numerous fields, from human health to bioremediation. One critical challenge in their data analysis is to separate true biological data from contamination of various sources. While contemporary experimental procedures include various negative controls, a comprehensive statistical approach for their analysis has not been developed. Such a framework would have a far-reaching impact on the field.
 
 ">
     <meta property="og:type" content="blog">
-    <meta property="og:title" content="Single-nucleus and spatial transcriptomics analysis of APOE mouse and human brain samples">
-    <meta property="og:url" content="/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/">
+    <meta property="og:title" content="Deconvolution methods for detecting contamination in microbiome samples">
+    <meta property="og:url" content="/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/">
     <meta property="og:site_name" content="Columbia DSI Scholars">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Columbia DSI Scholars">
-    <meta name="twitter:description" content="We are conducting a large-scale study analyzing brain tissues from mice and humans with different APOE genotypes, using both single-nucleus sequencing and spatial transcriptomics to assess RNA expression differences caused by APOE genotype. We are working with an expert bioinformatics core, but would like a data science student to help perform the analyses and act as an in-lab lead for the bioinformatics analysis. Prior experience analyzing RNA-sequencing data is preferred, but not required.
+    <meta name="twitter:description" content="Complex microbial communities play an important role in numerous fields, from human health to bioremediation. One critical challenge in their data analysis is to separate true biological data from contamination of various sources. While contemporary experimental procedures include various negative controls, a comprehensive statistical approach for their analysis has not been developed. Such a framework would have a far-reaching impact on the field.
 
 ">
     
@@ -231,7 +231,7 @@
             <div class="post-header main-content-wrap text-left">
   
     <h1 class="post-title" itemprop="headline">
-      Single-nucleus and spatial transcriptomics analysis of APOE mouse and human brain samples
+      Deconvolution methods for detecting contamination in microbiome samples
     </h1>
   
   
@@ -258,39 +258,42 @@
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-              <p>We are conducting a large-scale study analyzing brain tissues from mice and humans with different APOE genotypes, using both single-nucleus sequencing and spatial transcriptomics to assess RNA expression differences caused by APOE genotype. We are working with an expert bioinformatics core, but would like a data science student to help perform the analyses and act as an in-lab lead for the bioinformatics analysis. Prior experience analyzing RNA-sequencing data is preferred, but not required.</p>
+              <p>Complex microbial communities play an important role in numerous fields, from human health to bioremediation. One critical challenge in their data analysis is to separate true biological data from contamination of various sources. While contemporary experimental procedures include various negative controls, a comprehensive statistical approach for their analysis has not been developed. Such a framework would have a far-reaching impact on the field.</p>
 
 <p></p>
 
+<p>We have recently developed a scalable deconvolution algorithm (<a href="https://www.nature.com/articles/s41592-019-0431-x">FEAST</a>) that unveils the latent structure of a given microbial community by modeling it as a convex combination of potential observed and unobserved source ecosystems. While FEAST estimates the contribution of various contamination sources to each biological sample, it does not utilize the fact that different biological samples share the same contamination sources.</p>
+
+<p>In this project, we will extend FEAST to utilize additional information gained in common experimental setups, effectively sharing contamination sources between samples. Specifically, we will develop a sequential inference algorithm that will take as input multiple samples from the same microbial environment, as well as potential sources of contaminations, and output the inferred “true” biological contribution of each sample. We will validate the resulting method on simulated and biological data.</p>
+
 <div class="alert success ">
-  <p>This is an UNPAID research project.</p>
+  <p>This project is eligible for a matching fund stipend from the Data Science Institute. This not a guarantee of payment, and the total amount is subject to available funding.</p>
 </div>
 
 <h2 id="faculty-advisor">Faculty Advisor</h2>
 
 <ul>
-<li>Professor: <a href="http://columbianeuroresearch.org/taub/faculty-nuriel.html">Tal Nuriel</a></li>
-<li>Department/School: Pathology and Cell Biology</li>
-<li>Location: P&amp;S 12-430</li>
-<li>My lab&rsquo;s research revolves around understanding the role of the APOE4 gene in the development of Alzheimer&rsquo;s disease. Our primary approach is to use top-down, systems biology tools to identify novel pathway effects caused by APOE4 gene expression.</li>
+<li>Professor: <a href="https://www.koremlab.science">Tal Korem</a></li>
+<li>Department/School: Systems Biology</li>
+<li>Location: Presbyterian Hospital 18-200</li>
+<li>We develop analytic approaches and algorithm to analyze data from the human microbiome, the collection of bacteria that live in and on our bodies. We use these algorithm to pursue clinical questions where microbiome analysis could practically benefit patient care.</li>
 </ul>
 
 <h2 id="project-timeline">Project Timeline</h2>
 
 <ul>
-<li>Earliest starting date: 10/1/2020</li>
-<li>End date: 5/31/2021</li>
-<li>Number of hours per week of research expected during Fall 2020: ~14</li>
+<li>Earliest starting date: 10/15/2020</li>
+<li>End date:</li>
+<li>Number of hours per week of research expected during Fall 2020: ~12</li>
 </ul>
 
 <h2 id="candidate-requirements">Candidate requirements</h2>
 
 <ul>
-<li>Skill sets: R, Python</li>
-<li>Student eligibility: <del>freshman</del>, <del>sophomore</del>, <del>junior</del>, senior, master&rsquo;s</li>
+<li>Skill sets: Master’s students, seniors, and exceptional juniors prefered. Some knowledge of latent variable models and mixture models, as well as experience with R, or strong motivation to learn it, is required.</li>
+<li>Student eligibility: <del>freshman</del>, <del>sophomore</del>, junior, senior, master&rsquo;s</li>
 <li>International students on F1 or J1 visa: <strong>eligible</strong></li>
 <li>Academic Credit Possible: Yes</li>
-<li>Additional comments: Previous experience analyzing RNA-sequencing data preferred, but not required</li>
 </ul>
               
             </div>
@@ -316,7 +319,7 @@
           
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/" data-tooltip="Single cell RNA-seq analysis of eye development and disease">
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/09/project-decode-the-dna-methylation-in-memory/" data-tooltip="Decode the DNA Methylation in Memory">
               
                   <i class="fa fa-angle-left"></i>
                   <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
@@ -324,7 +327,7 @@
             </li>
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/" data-tooltip="Using ICESat 2 satellite laser altimetry to track storms in Antarctica">
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/09/project-deconvolution-methods-for-detecting-spatial-contamination-in-microbiome-samples/" data-tooltip="Deconvolution methods for detecting spatial contamination in microbiome samples">
               
                   <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
                   <i class="fa fa-angle-right"></i>
@@ -342,19 +345,19 @@
         </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/">
               <i class="fa fa-facebook-official"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/">
               <i class="fa fa-google-plus"></i>
             </a>
           </li>
@@ -392,7 +395,7 @@
           
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/" data-tooltip="Single cell RNA-seq analysis of eye development and disease">
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/09/project-decode-the-dna-methylation-in-memory/" data-tooltip="Decode the DNA Methylation in Memory">
               
                   <i class="fa fa-angle-left"></i>
                   <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
@@ -400,7 +403,7 @@
             </li>
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/" data-tooltip="Using ICESat 2 satellite laser altimetry to track storms in Antarctica">
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2020/09/project-deconvolution-methods-for-detecting-spatial-contamination-in-microbiome-samples/" data-tooltip="Deconvolution methods for detecting spatial contamination in microbiome samples">
               
                   <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
                   <i class="fa fa-angle-right"></i>
@@ -418,19 +421,19 @@
         </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/">
               <i class="fa fa-facebook-official"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/">
               <i class="fa fa-google-plus"></i>
             </a>
           </li>
@@ -454,19 +457,19 @@
   <ul class="share-options">
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=%2F2020%2F09%2Fproject-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples%2F">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=%2F2020%2F09%2Fproject-deconvolution-methods-for-detecting-contamination-in-microbiome-samples%2F">
           <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
         </a>
       </li>
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=%2F2020%2F09%2Fproject-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples%2F">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=%2F2020%2F09%2Fproject-deconvolution-methods-for-detecting-contamination-in-microbiome-samples%2F">
           <i class="fa fa-twitter"></i><span>Share on Twitter</span>
         </a>
       </li>
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=%2F2020%2F09%2Fproject-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples%2F">
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=%2F2020%2F09%2Fproject-deconvolution-methods-for-detecting-contamination-in-microbiome-samples%2F">
           <i class="fa fa-google-plus"></i><span>Share on Google&#43;</span>
         </a>
       </li>
