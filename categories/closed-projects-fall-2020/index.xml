@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Biomechanical indicators of adaptive decision making in children with unilateral cerebral palsy</title>
+      <link>/2020/09/project-biomechanical-indicators-of-adaptive-decision-making-in-children-with-unilateral-cerebral-palsy/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-biomechanical-indicators-of-adaptive-decision-making-in-children-with-unilateral-cerebral-palsy/</guid>
+      <description>&lt;p&gt;The project will entail data processing and data analysis of behavioral and biomechanical data (collected) from experiments. The goal will be to develop a manuscript for publication at the end of the Spring semester 2021&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Estimating Social Influence with Probabilistic Machine Learning</title>
       <link>/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
@@ -29,6 +40,39 @@
       
       <guid>/2020/09/project-measuring-the-network-impact-of-covid-19/</guid>
       <description>&lt;p&gt;The spread of COVID-19 has led to unprecedented and ongoing changes to daily life, including shelter-in-place orders, widespread closing of businesses and schools, and work-from-home and school-from-home at previously unknown levels. These changes in behavior are placing extraordinary demands on the Internet. This project will measure the Internet’s ability to meet these demands, including comparing its performance before, during, and after the peak of COVID-19; whether the amount of change varies between areas heavily impacted by COVID-19 and those less impacted; and whether and how large networks adapt. To provide this rich understanding, this project will combine multiple Internet-scale datasets that provide complementary views to investigate how responses to COVID-19 have impacted the Internet and how networks have reacted. Measuring the network impact of COVID-19 will illuminate the Internet’s strengths and weak points and is a crucial step towards improving the Internet’s future resilience in the face of pandemics, natural disasters, large scale conflict, and terrorist attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Single cell RNA-seq analysis of eye development and disease</title>
+      <link>/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</guid>
+      <description>&lt;p&gt;Single cell sequencing has generated unprecedented insight into the cellular complexity of normal and diseased organ. We are interested in using this technique to understand the mechanisms of eye development, disease and regeneration. We also would like to compare the transcriptomic signatures between mouse models and human tissues. This project involves analysis of large amount of data from single cell sequencing. It requires understanding of statistical analysis and proficient programming skills.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Single-nucleus and spatial transcriptomics analysis of APOE mouse and human brain samples</title>
+      <link>/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</guid>
+      <description>&lt;p&gt;We are conducting a large-scale study analyzing brain tissues from mice and humans with different APOE genotypes, using both single-nucleus sequencing and spatial transcriptomics to assess RNA expression differences caused by APOE genotype. We are working with an expert bioinformatics core, but would like a data science student to help perform the analyses and act as an in-lab lead for the bioinformatics analysis. Prior experience analyzing RNA-sequencing data is preferred, but not required.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using ICESat 2 satellite laser altimetry to track storms in Antarctica</title>
+      <link>/2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/</guid>
+      <description>&lt;p&gt;The main goal of this work is to assess if storms have increased in frequency over Antarctica. It is theorized that climate change will increase the intensity of the winds and frequency of the storms. With ICESat 2 satellite laser altimetry, we can count the number of storms and blowing snow events. ICESat 2 is a photon counting laser and generates terrabytes of data each day. Innovative data science techniques are needed to handle the data and analyze it. This project is, therefore, a suitable topic for a masters student that combines an important problem in Geophysics and climate science with a great Data Science application.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
