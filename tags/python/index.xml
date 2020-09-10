@@ -122,6 +122,50 @@
     </item>
     
     <item>
+      <title>Single cell RNA-seq analysis of eye development and disease</title>
+      <link>/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</guid>
+      <description>&lt;p&gt;Single cell sequencing has generated unprecedented insight into the cellular complexity of normal and diseased organ. We are interested in using this technique to understand the mechanisms of eye development, disease and regeneration. We also would like to compare the transcriptomic signatures between mouse models and human tissues. This project involves analysis of large amount of data from single cell sequencing. It requires understanding of statistical analysis and proficient programming skills.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Single-nucleus and spatial transcriptomics analysis of APOE mouse and human brain samples</title>
+      <link>/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</guid>
+      <description>&lt;p&gt;We are conducting a large-scale study analyzing brain tissues from mice and humans with different APOE genotypes, using both single-nucleus sequencing and spatial transcriptomics to assess RNA expression differences caused by APOE genotype. We are working with an expert bioinformatics core, but would like a data science student to help perform the analyses and act as an in-lab lead for the bioinformatics analysis. Prior experience analyzing RNA-sequencing data is preferred, but not required.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using ICESat 2 satellite laser altimetry to track storms in Antarctica</title>
+      <link>/2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/</guid>
+      <description>&lt;p&gt;The main goal of this work is to assess if storms have increased in frequency over Antarctica. It is theorized that climate change will increase the intensity of the winds and frequency of the storms. With ICESat 2 satellite laser altimetry, we can count the number of storms and blowing snow events. ICESat 2 is a photon counting laser and generates terrabytes of data each day. Innovative data science techniques are needed to handle the data and analyze it. This project is, therefore, a suitable topic for a masters student that combines an important problem in Geophysics and climate science with a great Data Science application.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using machine learning to understand tropical cyclone genesis pathways</title>
+      <link>/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</guid>
+      <description>&lt;p&gt;Until today there is no comprehensive theory for formation of tropical cyclones (hurricanes, typhoons). Therefore, it is common to use statistical methods to derive empirical indices as proxies for the probability for genesis. There are also different types of genesis pathways that have been explored in ad-hoc manner. I would like to explore the possibility of using machine learning to explore tropical cyclone genesis, in particular the different pathways in a more comprehensive manner.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Analysis and processing of GIS data in assessing international development</title>
       <link>/2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>

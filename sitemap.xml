@@ -978,7 +978,7 @@
   
   <url>
     <loc>/tags/climate/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1668,12 +1668,12 @@
   
   <url>
     <loc>/tags/satellite-data/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/sequencing-data/</loc>
+    <loc>/tags/sequence-data/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

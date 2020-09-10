@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sequencing Data on Columbia DSI Scholars</title>
-    <link>/tags/sequencing-data/</link>
-    <description>Recent content in Sequencing Data on Columbia DSI Scholars</description>
+    <title>Sequence Data on Columbia DSI Scholars</title>
+    <link>/tags/sequence-data/</link>
+    <description>Recent content in Sequence Data on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/sequencing-data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/sequence-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -51,6 +51,28 @@
       
       <guid>/2020/09/project-identify-molecular-signiture-of-head-and-neck-cancer-in-minority-populations/</guid>
       <description>&lt;p&gt;A highly collaborative project is available in Dr. Alison Taylor’s and Dr. Fatemeh Momen-Heravi’s lab. This project aims to identify molecular changes such as mutations and RNA signature of head and neck cancer in Black/African American and Hispanic minority populations with the goal of identifying novel therapies for cancer patients and reduce health disparities. The project entails analysis of DNA and RNA sequencing data.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Single cell RNA-seq analysis of eye development and disease</title>
+      <link>/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</guid>
+      <description>&lt;p&gt;Single cell sequencing has generated unprecedented insight into the cellular complexity of normal and diseased organ. We are interested in using this technique to understand the mechanisms of eye development, disease and regeneration. We also would like to compare the transcriptomic signatures between mouse models and human tissues. This project involves analysis of large amount of data from single cell sequencing. It requires understanding of statistical analysis and proficient programming skills.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Single-nucleus and spatial transcriptomics analysis of APOE mouse and human brain samples</title>
+      <link>/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</guid>
+      <description>&lt;p&gt;We are conducting a large-scale study analyzing brain tissues from mice and humans with different APOE genotypes, using both single-nucleus sequencing and spatial transcriptomics to assess RNA expression differences caused by APOE genotype. We are working with an expert bioinformatics core, but would like a data science student to help perform the analyses and act as an in-lab lead for the bioinformatics analysis. Prior experience analyzing RNA-sequencing data is preferred, but not required.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

@@ -33,5 +33,16 @@
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Using ICESat 2 satellite laser altimetry to track storms in Antarctica</title>
+      <link>/2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/</guid>
+      <description>&lt;p&gt;The main goal of this work is to assess if storms have increased in frequency over Antarctica. It is theorized that climate change will increase the intensity of the winds and frequency of the storms. With ICESat 2 satellite laser altimetry, we can count the number of storms and blowing snow events. ICESat 2 is a photon counting laser and generates terrabytes of data each day. Innovative data science techniques are needed to handle the data and analyze it. This project is, therefore, a suitable topic for a masters student that combines an important problem in Geophysics and climate science with a great Data Science application.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

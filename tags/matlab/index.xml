@@ -34,6 +34,17 @@
     </item>
     
     <item>
+      <title>Using machine learning to understand tropical cyclone genesis pathways</title>
+      <link>/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</guid>
+      <description>&lt;p&gt;Until today there is no comprehensive theory for formation of tropical cyclones (hurricanes, typhoons). Therefore, it is common to use statistical methods to derive empirical indices as proxies for the probability for genesis. There are also different types of genesis pathways that have been explored in ad-hoc manner. I would like to explore the possibility of using machine learning to explore tropical cyclone genesis, in particular the different pathways in a more comprehensive manner.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Understanding Orientation</title>
       <link>/2020/02/project-understanding-orientation/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
