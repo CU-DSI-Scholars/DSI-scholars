@@ -12,12 +12,34 @@
     
     
     <item>
+      <title>China&#39;s War on Poverty</title>
+      <link>/2020/09/project-chinas-war-on-poverty/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-chinas-war-on-poverty/</guid>
+      <description>&lt;p&gt;In 2013, the Chinese government launched its grand initiative to eradicate rural poverty by 2020. The initiative has made great progress since then, yet little rigorous empirical evidence is available due to data limitations. This project aims to use big data through both official and social media to analyze the trends, achievements, and challenges of this initiative and offer implications for the future and from a comparative perspective.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Data For Good: The Cost of Human Rights Violations</title>
       <link>/2020/09/project-dfg-the-cost-of-human-rights-violations/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/project-dfg-the-cost-of-human-rights-violations/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://rightscolab.org&#34;&gt;Rights CoLab&lt;/a&gt; is working with the Sustainability Accounting Standards Board (SASB) to develop and define a strengthened set of disclosure standards that investors can use to persuade companies to improve labor rights for both direct employees and workers in their supply chains. The project has two components: a data science project and an Independent Advisory Group. Our coalition of labor experts, data scientists, and SASB partners is focused on improving social disclosure standards that drive real gains in human rights.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Measuring Liberal Arts: Creating an Index for Higher Education</title>
+      <link>/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
+      <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&amp;rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

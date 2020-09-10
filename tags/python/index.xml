@@ -6,10 +6,120 @@
     <description>Recent content in Python on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>California&#39;s Water Data Challenge: Generating User-guided Prediction of Water Supply in the Californian Rivers</title>
+      <link>/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</guid>
+      <description>&lt;p&gt;Freshwater supply is critical for managing and meeting human and ecological demands. However, while stocks of water in both natural and artificial reservoirs are helpful for increasing availability, droughts and floods, as well as whiplash events affect reliability on these systems, posing grave consequences on water users. This risk is particularly salient in the state of California, where many local communities have been plagued by extreme hydrological events. In this current research, we contribute to California&amp;rsquo;s Water Data Challenge effort where a diverse group of volunteers convened to form a multi-disciplinary team that addresses the crucial issues of extreme events in California using data science approaches. Members include researchers and professionals who come from a range of backgrounds representing academia and private sectors. We combine a range of publicly available datasets with Machine Learning (ML) techniques to explore predictability of extreme events during California’s water years. More specifically, we use a variety of water districts and showcase how ML prediction models are not only able to predict the flow of water at varying time horizons, they capture uncertainties posed by the climate and human influences.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>China&#39;s War on Poverty</title>
+      <link>/2020/09/project-chinas-war-on-poverty/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-chinas-war-on-poverty/</guid>
+      <description>&lt;p&gt;In 2013, the Chinese government launched its grand initiative to eradicate rural poverty by 2020. The initiative has made great progress since then, yet little rigorous empirical evidence is available due to data limitations. This project aims to use big data through both official and social media to analyze the trends, achievements, and challenges of this initiative and offer implications for the future and from a comparative perspective.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Decode the DNA Methylation in Memory</title>
+      <link>/2020/09/project-decode-the-dna-methylation-in-memory/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-decode-the-dna-methylation-in-memory/</guid>
+      <description>&lt;p&gt;Memory is a basic function of our brain that enables us to use the past experiences to service the present and future on a daily base, and memory function is often disrupted in neurological and psychiatric diseases, such as Alzheimer’s disease and posttraumatic stress disorder. To understand the molecular mechanism of memory storage, we will focus on DNA methylation, a chemical modification of our genome, that is hypothesized to play a critical role for memory. We have identified thousands of DNA methylation changes at numerous genomic loci occurred during the formation of fear and reward memory in the mouse brain. We will develop new computational tools to analyze these changes of DNA methylation and search for the common sequence features of these genomic loci. The result of this project will lead to a systematic understanding of the principle on the function and regulation of DNA methylation in memory, and will pave the way to develop new therapeutic strategies for diseases involved memory defects.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Defining Aneuploidy from Next-Gen Sequencing</title>
+      <link>/2020/09/project-defining-aneuploidy-from-next-gen-sequencing/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-defining-aneuploidy-from-next-gen-sequencing/</guid>
+      <description>&lt;p&gt;Our lab is interested in aneuploidy, or the incorrect number of whole chromosomes and chromosome arms. A challenge in this area of research is that karyotypes require a large number of proliferating cells for analysis. To address this, our lab and collaborators developed new algorithms to identify aneuploidy alterations from DNA sequencing data. Here, the project goal is to implement these algorithms at Columbia, and subsequently to apply these analysis methods to samples generated in the lab and patient samples. Building on this, the DSI student may also develop new algorithms for use with single-cell sequencing data and RNA sequencing data. Experience in one or more of the following is a must: UNIX, R, and python. The DSI student will be mentored by Dr. Alison Taylor, and he/she will also work closely with all lab members.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Generating a graph representation of microbial community diversity</title>
+      <link>/2020/09/project-generating-a-graph-representation-of-microbial-community-diversity/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-generating-a-graph-representation-of-microbial-community-diversity/</guid>
+      <description>&lt;p&gt;Understanding the interaction between human-associated microbial communities and human health is expected to revolutionize healthcare. Recent work found that this interaction is, in part, shaped by genetic differences between otherwise identical species in the microbiome. Detecting this variation, however, is a significant challenge. This project aims to profile microbial genetic variation within and across multiple patients&amp;rsquo; microbiomes. This will allow us to better compare and interpret this variation in the context of human disease, gaining mechanistic insight into complex human-microbiome interactions.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Improving observed and modeled air pollution data quality over sub-Saharan Africa using machine learning</title>
+      <link>/2020/09/project-improving-observed-and-modeled-air-pollution-data-quality-over-sub-saharan-africa-using-machine-learning/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-improving-observed-and-modeled-air-pollution-data-quality-over-sub-saharan-africa-using-machine-learning/</guid>
+      <description>&lt;p&gt;The goal of the project is twofold: 1) to better understand and further improve the use of low cost air pollution sensors and 2) to analyze and characterize air pollution data in sub-Saharan Africa. Air pollution kills an estimated 700,000 people per year in Africa, but existing air pollution data in Africa is extremely sparse and estimates of the associated mortality are uncertain. Low cost air pollution sensors have the potential to rapidly revolutionize air quality awareness and data availability in data-sparse areas of  the world, including sub-Saharan Africa. However, use of low cost sensors requires careful calibration, performance evaluation, and other quality assurance before the data can be fully trusted to the same degree as regulatory-grade monitors. As part of a larger project led by Dr. Westervelt, fine particulate matter (PM2.5) sensors have already been deployed in several African megacities, including Kinshasa, Democratic Republic of Congo; Nairobi, Kenya; Kampala, Uganda; Accra, Ghana, and Lomé, Togo. In Kampala and Accra, sensors are co-located with a regulatory-grade PM2.5 instrument for several months, allowing for a direct comparison between low cost and regulatory-grade PM2.5 measurements, and also allowing for the development of calibration factors.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Measuring Liberal Arts: Creating an Index for Higher Education</title>
+      <link>/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
+      <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&amp;rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Measuring the network impact of COVID-19</title>
+      <link>/2020/09/project-measuring-the-network-impact-of-covid-19/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-measuring-the-network-impact-of-covid-19/</guid>
+      <description>&lt;p&gt;The spread of COVID-19 has led to unprecedented and ongoing changes to daily life, including shelter-in-place orders, widespread closing of businesses and schools, and work-from-home and school-from-home at previously unknown levels. These changes in behavior are placing extraordinary demands on the Internet. This project will measure the Internet’s ability to meet these demands, including comparing its performance before, during, and after the peak of COVID-19; whether the amount of change varies between areas heavily impacted by COVID-19 and those less impacted; and whether and how large networks adapt. To provide this rich understanding, this project will combine multiple Internet-scale datasets that provide complementary views to investigate how responses to COVID-19 have impacted the Internet and how networks have reacted. Measuring the network impact of COVID-19 will illuminate the Internet’s strengths and weak points and is a crucial step towards improving the Internet’s future resilience in the face of pandemics, natural disasters, large scale conflict, and terrorist attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Physically-informed polycrystal plasticity models of beta-HMX</title>
+      <link>/2020/09/project-physically-informed-polycrystal-plasticity-models-of-beta-hmx/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-physically-informed-polycrystal-plasticity-models-of-beta-hmx/</guid>
+      <description>&lt;p&gt;Traditionally, these types of data are routinely neglected in hand-crafted constitutive models due to the complexity. Instead, descriptors such as void fraction, dislocation density, and other statistical measures of the microstructures are often incorporated into yield surface or hardening rules (e.g. Gurson damage model, critical state plasticity). In this work, we will overcome this technical barrier by using a deep convolutional neural network to deduce low-dimensional descriptors that best describes the physics of the deformation process of polycrystals. With deep Q reinforcement learning to automate the trial-and-error process, we may explore the decision tree with a large number of trials that are impossible to be done manually. This treatment will empower us to discover the underlying mechanics of polycrystals under a variety of pressure, temperature, and loading rates highly relevant to the Air Force applications. While previous work on data-driven models has often focused on complete substitutions of constitutive laws with a data-driven paradigm, I intend to seek the best option representing the hierarchy of material responses, while implementing adversarial attacks to determine hidden weaknesses of existing polycrystal plasticity models as well as the one generated from the ML approaches. I will make use of a collocation Fast Fourier Transformation (FFT) solver to speed up the generations of the material database, digesting microstructural data via descriptors in the non-Euclidean space, Graph-based knowledge abstraction, and adversarial attack.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prediction of microbial communities metabolic output</title>
+      <link>/2020/09/project-prediction-of-microbial-communities-metabolic-output/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-prediction-of-microbial-communities-metabolic-output/</guid>
+      <description>&lt;p&gt;The human microbiome is associated with different diseases, but the metabolic mechanisms through which it can modulate health are mostly unknown. Understanding these mechanisms is of paramount importance for prevention and treatment. While metagenomics analysis provides associations between microbial presence and specific diseases, metabolomics analysis can highlight metabolic alterations. None of the two, however, can unveil microbiome metabolic mechanisms associated with these detected alterations. In an attempt to fill this knowledge gap, several microbiome metabolic modeling methods were recently developed. An accurate evaluation of the accuracy of such methods in relation to different pathologies and microbiomes was never conducted.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Analysis and processing of GIS data in assessing international development</title>

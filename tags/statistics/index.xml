@@ -6,10 +6,43 @@
     <description>Recent content in Statistics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Can we detect COVID in the Internet?</title>
+      <link>/2020/09/project-can-we-detect-covid-in-the-internet/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-can-we-detect-covid-in-the-internet/</guid>
+      <description>&lt;p&gt;COVID-19 has changed the way we use the internet, from taking classes to social interactions and entertainment. The FCC publishes a large dataset of network measurements from thousands of homes, with gigabytes of data. The project goal is to analyze the data and answer questions such as: Has the increased usage reduced internet speeds? Can we tell how much people are staying at home from data usage records? Is the increased use of video conferencing reflected in the upload metrics?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>China&#39;s War on Poverty</title>
+      <link>/2020/09/project-chinas-war-on-poverty/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-chinas-war-on-poverty/</guid>
+      <description>&lt;p&gt;In 2013, the Chinese government launched its grand initiative to eradicate rural poverty by 2020. The initiative has made great progress since then, yet little rigorous empirical evidence is available due to data limitations. This project aims to use big data through both official and social media to analyze the trends, achievements, and challenges of this initiative and offer implications for the future and from a comparative perspective.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Measuring the network impact of COVID-19</title>
+      <link>/2020/09/project-measuring-the-network-impact-of-covid-19/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-measuring-the-network-impact-of-covid-19/</guid>
+      <description>&lt;p&gt;The spread of COVID-19 has led to unprecedented and ongoing changes to daily life, including shelter-in-place orders, widespread closing of businesses and schools, and work-from-home and school-from-home at previously unknown levels. These changes in behavior are placing extraordinary demands on the Internet. This project will measure the Internet’s ability to meet these demands, including comparing its performance before, during, and after the peak of COVID-19; whether the amount of change varies between areas heavily impacted by COVID-19 and those less impacted; and whether and how large networks adapt. To provide this rich understanding, this project will combine multiple Internet-scale datasets that provide complementary views to investigate how responses to COVID-19 have impacted the Internet and how networks have reacted. Measuring the network impact of COVID-19 will illuminate the Internet’s strengths and weak points and is a crucial step towards improving the Internet’s future resilience in the face of pandemics, natural disasters, large scale conflict, and terrorist attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Assessing the relationship between sleep and cardiometabolic risk in NYC women</title>

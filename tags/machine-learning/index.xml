@@ -12,12 +12,34 @@
     
     
     <item>
+      <title>California&#39;s Water Data Challenge: Generating User-guided Prediction of Water Supply in the Californian Rivers</title>
+      <link>/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</guid>
+      <description>&lt;p&gt;Freshwater supply is critical for managing and meeting human and ecological demands. However, while stocks of water in both natural and artificial reservoirs are helpful for increasing availability, droughts and floods, as well as whiplash events affect reliability on these systems, posing grave consequences on water users. This risk is particularly salient in the state of California, where many local communities have been plagued by extreme hydrological events. In this current research, we contribute to California&amp;rsquo;s Water Data Challenge effort where a diverse group of volunteers convened to form a multi-disciplinary team that addresses the crucial issues of extreme events in California using data science approaches. Members include researchers and professionals who come from a range of backgrounds representing academia and private sectors. We combine a range of publicly available datasets with Machine Learning (ML) techniques to explore predictability of extreme events during California’s water years. More specifically, we use a variety of water districts and showcase how ML prediction models are not only able to predict the flow of water at varying time horizons, they capture uncertainties posed by the climate and human influences.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Data For Good: The Cost of Human Rights Violations</title>
       <link>/2020/09/project-dfg-the-cost-of-human-rights-violations/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/project-dfg-the-cost-of-human-rights-violations/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://rightscolab.org&#34;&gt;Rights CoLab&lt;/a&gt; is working with the Sustainability Accounting Standards Board (SASB) to develop and define a strengthened set of disclosure standards that investors can use to persuade companies to improve labor rights for both direct employees and workers in their supply chains. The project has two components: a data science project and an Independent Advisory Group. Our coalition of labor experts, data scientists, and SASB partners is focused on improving social disclosure standards that drive real gains in human rights.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estimating Social Influence with Probabilistic Machine Learning</title>
+      <link>/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</guid>
+      <description>&lt;p&gt;We are developing machine learning (ML) methods to understand how people influence each others’ behavior in social networks. For example, on Twitter, do users influence the content shared or posted by their followers? Methods that can identify such patterns of influence will play a role in studying, e.g., the spread of misinformation on social media sites.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

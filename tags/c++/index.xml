@@ -6,10 +6,21 @@
     <description>Recent content in C&#43;&#43; on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Generating a graph representation of microbial community diversity</title>
+      <link>/2020/09/project-generating-a-graph-representation-of-microbial-community-diversity/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-generating-a-graph-representation-of-microbial-community-diversity/</guid>
+      <description>&lt;p&gt;Understanding the interaction between human-associated microbial communities and human health is expected to revolutionize healthcare. Recent work found that this interaction is, in part, shaped by genetic differences between otherwise identical species in the microbiome. Detecting this variation, however, is a significant challenge. This project aims to profile microbial genetic variation within and across multiple patients&amp;rsquo; microbiomes. This will allow us to better compare and interpret this variation in the context of human disease, gaining mechanistic insight into complex human-microbiome interactions.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Efficiently representing genetic diversity from thousands of microbiome samples</title>

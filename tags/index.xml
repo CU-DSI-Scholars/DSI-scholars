@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Approximate Bayesian Inference</title>
+      <link>/tags/approximate-bayesian-inference/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/approximate-bayesian-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Astronomy</title>
       <link>/tags/astronomy/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
@@ -68,7 +77,7 @@
     <item>
       <title>Aws</title>
       <link>/tags/aws/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/aws/</guid>
       <description></description>
@@ -93,6 +102,15 @@
     </item>
     
     <item>
+      <title>Behavioral Data</title>
+      <link>/tags/behavioral-data/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/behavioral-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Big Data</title>
       <link>/tags/big-data/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
@@ -104,9 +122,18 @@
     <item>
       <title>Bioinformatics</title>
       <link>/tags/bioinformatics/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomechanics</title>
+      <link>/tags/biomechanics/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/biomechanics/</guid>
       <description></description>
     </item>
     
@@ -140,9 +167,27 @@
     <item>
       <title>C&#43;&#43;</title>
       <link>/tags/c&#43;&#43;/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer</title>
+      <link>/tags/cancer/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Inference</title>
+      <link>/tags/causal-inference/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/causal-inference/</guid>
       <description></description>
     </item>
     
@@ -192,6 +237,15 @@
     </item>
     
     <item>
+      <title>Computer Networks</title>
+      <link>/tags/computer-networks/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/computer-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computing</title>
       <link>/tags/computing/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
@@ -221,7 +275,7 @@
     <item>
       <title>Covid</title>
       <link>/tags/covid/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/covid/</guid>
       <description></description>
@@ -300,6 +354,24 @@
     </item>
     
     <item>
+      <title>Databases</title>
+      <link>/tags/databases/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deconvolution</title>
+      <link>/tags/deconvolution/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deconvolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deduplication</title>
       <link>/tags/deduplication/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
@@ -311,7 +383,7 @@
     <item>
       <title>Deep Learning</title>
       <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/deep-learning/</guid>
       <description></description>
@@ -345,6 +417,15 @@
     </item>
     
     <item>
+      <title>Ecology</title>
+      <link>/tags/ecology/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Econometrics</title>
       <link>/tags/econometrics/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
@@ -365,7 +446,7 @@
     <item>
       <title>Education</title>
       <link>/tags/education/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/education/</guid>
       <description></description>
@@ -374,7 +455,7 @@
     <item>
       <title>Ehr</title>
       <link>/tags/ehr/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/ehr/</guid>
       <description></description>
@@ -392,7 +473,7 @@
     <item>
       <title>Environmental Science</title>
       <link>/tags/environmental-science/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/environmental-science/</guid>
       <description></description>
@@ -404,6 +485,15 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/epidemiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excel</title>
+      <link>/tags/excel/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/excel/</guid>
       <description></description>
     </item>
     
@@ -482,7 +572,7 @@
     <item>
       <title>Genetics</title>
       <link>/tags/genetics/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/genetics/</guid>
       <description></description>
@@ -494,6 +584,15 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geospatial Statistics</title>
+      <link>/tags/geospatial-statistics/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/geospatial-statistics/</guid>
       <description></description>
     </item>
     
@@ -624,6 +723,15 @@
     </item>
     
     <item>
+      <title>Internet</title>
+      <link>/tags/internet/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Java</title>
       <link>/tags/java/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
@@ -651,6 +759,15 @@
     </item>
     
     <item>
+      <title>Latent Variable Model</title>
+      <link>/tags/latent-variable-model/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/latent-variable-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning Activities</title>
       <link>/tags/learning-activities/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
@@ -669,11 +786,29 @@
     </item>
     
     <item>
+      <title>Linear Algebra</title>
+      <link>/tags/linear-algebra/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/linear-algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Linux</title>
       <link>/tags/linux/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Data</title>
+      <link>/tags/longitudinal-data/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/longitudinal-data/</guid>
       <description></description>
     </item>
     
@@ -689,7 +824,7 @@
     <item>
       <title>Mandarin</title>
       <link>/tags/mandarin/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/mandarin/</guid>
       <description></description>
@@ -707,9 +842,18 @@
     <item>
       <title>Matlab</title>
       <link>/tags/matlab/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbiology</title>
+      <link>/tags/microbiology/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/microbiology/</guid>
       <description></description>
     </item>
     
@@ -719,6 +863,24 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/microbiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missing Data</title>
+      <link>/tags/missing-data/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/missing-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture Model</title>
+      <link>/tags/mixture-model/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mixture-model/</guid>
       <description></description>
     </item>
     
@@ -746,6 +908,15 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/multilanguage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiomics</title>
+      <link>/tags/multiomics/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multiomics/</guid>
       <description></description>
     </item>
     
@@ -797,9 +968,18 @@
     <item>
       <title>Omics</title>
       <link>/tags/omics/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polycrystals</title>
+      <link>/tags/polycrystals/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/polycrystals/</guid>
       <description></description>
     </item>
     
@@ -860,7 +1040,7 @@
     <item>
       <title>Python</title>
       <link>/tags/python/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/python/</guid>
       <description></description>
@@ -869,9 +1049,18 @@
     <item>
       <title>R</title>
       <link>/tags/r/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Forest</title>
+      <link>/tags/random-forest/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/random-forest/</guid>
       <description></description>
     </item>
     
@@ -903,9 +1092,18 @@
     </item>
     
     <item>
+      <title>Regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sas</title>
       <link>/tags/sas/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/sas/</guid>
       <description></description>
@@ -926,6 +1124,15 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/satellite-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequencing Data</title>
+      <link>/tags/sequencing-data/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sequencing-data/</guid>
       <description></description>
     </item>
     
@@ -968,7 +1175,7 @@
     <item>
       <title>Social Media</title>
       <link>/tags/social-media/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/social-media/</guid>
       <description></description>
@@ -1004,7 +1211,7 @@
     <item>
       <title>Spatial Statistics</title>
       <link>/tags/spatial-statistics/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/spatial-statistics/</guid>
       <description></description>
@@ -1040,7 +1247,7 @@
     <item>
       <title>Sql</title>
       <link>/tags/sql/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/sql/</guid>
       <description></description>
@@ -1058,7 +1265,7 @@
     <item>
       <title>Statistics</title>
       <link>/tags/statistics/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/statistics/</guid>
       <description></description>
@@ -1130,7 +1337,7 @@
     <item>
       <title>Tensorflow</title>
       <link>/tags/tensorflow/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/tensorflow/</guid>
       <description></description>
@@ -1200,6 +1407,15 @@
     </item>
     
     <item>
+      <title>Unix Linux</title>
+      <link>/tags/unix-linux/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/unix-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unsupervised</title>
       <link>/tags/unsupervised/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
@@ -1211,9 +1427,18 @@
     <item>
       <title>Unsupervised Learning</title>
       <link>/tags/unsupervised-learning/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/unsupervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Data</title>
+      <link>/tags/urban-data/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/urban-data/</guid>
       <description></description>
     </item>
     

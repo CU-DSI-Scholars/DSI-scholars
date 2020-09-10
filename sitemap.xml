@@ -852,6 +852,12 @@
   </url>
   
   <url>
+    <loc>/tags/approximate-bayesian-inference/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/archives/</loc>
     <priority>0</priority>
   </url>
@@ -876,7 +882,7 @@
   
   <url>
     <loc>/tags/aws/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -893,6 +899,12 @@
   </url>
   
   <url>
+    <loc>/tags/behavioral-data/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/big-data/</loc>
     <lastmod>2019-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -900,7 +912,13 @@
   
   <url>
     <loc>/tags/bioinformatics/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/biomechanics/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -930,13 +948,25 @@
   
   <url>
     <loc>/tags/c&#43;&#43;/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cancer/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/causal-inference/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -983,6 +1013,12 @@
   </url>
   
   <url>
+    <loc>/tags/computer-networks/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/computing/</loc>
     <lastmod>2018-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1002,7 +1038,7 @@
   
   <url>
     <loc>/tags/covid/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1061,6 +1097,18 @@
   </url>
   
   <url>
+    <loc>/tags/databases/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/deconvolution/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/deduplication/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1068,7 +1116,7 @@
   
   <url>
     <loc>/tags/deep-learning/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1091,6 +1139,12 @@
   </url>
   
   <url>
+    <loc>/tags/ecology/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/econometrics/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1104,13 +1158,13 @@
   
   <url>
     <loc>/tags/education/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/ehr/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1122,13 +1176,19 @@
   
   <url>
     <loc>/tags/environmental-science/</loc>
-    <lastmod>2019-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/epidemiology/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/excel/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1182,13 +1242,19 @@
   
   <url>
     <loc>/tags/genetics/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/genomics/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/geospatial-statistics/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1283,6 +1349,12 @@
   </url>
   
   <url>
+    <loc>/tags/internet/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/java/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1301,6 +1373,12 @@
   </url>
   
   <url>
+    <loc>/tags/latent-variable-model/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/learning-activities/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1313,8 +1391,20 @@
   </url>
   
   <url>
+    <loc>/tags/linear-algebra/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/linux/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/longitudinal-data/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1326,7 +1416,7 @@
   
   <url>
     <loc>/tags/mandarin/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1338,13 +1428,31 @@
   
   <url>
     <loc>/tags/matlab/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/microbiology/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/microbiome/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/missing-data/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mixture-model/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1363,6 +1471,12 @@
   <url>
     <loc>/tags/multilanguage/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/multiomics/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1398,7 +1512,7 @@
   
   <url>
     <loc>/tags/omics/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1411,6 +1525,12 @@
   <url>
     <loc>/page/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/polycrystals/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1494,13 +1614,19 @@
   
   <url>
     <loc>/tags/python/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/r/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/random-forest/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1523,8 +1649,14 @@
   </url>
   
   <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/sas/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1537,6 +1669,12 @@
   <url>
     <loc>/tags/satellite-data/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sequencing-data/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1566,7 +1704,7 @@
   
   <url>
     <loc>/tags/social-media/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1590,7 +1728,7 @@
   
   <url>
     <loc>/tags/spatial-statistics/</loc>
-    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1614,7 +1752,7 @@
   
   <url>
     <loc>/tags/sql/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1626,7 +1764,7 @@
   
   <url>
     <loc>/tags/statistics/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1680,7 +1818,7 @@
   
   <url>
     <loc>/tags/tensorflow/</loc>
-    <lastmod>2019-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1727,6 +1865,12 @@
   </url>
   
   <url>
+    <loc>/tags/unix-linux/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/unsupervised/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1734,7 +1878,13 @@
   
   <url>
     <loc>/tags/unsupervised-learning/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/urban-data/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
