@@ -1,0 +1,603 @@
+
+
+
+  
+
+
+
+
+
+  
+
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Hugo 0.34 with theme Tranquilpeak 0.4.3-BETA">
+    <title>R</title>
+    <meta name="author" content="Columbia Data Science Institute (DSI) Scholars Program">
+    <meta name="keywords" content="">
+
+    <link rel="icon" href="http://res.cloudinary.com/tz33cu/image/upload/c_scale,w_150/v1516739017/DSI-scholars/Data-Science-Avatar_qkn5fd.png">
+    
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="../../../../tags/r/index.xml">
+    
+
+    
+    <meta name="description" content="Columbia DSI Scholars Program">
+    <meta property="og:description" content="Columbia DSI Scholars Program">
+    <meta property="og:type" content="blog">
+    <meta property="og:title" content="R">
+    <meta property="og:url" content="/tags/r/">
+    <meta property="og:site_name" content="Columbia DSI Scholars">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Columbia DSI Scholars">
+    <meta name="twitter:description" content="Columbia DSI Scholars Program">
+    
+      <meta name="twitter:creator" content="@dsi_columbia">
+    
+    
+
+    
+    
+
+    
+      <meta property="og:image" content="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png">
+    
+
+    
+    
+    
+
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="../../../../css/style-jsjn0006wyhpyzivf6yceb31gvpjatbcs3qzjvlumobfnugccvobqwxnnaj8.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="2">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="../../../../">Columbia DSI Scholars</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="http://datascience.columbia.edu/">
+    
+    
+    
+      
+        <img class="header-picture" src="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="2">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="../../../../#about">
+          <img class="sidebar-profile-picture" src="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Columbia Data Science Institute (DSI) Scholars Program</h4>
+        
+          <h5 class="sidebar-profile-bio">The DSI Scholars Program is to engage and support undergraduate and master students in participating data science related research with Columbia faculty. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../../">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../../page/faq_fall_2020">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question-circle"></i>
+      
+      <span class="sidebar-button-desc">FAQ</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../../categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-university"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../../tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../../#about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-info"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://forms.gle/FirneensvXgZGE6HA">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-mortar-board"></i>
+      
+      <span class="sidebar-button-desc">Apply Now</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../../page/contact-info">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-paper-plane"></i>
+      
+      <span class="sidebar-button-desc">Contact Info</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/CU-DSI-Scholars">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/DSI_Columbia">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+  </div>
+</nav>
+
+      
+        
+
+      
+      <div id="main" data-behavior="2"
+        class="
+               hasCoverMetaIn
+               ">
+        
+          <section class="postShorten-group main-content-wrap">
+            
+            
+              
+  
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-left" itemscope itemType="http://schema.org/BlogPosting">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title" itemprop="headline">
+        <a class="link-unstyled" href="../../../../2018/01/project-healthcare-data-analytics-internship/">
+          Project: Healthcare data analytics internship
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2018-01-21T00:00:00Z">
+        
+  January 21, 2018
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="../../../../categories/project-2018">Project 2018</a>
+    
+  
+
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt" itemprop="articleBody">
+      <p>Recently Columbia University, Cornell, and NewYork-Presbyterian have agreed to integrate their clinical (healthcare) and business IT systems onto one shared platform called Epic. The motivating factors to move to Epic are to enhance the patient experience, improve and integrate care, and give our physicians an integrated technology platform that supports the mission of an academic medical center. The intern will assist with developing the “operational” analytics capabilities of Columbia University Medical Center including financial, healthcare operations and healthcare quality analytics.</p>
+
+<p></p>
+      <p>
+        <a href="../../../../2018/01/project-healthcare-data-analytics-internship/" class="postShorten-excerpt_link link">Continue reading</a>
+        
+      </p>
+    </div>
+  </div>
+  
+    <a href="../../../../2018/01/project-healthcare-data-analytics-internship/">
+      <div class="postShorten-thumbnailimg">
+        <img alt="" itemprop="image" src="//res.cloudinary.com/tz33cu/image/upload/v1516632872/DSI-scholars/healthcare_pht18w.png"/>
+      </div>
+    </a>
+  
+</article>
+
+            
+            
+  <div class="pagination-bar">
+    <ul class="pagination">
+      
+        
+          <li class="pagination-prev">
+            <a class="btn btn--default btn--small" href="../../../../tags/r/page/5/">
+              <i class="fa fa-angle-left text-base icon-mr"></i>
+              <span>PREVIOUS PAGE</span>
+            </a>
+          </li>
+        
+        
+      
+      <li class="pagination-number">page 6 of 6</li>
+    </ul>
+  </div>
+
+
+          </section>
+        
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2020 Columbia Data Science Institute (DSI) Scholars Program. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Columbia Data Science Institute (DSI) Scholars Program</h4>
+    
+      <div id="about-card-bio">The DSI Scholars Program is to engage and support undergraduate and master students in participating data science related research with Columbia faculty. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Columbia University DSI
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        New York, NY
+      </div>
+    
+  </div>
+</div>
+
+    <div id="algolia-search-modal" class="modal-container">
+  <div class="modal">
+    <div class="modal-header">
+      <span class="close-button"><i class="fa fa-close"></i></span>
+      <a href="https://algolia.com" target="_blank" rel="noopener" class="searchby-algolia text-color-light link-unstyled">
+        <span class="searchby-algolia-text text-color-light text-small">by</span>
+        <img class="searchby-algolia-logo" src="https://www.algolia.com/static_assets/images/press/downloads/algolia-light.svg">
+      </a>
+      <i class="search-icon fa fa-search"></i>
+      <form id="algolia-search-form">
+        <input type="text" id="algolia-search-input" name="search"
+          class="form-control input--large search-input" placeholder="Search" />
+      </form>
+    </div>
+    <div class="modal-body">
+      <div class="no-result text-color-light text-center">no post found</div>
+      <div class="results">
+        
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../../2020/09/call-for-student-applications-dsi-scholars-fall-2020/">
+                <h3 class="media-heading">Call for Student Applications - Fall 2020</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Columbia University <a href="http://datascience.columbia.edu/">Data Science Institute</a> is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Fall 2020 are open for application.</p>
+
+<p>The goal of the DSI Scholars Program is to engage Columbia University&rsquo;s undergraduate and master&rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.</p>
+
+<p>The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &ldquo;real world&rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../../2020/09/project-biomarker-discovery-for-cancer-immunotherapy/">
+                <h3 class="media-heading">Biomarker discovery for cancer immunotherapy</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Immune checkpoint blockade therapy has shown successful clinical outcomes in the treatment of  various solid tumors such as head and neck squamous cell carcinoma (HNSCC), melanoma, non-small cell lung cancer (NSCLC) and others. However, immune checkpoint inhibitors work best in patients who exhibit certain tumor biomarkers. In a collaboration with the Department of Hematology Oncology, the Department of Systems Biology, and the Mailman School of Public Health at Columbia University we aim to identify biomarkers which are associated with treatment outcome in patients with solid tumors who underwent immunotherapy. The project includes bioinformatic analysis of sequencing data. Mentoring and training will be provided.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../../2020/09/project-biomechanical-indicators-of-adaptive-decision-making-in-children-with-unilateral-cerebral-palsy/">
+                <h3 class="media-heading">Biomechanical indicators of adaptive decision making in children with unilateral cerebral palsy</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>The project will entail data processing and data analysis of behavioral and biomechanical data (collected) from experiments. The goal will be to develop a manuscript for publication at the end of the Spring semester 2021</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../../2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/">
+                <h3 class="media-heading">California&#39;s Water Data Challenge: Generating User-guided Prediction of Water Supply in the Californian Rivers</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Freshwater supply is critical for managing and meeting human and ecological demands. However, while stocks of water in both natural and artificial reservoirs are helpful for increasing availability, droughts and floods, as well as whiplash events affect reliability on these systems, posing grave consequences on water users. This risk is particularly salient in the state of California, where many local communities have been plagued by extreme hydrological events. In this current research, we contribute to California&rsquo;s Water Data Challenge effort where a diverse group of volunteers convened to form a multi-disciplinary team that addresses the crucial issues of extreme events in California using data science approaches. Members include researchers and professionals who come from a range of backgrounds representing academia and private sectors. We combine a range of publicly available datasets with Machine Learning (ML) techniques to explore predictability of extreme events during California’s water years. More specifically, we use a variety of water districts and showcase how ML prediction models are not only able to predict the flow of water at varying time horizons, they capture uncertainties posed by the climate and human influences.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../../2020/09/project-can-we-detect-covid-in-the-internet/">
+                <h3 class="media-heading">Can we detect COVID in the Internet?</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>COVID-19 has changed the way we use the internet, from taking classes to social interactions and entertainment. The FCC publishes a large dataset of network measurements from thousands of homes, with gigabytes of data. The project goal is to analyze the data and answer questions such as: Has the increased usage reduced internet speeds? Can we tell how much people are staying at home from data usage records? Is the increased use of video conferencing reflected in the upload metrics?</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../../2020/09/project-chinas-war-on-poverty/">
+                <h3 class="media-heading">China&#39;s War on Poverty</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>In 2013, the Chinese government launched its grand initiative to eradicate rural poverty by 2020. The initiative has made great progress since then, yet little rigorous empirical evidence is available due to data limitations. This project aims to use big data through both official and social media to analyze the trends, achievements, and challenges of this initiative and offer implications for the future and from a comparative perspective.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../../2020/09/project-dfg-african-north-americans-database/">
+                <h3 class="media-heading">Data For Good Project: African North Americans Database</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, &ldquo;color,&rdquo; birthplace, or other details.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../../2020/09/project-dfg-food-insecurity-obesity-and-covid-19/">
+                <h3 class="media-heading">Data For Good: Food Insecurity, Obesity, and COVID-19</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>New York Presbyterian/Columbia University Irving Medical Center (NYP/CUIMC) serves a high number of racial/ethnic minority and low-income patients. In this project, we will create a data repository of all patients who have completed a universal screen in a clinical encounter for social determinants of health, including food insecurity. The scholar will handle large datasets extracted from the medical record for database creation and data visualizations. The dataset will include patient demographics, food security, and clinical outcomes. This data resource will allow the scholar to partner with researchers to examine predictors of food insecurity, clinical courses, and health outcomes among a large population of patients, including a time period prior to the COVID-19 surge in New York City.  The project will be co-mentored through the members of the University-wide Food Systems Network, a novel collaboration of researchers at the Medical Center, Earth Institute, SIPA, and Teacher&rsquo;s College.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../../2020/09/project-dfg-getting-it-right-building-age-and-typology-for-nycs-buildings/">
+                <h3 class="media-heading">Data For Good: Getting It Right: Building Age and Typology for NYC&#39;s Buildings</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Getting a better approximation of the age of a NYC’s building can improve assigning the building to a structural type that includes type of construction and relevant building code in effect. Mapping the age and type of building would help NYC DOB and the City on a number of fronts, which include enabling NYC DOB to be more effective in enforcing  building and construction safety and evaluating risk when adjacent or nearby subsurface construction is proposed. Furthermore, the more precise characterization of NYC buildings will improve efforts by the City to craft policies aimed at energy efficiency (TWG) as it drives to 80% GHG reductions by 2050 (80X50) and determining natural disaster vulnerability of its building stock (HAZUS).</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="../../../../2020/09/project-dfg-mapping-construction-and-demolition-waste-flows-to-re-use-cdw-in-the-citys-capital-program/">
+                <h3 class="media-heading">Data For Good: Mapping Construction and Demolition Waste Flows to Re-Use CDW in the City&#39;s Capital Program</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>The State regulates Construction and Demolition Waste (CDW) — its generation, recycling and reuse — and collects all data on CDW.  There is no city source of data for CDW.  For the city to innovate policy with respect to CDW by leveraging its capital program as one way to close material loops, which would generate environmental sustainability and financial sustainability benefits, understanding where CDW goes from the demolition process through the recycling process is the most important single step.</p>
+
+<p></p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+      </div>
+    </div>
+    <div class="modal-footer">
+      <p class="results-count text-medium"
+         data-message-zero="no post found"
+         data-message-one="1 post found"
+         data-message-other="{n} posts found">
+         159 posts found
+      </p>
+    </div>
+  </div>
+</div>
+    
+  
+    
+    <div id="cover" style="background-image:url('http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/CU-bk2_qu8fsv.jpg');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="../../../../js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
+
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+
