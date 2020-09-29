@@ -103,6 +103,17 @@ Answer: It is recommended that you prioritize based on your interest and skills.
     </item>
     
     <item>
+      <title>Data For Good: Developing Predictive Model for Project Cost Estimate</title>
+      <link>/2020/09/project-dfg-developing-predictive-model-for-project-cost-estimate/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-dfg-developing-predictive-model-for-project-cost-estimate/</guid>
+      <description>&lt;p&gt;NYC DDC has initiated a machine learning project to develop predictive model for estimating cost of project and work items. Using the latest technique in Machine Learning and Advanced Statistics, NYC DDC to develop a model that predicts the cost of future and active projects and construction work items in different phases of the lifecycle of the project based on historical data. DDC has partnered with Microsoft who is providing the proof of concept guidance and making tools available for the proof of concept development. DDC is seeking assistance of a data scientist from the Town and Gown program to develop the model.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Data For Good: Food Insecurity, Obesity, and COVID-19</title>
       <link>/2020/09/project-dfg-food-insecurity-obesity-and-covid-19/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
@@ -131,6 +142,17 @@ Answer: It is recommended that you prioritize based on your interest and skills.
       
       <guid>/2020/09/project-dfg-mapping-construction-and-demolition-waste-flows-to-re-use-cdw-in-the-citys-capital-program/</guid>
       <description>&lt;p&gt;The State regulates Construction and Demolition Waste (CDW) — its generation, recycling and reuse — and collects all data on CDW.  There is no city source of data for CDW.  For the city to innovate policy with respect to CDW by leveraging its capital program as one way to close material loops, which would generate environmental sustainability and financial sustainability benefits, understanding where CDW goes from the demolition process through the recycling process is the most important single step.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data For Good: Operationalize Project Cash Flow Model</title>
+      <link>/2020/09/project-dfg-operationalize-project-cash-flow-model/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-dfg-operationalize-project-cash-flow-model/</guid>
+      <description>&lt;p&gt;In collaboration with DDC, Microsoft AI team has developed a predictive machine learning model that forecasts monthly distribution of cash flow for DDC’s active projects. DDC intends to operationalize this model and possibly integrate into our dashboards.  Assistance is needed of a data scientist to collaborate with DDC in operationalizing the model whereby DDC can prepare the visuals and data scientist can assist with operationalizing the machine learning components.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

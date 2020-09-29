@@ -6,10 +6,21 @@
     <description>Recent content in Visualization on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data For Good: Operationalize Project Cash Flow Model</title>
+      <link>/2020/09/project-dfg-operationalize-project-cash-flow-model/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/project-dfg-operationalize-project-cash-flow-model/</guid>
+      <description>&lt;p&gt;In collaboration with DDC, Microsoft AI team has developed a predictive machine learning model that forecasts monthly distribution of cash flow for DDC’s active projects. DDC intends to operationalize this model and possibly integrate into our dashboards.  Assistance is needed of a data scientist to collaborate with DDC in operationalizing the model whereby DDC can prepare the visuals and data scientist can assist with operationalizing the machine learning components.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Project: Enhancing Self-Directed Learning Opportunities Using Learning Analytics</title>

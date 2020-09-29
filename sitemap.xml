@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>/2020/09/project-dfg-developing-predictive-model-for-project-cost-estimate/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2020/09/project-dfg-food-insecurity-obesity-and-covid-19/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
@@ -54,6 +59,11 @@
   
   <url>
     <loc>/2020/09/project-dfg-mapping-construction-and-demolition-waste-flows-to-re-use-cdw-in-the-citys-capital-program/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/09/project-dfg-operationalize-project-cash-flow-model/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -897,6 +907,12 @@
   </url>
   
   <url>
+    <loc>/tags/azure-ml/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/bayesian/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -988,6 +1004,12 @@
   
   <url>
     <loc>/tags/climate/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/climate-change/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1089,13 +1111,13 @@
   </url>
   
   <url>
-    <loc>/tags/data-for-good/</loc>
+    <loc>/categories/data-for-good/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/data-for-good/</loc>
+    <loc>/tags/data-for-good/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1347,13 +1369,13 @@
   </url>
   
   <url>
-    <loc>/tags/info/</loc>
+    <loc>/categories/info/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/info/</loc>
+    <loc>/tags/info/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1930,7 +1952,7 @@
   
   <url>
     <loc>/tags/visualization/</loc>
-    <lastmod>2019-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
