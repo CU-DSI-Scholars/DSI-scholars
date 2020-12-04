@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2020/12/call-for-faculty-participation-dsi-scholars-spring-summer-2021/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/12/call-for-faculty-participation-dsi-scholars-spring-summer-2021/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/pi_faq/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2020/09/call-for-student-applications-dsi-scholars-fall-2020/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
@@ -861,7 +876,7 @@
   
   <url>
     <loc>/categories/announcement/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -986,7 +1001,7 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1034,7 +1049,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1111,13 +1126,13 @@
   </url>
   
   <url>
-    <loc>/tags/data-for-good/</loc>
+    <loc>/categories/data-for-good/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/data-for-good/</loc>
+    <loc>/tags/data-for-good/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1369,14 +1384,14 @@
   </url>
   
   <url>
-    <loc>/tags/info/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>/categories/info/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/info/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>/tags/info/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1556,7 +1571,7 @@
   
   <url>
     <loc>/page/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1580,7 +1595,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1789,6 +1804,12 @@
   </url>
   
   <url>
+    <loc>/tags/spring-2021/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/sql/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1827,6 +1848,12 @@
   <url>
     <loc>/tags/summer-2020-2/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/summer-2021/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

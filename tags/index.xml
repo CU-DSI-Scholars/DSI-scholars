@@ -734,7 +734,7 @@
     <item>
       <title>Info</title>
       <link>/tags/info/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/info/</guid>
       <description></description>
@@ -1272,6 +1272,15 @@
     </item>
     
     <item>
+      <title>Spring 2021</title>
+      <link>/tags/spring-2021/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spring-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sql</title>
       <link>/tags/sql/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
@@ -1331,6 +1340,15 @@
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/summer-2020-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer 2021</title>
+      <link>/tags/summer-2021/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/summer-2021/</guid>
       <description></description>
     </item>
     
