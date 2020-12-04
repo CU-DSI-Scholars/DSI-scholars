@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Edav on Columbia DSI Scholars</title>
+    <title>EDAV on Columbia DSI Scholars</title>
     <link>/tags/edav/</link>
-    <description>Recent content in Edav on Columbia DSI Scholars</description>
+    <description>Recent content in EDAV on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/edav/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/edav/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A multi-omic map of human aging</title>
       <link>/2020/01/project-a-multi-omic-map-of-human-aging/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-a-multi-omic-map-of-human-aging/</guid>
-      <description>&lt;p&gt;This project builds on a novel cellular model of human aging (Sturm et al. Epigenomics 2019) where we can investigate trajectories of multiple molecular features of aging over long time periods. The underlying multi-omic dataset includes epigenomic (DNA methylation), proteomic (protein abundance), bioenergetics (mitochondrial respiration), telomere length, and various secreted factors. A major challenge for the DSI Fellow will be to integrate the multi-omic dataset to capture dynamic signatures of mitochondrial dysfunction and cellular aging, working collaboratively with other scientists. The existing project is expected to result in one or more publications. Possibility to continue work for pay over the summer.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project builds on a novel cellular model of human aging (Sturm et al. Epigenomics 2019) where we can investigate trajectories of multiple molecular features of aging over long time periods. The underlying multi-omic dataset includes epigenomic (DNA methylation), proteomic (protein abundance), bioenergetics (mitochondrial respiration), telomere length, and various secreted factors. A major challenge for the DSI Fellow will be to integrate the multi-omic dataset to capture dynamic signatures of mitochondrial dysfunction and cellular aging, working collaboratively with other scientists. The existing project is expected to result in one or more publications. Possibility to continue work for pay over the summer.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-a-system-for-exploratory-data-analysis-in-neuroscience/</guid>
-      <description>&lt;p&gt;Advances in data collection technologies in neuroscience has resulted in a deluge of high-quality data that needs to be analyzed, and presented to the experimentalist in a meaningful way. Usually the “data analysis and visualization”-pipeline is built from scratch for each new experiment resulting in a significant amount of code duplication and wasted effort in rebuilding the analysis tools. There is a growing need for a unified system to automate much of the repetitive tasks and aid biologists in understanding their data more efficiently.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Advances in data collection technologies in neuroscience has resulted in a deluge of high-quality data that needs to be analyzed, and presented to the experimentalist in a meaningful way. Usually the “data analysis and visualization”-pipeline is built from scratch for each new experiment resulting in a significant amount of code duplication and wasted effort in rebuilding the analysis tools. There is a growing need for a unified system to automate much of the repetitive tasks and aid biologists in understanding their data more efficiently.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +31,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-efficient-representations-and-prediction-of-multidimensional-time-series-data/</guid>
-      <description>&lt;p&gt;Big data with temporal dependence brings unique challenges in effective prediction and data analysis. The complex high-dimensional interactions between observations in such data brings unique challenges which standard off-the-shelf machine learning algorithms cannot handle. Even basic tasks of clustering, visualization and identification of recurring patterns are difficult.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Big data with temporal dependence brings unique challenges in effective prediction and data analysis. The complex high-dimensional interactions between observations in such data brings unique challenges which standard off-the-shelf machine learning algorithms cannot handle. Even basic tasks of clustering, visualization and identification of recurring patterns are difficult.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +40,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</guid>
-      <description>&lt;p&gt;The Quadracci Sustainable Engineering Lab (qSEL) has several research efforts related to the low-carbon energy transition, including pathways to decarbonize building space heating. Recent work has produced large model data sets that have supported recent journal articles. Several maps have been produced using QGIS and data has been made public, but user functionality is limited. While we continue to build on these efforts, we also want to make our results and data available more widely for other researchers and policymakers. The large data sets (10 years of hourly data for more than 72,000 census tracts and six scenarios) and different spatial aggregations (e.g. states and electricity planning/operating regions) present challenges. In this project, the DSI Scholar would first work with qSEL researchers to develop an interactive web interface to display maps of relevant analyses and allow users to produce time series data from the underlying models. Additional research would include further analysis at a regional level – likely New York State – to refine the current model based on additional intraregional and energy source data. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Quadracci Sustainable Engineering Lab (qSEL) has several research efforts related to the low-carbon energy transition, including pathways to decarbonize building space heating. Recent work has produced large model data sets that have supported recent journal articles. Several maps have been produced using QGIS and data has been made public, but user functionality is limited. While we continue to build on these efforts, we also want to make our results and data available more widely for other researchers and policymakers. The large data sets (10 years of hourly data for more than 72,000 census tracts and six scenarios) and different spatial aggregations (e.g. states and electricity planning/operating regions) present challenges. In this project, the DSI Scholar would first work with qSEL researchers to develop an interactive web interface to display maps of relevant analyses and allow users to produce time series data from the underlying models. Additional research would include further analysis at a regional level – likely New York State – to refine the current model based on additional intraregional and energy source data. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;</description>
     </item>
     
   </channel>

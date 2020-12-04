@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Omics on Columbia DSI Scholars</title>
@@ -6,20 +6,14 @@
     <description>Recent content in Omics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/omics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/omics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Identification of genetic variation involved in Mendelian diseases</title>
       <link>/2020/09/project-identification-of-genetic-variation-involved-in-mendelian-diseases/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/project-identification-of-genetic-variation-involved-in-mendelian-diseases/</guid>
-      <description>&lt;p&gt;This project will focus on the identification of genetic factors involved in various forms of hereditary diseases, including neurodevelopmental disorders, hearing loss, skeletal disorders and more. Some of these children endure years-long diagnostic odysseys of trial-and-error testing with inconclusive results and misdirected treatments. We are dedicated to track down their molecular causes by integrating various “-omics” technologies, including genomics, transcriptomics and epigenomics.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project will focus on the identification of genetic factors involved in various forms of hereditary diseases, including neurodevelopmental disorders, hearing loss, skeletal disorders and more. Some of these children endure years-long diagnostic odysseys of trial-and-error testing with inconclusive results and misdirected treatments. We are dedicated to track down their molecular causes by integrating various “-omics” technologies, including genomics, transcriptomics and epigenomics.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</guid>
-      <description>&lt;p&gt;We are conducting a large-scale study analyzing brain tissues from mice and humans with different APOE genotypes, using both single-nucleus sequencing and spatial transcriptomics to assess RNA expression differences caused by APOE genotype. We are working with an expert bioinformatics core, but would like a data science student to help perform the analyses and act as an in-lab lead for the bioinformatics analysis. Prior experience analyzing RNA-sequencing data is preferred, but not required.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We are conducting a large-scale study analyzing brain tissues from mice and humans with different APOE genotypes, using both single-nucleus sequencing and spatial transcriptomics to assess RNA expression differences caused by APOE genotype. We are working with an expert bioinformatics core, but would like a data science student to help perform the analyses and act as an in-lab lead for the bioinformatics analysis. Prior experience analyzing RNA-sequencing data is preferred, but not required.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +31,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-a-multi-omic-map-of-human-aging/</guid>
-      <description>&lt;p&gt;This project builds on a novel cellular model of human aging (Sturm et al. Epigenomics 2019) where we can investigate trajectories of multiple molecular features of aging over long time periods. The underlying multi-omic dataset includes epigenomic (DNA methylation), proteomic (protein abundance), bioenergetics (mitochondrial respiration), telomere length, and various secreted factors. A major challenge for the DSI Fellow will be to integrate the multi-omic dataset to capture dynamic signatures of mitochondrial dysfunction and cellular aging, working collaboratively with other scientists. The existing project is expected to result in one or more publications. Possibility to continue work for pay over the summer.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project builds on a novel cellular model of human aging (Sturm et al. Epigenomics 2019) where we can investigate trajectories of multiple molecular features of aging over long time periods. The underlying multi-omic dataset includes epigenomic (DNA methylation), proteomic (protein abundance), bioenergetics (mitochondrial respiration), telomere length, and various secreted factors. A major challenge for the DSI Fellow will be to integrate the multi-omic dataset to capture dynamic signatures of mitochondrial dysfunction and cellular aging, working collaboratively with other scientists. The existing project is expected to result in one or more publications. Possibility to continue work for pay over the summer.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +40,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-decoding-the-human-genome-with-interpretable-deep-learning/</guid>
-      <description>&lt;p&gt;The function for much of the 3 billion letters in the human genome remain to be understood. Advances in DNA sequencing technology have generated enormous amount of data, yet we don’t have the tool to extract rules of how the genome works. Deep learning holds great potential in decoding the genome, in particular due to the digital nature of DNA sequences and the ability to handle large data sets. However, like many other applications, the interpretability of deep learning models hampers its ability to help understand the genome. We are developing deep learning architectures embedded with the principles of gene regulation and we will be leveraging billions of existing measurements of gene activity to learn a mechanistic model of gene regulation in human cells.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The function for much of the 3 billion letters in the human genome remain to be understood. Advances in DNA sequencing technology have generated enormous amount of data, yet we don’t have the tool to extract rules of how the genome works. Deep learning holds great potential in decoding the genome, in particular due to the digital nature of DNA sequences and the ability to handle large data sets. However, like many other applications, the interpretability of deep learning models hampers its ability to help understand the genome. We are developing deep learning architectures embedded with the principles of gene regulation and we will be leveraging billions of existing measurements of gene activity to learn a mechanistic model of gene regulation in human cells.&lt;/p&gt;</description>
     </item>
     
   </channel>

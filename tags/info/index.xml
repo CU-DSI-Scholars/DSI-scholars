@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Info on Columbia DSI Scholars</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Info on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/info/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call for Faculty Participation --- DSI Scholars Spring-Summer 2021</title>
       <link>/2020/12/call-for-faculty-participation-dsi-scholars-spring-summer-2021/</link>
@@ -18,10 +14,7 @@
       
       <guid>/2020/12/call-for-faculty-participation-dsi-scholars-spring-summer-2021/</guid>
       <description>&lt;h3 id=&#34;call-for-faculty-participation-december-2021&#34;&gt;Call for Faculty Participation. December 2021.&lt;/h3&gt;
-
-&lt;p&gt;The Data Science Institute is calling for faculty submissions of research projects for the pring and/or summer 2021 sessions of Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with 42 projects and received more than 730 unique applications from Columbia Students. The program&amp;rsquo;s unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScXsKgdf08Mv-8Q1mX23TUW-btopOZwq1Sj5YvpH2tVEEXmoA/viewform?usp=sf_link&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;The Data Science Institute is calling for faculty submissions of research projects for the pring and/or summer 2021 sessions of Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with 42 projects and received more than 730 unique applications from Columbia Students. The program&amp;rsquo;s unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScXsKgdf08Mv-8Q1mX23TUW-btopOZwq1Sj5YvpH2tVEEXmoA/viewform?usp=sf_link&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,10 +54,7 @@ This page is for faculty. Students looking to apply to the DSI or Data For Good 
       
       <guid>/2020/08/call-for-faculty-participation-dsi-scholars-fall-2020/</guid>
       <description>&lt;h3 id=&#34;call-for-faculty-participation-september-2020&#34;&gt;Call for Faculty Participation. September 2020.&lt;/h3&gt;
-
-&lt;p&gt;The Data Science Institute is calling for faculty submissions of research projects for the Fall 2020 session of Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with 42 projects and received more than 730 unique applications from Columbia Students. The program’s unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfqjr-kQUTyYnVOZRMqK_i8E4oAvJLFnYsHLBHkNXfvKPYuAw/viewform?usp=sf_link&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;The Data Science Institute is calling for faculty submissions of research projects for the Fall 2020 session of Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with 42 projects and received more than 730 unique applications from Columbia Students. The program’s unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfqjr-kQUTyYnVOZRMqK_i8E4oAvJLFnYsHLBHkNXfvKPYuAw/viewform?usp=sf_link&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -104,10 +94,7 @@ Answer: It is recommended that you prioritize based on your interest and skills.
       
       <guid>/2019/12/call-for-faculty-participation-dsi-scholars-spring-summer-2020/</guid>
       <description>&lt;h3 id=&#34;call-for-faculty-participation-december-2019&#34;&gt;Call for Faculty Participation. December 2019.&lt;/h3&gt;
-
-&lt;p&gt;The Data Science Institute is pleased to call for Faculty Participation in the Spring and/or Summer 2020 sessions of the 3rd cohort of Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through a data science research internship. Last year, we worked with 47 projects and received more than 400 unique applications from Columbia Students. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;The Data Science Institute is pleased to call for Faculty Participation in the Spring and/or Summer 2020 sessions of the 3rd cohort of Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through a data science research internship. Last year, we worked with 47 projects and received more than 400 unique applications from Columbia Students. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -118,7 +105,7 @@ Answer: It is recommended that you prioritize based on your interest and skills.
       <guid>/page/faq2019/</guid>
       <description>Question: Will there be projects in the spring/summer?
 Answer: Yes, there will be another call for projects in December, and students in January. All current projects will be up for renewal under an expedited process, and interested students are encouraged to talk to their PIs about continuing.
- Question: With only one application form, how do I express interest in more than one project?
+  Question: With only one application form, how do I express interest in more than one project?
 Answer: It is recommended that you prioritize based on your interest and skills.</description>
     </item>
     
@@ -129,10 +116,7 @@ Answer: It is recommended that you prioritize based on your interest and skills.
       
       <guid>/2018/12/call-for-faculty-participation-dsi-scholars-spring-summer-2019/</guid>
       <description>&lt;h3 id=&#34;call-for-faculty-participation-december-2018&#34;&gt;Call for Faculty Participation. December 2018.&lt;/h3&gt;
-
-&lt;p&gt;The Data Science Institute is pleased to call for Faculty Participation in the 2nd cohort of Data Science Institute (DSI) Scholars Program for Spring and/or Summer 2019. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty through a data science research internship. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;The Data Science Institute is pleased to call for Faculty Participation in the 2nd cohort of Data Science Institute (DSI) Scholars Program for Spring and/or Summer 2019. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty through a data science research internship. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -143,8 +127,7 @@ Answer: It is recommended that you prioritize based on your interest and skills.
       <guid>/page/faq2018/</guid>
       <description>Question: Is there still space to host interns for this program? I have a student researcher in my lab who was interested in participating.
 Answer: The distribution of matching funds has ended. However, we will be happy to host your student researcher in our learning activities as a DSI scholar of Summer 2018.
- Question: Is there any kind of housing stipend/financial remuneration available for participating students.
-Answer: Most of the projects are providing stipends at the level of $5,000 for the duration of the project.</description>
+  Question: Is there any kind of housing stipend/financial remuneration available for participating students.</description>
     </item>
     
     <item>
@@ -154,7 +137,7 @@ Answer: Most of the projects are providing stipends at the level of $5,000 for t
       
       <guid>/page/contact-info/</guid>
       <description>The best way to reach us would be by email.
- Data Science Institute: datascience@columbia.edu  Mail: Data Science Institute, 1401 Northwest Corner, Mail Code 4720, 550 West 120th Street, New York, NY 10027 Fax: 212-854-1599 Phone: 212-854-5660  The DSI scholars program: dsi-scholars@columbia.edu  </description>
+ Data Science Institute: datascience@columbia.edu  Mail: Data Science Institute, 1401 Northwest Corner, Mail Code 4720, 550 West 120th Street, New York, NY 10027 Fax: 212-854-1599 Phone: 212-854-5660   The DSI scholars program: dsi-scholars@columbia.edu  </description>
     </item>
     
     <item>
@@ -164,10 +147,7 @@ Answer: Most of the projects are providing stipends at the level of $5,000 for t
       
       <guid>/2017/12/announcing-columbia-dsi-scholars-inaugural-class-of-summer-2018/</guid>
       <description>&lt;h3 id=&#34;call-for-faculty-participation-december-2017&#34;&gt;Call for Faculty Participation. December 2017.&lt;/h3&gt;
-
-&lt;p&gt;The Data Science Institute is pleased to announce the launch of the Data Science Institute (DSI) Scholars Program for the Inaugural Class of Summer 2018. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty through a data science research internship. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;The Data Science Institute is pleased to announce the launch of the Data Science Institute (DSI) Scholars Program for the Inaugural Class of Summer 2018. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty through a data science research internship. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;</description>
     </item>
     
   </channel>

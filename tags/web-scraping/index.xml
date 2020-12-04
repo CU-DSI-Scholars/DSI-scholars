@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web Scraping on Columbia DSI Scholars</title>
+    <title>Web scraping on Columbia DSI Scholars</title>
     <link>/tags/web-scraping/</link>
-    <description>Recent content in Web Scraping on Columbia DSI Scholars</description>
+    <description>Recent content in Web scraping on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data For Good: Data Analysis for a Just Transition in Energy for Thermal Comfort</title>
       <link>/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</guid>
-      <description>&lt;p&gt;42% of New York City greenhouse gas emissions result from on-site fossil fuel combustion in residential and commercial buildings; space heating is, by far, the majority contributor. Both New York State and NYC have policies to dramatically reduce emissions that will require a transformation in the way buildings are heated, including major efforts in existing buildings. This transition is inextricably linked to existing energy equity issues that we believe significantly overlap across NYC (and elsewhere). These include unreliable heating in the winter, susceptibility to extreme heat (an increasing occurrence with climate change) and struggles to afford energy needs. Various known data sources for NYC are available, though they are disparate and have not been analyzed holistically. Further, we believe there are potential engineering and policy solutions to these challenges. In this project, the DSI scholar will access (and search for where not yet known to qSEL researchers) relevant data sets, analyze those data sets to identify communities exposed to all or a subset of these issues, and assist qSEL researchers in developing models to evaluate possible solutions. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;42% of New York City greenhouse gas emissions result from on-site fossil fuel combustion in residential and commercial buildings; space heating is, by far, the majority contributor. Both New York State and NYC have policies to dramatically reduce emissions that will require a transformation in the way buildings are heated, including major efforts in existing buildings. This transition is inextricably linked to existing energy equity issues that we believe significantly overlap across NYC (and elsewhere). These include unreliable heating in the winter, susceptibility to extreme heat (an increasing occurrence with climate change) and struggles to afford energy needs. Various known data sources for NYC are available, though they are disparate and have not been analyzed holistically. Further, we believe there are potential engineering and policy solutions to these challenges. In this project, the DSI scholar will access (and search for where not yet known to qSEL researchers) relevant data sets, analyze those data sets to identify communities exposed to all or a subset of these issues, and assist qSEL researchers in developing models to evaluate possible solutions. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-the-consequences-of-language-policing/</guid>
-      <description>&lt;p&gt;Contestation over language use is an unavoidable feature of American politics. Yet, despite the rise of language policing on both sides of the aisle, we know surprisingly little about how ordinary citizens respond to norms governing language use from both in-group and out-group members. Following Munger (2017), I would like to leverage social media platforms such as Reddit and Twitter to evaluate whether injunctions to use particular words (e.g., undocumented immigrant, Latinx) are effective. I plan to use an experimental approach, where conditional on mentions of &amp;ldquo;illegal alien&amp;rdquo; or &amp;ldquo;Hispanic/Latino,&amp;rdquo; users are randomly assigned to receive a &amp;ldquo;language correction.&amp;rdquo; Outcome measures would include subsequent use of corrected terms, valence of user responses, and upvoting/liking/RTing behavior.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Contestation over language use is an unavoidable feature of American politics. Yet, despite the rise of language policing on both sides of the aisle, we know surprisingly little about how ordinary citizens respond to norms governing language use from both in-group and out-group members. Following Munger (2017), I would like to leverage social media platforms such as Reddit and Twitter to evaluate whether injunctions to use particular words (e.g., undocumented immigrant, Latinx) are effective. I plan to use an experimental approach, where conditional on mentions of &amp;ldquo;illegal alien&amp;rdquo; or &amp;ldquo;Hispanic/Latino,&amp;rdquo; users are randomly assigned to receive a &amp;ldquo;language correction.&amp;rdquo; Outcome measures would include subsequent use of corrected terms, valence of user responses, and upvoting/liking/RTing behavior.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +31,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-group-decision-making-and-communication-in-limitless-space/</guid>
-      <description>&lt;p&gt;The introduction of a new technology provides individuals and organizations with a large, unowned, and limitless space for communication and organization. How do individuals use or misuse this space in their decision making? Using online discussion platforms, we will analyze what types of discussions thrive - those with depth of discussion or topical complexity or those with cohesive contours? We’ll ask, are there high status actors who are particularly good at recognizing topic gaps which need new conversations? Using social psychological theories with a large-scale archival dataset, we’ll learn more about the impact of new technologies on group decision-making processes.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The introduction of a new technology provides individuals and organizations with a large, unowned, and limitless space for communication and organization. How do individuals use or misuse this space in their decision making? Using online discussion platforms, we will analyze what types of discussions thrive - those with depth of discussion or topical complexity or those with cohesive contours? We’ll ask, are there high status actors who are particularly good at recognizing topic gaps which need new conversations? Using social psychological theories with a large-scale archival dataset, we’ll learn more about the impact of new technologies on group decision-making processes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +40,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-inclusionary-zoning-in-paris-and-new-york-antidote-to-gentrification-or-trojans-horse/</guid>
-      <description>&lt;p&gt;The research project examines how Inclusionary Zoning (IZ) impacts the housing markets of neighborhoods where it is implemented. The study focuses on the impacts of IZ in New York City and Paris, two cities at the forefront of adopting IZ in their respective countries.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The research project examines how Inclusionary Zoning (IZ) impacts the housing markets of neighborhoods where it is implemented. The study focuses on the impacts of IZ in New York City and Paris, two cities at the forefront of adopting IZ in their respective countries.&lt;/p&gt;</description>
     </item>
     
   </channel>

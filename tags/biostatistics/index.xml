@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biostatistics on Columbia DSI Scholars</title>
@@ -6,20 +6,14 @@
     <description>Recent content in Biostatistics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/biostatistics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/biostatistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Studies Lifestyle Behaviors (Diet, Sleep, and Circadian rest-activity rhythms in relation) to Cardiometabolic Outcomes</title>
       <link>/2020/05/project-studies-lifestyle-behaviors-diet-sleep-and-circadian-rest-activity-rhythms-in-relation-to-cadiometabolic-outcomes/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-studies-lifestyle-behaviors-diet-sleep-and-circadian-rest-activity-rhythms-in-relation-to-cadiometabolic-outcomes/</guid>
-      <description>&lt;p&gt;I  am conducting studies on lifestyle behaviors, in particular diet, sleep behaviors, and circadian rest-activity rhythms in relation to cardiometabolic outcomes (hypertension, type 2 diabetes, and obesity). Sample sizes of my studies range from n=100 to n=16,000.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;I  am conducting studies on lifestyle behaviors, in particular diet, sleep behaviors, and circadian rest-activity rhythms in relation to cardiometabolic outcomes (hypertension, type 2 diabetes, and obesity). Sample sizes of my studies range from n=100 to n=16,000.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-examining-the-synergistic-effects-of-cannabis-and-prescription-opioid-policies-on-chronic-pain-opioid-prescribing-and-opioid-overdose/</guid>
-      <description>&lt;p&gt;The funded study examines policies that regulate the PO supply, including those related to prescription drug monitoring programs, pain management clinic laws, and prescribing limits. In this supplement, we add a set of complementary opioid policies that affect access to treatment for opioid use disorder (e.g., Medicaid coverage of medication for opioid use disorder).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The funded study examines policies that regulate the PO supply, including those related to prescription drug monitoring programs, pain management clinic laws, and prescribing limits. In this supplement, we add a set of complementary opioid policies that affect access to treatment for opioid use disorder (e.g., Medicaid coverage of medication for opioid use disorder).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +31,7 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/project-locally-advanced-primary-colon-rectosigmoid-and-rectal-cancers-perioperative-outcomes-and-survival-with-multivisceral-resection/</guid>
-      <description>&lt;p&gt;Locally advanced colorectal cancers that invade adjacent organs (i.e., T4 primary tumors) without evidence of distant metastasis account for approximately 5-15% of new colorectal cancers.  There are limited multi-institutional study describing the perioperative complication rates and long-term survival of patients undergoing single organ resection after neoadjuvant chemotherapy and/or radiation versus multivisceral resections for patients with T4 colorectal cancers.  Using the American College of Surgeons National Cancer Database (NCDB), we seek to analyze differential outcomes (perioperative complications and overall survival) by procedure performed, tumor details, pathological findings, chemo-radiotherapy regimens, patient demographics.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Locally advanced colorectal cancers that invade adjacent organs (i.e., T4 primary tumors) without evidence of distant metastasis account for approximately 5-15% of new colorectal cancers.  There are limited multi-institutional study describing the perioperative complication rates and long-term survival of patients undergoing single organ resection after neoadjuvant chemotherapy and/or radiation versus multivisceral resections for patients with T4 colorectal cancers.  Using the American College of Surgeons National Cancer Database (NCDB), we seek to analyze differential outcomes (perioperative complications and overall survival) by procedure performed, tumor details, pathological findings, chemo-radiotherapy regimens, patient demographics.&lt;/p&gt;</description>
     </item>
     
   </channel>

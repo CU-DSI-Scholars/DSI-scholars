@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computer Networks on Columbia DSI Scholars</title>
+    <title>Computer networks on Columbia DSI Scholars</title>
     <link>/tags/computer-networks/</link>
-    <description>Recent content in Computer Networks on Columbia DSI Scholars</description>
+    <description>Recent content in Computer networks on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/computer-networks/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/computer-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Measuring the network impact of COVID-19</title>
       <link>/2020/09/project-measuring-the-network-impact-of-covid-19/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/project-measuring-the-network-impact-of-covid-19/</guid>
-      <description>&lt;p&gt;The spread of COVID-19 has led to unprecedented and ongoing changes to daily life, including shelter-in-place orders, widespread closing of businesses and schools, and work-from-home and school-from-home at previously unknown levels. These changes in behavior are placing extraordinary demands on the Internet. This project will measure the Internet’s ability to meet these demands, including comparing its performance before, during, and after the peak of COVID-19; whether the amount of change varies between areas heavily impacted by COVID-19 and those less impacted; and whether and how large networks adapt. To provide this rich understanding, this project will combine multiple Internet-scale datasets that provide complementary views to investigate how responses to COVID-19 have impacted the Internet and how networks have reacted. Measuring the network impact of COVID-19 will illuminate the Internet’s strengths and weak points and is a crucial step towards improving the Internet’s future resilience in the face of pandemics, natural disasters, large scale conflict, and terrorist attacks.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The spread of COVID-19 has led to unprecedented and ongoing changes to daily life, including shelter-in-place orders, widespread closing of businesses and schools, and work-from-home and school-from-home at previously unknown levels. These changes in behavior are placing extraordinary demands on the Internet. This project will measure the Internet’s ability to meet these demands, including comparing its performance before, during, and after the peak of COVID-19; whether the amount of change varies between areas heavily impacted by COVID-19 and those less impacted; and whether and how large networks adapt. To provide this rich understanding, this project will combine multiple Internet-scale datasets that provide complementary views to investigate how responses to COVID-19 have impacted the Internet and how networks have reacted. Measuring the network impact of COVID-19 will illuminate the Internet’s strengths and weak points and is a crucial step towards improving the Internet’s future resilience in the face of pandemics, natural disasters, large scale conflict, and terrorist attacks.&lt;/p&gt;</description>
     </item>
     
   </channel>

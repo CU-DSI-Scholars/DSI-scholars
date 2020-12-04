@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Missing Data on Columbia DSI Scholars</title>
+    <title>Missing data on Columbia DSI Scholars</title>
     <link>/tags/missing-data/</link>
-    <description>Recent content in Missing Data on Columbia DSI Scholars</description>
+    <description>Recent content in Missing data on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/missing-data/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/missing-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data For Good: Food Insecurity, Obesity, and COVID-19</title>
       <link>/2020/09/project-dfg-food-insecurity-obesity-and-covid-19/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/project-dfg-food-insecurity-obesity-and-covid-19/</guid>
-      <description>&lt;p&gt;New York Presbyterian/Columbia University Irving Medical Center (NYP/CUIMC) serves a high number of racial/ethnic minority and low-income patients. In this project, we will create a data repository of all patients who have completed a universal screen in a clinical encounter for social determinants of health, including food insecurity. The scholar will handle large datasets extracted from the medical record for database creation and data visualizations. The dataset will include patient demographics, food security, and clinical outcomes. This data resource will allow the scholar to partner with researchers to examine predictors of food insecurity, clinical courses, and health outcomes among a large population of patients, including a time period prior to the COVID-19 surge in New York City.  The project will be co-mentored through the members of the University-wide Food Systems Network, a novel collaboration of researchers at the Medical Center, Earth Institute, SIPA, and Teacher&amp;rsquo;s College.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;New York Presbyterian/Columbia University Irving Medical Center (NYP/CUIMC) serves a high number of racial/ethnic minority and low-income patients. In this project, we will create a data repository of all patients who have completed a universal screen in a clinical encounter for social determinants of health, including food insecurity. The scholar will handle large datasets extracted from the medical record for database creation and data visualizations. The dataset will include patient demographics, food security, and clinical outcomes. This data resource will allow the scholar to partner with researchers to examine predictors of food insecurity, clinical courses, and health outcomes among a large population of patients, including a time period prior to the COVID-19 surge in New York City.  The project will be co-mentored through the members of the University-wide Food Systems Network, a novel collaboration of researchers at the Medical Center, Earth Institute, SIPA, and Teacher&amp;rsquo;s College.&lt;/p&gt;</description>
     </item>
     
   </channel>

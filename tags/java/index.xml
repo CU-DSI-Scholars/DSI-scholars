@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on Columbia DSI Scholars</title>
@@ -6,20 +6,14 @@
     <description>Recent content in Java on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating accurate and equitable data resources for precision public health using machine learning tools</title>
       <link>/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</guid>
-      <description>&lt;p&gt;The objective of this project is to construct linkages across disparate public health data systems using machine learning tools and assess them for bias and equitable representation of subpopulations defined by demographic and socioeconomic factors.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The objective of this project is to construct linkages across disparate public health data systems using machine learning tools and assess them for bias and equitable representation of subpopulations defined by demographic and socioeconomic factors.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-high-quality-video-streaming-over-wireless/</guid>
-      <description>&lt;p&gt;The amount of video content that is being distributed over the Internet is increasing. Video providers rely on HTTP adaptive streaming approaches to deliver video clips to users. Complementary to the video provider, the service provider must determine the priority of each network stream. As part of the project, students will explore wireless network assisted strategies for http adaptive streaming by use of TOS/DSCP. This includes using machine-learning tools to analyze network video traffic and the design of reinforcement learning algorithms to improve users&amp;rsquo; video Quality of Experience.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The amount of video content that is being distributed over the Internet is increasing. Video providers rely on HTTP adaptive streaming approaches to deliver video clips to users. Complementary to the video provider, the service provider must determine the priority of each network stream. As part of the project, students will explore wireless network assisted strategies for http adaptive streaming by use of TOS/DSCP. This includes using machine-learning tools to analyze network video traffic and the design of reinforcement learning algorithms to improve users&#39; video Quality of Experience.&lt;/p&gt;</description>
     </item>
     
     <item>

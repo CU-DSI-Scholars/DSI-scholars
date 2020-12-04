@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Summer 2018 on Columbia DSI Scholars</title>
@@ -6,20 +6,14 @@
     <description>Recent content in Summer 2018 on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/summer-2018/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/summer-2018/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Enriched Learning Experience for DSI Scholars Summer 2018</title>
       <link>/2018/09/dsi-scholars-summer-2018-meetup-series/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/09/dsi-scholars-summer-2018-meetup-series/</guid>
-      <description>&lt;p&gt;DSI Scholars is different from conventional &lt;em&gt;researh experience for students&lt;/em&gt; programs by providing enrichment activities that build a community of data science learning and research.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;DSI Scholars is different from conventional &lt;em&gt;researh experience for students&lt;/em&gt; programs by providing enrichment activities that build a community of data science learning and research.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/call-for-student-applications-dsi-scholars-summer-2018/</guid>
-      <description>&lt;p&gt;Columbia University &lt;a href=&#34;http://datascience.columbia.edu/&#34;&gt;Data Science Institute&lt;/a&gt; is pleased to announce the launch of the Data Science Institute (DSI) Scholars Program for the Inaugural Class of Summer 2018. The goal of the DSI Scholars Program is to engage Columbia&amp;rsquo;s undergraduate and master students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Columbia University &lt;a href=&#34;http://datascience.columbia.edu/&#34;&gt;Data Science Institute&lt;/a&gt; is pleased to announce the launch of the Data Science Institute (DSI) Scholars Program for the Inaugural Class of Summer 2018. The goal of the DSI Scholars Program is to engage Columbia&amp;rsquo;s undergraduate and master students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +31,7 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-breaking-the-neural-code-of-a-cnidarian/</guid>
-      <description>&lt;p&gt;Analysis of the relation between the activity of all the neurons in the cnidarian hydra and its behavioral repertoire.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Analysis of the relation between the activity of all the neurons in the cnidarian hydra and its behavioral repertoire.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +40,7 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-technology-transfer-insights-from-data/</guid>
-      <description>&lt;p&gt;CTV’s core mission is to facilitate the transfer of inventions from academic labs to the market for the benefit of society. In a typical year, CTV receives ~400 inventions, completes ~100 licenses and options, and helps form ~20 startups. A good video summary of CTV is here: &lt;a href=&#34;https://vimeo.com/110193999&#34;&gt;https://vimeo.com/110193999&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;CTV’s core mission is to facilitate the transfer of inventions from academic labs to the market for the benefit of society. In a typical year, CTV receives ~400 inventions, completes ~100 licenses and options, and helps form ~20 startups. A good video summary of CTV is here: &lt;a href=&#34;https://vimeo.com/110193999&#34;&gt;https://vimeo.com/110193999&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,9 +49,7 @@
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-project-toxicdocs/</guid>
-      <description>&lt;p&gt;We house the world&amp;rsquo;s largest dataset of once-secret documents on industrial pollution, unleashed from the vaults of corporations like DuPont, Dow, and Monsanto in toxic tort litigation. We are applying data science methods to analyze and render this material useable to a broad audience.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We house the world&amp;rsquo;s largest dataset of once-secret documents on industrial pollution, unleashed from the vaults of corporations like DuPont, Dow, and Monsanto in toxic tort litigation. We are applying data science methods to analyze and render this material useable to a broad audience.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -100,9 +86,7 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-enhancing-self-directed-learning-opportunities/</guid>
-      <description>&lt;p&gt;Analyze data from one of the following library applications/systems and create visualizations that highlight the most important findings pertaining to the support of self-directed learning:  Vialogues (TC Video Discussion Application), PocketKnowledge (TC Online Archive), DocDel (E-Reserve System), Pressible (Blogging Platform), Library Website and Mobile App.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Analyze data from one of the following library applications/systems and create visualizations that highlight the most important findings pertaining to the support of self-directed learning:  Vialogues (TC Video Discussion Application), PocketKnowledge (TC Online Archive), DocDel (E-Reserve System), Pressible (Blogging Platform), Library Website and Mobile App.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -111,9 +95,7 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</guid>
-      <description>&lt;p&gt;Predicting preterm birth in nulliparous women is challenging and our efforts to develop predictors for that condition from environmental variables produce insufficient classifier accuracy. Recent studies highlight the involvement of common genetic variants in length of pregnancy. This project involves the development of a risk score for preterm birth based on both genetic and environmental attributes.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Predicting preterm birth in nulliparous women is challenging and our efforts to develop predictors for that condition from environmental variables produce insufficient classifier accuracy. Recent studies highlight the involvement of common genetic variants in length of pregnancy. This project involves the development of a risk score for preterm birth based on both genetic and environmental attributes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -122,9 +104,7 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-global-interconnections-project-application-closed/</guid>
-      <description>&lt;p&gt;Understand interconnected nature of global multi-national companies via their supply chain, product and services competition, co-investments and co-ownerships as well as other dependencies between operations and revenue streams. We would like to consider the way news on any company specifically propagate down the connection graph and impact other businesses that are related in a way that is not necessarily explicit.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Understand interconnected nature of global multi-national companies via their supply chain, product and services competition, co-investments and co-ownerships as well as other dependencies between operations and revenue streams. We would like to consider the way news on any company specifically propagate down the connection graph and impact other businesses that are related in a way that is not necessarily explicit.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -133,9 +113,7 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-internships-in-dsi-center-for-data-media-society/</guid>
-      <description>&lt;p&gt;The DSI Center for Data, Media &amp;amp; Society is seeking undergraduate and masters students during the summer to work on projects at the intersection of Computer Science, Data Science, and the humanities.  These projects will combine domain expertise in the humanities with computer and data science techniques to tackle important societal and media problems.  Projects can vary from documenting human rights violations, providing rural farmers with financial safety-nets, analyzing the sources of social media popularity, and more!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The DSI Center for Data, Media &amp;amp; Society is seeking undergraduate and masters students during the summer to work on projects at the intersection of Computer Science, Data Science, and the humanities.  These projects will combine domain expertise in the humanities with computer and data science techniques to tackle important societal and media problems.  Projects can vary from documenting human rights violations, providing rural farmers with financial safety-nets, analyzing the sources of social media popularity, and more!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -144,9 +122,7 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</guid>
-      <description>&lt;p&gt;Given calcium imaging data of active neurons, can we detect groups of co-firing neurons, called neuronal ensembles? We have a number of datasets consisting of hundreds of neurons imaged for thousands of time steps, and seek to extend an existing CRF model to consider temporal relationships. The goal is to be able to detect neuronal ensembles that span multiple time steps, and that are not conditioned on external stimuli.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Given calcium imaging data of active neurons, can we detect groups of co-firing neurons, called neuronal ensembles? We have a number of datasets consisting of hundreds of neurons imaged for thousands of time steps, and seek to extend an existing CRF model to consider temporal relationships. The goal is to be able to detect neuronal ensembles that span multiple time steps, and that are not conditioned on external stimuli.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -173,9 +149,7 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
-      <description>&lt;p&gt;Networked systems are ubiquitous in modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Networked systems are ubiquitous in modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -184,9 +158,7 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-analysis-pipeline-for-strain-level-microbiome-shotgun-sequencing/</guid>
-      <description>&lt;p&gt;DNA sequence reads from a community of microbial genomes are currently processed without considering sequence variants. The project involves building a processing pipeline of such billions of short reads, identifying closest strains they might belong to, assembling them into specific clones, calling their variants, and analyzing the dynamic nature of these bacterial strains along sampling points.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;DNA sequence reads from a community of microbial genomes are currently processed without considering sequence variants. The project involves building a processing pipeline of such billions of short reads, identifying closest strains they might belong to, assembling them into specific clones, calling their variants, and analyzing the dynamic nature of these bacterial strains along sampling points.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -195,9 +167,7 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-healthcare-data-analytics-internship/</guid>
-      <description>&lt;p&gt;Recently Columbia University, Cornell, and NewYork-Presbyterian have agreed to integrate their clinical (healthcare) and business IT systems onto one shared platform called Epic. The motivating factors to move to Epic are to enhance the patient experience, improve and integrate care, and give our physicians an integrated technology platform that supports the mission of an academic medical center. The intern will assist with developing the “operational” analytics capabilities of Columbia University Medical Center including financial, healthcare operations and healthcare quality analytics.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Recently Columbia University, Cornell, and NewYork-Presbyterian have agreed to integrate their clinical (healthcare) and business IT systems onto one shared platform called Epic. The motivating factors to move to Epic are to enhance the patient experience, improve and integrate care, and give our physicians an integrated technology platform that supports the mission of an academic medical center. The intern will assist with developing the “operational” analytics capabilities of Columbia University Medical Center including financial, healthcare operations and healthcare quality analytics.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -206,9 +176,7 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-human-peri-ictal-single-unit-activity/</guid>
-      <description>&lt;p&gt;Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures.  Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge.  Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and addressing fundamental questions about the activity of different cell classes at seizure initiation.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures.  Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge.  Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and addressing fundamental questions about the activity of different cell classes at seizure initiation.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -217,9 +185,7 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</guid>
-      <description>&lt;p&gt;The quality of biomedical evidence can affect research sustainability, patient safety, and the public&amp;rsquo;s trust in biomedical research. However, often the quality of biomedical evidence remains opaque to the public. It is imperative to improve the transparency of evidence quality. This project aims to leverage the public data sources, including but not limited to The ClinicalTrials.gov, The PubMed database for biomedical literature, The National Health and Nutrition Examination Survey (NHANES) database, and so on, to develop and apply novel data mining and visualization methods for appraising the biomedical research evidence, uncovering implicit biases in clinical research designs at different levels, and presenting this information intuitively to the public.  Students on this project will acquire or hone their skills in data mining, results presentation, and user interface designs and evaluation.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The quality of biomedical evidence can affect research sustainability, patient safety, and the public&amp;rsquo;s trust in biomedical research. However, often the quality of biomedical evidence remains opaque to the public. It is imperative to improve the transparency of evidence quality. This project aims to leverage the public data sources, including but not limited to The ClinicalTrials.gov, The PubMed database for biomedical literature, The National Health and Nutrition Examination Survey (NHANES) database, and so on, to develop and apply novel data mining and visualization methods for appraising the biomedical research evidence, uncovering implicit biases in clinical research designs at different levels, and presenting this information intuitively to the public.  Students on this project will acquire or hone their skills in data mining, results presentation, and user interface designs and evaluation.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -228,9 +194,7 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-political-attitudes-and-social-networks/</guid>
-      <description>&lt;p&gt;We are collecting and analyzing survey data asking people about the political attitudes and other characteristics of their family, friends, and others in their social circles. Some of this work is described &lt;a href=&#34;http://www.stat.columbia.edu/~gelman/research/unpublished/penumbra_paper_11_clean.pdf&#34;&gt;here&lt;/a&gt; and we are also doing polling relevant to the 2018 midterm elections.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We are collecting and analyzing survey data asking people about the political attitudes and other characteristics of their family, friends, and others in their social circles. Some of this work is described &lt;a href=&#34;http://www.stat.columbia.edu/~gelman/research/unpublished/penumbra_paper_11_clean.pdf&#34;&gt;here&lt;/a&gt; and we are also doing polling relevant to the 2018 midterm elections.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -248,9 +212,7 @@ computational analysis.&lt;/p&gt;</description>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-visualization-of-continuous-health-data-measurements/</guid>
-      <description>&lt;p&gt;The ubiquity of current smart and IoT devices has the potential to transform healthcare. For example, current devices can measure continuously activity levels, heart rate, blood oxygen levels, and electrocardiogram. Our lab is developing new devices which can measure additional streams of health data which are currently not possible.  The summer project will involve visualization of this entire set of data, machine learning, and multiparametric data analysis to extract trends that match health outcomes.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The ubiquity of current smart and IoT devices has the potential to transform healthcare. For example, current devices can measure continuously activity levels, heart rate, blood oxygen levels, and electrocardiogram. Our lab is developing new devices which can measure additional streams of health data which are currently not possible.  The summer project will involve visualization of this entire set of data, machine learning, and multiparametric data analysis to extract trends that match health outcomes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -260,10 +222,7 @@ computational analysis.&lt;/p&gt;</description>
       
       <guid>/2017/12/announcing-columbia-dsi-scholars-inaugural-class-of-summer-2018/</guid>
       <description>&lt;h3 id=&#34;call-for-faculty-participation-december-2017&#34;&gt;Call for Faculty Participation. December 2017.&lt;/h3&gt;
-
-&lt;p&gt;The Data Science Institute is pleased to announce the launch of the Data Science Institute (DSI) Scholars Program for the Inaugural Class of Summer 2018. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty through a data science research internship. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;The Data Science Institute is pleased to announce the launch of the Data Science Institute (DSI) Scholars Program for the Inaugural Class of Summer 2018. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty through a data science research internship. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;</description>
     </item>
     
   </channel>

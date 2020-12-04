@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Science on Columbia DSI Scholars</title>
+    <title>Social science on Columbia DSI Scholars</title>
     <link>/tags/social-science/</link>
-    <description>Recent content in Social Science on Columbia DSI Scholars</description>
+    <description>Recent content in Social science on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/social-science/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/social-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project: Internships in DSI Center for Data, Media &amp; Society</title>
       <link>/2018/01/project-internships-in-dsi-center-for-data-media-society/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-internships-in-dsi-center-for-data-media-society/</guid>
-      <description>&lt;p&gt;The DSI Center for Data, Media &amp;amp; Society is seeking undergraduate and masters students during the summer to work on projects at the intersection of Computer Science, Data Science, and the humanities.  These projects will combine domain expertise in the humanities with computer and data science techniques to tackle important societal and media problems.  Projects can vary from documenting human rights violations, providing rural farmers with financial safety-nets, analyzing the sources of social media popularity, and more!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The DSI Center for Data, Media &amp;amp; Society is seeking undergraduate and masters students during the summer to work on projects at the intersection of Computer Science, Data Science, and the humanities.  These projects will combine domain expertise in the humanities with computer and data science techniques to tackle important societal and media problems.  Projects can vary from documenting human rights violations, providing rural farmers with financial safety-nets, analyzing the sources of social media popularity, and more!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
-      <description>&lt;p&gt;Networked systems are ubiquitous in modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Networked systems are ubiquitous in modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +31,7 @@
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-political-attitudes-and-social-networks/</guid>
-      <description>&lt;p&gt;We are collecting and analyzing survey data asking people about the political attitudes and other characteristics of their family, friends, and others in their social circles. Some of this work is described &lt;a href=&#34;http://www.stat.columbia.edu/~gelman/research/unpublished/penumbra_paper_11_clean.pdf&#34;&gt;here&lt;/a&gt; and we are also doing polling relevant to the 2018 midterm elections.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We are collecting and analyzing survey data asking people about the political attitudes and other characteristics of their family, friends, and others in their social circles. Some of this work is described &lt;a href=&#34;http://www.stat.columbia.edu/~gelman/research/unpublished/penumbra_paper_11_clean.pdf&#34;&gt;here&lt;/a&gt; and we are also doing polling relevant to the 2018 midterm elections.&lt;/p&gt;</description>
     </item>
     
   </channel>

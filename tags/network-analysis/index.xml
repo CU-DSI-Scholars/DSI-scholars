@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Network Analysis on Columbia DSI Scholars</title>
+    <title>Network analysis on Columbia DSI Scholars</title>
     <link>/tags/network-analysis/</link>
-    <description>Recent content in Network Analysis on Columbia DSI Scholars</description>
+    <description>Recent content in Network analysis on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using social network analysis to improve access to mental health treatment in Brazil</title>
       <link>/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</guid>
-      <description>&lt;p&gt;The proposed project would focus on analyzing quantitative data from a 4 year NIMH-funded study entitled &amp;ldquo;Integrating evidence-based  depression treatment in primary care: Tuberculosis (TB) in Brazil as a model&amp;rdquo; (PI: Sweetland, K01MH104514). The aim of the study was to assess whether social network analysis could be used to leverage the receptivity and connectivity of TB providers in a Brazilian public health system in a way that could accelerate the adoption (implementation) and diffusion (dissemination) of an evidence-based treatment for depression treatment in a primary care network. Baseline receptivity was operationalized via six brief quantitative scales to measure mental health literacy, work self-efficacy, organizational climate, attitudes towards evidence-based practices, organizational readiness to change and individual innovation thresholds. Connectivity was assessed by asking TB providers with whom they discuss difficult cases, give advice to, or receive advice regarding difficult TB cases. Baseline receptivity and connectivity data was used to identify 3 pilot sites in which to train primary care providers to deliver evidence-based depression treatment for one year.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The proposed project would focus on analyzing quantitative data from a 4 year NIMH-funded study entitled &amp;ldquo;Integrating evidence-based  depression treatment in primary care: Tuberculosis (TB) in Brazil as a model&amp;rdquo; (PI: Sweetland, K01MH104514). The aim of the study was to assess whether social network analysis could be used to leverage the receptivity and connectivity of TB providers in a Brazilian public health system in a way that could accelerate the adoption (implementation) and diffusion (dissemination) of an evidence-based treatment for depression treatment in a primary care network. Baseline receptivity was operationalized via six brief quantitative scales to measure mental health literacy, work self-efficacy, organizational climate, attitudes towards evidence-based practices, organizational readiness to change and individual innovation thresholds. Connectivity was assessed by asking TB providers with whom they discuss difficult cases, give advice to, or receive advice regarding difficult TB cases. Baseline receptivity and connectivity data was used to identify 3 pilot sites in which to train primary care providers to deliver evidence-based depression treatment for one year.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -37,9 +31,7 @@
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
-      <description>&lt;p&gt;Networked systems are ubiquitous in modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Networked systems are ubiquitous in modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas.&lt;/p&gt;</description>
     </item>
     
   </channel>

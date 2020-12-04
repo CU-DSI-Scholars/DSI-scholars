@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unix Linux on Columbia DSI Scholars</title>
+    <title>Unix-Linux on Columbia DSI Scholars</title>
     <link>/tags/unix-linux/</link>
-    <description>Recent content in Unix Linux on Columbia DSI Scholars</description>
+    <description>Recent content in Unix-Linux on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/unix-linux/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/unix-linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Defining Aneuploidy from Next-Gen Sequencing</title>
       <link>/2020/09/project-defining-aneuploidy-from-next-gen-sequencing/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/project-defining-aneuploidy-from-next-gen-sequencing/</guid>
-      <description>&lt;p&gt;Our lab is interested in aneuploidy, or the incorrect number of whole chromosomes and chromosome arms. A challenge in this area of research is that karyotypes require a large number of proliferating cells for analysis. To address this, our lab and collaborators developed new algorithms to identify aneuploidy alterations from DNA sequencing data. Here, the project goal is to implement these algorithms at Columbia, and subsequently to apply these analysis methods to samples generated in the lab and patient samples. Building on this, the DSI student may also develop new algorithms for use with single-cell sequencing data and RNA sequencing data. Experience in one or more of the following is a must: UNIX, R, and python. The DSI student will be mentored by Dr. Alison Taylor, and he/she will also work closely with all lab members.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our lab is interested in aneuploidy, or the incorrect number of whole chromosomes and chromosome arms. A challenge in this area of research is that karyotypes require a large number of proliferating cells for analysis. To address this, our lab and collaborators developed new algorithms to identify aneuploidy alterations from DNA sequencing data. Here, the project goal is to implement these algorithms at Columbia, and subsequently to apply these analysis methods to samples generated in the lab and patient samples. Building on this, the DSI student may also develop new algorithms for use with single-cell sequencing data and RNA sequencing data. Experience in one or more of the following is a must: UNIX, R, and python. The DSI student will be mentored by Dr. Alison Taylor, and he/she will also work closely with all lab members.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/project-generating-a-graph-representation-of-microbial-community-diversity/</guid>
-      <description>&lt;p&gt;Understanding the interaction between human-associated microbial communities and human health is expected to revolutionize healthcare. Recent work found that this interaction is, in part, shaped by genetic differences between otherwise identical species in the microbiome. Detecting this variation, however, is a significant challenge. This project aims to profile microbial genetic variation within and across multiple patients&amp;rsquo; microbiomes. This will allow us to better compare and interpret this variation in the context of human disease, gaining mechanistic insight into complex human-microbiome interactions.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Understanding the interaction between human-associated microbial communities and human health is expected to revolutionize healthcare. Recent work found that this interaction is, in part, shaped by genetic differences between otherwise identical species in the microbiome. Detecting this variation, however, is a significant challenge. This project aims to profile microbial genetic variation within and across multiple patients&#39; microbiomes. This will allow us to better compare and interpret this variation in the context of human disease, gaining mechanistic insight into complex human-microbiome interactions.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +31,7 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/project-improving-observed-and-modeled-air-pollution-data-quality-over-sub-saharan-africa-using-machine-learning/</guid>
-      <description>&lt;p&gt;The goal of the project is twofold: 1) to better understand and further improve the use of low cost air pollution sensors and 2) to analyze and characterize air pollution data in sub-Saharan Africa. Air pollution kills an estimated 700,000 people per year in Africa, but existing air pollution data in Africa is extremely sparse and estimates of the associated mortality are uncertain. Low cost air pollution sensors have the potential to rapidly revolutionize air quality awareness and data availability in data-sparse areas of  the world, including sub-Saharan Africa. However, use of low cost sensors requires careful calibration, performance evaluation, and other quality assurance before the data can be fully trusted to the same degree as regulatory-grade monitors. As part of a larger project led by Dr. Westervelt, fine particulate matter (PM2.5) sensors have already been deployed in several African megacities, including Kinshasa, Democratic Republic of Congo; Nairobi, Kenya; Kampala, Uganda; Accra, Ghana, and Lomé, Togo. In Kampala and Accra, sensors are co-located with a regulatory-grade PM2.5 instrument for several months, allowing for a direct comparison between low cost and regulatory-grade PM2.5 measurements, and also allowing for the development of calibration factors.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The goal of the project is twofold: 1) to better understand and further improve the use of low cost air pollution sensors and 2) to analyze and characterize air pollution data in sub-Saharan Africa. Air pollution kills an estimated 700,000 people per year in Africa, but existing air pollution data in Africa is extremely sparse and estimates of the associated mortality are uncertain. Low cost air pollution sensors have the potential to rapidly revolutionize air quality awareness and data availability in data-sparse areas of  the world, including sub-Saharan Africa. However, use of low cost sensors requires careful calibration, performance evaluation, and other quality assurance before the data can be fully trusted to the same degree as regulatory-grade monitors. As part of a larger project led by Dr. Westervelt, fine particulate matter (PM2.5) sensors have already been deployed in several African megacities, including Kinshasa, Democratic Republic of Congo; Nairobi, Kenya; Kampala, Uganda; Accra, Ghana, and Lomé, Togo. In Kampala and Accra, sensors are co-located with a regulatory-grade PM2.5 instrument for several months, allowing for a direct comparison between low cost and regulatory-grade PM2.5 measurements, and also allowing for the development of calibration factors.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +40,7 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
-      <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&amp;rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&amp;rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.&lt;/p&gt;</description>
     </item>
     
   </channel>

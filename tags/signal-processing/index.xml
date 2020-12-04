@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Signal Processing on Columbia DSI Scholars</title>
@@ -6,20 +6,14 @@
     <description>Recent content in Signal Processing on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/signal-processing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/signal-processing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Orientation</title>
       <link>/2020/02/project-understanding-orientation/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/02/project-understanding-orientation/</guid>
-      <description>&lt;p&gt;Orienting to a novel event is a rapid shift in attention to a change in one’s surroundings that appears to be a fundamental biological mechanism for survival and essentially functions as a &amp;ldquo;what is it&amp;rdquo; detector. Orienting appears to play a central role in human learning and development, as it facilitates adaptation to an ever-changing environment.  Thus, orienting can be viewed as an allocational mechanism in which attention sifts through the complex multi-sensory world and selects relevant stimuli for further processing.  The selection of stimuli for further processing has implications for what will be encoded into memories and how strong those memory traces will be.  The ability to differentiate between relevant and irrelevant input, to inhibit the processing of irrelevant stimuli, and to sustain attention requires control, and inhibitory processes that improve with age.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Orienting to a novel event is a rapid shift in attention to a change in one’s surroundings that appears to be a fundamental biological mechanism for survival and essentially functions as a &amp;ldquo;what is it&amp;rdquo; detector. Orienting appears to play a central role in human learning and development, as it facilitates adaptation to an ever-changing environment.  Thus, orienting can be viewed as an allocational mechanism in which attention sifts through the complex multi-sensory world and selects relevant stimuli for further processing.  The selection of stimuli for further processing has implications for what will be encoded into memories and how strong those memory traces will be.  The ability to differentiate between relevant and irrelevant input, to inhibit the processing of irrelevant stimuli, and to sustain attention requires control, and inhibitory processes that improve with age.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-influence-of-past-brain-state-on-future-perception/</guid>
-      <description>&lt;p&gt;We are constantly exposed to inputs from the outside world, but we do not perceive everything we are exposed to. Some inputs are rather weak: we might perceive them at one point in time, but not at another. The state of our brains right before we receive such sensory inputs influences whether or not we perceive them. Brain oscillations are proposed to play a key role in setting these brain states; however, how exactly these brain rhythms influence our perception remains a topic of active research.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We are constantly exposed to inputs from the outside world, but we do not perceive everything we are exposed to. Some inputs are rather weak: we might perceive them at one point in time, but not at another. The state of our brains right before we receive such sensory inputs influences whether or not we perceive them. Brain oscillations are proposed to play a key role in setting these brain states; however, how exactly these brain rhythms influence our perception remains a topic of active research.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +31,7 @@
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-human-peri-ictal-single-unit-activity/</guid>
-      <description>&lt;p&gt;Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures.  Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge.  Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and addressing fundamental questions about the activity of different cell classes at seizure initiation.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures.  Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge.  Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and addressing fundamental questions about the activity of different cell classes at seizure initiation.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Mining on Columbia DSI Scholars</title>
+    <title>Data mining on Columbia DSI Scholars</title>
     <link>/tags/data-mining/</link>
-    <description>Recent content in Data Mining on Columbia DSI Scholars</description>
+    <description>Recent content in Data mining on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Healthcare machine learning and text mining (NimbleMiner)</title>
       <link>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</guid>
-      <description>&lt;p&gt;Our lab develops an open-source text mining software called NimbleMiner (&lt;a href=&#34;http://github.com/mtopaz/NimbleMiner&#34;&gt;http://github.com/mtopaz/NimbleMiner&lt;/a&gt;). We will work on improving the software using the latest machine learning techniques.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our lab develops an open-source text mining software called NimbleMiner (&lt;a href=&#34;http://github.com/mtopaz/NimbleMiner)&#34;&gt;http://github.com/mtopaz/NimbleMiner)&lt;/a&gt;. We will work on improving the software using the latest machine learning techniques.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-enhancing-self-directed-learning-opportunities/</guid>
-      <description>&lt;p&gt;Analyze data from one or more of the following Library Applications/Systems and create visualizations that highlight the most important findings related to our goal of supporting self-directed learning.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Analyze data from one or more of the following Library Applications/Systems and create visualizations that highlight the most important findings related to our goal of supporting self-directed learning.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +31,7 @@
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-data-science-for-better-health/</guid>
-      <description>&lt;p&gt;Our goal is use a large pool of homecare data (including structured data, free text clinical notes, and recorded patient-provider phone conversations) to build predictive models that help identify patients at risk for poor outcomes (like hospital admission or falls).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our goal is use a large pool of homecare data (including structured data, free text clinical notes, and recorded patient-provider phone conversations) to build predictive models that help identify patients at risk for poor outcomes (like hospital admission or falls).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +40,7 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-technology-transfer-insights-from-data/</guid>
-      <description>&lt;p&gt;CTV’s core mission is to facilitate the transfer of inventions from academic labs to the market for the benefit of society. In a typical year, CTV receives ~400 inventions, completes ~100 licenses and options, and helps form ~20 startups. A good video summary of CTV is here: &lt;a href=&#34;https://vimeo.com/110193999&#34;&gt;https://vimeo.com/110193999&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;CTV’s core mission is to facilitate the transfer of inventions from academic labs to the market for the benefit of society. In a typical year, CTV receives ~400 inventions, completes ~100 licenses and options, and helps form ~20 startups. A good video summary of CTV is here: &lt;a href=&#34;https://vimeo.com/110193999&#34;&gt;https://vimeo.com/110193999&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,9 +49,7 @@
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-enhancing-self-directed-learning-opportunities/</guid>
-      <description>&lt;p&gt;Analyze data from one of the following library applications/systems and create visualizations that highlight the most important findings pertaining to the support of self-directed learning:  Vialogues (TC Video Discussion Application), PocketKnowledge (TC Online Archive), DocDel (E-Reserve System), Pressible (Blogging Platform), Library Website and Mobile App.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Analyze data from one of the following library applications/systems and create visualizations that highlight the most important findings pertaining to the support of self-directed learning:  Vialogues (TC Video Discussion Application), PocketKnowledge (TC Online Archive), DocDel (E-Reserve System), Pressible (Blogging Platform), Library Website and Mobile App.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -72,9 +58,7 @@
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/01/project-internships-in-dsi-center-for-data-media-society/</guid>
-      <description>&lt;p&gt;The DSI Center for Data, Media &amp;amp; Society is seeking undergraduate and masters students during the summer to work on projects at the intersection of Computer Science, Data Science, and the humanities.  These projects will combine domain expertise in the humanities with computer and data science techniques to tackle important societal and media problems.  Projects can vary from documenting human rights violations, providing rural farmers with financial safety-nets, analyzing the sources of social media popularity, and more!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The DSI Center for Data, Media &amp;amp; Society is seeking undergraduate and masters students during the summer to work on projects at the intersection of Computer Science, Data Science, and the humanities.  These projects will combine domain expertise in the humanities with computer and data science techniques to tackle important societal and media problems.  Projects can vary from documenting human rights violations, providing rural farmers with financial safety-nets, analyzing the sources of social media popularity, and more!&lt;/p&gt;</description>
     </item>
     
   </channel>

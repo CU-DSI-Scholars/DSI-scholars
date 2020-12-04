@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cryptocurrency on Columbia DSI Scholars</title>
@@ -6,20 +6,14 @@
     <description>Recent content in Cryptocurrency on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cryptocurrency Analytics: Identifying Bad Actors</title>
       <link>/2020/02/project-cryptocurrency-analytics-identifying-bad-actors/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/02/project-cryptocurrency-analytics-identifying-bad-actors/</guid>
-      <description>&lt;p&gt;Many of the cryptocurrency transactions have involved fraudulent activities including ponzi schemes, ransomware as well money-laundering. The objective is to use Graph Machine Learning methods to identify the miscreants on Bitcoin and Etherium Networks. There are many challenges including the amount of data in 100s of Gigabytes, creation and scalability of algorithms.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Many of the cryptocurrency transactions have involved fraudulent activities including ponzi schemes, ransomware as well money-laundering. The objective is to use Graph Machine Learning methods to identify the miscreants on Bitcoin and Etherium Networks. There are many challenges including the amount of data in 100s of Gigabytes, creation and scalability of algorithms.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/project-cryptocurrency-analytics-identifying-bad-actors/</guid>
-      <description>&lt;p&gt;Many of the cryptocurrency transactions have involved fraudulent activities including ponzi schemes, ransomware as well money-laundering. The objective is to use Graph Machine Learning methods to identify the miscreants on Bitcoin and Etherium Networks. There are many challenges including the amount of data in 100s of Gigabytes, creation and scalability of algorithms.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Many of the cryptocurrency transactions have involved fraudulent activities including ponzi schemes, ransomware as well money-laundering. The objective is to use Graph Machine Learning methods to identify the miscreants on Bitcoin and Etherium Networks. There are many challenges including the amount of data in 100s of Gigabytes, creation and scalability of algorithms.&lt;/p&gt;</description>
     </item>
     
   </channel>

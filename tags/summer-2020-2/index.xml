@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Summer 2020 2 on Columbia DSI Scholars</title>
+    <title>Summer 2020-2 on Columbia DSI Scholars</title>
     <link>/tags/summer-2020-2/</link>
-    <description>Recent content in Summer 2020 2 on Columbia DSI Scholars</description>
+    <description>Recent content in Summer 2020-2 on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/summer-2020-2/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/summer-2020-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mid-Summer 2020 Update</title>
       <link>/2020/07/midsummer-2020-update/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/07/midsummer-2020-update/</guid>
-      <description>&lt;p&gt;Interested in a late-summer research project, or want to get a jump on the fall semester? We are restructing the application process for the Data Science Institute and Data for Good Scholars programs, but until that system is in place any projects we receive will be sent to &lt;a href=&#34;https://lists.columbia.edu/mailman/listinfo/dsi-2020summerresearch&#34;&gt;this&lt;/a&gt; interim mailing list. Subscribe for notifications.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Interested in a late-summer research project, or want to get a jump on the fall semester? We are restructing the application process for the Data Science Institute and Data for Good Scholars programs, but until that system is in place any projects we receive will be sent to &lt;a href=&#34;https://lists.columbia.edu/mailman/listinfo/dsi-2020summerresearch&#34;&gt;this&lt;/a&gt; interim mailing list. Subscribe for notifications.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/06/project-ctv_l2m-summer-undergraduate-internship/</guid>
-      <description>&lt;p&gt;Columbia Technology Ventures (CTV) and the Columbia Lab-to-Market Accelerator Network (L2M) are seeking undergraduate students from Columbia College, Columbia School of Engineering and Applied Science, Columbia General Studies, and Barnard for part-time (10 – 20 hours per week) temporary (6 – 8 weeks during June to August 2020) summer interns.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Columbia Technology Ventures (CTV) and the Columbia Lab-to-Market Accelerator Network (L2M) are seeking undergraduate students from Columbia College, Columbia School of Engineering and Applied Science, Columbia General Studies, and Barnard for part-time (10 – 20 hours per week) temporary (6 – 8 weeks during June to August 2020) summer interns.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,12 +32,8 @@
       
       <guid>/2020/05/call-for-student-applications-dsi-scholars-summer-2020/</guid>
       <description>&lt;p&gt;Given the COVID-19 environment and the increasing requests for additional support for projects, the Data Science Institute is pleased to announce a second wave of summer research projects through the Data Science Scholars and Data For Good programs. Please note that this is on a compressed timeline and student applications are due &lt;strong&gt;Sunday, May 24th&lt;/strong&gt;, 2020 at &lt;strong&gt;11:59pm&lt;/strong&gt; Eastern time.&lt;/p&gt;
-
 &lt;p&gt;The goal of the DSI Scholars Program is to engage Columbia University&amp;rsquo;s undergraduate and master&amp;rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
-
-&lt;p&gt;The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &amp;ldquo;real world&amp;rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &amp;ldquo;real world&amp;rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -54,9 +42,7 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/</guid>
-      <description>&lt;p&gt;We need someone with strong data wrangling capabilities, to be able to determine quick ways to clean and merge data. The format of the data is spatial (GIS) but it could also be manipulated in tabular format. GRID3 is a program within &lt;a href=&#34;http://www.ciesin.org/&#34;&gt;CIESIN&lt;/a&gt; which is a research center located at the Lamont-Doherty Campus (with office space on the morningside campus) and is part of Columbia&amp;rsquo;s Earth Institute.  Candidates can learn more about the program at the GRID3 &lt;a href=&#34;https://grid3.org/&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We need someone with strong data wrangling capabilities, to be able to determine quick ways to clean and merge data. The format of the data is spatial (GIS) but it could also be manipulated in tabular format. GRID3 is a program within &lt;a href=&#34;http://www.ciesin.org/&#34;&gt;CIESIN&lt;/a&gt; which is a research center located at the Lamont-Doherty Campus (with office space on the morningside campus) and is part of Columbia&amp;rsquo;s Earth Institute.  Candidates can learn more about the program at the GRID3 &lt;a href=&#34;https://grid3.org/&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -65,9 +51,7 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</guid>
-      <description>&lt;p&gt;This was a 1-year prospective observational study to examine the relation between sleep and cardiometabolic risk among 506 women in the NYC area. All of the data has been collected and entered in a Redcap database, has been cleaned, and is ready for analysis.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;This was a 1-year prospective observational study to examine the relation between sleep and cardiometabolic risk among 506 women in the NYC area. All of the data has been collected and entered in a Redcap database, has been cleaned, and is ready for analysis.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -76,9 +60,7 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-augmented-supervised-topic-models/</guid>
-      <description>&lt;p&gt;In this project we&amp;rsquo;ll be expanding on the existing family of supervised topic models. These models extend LDA to document collections where, for each document, we observe additional labels or values of interest. More specifically, one of the goals of this project is to use additional document level data, such as author information, to develop better exploratory data tools.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;In this project we&amp;rsquo;ll be expanding on the existing family of supervised topic models. These models extend LDA to document collections where, for each document, we observe additional labels or values of interest. More specifically, one of the goals of this project is to use additional document level data, such as author information, to develop better exploratory data tools.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -87,20 +69,7 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-bacterial-and-viral-genomic-epidemiology/</guid>
-      <description>&lt;p&gt;Bacterial and viral genomic epidemiology. Ongoing and new projects.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>COVID-19 and commuting: How will Columbia cope?</title>
-      <link>/2020/05/project-covid-19-and-commuting-how-will-columbia-cope/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/05/project-covid-19-and-commuting-how-will-columbia-cope/</guid>
-      <description>&lt;p&gt;The goal of this project is to mitigate the risks of commuting for Columbia employees when they will have to return to work after the state-on-pause is over from May 15. As Columbia has been preparing for ramping up labs with an emphasis on social distancing within campus, higher risks could arise when the employees have to commute between home and campus. It is estimated approximately one in five residents in NYC might have been infected by COVID-19 . With the fear of exposing to coronavirus, commuters have shifted from transit to individual cars or bikes, leading to a significant drop in subway ridership , more speeding tickets , surging bike traffic , and more crashes with cyclist injuries . On the other hand, low-income people of color, who have been hit the hardest by the coronavirus , could be in a more disadvantaged position after the state “un-pause”, because: (1) they lack accessibility to other travel modes than public transit; (2) they usually live far from their workplace for an affordable accommodation and have to commute a long way; and (3) many of them take night shift but most transportation options are shut down at night after the pandemic. This project aims to address travel safety and equity concerns of essential workers and provide a responsible and safe transportation solution for the Columbia community.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Bacterial and viral genomic epidemiology. Ongoing and new projects.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -109,9 +78,16 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-characterizing-network-behavior-in-phishing-emails/</guid>
-      <description>&lt;p&gt;Targeted phishing is one of the most common and damaging cybersecurity attacks, incurring tens of billions of dollars in losses a year. In order to increase the success of the phishing emails, attackers often craft emails that impersonate real people or legitimate online services, and send them from networks and hosting sites that have a high reputation. This leads major email security services, including Outlook and Gmail, to often misclassify these emails as legitimate.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Targeted phishing is one of the most common and damaging cybersecurity attacks, incurring tens of billions of dollars in losses a year. In order to increase the success of the phishing emails, attackers often craft emails that impersonate real people or legitimate online services, and send them from networks and hosting sites that have a high reputation. This leads major email security services, including Outlook and Gmail, to often misclassify these emails as legitimate.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 and commuting: How will Columbia cope?</title>
+      <link>/2020/05/project-covid-19-and-commuting-how-will-columbia-cope/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/project-covid-19-and-commuting-how-will-columbia-cope/</guid>
+      <description>&lt;p&gt;The goal of this project is to mitigate the risks of commuting for Columbia employees when they will have to return to work after the state-on-pause is over from May 15. As Columbia has been preparing for ramping up labs with an emphasis on social distancing within campus, higher risks could arise when the employees have to commute between home and campus. It is estimated approximately one in five residents in NYC might have been infected by COVID-19 . With the fear of exposing to coronavirus, commuters have shifted from transit to individual cars or bikes, leading to a significant drop in subway ridership , more speeding tickets , surging bike traffic , and more crashes with cyclist injuries . On the other hand, low-income people of color, who have been hit the hardest by the coronavirus , could be in a more disadvantaged position after the state “un-pause”, because: (1) they lack accessibility to other travel modes than public transit; (2) they usually live far from their workplace for an affordable accommodation and have to commute a long way; and (3) many of them take night shift but most transportation options are shut down at night after the pandemic. This project aims to address travel safety and equity concerns of essential workers and provide a responsible and safe transportation solution for the Columbia community.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -120,9 +96,7 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-the-cost-of-human-rights-violations/</guid>
-      <description>&lt;p&gt;Under United States securities laws corporations must disclose material risks to their operations. Human rights issues, especially in authoritarian countries, rarely show up in the information that data providers offer to investors, in part due to the risks to those subject to these abuses. The result is a dearth of data on human rights materiality and the tendency of investors to overlook human rights risks of the companies that they finance.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Under United States securities laws corporations must disclose material risks to their operations. Human rights issues, especially in authoritarian countries, rarely show up in the information that data providers offer to investors, in part due to the risks to those subject to these abuses. The result is a dearth of data on human rights materiality and the tendency of investors to overlook human rights risks of the companies that they finance.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -131,9 +105,7 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-machine-learning-based-methods-to-extract-river-flow-information-from-satellite-imagery/</guid>
-      <description>&lt;p&gt;Humanity thrives along major rivers – this is as true now as it was ages ago. Our dependence on rivers for agriculture and electricity, as well as the need to control its flow because of our proximity, has  resulted in dramatic changes to the nature of the rivers. What were once great perennial rivers are now mere trickles during the summer months. This puts the livelihood of many people, especially poor farmers, in jeopardy. How can we monitor and document changes to the flow through rivers over time? Since river gauge measurements are rare or non-existent, any way in which we can use freely available satellite imagery (Landsat, Sentinel) to determine the changes in flow patterns of rivers over time would be extremely useful. One such tool is Rivamap – it uses OpenCV to analyze satellite imagery to extract information about rivers, especially for large rivers. What about smaller ones – it does not seem to work as well. In this project, the student(s) will have to develop machine-learning based methods  (or extend the capabilities of Rivamap) to study satellite images to extract information about the path and dimensions of rivers of different flow rates and flow patterns. Comparison with ground-truth data will be needed.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Humanity thrives along major rivers – this is as true now as it was ages ago. Our dependence on rivers for agriculture and electricity, as well as the need to control its flow because of our proximity, has  resulted in dramatic changes to the nature of the rivers. What were once great perennial rivers are now mere trickles during the summer months. This puts the livelihood of many people, especially poor farmers, in jeopardy. How can we monitor and document changes to the flow through rivers over time? Since river gauge measurements are rare or non-existent, any way in which we can use freely available satellite imagery (Landsat, Sentinel) to determine the changes in flow patterns of rivers over time would be extremely useful. One such tool is Rivamap – it uses OpenCV to analyze satellite imagery to extract information about rivers, especially for large rivers. What about smaller ones – it does not seem to work as well. In this project, the student(s) will have to develop machine-learning based methods  (or extend the capabilities of Rivamap) to study satellite images to extract information about the path and dimensions of rivers of different flow rates and flow patterns. Comparison with ground-truth data will be needed.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -142,9 +114,7 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-multilanguage-analysis-of-book-titles/</guid>
-      <description>&lt;p&gt;Data visualization, statistics, and analysis of translation entries online. More details will be furnished upon request.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Data visualization, statistics, and analysis of translation entries online. More details will be furnished upon request.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -153,9 +123,7 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-multilanguage-analysis-of-search-results/</guid>
-      <description>&lt;p&gt;The talent students will be given search entries, topics, or terms and will be required to analyze the algorithms of search results across various engines, languages. More information and details upon request.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The talent students will be given search entries, topics, or terms and will be required to analyze the algorithms of search results across various engines, languages. More information and details upon request.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -164,9 +132,7 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</guid>
-      <description>&lt;p&gt;Our lab is using clinical notes to phenotype COVID patient outcomes. The aim is to better understand the sequela of COVID-19 from clinical notes.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our lab is using clinical notes to phenotype COVID patient outcomes. The aim is to better understand the sequela of COVID-19 from clinical notes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -175,9 +141,7 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19/</guid>
-      <description>&lt;p&gt;The question we ask is whether online echo-chambers on social media networks enhance the anxiety and depression of individuals during the COVID19 outbreak. More specifically we want to measure the intensity of the communication about COVID-19 within the echo-chamber of individuals on Twitter and investigate the impact on their subsequent tweets in terms of the level of anxiety and signs of depressive language in their Tweets.  We measure echo-chambers by the number of users in the social network that tweeted about COVID-19. We build on an extensive dataset of Twitter users for whom we have identified a large number of demographic and geographic variables (such as the gender, age, ethnicity, location by state, political affiliation) as well as their social network.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The question we ask is whether online echo-chambers on social media networks enhance the anxiety and depression of individuals during the COVID19 outbreak. More specifically we want to measure the intensity of the communication about COVID-19 within the echo-chamber of individuals on Twitter and investigate the impact on their subsequent tweets in terms of the level of anxiety and signs of depressive language in their Tweets.  We measure echo-chambers by the number of users in the social network that tweeted about COVID-19. We build on an extensive dataset of Twitter users for whom we have identified a large number of demographic and geographic variables (such as the gender, age, ethnicity, location by state, political affiliation) as well as their social network.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -186,9 +150,7 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-studies-lifestyle-behaviors-diet-sleep-and-circadian-rest-activity-rhythms-in-relation-to-cadiometabolic-outcomes/</guid>
-      <description>&lt;p&gt;I  am conducting studies on lifestyle behaviors, in particular diet, sleep behaviors, and circadian rest-activity rhythms in relation to cardiometabolic outcomes (hypertension, type 2 diabetes, and obesity). Sample sizes of my studies range from n=100 to n=16,000.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;I  am conducting studies on lifestyle behaviors, in particular diet, sleep behaviors, and circadian rest-activity rhythms in relation to cardiometabolic outcomes (hypertension, type 2 diabetes, and obesity). Sample sizes of my studies range from n=100 to n=16,000.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -197,9 +159,7 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/project-using-machine-learning-identify-trends-in-hiv-incidence-treatment-disruption-and-risk-factors-in-the-phia-multi-country-population-based-hiv-impact-assessment-survey/</guid>
-      <description>&lt;p&gt;The PHIA project is a multi-country population-based HIV Impact Assessment survey which has interviewed and tested for HIV over 450,000 people of all ages in Africa. We are also currently conducting a second round of surveys in many countries, and hope to use best practices in big data management to generate a combined dataset across all countries. We want to combine this data with environmental, mobility and social media data and then use machine learning to identify trends in HIV incidence, treatment disruption and risk factors. We would also be interested in looking at other ways to use environmental data to predict potential zoonotic outbreaks.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The PHIA project is a multi-country population-based HIV Impact Assessment survey which has interviewed and tested for HIV over 450,000 people of all ages in Africa. We are also currently conducting a second round of surveys in many countries, and hope to use best practices in big data management to generate a combined dataset across all countries. We want to combine this data with environmental, mobility and social media data and then use machine learning to identify trends in HIV incidence, treatment disruption and risk factors. We would also be interested in looking at other ways to use environmental data to predict potential zoonotic outbreaks.&lt;/p&gt;</description>
     </item>
     
   </channel>

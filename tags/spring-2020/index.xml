@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spring 2020 on Columbia DSI Scholars</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Spring 2020 on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/spring-2020/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/spring-2020/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Supplementary Call for Student Applications - Spring-Summer 2020</title>
       <link>/2020/02/supplementary-call-for-student-applications-dsi-scholars-spring-summer-2020/</link>
@@ -18,10 +14,7 @@
       
       <guid>/2020/02/supplementary-call-for-student-applications-dsi-scholars-spring-summer-2020/</guid>
       <description>&lt;p&gt;We have two additional projects (&lt;a href=&#34;https://cu-dsi-scholars.github.io/DSI-scholars/2020/02/project-cryptocurrency-analytics-identifying-bad-actors/&#34;&gt;1&lt;/a&gt;,&lt;a href=&#34;https://cu-dsi-scholars.github.io/DSI-scholars/2020/02/project-understanding-orientation/&#34;&gt;2&lt;/a&gt;) and are thus opening another round of applications. You can apply for these projects &lt;a href=&#34;https://forms.gle/xA5ZCXuUr6Jgh2Zk9&#34;&gt;here&lt;/a&gt;. The deadline for this application is &lt;strong&gt;Friday, February 28th at 11:59pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you applied previously, the original application &lt;a href=&#34;https://forms.gle/FirneensvXgZGE6HA&#34;&gt;form&lt;/a&gt; has been unlocked so that you can access your application materials. Do not use this form to resubmit - it will be ignored.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;If you applied previously, the original application &lt;a href=&#34;https://forms.gle/FirneensvXgZGE6HA&#34;&gt;form&lt;/a&gt; has been unlocked so that you can access your application materials. Do not use this form to resubmit - it will be ignored.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -30,9 +23,7 @@
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/02/project-cryptocurrency-analytics-identifying-bad-actors/</guid>
-      <description>&lt;p&gt;Many of the cryptocurrency transactions have involved fraudulent activities including ponzi schemes, ransomware as well money-laundering. The objective is to use Graph Machine Learning methods to identify the miscreants on Bitcoin and Etherium Networks. There are many challenges including the amount of data in 100s of Gigabytes, creation and scalability of algorithms.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Many of the cryptocurrency transactions have involved fraudulent activities including ponzi schemes, ransomware as well money-laundering. The objective is to use Graph Machine Learning methods to identify the miscreants on Bitcoin and Etherium Networks. There are many challenges including the amount of data in 100s of Gigabytes, creation and scalability of algorithms.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -41,9 +32,7 @@
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/02/project-understanding-orientation/</guid>
-      <description>&lt;p&gt;Orienting to a novel event is a rapid shift in attention to a change in one’s surroundings that appears to be a fundamental biological mechanism for survival and essentially functions as a &amp;ldquo;what is it&amp;rdquo; detector. Orienting appears to play a central role in human learning and development, as it facilitates adaptation to an ever-changing environment.  Thus, orienting can be viewed as an allocational mechanism in which attention sifts through the complex multi-sensory world and selects relevant stimuli for further processing.  The selection of stimuli for further processing has implications for what will be encoded into memories and how strong those memory traces will be.  The ability to differentiate between relevant and irrelevant input, to inhibit the processing of irrelevant stimuli, and to sustain attention requires control, and inhibitory processes that improve with age.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Orienting to a novel event is a rapid shift in attention to a change in one’s surroundings that appears to be a fundamental biological mechanism for survival and essentially functions as a &amp;ldquo;what is it&amp;rdquo; detector. Orienting appears to play a central role in human learning and development, as it facilitates adaptation to an ever-changing environment.  Thus, orienting can be viewed as an allocational mechanism in which attention sifts through the complex multi-sensory world and selects relevant stimuli for further processing.  The selection of stimuli for further processing has implications for what will be encoded into memories and how strong those memory traces will be.  The ability to differentiate between relevant and irrelevant input, to inhibit the processing of irrelevant stimuli, and to sustain attention requires control, and inhibitory processes that improve with age.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,9 +42,7 @@
       
       <guid>/2020/01/call-for-student-applications-dsi-scholars-spring-summer-2020/</guid>
       <description>&lt;p&gt;Columbia University &lt;a href=&#34;http://datascience.columbia.edu/&#34;&gt;Data Science Institute&lt;/a&gt; is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Spring-Summer 2020 are open for application.&lt;/p&gt;
-
 &lt;p&gt;The goal of the DSI Scholars Program is to engage Columbia University&amp;rsquo;s undergraduate and master&amp;rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
-
 &lt;p&gt;The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &amp;ldquo;real world&amp;rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.&lt;/p&gt;</description>
     </item>
     
@@ -65,9 +52,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-a-multi-omic-map-of-human-aging/</guid>
-      <description>&lt;p&gt;This project builds on a novel cellular model of human aging (Sturm et al. Epigenomics 2019) where we can investigate trajectories of multiple molecular features of aging over long time periods. The underlying multi-omic dataset includes epigenomic (DNA methylation), proteomic (protein abundance), bioenergetics (mitochondrial respiration), telomere length, and various secreted factors. A major challenge for the DSI Fellow will be to integrate the multi-omic dataset to capture dynamic signatures of mitochondrial dysfunction and cellular aging, working collaboratively with other scientists. The existing project is expected to result in one or more publications. Possibility to continue work for pay over the summer.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project builds on a novel cellular model of human aging (Sturm et al. Epigenomics 2019) where we can investigate trajectories of multiple molecular features of aging over long time periods. The underlying multi-omic dataset includes epigenomic (DNA methylation), proteomic (protein abundance), bioenergetics (mitochondrial respiration), telomere length, and various secreted factors. A major challenge for the DSI Fellow will be to integrate the multi-omic dataset to capture dynamic signatures of mitochondrial dysfunction and cellular aging, working collaboratively with other scientists. The existing project is expected to result in one or more publications. Possibility to continue work for pay over the summer.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -76,9 +61,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-a-system-for-exploratory-data-analysis-in-neuroscience/</guid>
-      <description>&lt;p&gt;Advances in data collection technologies in neuroscience has resulted in a deluge of high-quality data that needs to be analyzed, and presented to the experimentalist in a meaningful way. Usually the “data analysis and visualization”-pipeline is built from scratch for each new experiment resulting in a significant amount of code duplication and wasted effort in rebuilding the analysis tools. There is a growing need for a unified system to automate much of the repetitive tasks and aid biologists in understanding their data more efficiently.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Advances in data collection technologies in neuroscience has resulted in a deluge of high-quality data that needs to be analyzed, and presented to the experimentalist in a meaningful way. Usually the “data analysis and visualization”-pipeline is built from scratch for each new experiment resulting in a significant amount of code duplication and wasted effort in rebuilding the analysis tools. There is a growing need for a unified system to automate much of the repetitive tasks and aid biologists in understanding their data more efficiently.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -87,20 +70,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</guid>
-      <description>&lt;p&gt;We aim to augment recovery in spinal cord (SC) injured patients. Electrical stimulation of the SC can facilitate recovery, but the mechanisms are not yet understood. One knowledge gap lies in the exact pathways that are recruited by stimulation. To close this gap, we have tested the effects of SC stimulation in people undergoing clinically indicated surgery. By testing the distribution and size of muscle responses to SC stimulation, we can infer which circuits are activated. We are also examining how SC injury changes those responses. We propose to use Bayesian methods to understand the  interaction between muscle responses to stimulation and the MRI indicated pattern of damage. The project will involve construction of models linking multiple data modalities that predict muscle activity, followed by the modification of these models to account for patterns of damage. Construction of such models would enable a deeper understanding of SC stimulation leading to more effective stimulation paradigms.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>COSMOS Smart Intersections, Cloud-Connected Vehicles</title>
-      <link>/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</guid>
-      <description>&lt;p&gt;Research on: (i) COSMOS cloud connected vehicles, (ii) Monitoring of traffic intersections, using bird’s eye cameras, supported by ultra-low latency computational/communications hubs; (iii) Simultaneous video-based tracking of cars and pedestrians, and prediction of movement based on long-term observations of the intersection; (iv) Real-time computational processing, using deep learning, utilizing GPUs, in support of COSMOS applications; (v) Sub-10ms latency communication between all vehicles and the edge cloud computational/communication hub, to be used in support of autonomous vehicle navigation. The research is performed using the pilot node of project &lt;a href=&#34;https://cosmos-lab.org/&#34;&gt;COSMOS&lt;/a&gt; infrastructure.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We aim to augment recovery in spinal cord (SC) injured patients. Electrical stimulation of the SC can facilitate recovery, but the mechanisms are not yet understood. One knowledge gap lies in the exact pathways that are recruited by stimulation. To close this gap, we have tested the effects of SC stimulation in people undergoing clinically indicated surgery. By testing the distribution and size of muscle responses to SC stimulation, we can infer which circuits are activated. We are also examining how SC injury changes those responses. We propose to use Bayesian methods to understand the  interaction between muscle responses to stimulation and the MRI indicated pattern of damage. The project will involve construction of models linking multiple data modalities that predict muscle activity, followed by the modification of these models to account for patterns of damage. Construction of such models would enable a deeper understanding of SC stimulation leading to more effective stimulation paradigms.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -109,9 +79,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</guid>
-      <description>&lt;p&gt;Our goal is to use deep learning networks to understand which neurons in the brain encode fine motor movements in mice. We collected large datasets entailing calcium imaging data of active neurons and high-resolution videos when mice perform motor tasks. We want to use recent advances in deep learning to (1) estimate the poses of mouse body parts at a high spatiotemporal resolution (2) extract behaviorally-relevant information and (3) align them with neural activity data. Behavioral video analysis is made possible by transfer learning, the ability to take a network that was trained on a task with a large supervised dataset and utilize it on a small supervised dataset. This has been used e.g. in a human pose–estimation algorithm called DeeperCut. Recently, such algorithms were tailored for use in the laboratory in a Python-based toolbox known as DeepLabCut, providing a tool for high-throughput behavioral video analysis.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our goal is to use deep learning networks to understand which neurons in the brain encode fine motor movements in mice. We collected large datasets entailing calcium imaging data of active neurons and high-resolution videos when mice perform motor tasks. We want to use recent advances in deep learning to (1) estimate the poses of mouse body parts at a high spatiotemporal resolution (2) extract behaviorally-relevant information and (3) align them with neural activity data. Behavioral video analysis is made possible by transfer learning, the ability to take a network that was trained on a task with a large supervised dataset and utilize it on a small supervised dataset. This has been used e.g. in a human pose–estimation algorithm called DeeperCut. Recently, such algorithms were tailored for use in the laboratory in a Python-based toolbox known as DeepLabCut, providing a tool for high-throughput behavioral video analysis.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -120,9 +88,16 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-community-based-environmental-impact-tracking-for-bauxite-mining-in-guinea/</guid>
-      <description>&lt;p&gt;This position is associated with a new research project co-funded by the Earth Institute Frontiers seed funding and the UN Development Programme in Guinea. Its goal is to develop remote sensing technologies to track environmental impact from bauxite mining in rural communities and to help establish protocols for their use. We seek a research assistant who can (1) develop image classification to be applied to satellite imagery to determine extent and abundance of bauxite dust within specific communities in the Boké region (2) develop methods to make classified images available for download to smartphones in the field and (3) adapt existing application technologies to allow users in the field to upload field photographs and locations of potential impacts they identify. The resulting map would represent a composite of satellite imaged areas of impact verified in the field and documentation of other areas of impact not visible by satellite but already identified in the field.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;This position is associated with a new research project co-funded by the Earth Institute Frontiers seed funding and the UN Development Programme in Guinea. Its goal is to develop remote sensing technologies to track environmental impact from bauxite mining in rural communities and to help establish protocols for their use. We seek a research assistant who can (1) develop image classification to be applied to satellite imagery to determine extent and abundance of bauxite dust within specific communities in the Boké region (2) develop methods to make classified images available for download to smartphones in the field and (3) adapt existing application technologies to allow users in the field to upload field photographs and locations of potential impacts they identify. The resulting map would represent a composite of satellite imaged areas of impact verified in the field and documentation of other areas of impact not visible by satellite but already identified in the field.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COSMOS Smart Intersections, Cloud-Connected Vehicles</title>
+      <link>/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</guid>
+      <description>&lt;p&gt;Research on: (i) COSMOS cloud connected vehicles, (ii) Monitoring of traffic intersections, using bird’s eye cameras, supported by ultra-low latency computational/communications hubs; (iii) Simultaneous video-based tracking of cars and pedestrians, and prediction of movement based on long-term observations of the intersection; (iv) Real-time computational processing, using deep learning, utilizing GPUs, in support of COSMOS applications; (v) Sub-10ms latency communication between all vehicles and the edge cloud computational/communication hub, to be used in support of autonomous vehicle navigation. The research is performed using the pilot node of project &lt;a href=&#34;https://cosmos-lab.org/&#34;&gt;COSMOS&lt;/a&gt; infrastructure.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -131,9 +106,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</guid>
-      <description>&lt;p&gt;The objective of this project is to construct linkages across disparate public health data systems using machine learning tools and assess them for bias and equitable representation of subpopulations defined by demographic and socioeconomic factors.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The objective of this project is to construct linkages across disparate public health data systems using machine learning tools and assess them for bias and equitable representation of subpopulations defined by demographic and socioeconomic factors.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -142,9 +115,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</guid>
-      <description>&lt;p&gt;42% of New York City greenhouse gas emissions result from on-site fossil fuel combustion in residential and commercial buildings; space heating is, by far, the majority contributor. Both New York State and NYC have policies to dramatically reduce emissions that will require a transformation in the way buildings are heated, including major efforts in existing buildings. This transition is inextricably linked to existing energy equity issues that we believe significantly overlap across NYC (and elsewhere). These include unreliable heating in the winter, susceptibility to extreme heat (an increasing occurrence with climate change) and struggles to afford energy needs. Various known data sources for NYC are available, though they are disparate and have not been analyzed holistically. Further, we believe there are potential engineering and policy solutions to these challenges. In this project, the DSI scholar will access (and search for where not yet known to qSEL researchers) relevant data sets, analyze those data sets to identify communities exposed to all or a subset of these issues, and assist qSEL researchers in developing models to evaluate possible solutions. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;42% of New York City greenhouse gas emissions result from on-site fossil fuel combustion in residential and commercial buildings; space heating is, by far, the majority contributor. Both New York State and NYC have policies to dramatically reduce emissions that will require a transformation in the way buildings are heated, including major efforts in existing buildings. This transition is inextricably linked to existing energy equity issues that we believe significantly overlap across NYC (and elsewhere). These include unreliable heating in the winter, susceptibility to extreme heat (an increasing occurrence with climate change) and struggles to afford energy needs. Various known data sources for NYC are available, though they are disparate and have not been analyzed holistically. Further, we believe there are potential engineering and policy solutions to these challenges. In this project, the DSI scholar will access (and search for where not yet known to qSEL researchers) relevant data sets, analyze those data sets to identify communities exposed to all or a subset of these issues, and assist qSEL researchers in developing models to evaluate possible solutions. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -153,9 +124,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-the-consequences-of-language-policing/</guid>
-      <description>&lt;p&gt;Contestation over language use is an unavoidable feature of American politics. Yet, despite the rise of language policing on both sides of the aisle, we know surprisingly little about how ordinary citizens respond to norms governing language use from both in-group and out-group members. Following Munger (2017), I would like to leverage social media platforms such as Reddit and Twitter to evaluate whether injunctions to use particular words (e.g., undocumented immigrant, Latinx) are effective. I plan to use an experimental approach, where conditional on mentions of &amp;ldquo;illegal alien&amp;rdquo; or &amp;ldquo;Hispanic/Latino,&amp;rdquo; users are randomly assigned to receive a &amp;ldquo;language correction.&amp;rdquo; Outcome measures would include subsequent use of corrected terms, valence of user responses, and upvoting/liking/RTing behavior.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Contestation over language use is an unavoidable feature of American politics. Yet, despite the rise of language policing on both sides of the aisle, we know surprisingly little about how ordinary citizens respond to norms governing language use from both in-group and out-group members. Following Munger (2017), I would like to leverage social media platforms such as Reddit and Twitter to evaluate whether injunctions to use particular words (e.g., undocumented immigrant, Latinx) are effective. I plan to use an experimental approach, where conditional on mentions of &amp;ldquo;illegal alien&amp;rdquo; or &amp;ldquo;Hispanic/Latino,&amp;rdquo; users are randomly assigned to receive a &amp;ldquo;language correction.&amp;rdquo; Outcome measures would include subsequent use of corrected terms, valence of user responses, and upvoting/liking/RTing behavior.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -164,9 +133,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-decoding-the-dynamics-of-mouse-behavior-that-predict-exploring-and-remembering/</guid>
-      <description>&lt;p&gt;Decoding behavioral signifiers for choice and memory can have far reaching implications for understanding actions and identifying disease. We use a four arm maze where we are able to observe choices and infer memory in mice, but have access to very few pre-determined behavioral signifiers. Several recent publications implemented computer vision to extract a variety of previously unreachable aspects of behavioral analysis, including animal pose estimation (Mathis et al., 2018) and distinguishable internal states (Calhoun et al., 2019). These descriptions allowed for the identification and characterization of dynamics, which then revealed an unprecedented richness to the behaviors that determine decision making. Applying such computational approaches to examine behavior in our maze in the context of behaviors that have been validated to measure choice and memory can reveal dimensions of behavior that predict or even determine these psychological constructs. DSI scholars would use pose estimation analysis to evaluate behavioral signifiers for choice and memory and relate it to our real time concurrent measures of neural activity and transmitter release. The students would also have opportunity to examine the effect of disease models known to impair performance on our maze task on any identified signifier.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Decoding behavioral signifiers for choice and memory can have far reaching implications for understanding actions and identifying disease. We use a four arm maze where we are able to observe choices and infer memory in mice, but have access to very few pre-determined behavioral signifiers. Several recent publications implemented computer vision to extract a variety of previously unreachable aspects of behavioral analysis, including animal pose estimation (Mathis et al., 2018) and distinguishable internal states (Calhoun et al., 2019). These descriptions allowed for the identification and characterization of dynamics, which then revealed an unprecedented richness to the behaviors that determine decision making. Applying such computational approaches to examine behavior in our maze in the context of behaviors that have been validated to measure choice and memory can reveal dimensions of behavior that predict or even determine these psychological constructs. DSI scholars would use pose estimation analysis to evaluate behavioral signifiers for choice and memory and relate it to our real time concurrent measures of neural activity and transmitter release. The students would also have opportunity to examine the effect of disease models known to impair performance on our maze task on any identified signifier.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -175,9 +142,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-decoding-the-human-genome-with-interpretable-deep-learning/</guid>
-      <description>&lt;p&gt;The function for much of the 3 billion letters in the human genome remain to be understood. Advances in DNA sequencing technology have generated enormous amount of data, yet we don’t have the tool to extract rules of how the genome works. Deep learning holds great potential in decoding the genome, in particular due to the digital nature of DNA sequences and the ability to handle large data sets. However, like many other applications, the interpretability of deep learning models hampers its ability to help understand the genome. We are developing deep learning architectures embedded with the principles of gene regulation and we will be leveraging billions of existing measurements of gene activity to learn a mechanistic model of gene regulation in human cells.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The function for much of the 3 billion letters in the human genome remain to be understood. Advances in DNA sequencing technology have generated enormous amount of data, yet we don’t have the tool to extract rules of how the genome works. Deep learning holds great potential in decoding the genome, in particular due to the digital nature of DNA sequences and the ability to handle large data sets. However, like many other applications, the interpretability of deep learning models hampers its ability to help understand the genome. We are developing deep learning architectures embedded with the principles of gene regulation and we will be leveraging billions of existing measurements of gene activity to learn a mechanistic model of gene regulation in human cells.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -186,9 +151,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</guid>
-      <description>&lt;p&gt;This project will be focused on creating a deep learning framework for tracking individual molecules and proteins as they move within a cell under various conditions. Using total internal reflection (TIRF) microscopy, we have accumulated more than 10 million trajectories over dozens of experimental preparations with differences in both the imaging approaches as well as the biological context. In our experiments we have captured particles under a wide variety of conditions including increased protein expression level, and a range of drug concentrations. Our biggest challenge is being able to stably track the movement of a particle as it passes by other particles or groups of particles, and to do this in a way that generalizes over novel conditions. The Data Science Institute Scholar chosen for this project would work with scientists in the Javitch laboratory and others across the Columbia campus to conceive of an approach for efficiently and effectively tracking particles. The resulting work would be of great interest to an increasing number of scientists working in this field who currently rely on methods based on feature engineering that are often inaccurate or inflexible compared to modern deep learning methods.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project will be focused on creating a deep learning framework for tracking individual molecules and proteins as they move within a cell under various conditions. Using total internal reflection (TIRF) microscopy, we have accumulated more than 10 million trajectories over dozens of experimental preparations with differences in both the imaging approaches as well as the biological context. In our experiments we have captured particles under a wide variety of conditions including increased protein expression level, and a range of drug concentrations. Our biggest challenge is being able to stably track the movement of a particle as it passes by other particles or groups of particles, and to do this in a way that generalizes over novel conditions. The Data Science Institute Scholar chosen for this project would work with scientists in the Javitch laboratory and others across the Columbia campus to conceive of an approach for efficiently and effectively tracking particles. The resulting work would be of great interest to an increasing number of scientists working in this field who currently rely on methods based on feature engineering that are often inaccurate or inflexible compared to modern deep learning methods.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -197,9 +160,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-discovering-latent-structure-in-human-information-demand/</guid>
-      <description>&lt;p&gt;All complex behaviors require animals to coordinate their perception and actions. To successfully achieve a goal, a decision maker (DM; be it a human, animal, or artificial agent) must determine which action to take and, faced with much more information than she can fully process, must decide which source of information to consult to best guide that action. But in contrast with natural tasks, traditional research has focused primarily on action selection but eschewed the process of information demand. We aim to fill this gap by investigating the factors that motivate people to become curious and seek information.  We are collecting behavioral data from a large sample of participants on a battery of online tasks testing various aspects of curiosity, and seek a DSI scholar who can quantitatively analyze the data. The scholar will be supervised by two co-PIs: Jacqueline Gottlieb, in Columbia&amp;rsquo;s Neuroscience Department and Zuckerman Institute, and Vince Dorie, in the DSI. The scholar will obtain training with advanced data analytic methods and the opportunity to co-author what is expected to be a high impact paper with interdisciplinary appeal in economics, neuroscience, and psychology.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;All complex behaviors require animals to coordinate their perception and actions. To successfully achieve a goal, a decision maker (DM; be it a human, animal, or artificial agent) must determine which action to take and, faced with much more information than she can fully process, must decide which source of information to consult to best guide that action. But in contrast with natural tasks, traditional research has focused primarily on action selection but eschewed the process of information demand. We aim to fill this gap by investigating the factors that motivate people to become curious and seek information.  We are collecting behavioral data from a large sample of participants on a battery of online tasks testing various aspects of curiosity, and seek a DSI scholar who can quantitatively analyze the data. The scholar will be supervised by two co-PIs: Jacqueline Gottlieb, in Columbia&amp;rsquo;s Neuroscience Department and Zuckerman Institute, and Vince Dorie, in the DSI. The scholar will obtain training with advanced data analytic methods and the opportunity to co-author what is expected to be a high impact paper with interdisciplinary appeal in economics, neuroscience, and psychology.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -208,9 +169,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
-      <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -219,9 +178,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-efficient-representations-and-prediction-of-multidimensional-time-series-data/</guid>
-      <description>&lt;p&gt;Big data with temporal dependence brings unique challenges in effective prediction and data analysis. The complex high-dimensional interactions between observations in such data brings unique challenges which standard off-the-shelf machine learning algorithms cannot handle. Even basic tasks of clustering, visualization and identification of recurring patterns are difficult.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Big data with temporal dependence brings unique challenges in effective prediction and data analysis. The complex high-dimensional interactions between observations in such data brings unique challenges which standard off-the-shelf machine learning algorithms cannot handle. Even basic tasks of clustering, visualization and identification of recurring patterns are difficult.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -230,9 +187,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-evaluating-reconstructions-of-the-ocean-carbon-sink/</guid>
-      <description>&lt;p&gt;The ocean significantly mitigates climate change by absorbing fossil fuel carbon from the atmosphere. Cumulatively since the preindustrial times, the ocean has absorbed 40% of emissions. To understand past changes, diagnose ongoing changes, and to predict the future behavior of the ocean carbon sink, we must understand its spatial and temporal variability. However, the ocean is poorly sampled and so we cannot do this from direct measurements.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The ocean significantly mitigates climate change by absorbing fossil fuel carbon from the atmosphere. Cumulatively since the preindustrial times, the ocean has absorbed 40% of emissions. To understand past changes, diagnose ongoing changes, and to predict the future behavior of the ocean carbon sink, we must understand its spatial and temporal variability. However, the ocean is poorly sampled and so we cannot do this from direct measurements.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -241,9 +196,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-examining-the-synergistic-effects-of-cannabis-and-prescription-opioid-policies-on-chronic-pain-opioid-prescribing-and-opioid-overdose/</guid>
-      <description>&lt;p&gt;The funded study examines policies that regulate the PO supply, including those related to prescription drug monitoring programs, pain management clinic laws, and prescribing limits. In this supplement, we add a set of complementary opioid policies that affect access to treatment for opioid use disorder (e.g., Medicaid coverage of medication for opioid use disorder).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The funded study examines policies that regulate the PO supply, including those related to prescription drug monitoring programs, pain management clinic laws, and prescribing limits. In this supplement, we add a set of complementary opioid policies that affect access to treatment for opioid use disorder (e.g., Medicaid coverage of medication for opioid use disorder).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -252,9 +205,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-group-decision-making-and-communication-in-limitless-space/</guid>
-      <description>&lt;p&gt;The introduction of a new technology provides individuals and organizations with a large, unowned, and limitless space for communication and organization. How do individuals use or misuse this space in their decision making? Using online discussion platforms, we will analyze what types of discussions thrive - those with depth of discussion or topical complexity or those with cohesive contours? We’ll ask, are there high status actors who are particularly good at recognizing topic gaps which need new conversations? Using social psychological theories with a large-scale archival dataset, we’ll learn more about the impact of new technologies on group decision-making processes.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The introduction of a new technology provides individuals and organizations with a large, unowned, and limitless space for communication and organization. How do individuals use or misuse this space in their decision making? Using online discussion platforms, we will analyze what types of discussions thrive - those with depth of discussion or topical complexity or those with cohesive contours? We’ll ask, are there high status actors who are particularly good at recognizing topic gaps which need new conversations? Using social psychological theories with a large-scale archival dataset, we’ll learn more about the impact of new technologies on group decision-making processes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -263,9 +214,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</guid>
-      <description>&lt;p&gt;The Quadracci Sustainable Engineering Lab (qSEL) has several research efforts related to the low-carbon energy transition, including pathways to decarbonize building space heating. Recent work has produced large model data sets that have supported recent journal articles. Several maps have been produced using QGIS and data has been made public, but user functionality is limited. While we continue to build on these efforts, we also want to make our results and data available more widely for other researchers and policymakers. The large data sets (10 years of hourly data for more than 72,000 census tracts and six scenarios) and different spatial aggregations (e.g. states and electricity planning/operating regions) present challenges. In this project, the DSI Scholar would first work with qSEL researchers to develop an interactive web interface to display maps of relevant analyses and allow users to produce time series data from the underlying models. Additional research would include further analysis at a regional level – likely New York State – to refine the current model based on additional intraregional and energy source data. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Quadracci Sustainable Engineering Lab (qSEL) has several research efforts related to the low-carbon energy transition, including pathways to decarbonize building space heating. Recent work has produced large model data sets that have supported recent journal articles. Several maps have been produced using QGIS and data has been made public, but user functionality is limited. While we continue to build on these efforts, we also want to make our results and data available more widely for other researchers and policymakers. The large data sets (10 years of hourly data for more than 72,000 census tracts and six scenarios) and different spatial aggregations (e.g. states and electricity planning/operating regions) present challenges. In this project, the DSI Scholar would first work with qSEL researchers to develop an interactive web interface to display maps of relevant analyses and allow users to produce time series data from the underlying models. Additional research would include further analysis at a regional level – likely New York State – to refine the current model based on additional intraregional and energy source data. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -274,9 +223,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-high-quality-video-streaming-over-wireless/</guid>
-      <description>&lt;p&gt;The amount of video content that is being distributed over the Internet is increasing. Video providers rely on HTTP adaptive streaming approaches to deliver video clips to users. Complementary to the video provider, the service provider must determine the priority of each network stream. As part of the project, students will explore wireless network assisted strategies for http adaptive streaming by use of TOS/DSCP. This includes using machine-learning tools to analyze network video traffic and the design of reinforcement learning algorithms to improve users&amp;rsquo; video Quality of Experience.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The amount of video content that is being distributed over the Internet is increasing. Video providers rely on HTTP adaptive streaming approaches to deliver video clips to users. Complementary to the video provider, the service provider must determine the priority of each network stream. As part of the project, students will explore wireless network assisted strategies for http adaptive streaming by use of TOS/DSCP. This includes using machine-learning tools to analyze network video traffic and the design of reinforcement learning algorithms to improve users&#39; video Quality of Experience.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -285,9 +232,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</guid>
-      <description>&lt;p&gt;A major challenge to implementing precision medicine arises from patients who share a clinical diagnosis but have different biological causes of disease. Disease subtypes that arise from obscure etiological heterogeneity create inefficiencies in healthcare and attenuate power in clinical trials and research studies. The ability to stratify patients into biologically homogenous subgroups improves the potential for translational research by allowing us to design more powerful studies.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;A major challenge to implementing precision medicine arises from patients who share a clinical diagnosis but have different biological causes of disease. Disease subtypes that arise from obscure etiological heterogeneity create inefficiencies in healthcare and attenuate power in clinical trials and research studies. The ability to stratify patients into biologically homogenous subgroups improves the potential for translational research by allowing us to design more powerful studies.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -296,9 +241,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-inclusionary-zoning-in-paris-and-new-york-antidote-to-gentrification-or-trojans-horse/</guid>
-      <description>&lt;p&gt;The research project examines how Inclusionary Zoning (IZ) impacts the housing markets of neighborhoods where it is implemented. The study focuses on the impacts of IZ in New York City and Paris, two cities at the forefront of adopting IZ in their respective countries.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The research project examines how Inclusionary Zoning (IZ) impacts the housing markets of neighborhoods where it is implemented. The study focuses on the impacts of IZ in New York City and Paris, two cities at the forefront of adopting IZ in their respective countries.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -307,9 +250,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-influence-of-past-brain-state-on-future-perception/</guid>
-      <description>&lt;p&gt;We are constantly exposed to inputs from the outside world, but we do not perceive everything we are exposed to. Some inputs are rather weak: we might perceive them at one point in time, but not at another. The state of our brains right before we receive such sensory inputs influences whether or not we perceive them. Brain oscillations are proposed to play a key role in setting these brain states; however, how exactly these brain rhythms influence our perception remains a topic of active research.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We are constantly exposed to inputs from the outside world, but we do not perceive everything we are exposed to. Some inputs are rather weak: we might perceive them at one point in time, but not at another. The state of our brains right before we receive such sensory inputs influences whether or not we perceive them. Brain oscillations are proposed to play a key role in setting these brain states; however, how exactly these brain rhythms influence our perception remains a topic of active research.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -318,9 +259,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-measuring-tax-evasion-using-twitter-feeds/</guid>
-      <description>&lt;p&gt;Tax evasion is one of the main sources of informal economic activity and has drastic effects on different macroeconomic variables. However, due to various reasons, it is difficult to directly measure the extent of tax evasion. This project aims to develop a novel way of measuring aggregate tax evasion in national economies using Twitter feeds. To this end, using carefully selected keywords in different national languages, we will collect country and regional level data from Twitter feeds in different frequencies for a large cross section of economies and then construct a measure of tax evasion using the collected data. In addition to fully describing the collected dataset, the project will also examine the evolution of the constructed series.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Tax evasion is one of the main sources of informal economic activity and has drastic effects on different macroeconomic variables. However, due to various reasons, it is difficult to directly measure the extent of tax evasion. This project aims to develop a novel way of measuring aggregate tax evasion in national economies using Twitter feeds. To this end, using carefully selected keywords in different national languages, we will collect country and regional level data from Twitter feeds in different frequencies for a large cross section of economies and then construct a measure of tax evasion using the collected data. In addition to fully describing the collected dataset, the project will also examine the evolution of the constructed series.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -329,9 +268,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-startup-cartography-project-data-and-quality-support/</guid>
-      <description>&lt;p&gt;We are looking for talented data scientists to support the data processing and learning in the Startup Cartography Project and its follow-on project, the Artificial Intelligence in Entrepreneurship Lab.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We are looking for talented data scientists to support the data processing and learning in the Startup Cartography Project and its follow-on project, the Artificial Intelligence in Entrepreneurship Lab.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -340,9 +277,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-statistical-analyses-of-siamese-fighting-fish-aggressive-behavior/</guid>
-      <description>&lt;p&gt;Project: analyze behavior of Siamese fighting fish (Betta splendens) as part of a collaboration between the Bendesky and Cunningham labs of the Zuckerman Institute (NeuroTheory Center)&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Project: analyze behavior of Siamese fighting fish (Betta splendens) as part of a collaboration between the Bendesky and Cunningham labs of the Zuckerman Institute (NeuroTheory Center)&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -351,9 +286,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-the-evolution-of-the-smallest-galaxies-in-the-universe/</guid>
-      <description>&lt;p&gt;The Milky Way swarms with orbiting satellite dwarf galaxies of astounding diversity. Some galaxies continue to form stars while others stop and dim in brightness. In computer simulations, the evolutionary history of each dwarf galaxy that leads to these differences is known. Galaxies can lose gas and stop forming stars due to early exposure to stellar radiation (reionization), interaction with the hot gas of the host (ram-pressure stripping), or gravitational interactions with the host/dwarf galaxies (tidal effects).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Milky Way swarms with orbiting satellite dwarf galaxies of astounding diversity. Some galaxies continue to form stars while others stop and dim in brightness. In computer simulations, the evolutionary history of each dwarf galaxy that leads to these differences is known. Galaxies can lose gas and stop forming stars due to early exposure to stellar radiation (reionization), interaction with the hot gas of the host (ram-pressure stripping), or gravitational interactions with the host/dwarf galaxies (tidal effects).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -362,9 +295,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-using-machine-learning-and-topology-to-phenotype-mouse-behavior/</guid>
-      <description>&lt;p&gt;A central issue facing systems neuroscience is defining the rich naturalistic behavioral repertoire that mice engage in under psychiatrically relevant situations. Recent advances in deep learning (e.g., DeepLabCut) have made frame by frame detailed pose estimation possible. However, this dense behavioral data requires new techniques for defining the ethogram (full description of behavior). To date, researchers have used frequency based time series approaches to tackle this problem, with significant limitations. An alternative approach would be to take advantage of new topology methods (persistent homology and directed algebraic topology) to characterize the shapes formed by mouse limb trajectories. Such an approach would have broad application in systems neuroscience. For this project, the student will use machine learning to label animal body parts, then topology to characterize the ethogram and compare the results to existing approaches.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;A central issue facing systems neuroscience is defining the rich naturalistic behavioral repertoire that mice engage in under psychiatrically relevant situations. Recent advances in deep learning (e.g., DeepLabCut) have made frame by frame detailed pose estimation possible. However, this dense behavioral data requires new techniques for defining the ethogram (full description of behavior). To date, researchers have used frequency based time series approaches to tackle this problem, with significant limitations. An alternative approach would be to take advantage of new topology methods (persistent homology and directed algebraic topology) to characterize the shapes formed by mouse limb trajectories. Such an approach would have broad application in systems neuroscience. For this project, the student will use machine learning to label animal body parts, then topology to characterize the ethogram and compare the results to existing approaches.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -374,10 +305,7 @@
       
       <guid>/2019/12/call-for-faculty-participation-dsi-scholars-spring-summer-2020/</guid>
       <description>&lt;h3 id=&#34;call-for-faculty-participation-december-2019&#34;&gt;Call for Faculty Participation. December 2019.&lt;/h3&gt;
-
-&lt;p&gt;The Data Science Institute is pleased to call for Faculty Participation in the Spring and/or Summer 2020 sessions of the 3rd cohort of Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through a data science research internship. Last year, we worked with 47 projects and received more than 400 unique applications from Columbia Students. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;The Data Science Institute is pleased to call for Faculty Participation in the Spring and/or Summer 2020 sessions of the 3rd cohort of Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through a data science research internship. Last year, we worked with 47 projects and received more than 400 unique applications from Columbia Students. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;</description>
     </item>
     
   </channel>

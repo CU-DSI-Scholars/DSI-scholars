@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Image Classification on Columbia DSI Scholars</title>
+    <title>Image classification on Columbia DSI Scholars</title>
     <link>/tags/image-classification/</link>
-    <description>Recent content in Image Classification on Columbia DSI Scholars</description>
+    <description>Recent content in Image classification on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/image-classification/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/image-classification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Community-Based Environmental Impact Tracking for Bauxite Mining in Guinea</title>
       <link>/2020/01/project-community-based-environmental-impact-tracking-for-bauxite-mining-in-guinea/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-community-based-environmental-impact-tracking-for-bauxite-mining-in-guinea/</guid>
-      <description>&lt;p&gt;This position is associated with a new research project co-funded by the Earth Institute Frontiers seed funding and the UN Development Programme in Guinea. Its goal is to develop remote sensing technologies to track environmental impact from bauxite mining in rural communities and to help establish protocols for their use. We seek a research assistant who can (1) develop image classification to be applied to satellite imagery to determine extent and abundance of bauxite dust within specific communities in the Boké region (2) develop methods to make classified images available for download to smartphones in the field and (3) adapt existing application technologies to allow users in the field to upload field photographs and locations of potential impacts they identify. The resulting map would represent a composite of satellite imaged areas of impact verified in the field and documentation of other areas of impact not visible by satellite but already identified in the field.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;This position is associated with a new research project co-funded by the Earth Institute Frontiers seed funding and the UN Development Programme in Guinea. Its goal is to develop remote sensing technologies to track environmental impact from bauxite mining in rural communities and to help establish protocols for their use. We seek a research assistant who can (1) develop image classification to be applied to satellite imagery to determine extent and abundance of bauxite dust within specific communities in the Boké region (2) develop methods to make classified images available for download to smartphones in the field and (3) adapt existing application technologies to allow users in the field to upload field photographs and locations of potential impacts they identify. The resulting map would represent a composite of satellite imaged areas of impact verified in the field and documentation of other areas of impact not visible by satellite but already identified in the field.&lt;/p&gt;</description>
     </item>
     
   </channel>

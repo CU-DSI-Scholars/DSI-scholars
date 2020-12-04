@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Info on Columbia DSI Scholars</title>
+    <title>info on Columbia DSI Scholars</title>
     <link>/categories/info/</link>
-    <description>Recent content in Info on Columbia DSI Scholars</description>
+    <description>Recent content in info on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/info/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PI Frequently Asked Questions</title>
       <link>/page/pi_faq_2021_spring_summer/</link>
@@ -79,7 +75,7 @@ Answer: It is recommended that you prioritize based on your interest and skills.
       <guid>/page/faq2019/</guid>
       <description>Question: Will there be projects in the spring/summer?
 Answer: Yes, there will be another call for projects in December, and students in January. All current projects will be up for renewal under an expedited process, and interested students are encouraged to talk to their PIs about continuing.
- Question: With only one application form, how do I express interest in more than one project?
+  Question: With only one application form, how do I express interest in more than one project?
 Answer: It is recommended that you prioritize based on your interest and skills.</description>
     </item>
     
@@ -91,8 +87,7 @@ Answer: It is recommended that you prioritize based on your interest and skills.
       <guid>/page/faq2018/</guid>
       <description>Question: Is there still space to host interns for this program? I have a student researcher in my lab who was interested in participating.
 Answer: The distribution of matching funds has ended. However, we will be happy to host your student researcher in our learning activities as a DSI scholar of Summer 2018.
- Question: Is there any kind of housing stipend/financial remuneration available for participating students.
-Answer: Most of the projects are providing stipends at the level of $5,000 for the duration of the project.</description>
+  Question: Is there any kind of housing stipend/financial remuneration available for participating students.</description>
     </item>
     
     <item>
@@ -102,7 +97,7 @@ Answer: Most of the projects are providing stipends at the level of $5,000 for t
       
       <guid>/page/contact-info/</guid>
       <description>The best way to reach us would be by email.
- Data Science Institute: datascience@columbia.edu  Mail: Data Science Institute, 1401 Northwest Corner, Mail Code 4720, 550 West 120th Street, New York, NY 10027 Fax: 212-854-1599 Phone: 212-854-5660  The DSI scholars program: dsi-scholars@columbia.edu  </description>
+ Data Science Institute: datascience@columbia.edu  Mail: Data Science Institute, 1401 Northwest Corner, Mail Code 4720, 550 West 120th Street, New York, NY 10027 Fax: 212-854-1599 Phone: 212-854-5660   The DSI scholars program: dsi-scholars@columbia.edu  </description>
     </item>
     
   </channel>

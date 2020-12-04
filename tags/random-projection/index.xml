@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Random Projection on Columbia DSI Scholars</title>
+    <title>Random projection on Columbia DSI Scholars</title>
     <link>/tags/random-projection/</link>
-    <description>Recent content in Random Projection on Columbia DSI Scholars</description>
+    <description>Recent content in Random projection on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/random-projection/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/random-projection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Designing effective prediction models via kernel random projections</title>
       <link>/2019/09/project-designing-effective-prediction-models-via-kernel-random-projections/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/project-designing-effective-prediction-models-via-kernel-random-projections/</guid>
-      <description>&lt;p&gt;Mixture models are a popular technique for clustering and density estimation due to their simplicity and ease of use. However the success of these models relies crucially on specific assumptions these models make about the underlying data distribution. Gaussian mixture models, for instance, assume that the subpopulations within the data are Gaussians-like, and can thus lead to poor predictions on datasets with more complex intrinsic structures. A common approach in such situations is to resort to more complex data models. An interesting sparsely explored alternative is to find feature transformations that maintain the salient cluster information while simplifying the subpopulation structure, in effect making mixture models highly effective.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mixture models are a popular technique for clustering and density estimation due to their simplicity and ease of use. However the success of these models relies crucially on specific assumptions these models make about the underlying data distribution. Gaussian mixture models, for instance, assume that the subpopulations within the data are Gaussians-like, and can thus lead to poor predictions on datasets with more complex intrinsic structures. A common approach in such situations is to resort to more complex data models. An interesting sparsely explored alternative is to find feature transformations that maintain the salient cluster information while simplifying the subpopulation structure, in effect making mixture models highly effective.&lt;/p&gt;</description>
     </item>
     
   </channel>

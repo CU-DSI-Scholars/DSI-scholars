@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Database on Columbia DSI Scholars</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Database on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/database/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project: Injury-Disease Interactions in Older Adults</title>
       <link>/2019/01/project-injury-disease-interactions-in-older-adults/</link>
@@ -26,9 +22,7 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/project-measuring-broadband/</guid>
-      <description>&lt;p&gt;The Federal Communications Commission (FCC) and the Census regularly publish data on U.S. Internet availability, performance and use, at granularities from census block to county and state. The project goal is to answer questions based on the available data, such as &amp;ldquo;How reliable is Internet access?&amp;rdquo;, &amp;ldquo;Who is deploying fiber where?&amp;rdquo;, &amp;ldquo;Can we predict reliability of different technologies?&amp;rdquo;, &amp;ldquo;Can we predict the deployment of fiber?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Federal Communications Commission (FCC) and the Census regularly publish data on U.S. Internet availability, performance and use, at granularities from census block to county and state. The project goal is to answer questions based on the available data, such as &amp;ldquo;How reliable is Internet access?&amp;rdquo;, &amp;ldquo;Who is deploying fiber where?&amp;rdquo;, &amp;ldquo;Can we predict reliability of different technologies?&amp;rdquo;, &amp;ldquo;Can we predict the deployment of fiber?&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
   </channel>

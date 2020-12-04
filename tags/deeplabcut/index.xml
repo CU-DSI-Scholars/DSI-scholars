@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deeplabcut on Columbia DSI Scholars</title>
+    <title>DeepLabCut on Columbia DSI Scholars</title>
     <link>/tags/deeplabcut/</link>
-    <description>Recent content in Deeplabcut on Columbia DSI Scholars</description>
+    <description>Recent content in DeepLabCut on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/deeplabcut/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/deeplabcut/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Combining in vivo calcium imaging datasets and deep learning networks for video analysis (DeepLabCut) to identify novel brain regulators of fine motor learning in mice</title>
       <link>/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</guid>
-      <description>&lt;p&gt;Our goal is to use deep learning networks to understand which neurons in the brain encode fine motor movements in mice. We collected large datasets entailing calcium imaging data of active neurons and high-resolution videos when mice perform motor tasks. We want to use recent advances in deep learning to (1) estimate the poses of mouse body parts at a high spatiotemporal resolution (2) extract behaviorally-relevant information and (3) align them with neural activity data. Behavioral video analysis is made possible by transfer learning, the ability to take a network that was trained on a task with a large supervised dataset and utilize it on a small supervised dataset. This has been used e.g. in a human pose–estimation algorithm called DeeperCut. Recently, such algorithms were tailored for use in the laboratory in a Python-based toolbox known as DeepLabCut, providing a tool for high-throughput behavioral video analysis.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our goal is to use deep learning networks to understand which neurons in the brain encode fine motor movements in mice. We collected large datasets entailing calcium imaging data of active neurons and high-resolution videos when mice perform motor tasks. We want to use recent advances in deep learning to (1) estimate the poses of mouse body parts at a high spatiotemporal resolution (2) extract behaviorally-relevant information and (3) align them with neural activity data. Behavioral video analysis is made possible by transfer learning, the ability to take a network that was trained on a task with a large supervised dataset and utilize it on a small supervised dataset. This has been used e.g. in a human pose–estimation algorithm called DeeperCut. Recently, such algorithms were tailored for use in the laboratory in a Python-based toolbox known as DeepLabCut, providing a tool for high-throughput behavioral video analysis.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-statistical-analyses-of-siamese-fighting-fish-aggressive-behavior/</guid>
-      <description>&lt;p&gt;Project: analyze behavior of Siamese fighting fish (Betta splendens) as part of a collaboration between the Bendesky and Cunningham labs of the Zuckerman Institute (NeuroTheory Center)&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Project: analyze behavior of Siamese fighting fish (Betta splendens) as part of a collaboration between the Bendesky and Cunningham labs of the Zuckerman Institute (NeuroTheory Center)&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +31,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-using-machine-learning-and-topology-to-phenotype-mouse-behavior/</guid>
-      <description>&lt;p&gt;A central issue facing systems neuroscience is defining the rich naturalistic behavioral repertoire that mice engage in under psychiatrically relevant situations. Recent advances in deep learning (e.g., DeepLabCut) have made frame by frame detailed pose estimation possible. However, this dense behavioral data requires new techniques for defining the ethogram (full description of behavior). To date, researchers have used frequency based time series approaches to tackle this problem, with significant limitations. An alternative approach would be to take advantage of new topology methods (persistent homology and directed algebraic topology) to characterize the shapes formed by mouse limb trajectories. Such an approach would have broad application in systems neuroscience. For this project, the student will use machine learning to label animal body parts, then topology to characterize the ethogram and compare the results to existing approaches.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;A central issue facing systems neuroscience is defining the rich naturalistic behavioral repertoire that mice engage in under psychiatrically relevant situations. Recent advances in deep learning (e.g., DeepLabCut) have made frame by frame detailed pose estimation possible. However, this dense behavioral data requires new techniques for defining the ethogram (full description of behavior). To date, researchers have used frequency based time series approaches to tackle this problem, with significant limitations. An alternative approach would be to take advantage of new topology methods (persistent homology and directed algebraic topology) to characterize the shapes formed by mouse limb trajectories. Such an approach would have broad application in systems neuroscience. For this project, the student will use machine learning to label animal body parts, then topology to characterize the ethogram and compare the results to existing approaches.&lt;/p&gt;</description>
     </item>
     
   </channel>

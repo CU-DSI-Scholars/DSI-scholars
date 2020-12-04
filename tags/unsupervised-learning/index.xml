@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unsupervised Learning on Columbia DSI Scholars</title>
+    <title>Unsupervised learning on Columbia DSI Scholars</title>
     <link>/tags/unsupervised-learning/</link>
-    <description>Recent content in Unsupervised Learning on Columbia DSI Scholars</description>
+    <description>Recent content in Unsupervised learning on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/unsupervised-learning/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/unsupervised-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data driven approaches to finding undiagnosed HS patients in EHR</title>
       <link>/2020/09/project-data-driven-approaches-to-finding-undiagnosed-hs-patients-in-ehr/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/project-data-driven-approaches-to-finding-undiagnosed-hs-patients-in-ehr/</guid>
-      <description>&lt;p&gt;Electronic Health Records (EHR) provide a rich integrated source of phenotypic information that allow for automated extraction and recognition of phenotypes from EHR narratives and provide an efficient framework for conducting epidemiological and clinical studies.  In addition, when EHR are linked to genetic data in electronic biorepositories such as eMERGE and All of US, phenotype information embedded in EHR can be used to efficiently construct cohorts powered for genetic discoveries. However, limitations arise from repurposing data generated from healthcare processes for research, which can include data sparseness, low quality data and diagnostic errors. Phenotyping algorithms are developed to overcome these limitations providing a robust means to assess case status.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Electronic Health Records (EHR) provide a rich integrated source of phenotypic information that allow for automated extraction and recognition of phenotypes from EHR narratives and provide an efficient framework for conducting epidemiological and clinical studies.  In addition, when EHR are linked to genetic data in electronic biorepositories such as eMERGE and All of US, phenotype information embedded in EHR can be used to efficiently construct cohorts powered for genetic discoveries. However, limitations arise from repurposing data generated from healthcare processes for research, which can include data sparseness, low quality data and diagnostic errors. Phenotyping algorithms are developed to overcome these limitations providing a robust means to assess case status.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</guid>
-      <description>&lt;p&gt;A major challenge to implementing precision medicine arises from patients who share a clinical diagnosis but have different biological causes of disease. Disease subtypes that arise from obscure etiological heterogeneity create inefficiencies in healthcare and attenuate power in clinical trials and research studies. The ability to stratify patients into biologically homogenous subgroups improves the potential for translational research by allowing us to design more powerful studies.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;A major challenge to implementing precision medicine arises from patients who share a clinical diagnosis but have different biological causes of disease. Disease subtypes that arise from obscure etiological heterogeneity create inefficiencies in healthcare and attenuate power in clinical trials and research studies. The ability to stratify patients into biologically homogenous subgroups improves the potential for translational research by allowing us to design more powerful studies.&lt;/p&gt;</description>
     </item>
     
   </channel>

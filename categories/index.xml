@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Columbia DSI Scholars</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Categories on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Announcement</title>
       <link>/categories/announcement/</link>
@@ -21,11 +17,11 @@
     </item>
     
     <item>
-      <title>Blog</title>
-      <link>/categories/blog/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <title>info</title>
+      <link>/categories/info/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/blog/</guid>
+      <guid>/categories/info/</guid>
       <description></description>
     </item>
     
@@ -39,20 +35,11 @@
     </item>
     
     <item>
-      <title>Data for Good</title>
+      <title>Data For Good</title>
       <link>/categories/data-for-good/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/data-for-good/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Info</title>
-      <link>/categories/info/</link>
-      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/info/</guid>
       <description></description>
     </item>
     
@@ -66,29 +53,11 @@
     </item>
     
     <item>
-      <title>Project 2018</title>
-      <link>/categories/project-2018/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Project Summer 2020-2</title>
+      <link>/categories/project-summer-2020-2/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/project-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 2019</title>
-      <link>/categories/project-2019/</link>
-      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/project-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project Fall 2019</title>
-      <link>/categories/project-fall-2019/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/project-fall-2019/</guid>
+      <guid>/categories/project-summer-2020-2/</guid>
       <description></description>
     </item>
     
@@ -111,11 +80,38 @@
     </item>
     
     <item>
-      <title>Project Summer 2020 2</title>
-      <link>/categories/project-summer-2020-2/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Project Fall 2019</title>
+      <link>/categories/project-fall-2019/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/project-summer-2020-2/</guid>
+      <guid>/categories/project-fall-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 2019</title>
+      <link>/categories/project-2019/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/project-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/categories/blog/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 2018</title>
+      <link>/categories/project-2018/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/project-2018/</guid>
       <description></description>
     </item>
     

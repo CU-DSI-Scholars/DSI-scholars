@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Satellite Data on Columbia DSI Scholars</title>
+    <title>Satellite data on Columbia DSI Scholars</title>
     <link>/tags/satellite-data/</link>
-    <description>Recent content in Satellite Data on Columbia DSI Scholars</description>
+    <description>Recent content in Satellite data on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/satellite-data/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/satellite-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using ICESat 2 satellite laser altimetry to track storms in Antarctica</title>
       <link>/2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/</guid>
-      <description>&lt;p&gt;The main goal of this work is to assess if storms have increased in frequency over Antarctica. It is theorized that climate change will increase the intensity of the winds and frequency of the storms. With ICESat 2 satellite laser altimetry, we can count the number of storms and blowing snow events. ICESat 2 is a photon counting laser and generates terrabytes of data each day. Innovative data science techniques are needed to handle the data and analyze it. This project is, therefore, a suitable topic for a masters student that combines an important problem in Geophysics and climate science with a great Data Science application.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The main goal of this work is to assess if storms have increased in frequency over Antarctica. It is theorized that climate change will increase the intensity of the winds and frequency of the storms. With ICESat 2 satellite laser altimetry, we can count the number of storms and blowing snow events. ICESat 2 is a photon counting laser and generates terrabytes of data each day. Innovative data science techniques are needed to handle the data and analyze it. This project is, therefore, a suitable topic for a masters student that combines an important problem in Geophysics and climate science with a great Data Science application.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +22,7 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/project-dynamic-identification-and-risk-analysis-of-tailings-dam-failure-for-mining-operations/</guid>
-      <description>&lt;p&gt;Recently, there have been multiple failures of large tailings dams that store mining wastes, around the world, with devastating impacts (e.g., &lt;a href=&#34;https://en.wikipedia.org/wiki/Brumadinho_dam_disaster&#34;&gt;https://en.wikipedia.org/wiki/Brumadinho_dam_disaster&lt;/a&gt;). These dams are unique in that they continue to be raised as waste piles up and can get as tall as 400m. The risk and impact of failure increases as the dam gets taller.  There are several thousand such dams around the world. The concept of the project is to develop a continuous status monitoring and risk analysis of these dams, automatically, using globally available satellite data from multiple bands, as well as regularly updated climate data products. Overtopping of the dam during an intense or persistent rainfall event is the leading mode of failure. Foundation failure which leads to a liquefaction or deformation of the dam is the second leading failure mode.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Recently, there have been multiple failures of large tailings dams that store mining wastes, around the world, with devastating impacts (e.g., &lt;a href=&#34;https://en.wikipedia.org/wiki/Brumadinho_dam_disaster)&#34;&gt;https://en.wikipedia.org/wiki/Brumadinho_dam_disaster)&lt;/a&gt;. These dams are unique in that they continue to be raised as waste piles up and can get as tall as 400m. The risk and impact of failure increases as the dam gets taller.  There are several thousand such dams around the world. The concept of the project is to develop a continuous status monitoring and risk analysis of these dams, automatically, using globally available satellite data from multiple bands, as well as regularly updated climate data products. Overtopping of the dam during an intense or persistent rainfall event is the leading mode of failure. Foundation failure which leads to a liquefaction or deformation of the dam is the second leading failure mode.&lt;/p&gt;</description>
     </item>
     
   </channel>
