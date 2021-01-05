@@ -35,15 +35,6 @@
     </item>
     
     <item>
-      <title>COVID-19 Evidence Extraction and Computing</title>
-      <link>/2021/01/project-covid-19-evidence-extraction-and-computing/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-covid-19-evidence-extraction-and-computing/</guid>
-      <description>&lt;p&gt;With the explosive growth of medical literature, making sense of medical evidence is harder than ever. The free text form also makes it difficult to perform evidence retrieval of appraisal. There is a great need for tools and methods that can structure and reason over medical evidence. The goal of this project is to develop computational and symbolic methods to extract evidence from PubMed abstracts, integrate it with evidence derived from real world clinical data (or practice-based evidence), and perform automated knowledge discovery and evidence reasoning. We also hope this research can support evidence-based medicine during the COVID-19 pandemic and provide opportunities for students to hone his/her skills on natural language processing, data mining, deep learning, and semantic knowledge engineering. We have solid preliminary results for the students to build upon. An open-source PICO parser that extracts Population, Intervention, Comparison and Outcome information from PubMed abstracts has been developed and published. Current COVID-19 literature has been downloaded from PubMed and been pre-processed. Preliminary analyses are under way to investigate the patterns in the study populations in COVID-19 clinical studies. Our next steps include but are not limited to evidence summarization at the study level and evidence reasoning at the problem/topic level.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Using speech and language to identify patients at risk for hospitalizations and emergency department visits in homecare</title>
       <link>/2021/01/project-using-speech-and-language-to-identify-patients-at-risk-for-hospitalizations-and-emergency-department-visits-in-homecare/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
