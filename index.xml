@@ -127,6 +127,15 @@
     </item>
     
     <item>
+      <title>Data For Good: African North Americans Database</title>
+      <link>/2021/01/project-dfg-african-north-americans-database/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-dfg-african-north-americans-database/</guid>
+      <description>&lt;p&gt;This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, &amp;ldquo;color,&amp;rdquo; birthplace, or other details.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Decoding the elements of mouse behavior that reveal vigilance during exploration</title>
       <link>/2021/01/project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -1185,15 +1194,6 @@ Answer: It is recommended that you prioritize based on your interest and skills.
       
       <guid>/2020/01/project-using-machine-learning-and-topology-to-phenotype-mouse-behavior/</guid>
       <description>&lt;p&gt;A central issue facing systems neuroscience is defining the rich naturalistic behavioral repertoire that mice engage in under psychiatrically relevant situations. Recent advances in deep learning (e.g., DeepLabCut) have made frame by frame detailed pose estimation possible. However, this dense behavioral data requires new techniques for defining the ethogram (full description of behavior). To date, researchers have used frequency based time series approaches to tackle this problem, with significant limitations. An alternative approach would be to take advantage of new topology methods (persistent homology and directed algebraic topology) to characterize the shapes formed by mouse limb trajectories. Such an approach would have broad application in systems neuroscience. For this project, the student will use machine learning to label animal body parts, then topology to characterize the ethogram and compare the results to existing approaches.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Data For Good: African North Americans Database</title>
-      <link>/2020/01/project-dfg-african-north-americans-database/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/01/project-dfg-african-north-americans-database/</guid>
-      <description>&lt;p&gt;This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, &amp;ldquo;color,&amp;rdquo; birthplace, or other details.&lt;/p&gt;</description>
     </item>
     
     <item>

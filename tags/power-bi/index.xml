@@ -6,7 +6,16 @@
     <description>Recent content in Power BI on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data For Good: African North Americans Database</title>
+      <link>/2021/01/project-dfg-african-north-americans-database/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-dfg-african-north-americans-database/</guid>
+      <description>&lt;p&gt;This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, &amp;ldquo;color,&amp;rdquo; birthplace, or other details.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Data For Good: African North Americans Database</title>
       <link>/2020/09/project-dfg-african-north-americans-database/</link>
@@ -23,15 +32,6 @@
       
       <guid>/2020/09/project-dfg-developing-predictive-model-for-project-cost-estimate/</guid>
       <description>&lt;p&gt;NYC DDC has initiated a machine learning project to develop predictive model for estimating cost of project and work items. Using the latest technique in Machine Learning and Advanced Statistics, NYC DDC to develop a model that predicts the cost of future and active projects and construction work items in different phases of the lifecycle of the project based on historical data. DDC has partnered with Microsoft who is providing the proof of concept guidance and making tools available for the proof of concept development. DDC is seeking assistance of a data scientist from the Town and Gown program to develop the model.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Data For Good: African North Americans Database</title>
-      <link>/2020/01/project-dfg-african-north-americans-database/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/01/project-dfg-african-north-americans-database/</guid>
-      <description>&lt;p&gt;This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, &amp;ldquo;color,&amp;rdquo; birthplace, or other details.&lt;/p&gt;</description>
     </item>
     
   </channel>

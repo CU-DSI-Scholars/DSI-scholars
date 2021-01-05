@@ -118,7 +118,27 @@
   </url>
   
   <url>
+    <loc>/tags/data-for-good/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/data-for-good/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2021/01/project-dfg-african-north-americans-database/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2021/01/project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deduplication/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,7 +188,17 @@
   </url>
   
   <url>
+    <loc>/tags/power-bi/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2021/01/project-predicting-arsenic-contamination-and-heterogeneity-in-groundwater-across-scales-in-southeast-asia-and-the-usa/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,12 +208,27 @@
   </url>
   
   <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2021/01/project-reconstructions-of-the-ocean-carbon-sink-assessment-of-regional-uncertainties/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/tags/record-linkage/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2021/01/project-reinforcement-learning-for-vehicle-routing/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/shiny/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -199,6 +244,11 @@
   
   <url>
     <loc>/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tableau/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -373,16 +423,6 @@
   </url>
   
   <url>
-    <loc>/tags/data-for-good/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/data-for-good/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2020/09/project-dfg-african-north-americans-database/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
@@ -444,11 +484,6 @@
   
   <url>
     <loc>/2020/09/project-deconvolution-methods-for-detecting-spatial-contamination-in-microbiome-samples/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deduplication/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -628,32 +663,12 @@
   </url>
   
   <url>
-    <loc>/tags/power-bi/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2020/09/project-prediction-of-microbial-communities-metabolic-output/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/python/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/random-forest/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/record-linkage/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -679,11 +694,6 @@
   
   <url>
     <loc>/tags/sequence-data/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/shiny/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -719,11 +729,6 @@
   
   <url>
     <loc>/tags/sustainability/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tableau/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -1355,11 +1360,6 @@
   <url>
     <loc>/tags/web-scraping/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2020/01/project-dfg-african-north-americans-database/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>

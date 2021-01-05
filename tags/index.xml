@@ -26,6 +26,78 @@
     </item>
     
     <item>
+      <title>Data For Good</title>
+      <link>/tags/data-for-good/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-for-good/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deduplication</title>
+      <link>/tags/deduplication/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deduplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>/tags/power-bi/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Record linkage</title>
+      <link>/tags/record-linkage/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/record-linkage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny</title>
+      <link>/tags/shiny/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>/tags/tableau/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tableau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Info</title>
       <link>/tags/info/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
@@ -161,15 +233,6 @@
     </item>
     
     <item>
-      <title>Data For Good</title>
-      <link>/tags/data-for-good/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/data-for-good/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Databases</title>
       <link>/tags/databases/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
@@ -184,15 +247,6 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/deconvolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deduplication</title>
-      <link>/tags/deduplication/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deduplication/</guid>
       <description></description>
     </item>
     
@@ -422,47 +476,11 @@
     </item>
     
     <item>
-      <title>Power BI</title>
-      <link>/tags/power-bi/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Random forest</title>
       <link>/tags/random-forest/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/random-forest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Record linkage</title>
-      <link>/tags/record-linkage/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/record-linkage/</guid>
       <description></description>
     </item>
     
@@ -499,15 +517,6 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/sequence-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shiny</title>
-      <link>/tags/shiny/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/shiny/</guid>
       <description></description>
     </item>
     
@@ -553,15 +562,6 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/sustainability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tableau</title>
-      <link>/tags/tableau/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tableau/</guid>
       <description></description>
     </item>
     
