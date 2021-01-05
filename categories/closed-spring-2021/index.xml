@@ -44,39 +44,12 @@
     </item>
     
     <item>
-      <title>Comparison of four workflows for structural variants identification</title>
-      <link>/2021/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-comparison-of-four-workflows-for-structural-variants-identification/</guid>
-      <description>&lt;p&gt;Recent advances in genomic technologies have led to the identification of many novel disease-gene associations, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to identify structural variants (i.e. relatively large deletions and duplications of genomic sequences). These workflows can lead to the identification of different structural variants, raising the risk of missing disease-causing variants when using only one of those methods.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Comparison of three workflows for the identification of genetic variants</title>
-      <link>/2021/01/project-comparison-of-three-workflows-for-the-identification-of-genetic-variants/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-comparison-of-three-workflows-for-the-identification-of-genetic-variants/</guid>
-      <description>&lt;p&gt;Recent advances in genomic technologies have led to the identification of many novel disease-associated genes, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to extract the genetic information from raw data, including The Broad Institute&amp;rsquo;s GATK, Seven Bridge&amp;rsquo;s GenomeGraph and Google&amp;rsquo;s DeepVariant. These workflows can lead to the identification of different genetic variants, raising the risk of missing disease-causing variants when using only one of these methods.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>COVID-19 Evidence Extraction and Computing</title>
       <link>/2021/01/project-covid-19-evidence-extraction-and-computing/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/01/project-covid-19-evidence-extraction-and-computing/</guid>
       <description>&lt;p&gt;With the explosive growth of medical literature, making sense of medical evidence is harder than ever. The free text form also makes it difficult to perform evidence retrieval of appraisal. There is a great need for tools and methods that can structure and reason over medical evidence. The goal of this project is to develop computational and symbolic methods to extract evidence from PubMed abstracts, integrate it with evidence derived from real world clinical data (or practice-based evidence), and perform automated knowledge discovery and evidence reasoning. We also hope this research can support evidence-based medicine during the COVID-19 pandemic and provide opportunities for students to hone his/her skills on natural language processing, data mining, deep learning, and semantic knowledge engineering. We have solid preliminary results for the students to build upon. An open-source PICO parser that extracts Population, Intervention, Comparison and Outcome information from PubMed abstracts has been developed and published. Current COVID-19 literature has been downloaded from PubMed and been pre-processed. Preliminary analyses are under way to investigate the patterns in the study populations in COVID-19 clinical studies. Our next steps include but are not limited to evidence summarization at the study level and evidence reasoning at the problem/topic level.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Quantification of expected bi-allelic genetic variants&#39; rate</title>
-      <link>/2021/01/project-quantification-of-expected-bi-allelic-genetic-variants-rate/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-quantification-of-expected-bi-allelic-genetic-variants-rate/</guid>
-      <description>&lt;p&gt;Advances in genomic technologies have led to the identification of many novel disease-gene associations, allowing medical diagnoses to be more precise and tailored to an individual. However, the high number of variants present in each individual represents a significant challenge for the implementation of genomic medicine. The goal of this project is to enable the identification of novel genes associated with recessive disorders.&lt;/p&gt;</description>
     </item>
     
     <item>
