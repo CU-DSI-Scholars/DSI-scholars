@@ -134,6 +134,15 @@
     </item>
     
     <item>
+      <title>Streaming video analysis and optimization during Work-from-Home period</title>
+      <link>/2021/01/project-streaming-video-analysis-and-optimization-during-work-from-home-period/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-streaming-video-analysis-and-optimization-during-work-from-home-period/</guid>
+      <description>&lt;p&gt;The goal of this project is to collect anonymized traces from the Columbia network in order to analyze video traffic characteristics during the work/study-from home period. This information will be used for developing various ML-based tools for Quality of Experience (QoE) measurement. We will perform the feature extraction at the collection time itself and use anonymization techniques (e.g., IP address anonymization), to preserve user privacy. Students will analyze/measure encrypted network traffic to provide ground truth for potential RL/ML algorithms for estimating video QoE and identifying device/application (e.g., the start of a video streaming session). These algorithms can serve as a basis for new video adaptation techniques (see for example - &lt;a href=&#34;https://wimnet.ee.columbia.edu/wimnet-team-wins-3rd-place-in-the-acm-mmsys20-twitch-grand-challenge/&#34;&gt;https://wimnet.ee.columbia.edu/wimnet-team-wins-3rd-place-in-the-acm-mmsys20-twitch-grand-challenge/&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Systems biology approaches of mouse models of cancer</title>
       <link>/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -176,6 +185,15 @@
       
       <guid>/2021/01/project-using-social-media-for-tobacco-regulatory-intelligence/</guid>
       <description>&lt;p&gt;Using NLP techniques to discover 1) new e-cig products online and 2) proposed health claims that users advocate for.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Weather Effects on High Frequency Communication Links</title>
+      <link>/2021/01/project-weather-effects-on-high-frequency-communication-links/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-weather-effects-on-high-frequency-communication-links/</guid>
+      <description>&lt;p&gt;Future wireless networks will use high-frequency millimeter-wave (mmWave) links for transmitting and receiving information with high throughput. A key difference between mmWave links and conventional sub-6GHz links is that mmWave links are severely affected by weather conditions. Students working on this project will use a state-of-the-art mmWave radar to assess the impact of wind speed, temperature, humidity, and other factors on the high-frequency link. The end goal of the project is to develop a classifier that can infer weather conditions based on the signal received from the mmWave radar. In this project, students are expected to learn how the mmWave radar works, design experiments to obtain labeled data, perform measurements, and develop the classifier.&lt;/p&gt;</description>
     </item>
     
   </channel>
