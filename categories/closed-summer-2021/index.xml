@@ -71,15 +71,6 @@
     </item>
     
     <item>
-      <title>Decoding the elements of mouse behavior that reveal vigilance during exploration</title>
-      <link>/2021/01/project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</guid>
-      <description>&lt;p&gt;Decoding behavioral signifiers for the brain state of vigilance can have far reaching implications for understanding actions and identifying disease. We are using high resolution video recordings of mice as they navigate a maze, but have access to very few pre-determined behavioral signifiers. Several recent publications implemented computer vision to extract a variety of previously unreachable aspects of behavioral analysis, including animal pose estimation and distinguishable internal states. These descriptions allowed for the identification and characterization of dynamics, which then revealed an unprecedented richness to the behaviors that determine decision making. Applying such computational approaches in our maze in the context of behaviors that have been validated to measure choice and memory can reveal dimensions of behavior that predict or even determine psychological constructs like vigilance. DSI scholars would use pose estimation analysis to evaluate behavioral signifiers for choice and memory and relate it to our real time concurrent measures of neural activity and transmitter release. The students would also have opportunity to examine the effect of disease models known to impair performance on our maze task on any identified signifier.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Developing Just-In-Time Mental Health Interventions for Racially/Ethnically Diverse Adolescents</title>
       <link>/2021/01/project-developing-just-in-time-mental-health-interventions-for-racially-ethnically-diverse-adolescents/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -98,51 +89,6 @@
     </item>
     
     <item>
-      <title>Meta-analysis of single-cell genomic data to define cellular heterogeneity and dynamics in atherosclerotic vasculature</title>
-      <link>/2021/01/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</guid>
-      <description>&lt;p&gt;Atherosclerosis, a chronic inflammatory disease of the artery wall, is the underlying cause of human coronary heart diseases. Single-cell genomics have catalyzed the revolution in understanding of cellular heterogeneity and dynamics in atherosclerotic vasculature. The goal of the project is to leverage published and our own single-cell genomic data and perform a meta-analysis. Meta-analysis allows integrated analysis of much larger cell numbers and helps resolve the full spectrum of cellular heterogeneity and dynamics in atherosclerotic vessels and facilitate therapeutic translation. The DSI scholar will: (1) use the latest bioinformatic pipeline to integrate the existing scRNA-seq, CITE-seq, and scATAC-seq datasets; (2) analyze the integrated datasets using R/Bioconductor packages (e.g. Seurat); (3) interpret the data using pathway and network analysis. Some relevant workflows are available through the &amp;ldquo;Resources&amp;rdquo; page of our lab website at &lt;a href=&#34;https://hanruizhang.github.io/zhanglab/&#34;&gt;https://hanruizhang.github.io/zhanglab/&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Mitigating Gender Bias in Sentence-level Natural Language Processing Models</title>
-      <link>/2021/01/project-mitigating-gender-bias-in-sentence-level-natural-language-processing-models/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-mitigating-gender-bias-in-sentence-level-natural-language-processing-models/</guid>
-      <description>&lt;p&gt;We will further develop a large scale dataset that evaluates gender biases in sentence-level NLP systems. We will then develop training techniques to encourage models to overcome and mitigate gender-based biases.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>mmWave measurements in the COSMOS testbed</title>
-      <link>/2021/01/project-mmwave-measurements-in-the-cosmos-testbed/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-mmwave-measurements-in-the-cosmos-testbed/</guid>
-      <description>&lt;p&gt;5G cellular networks will use high-frequency millimeter-wave (mmWave) communication, which promises high data rates and ample spectrum availability. Students working on this project will help conduct a mmWave wireless channel measurement campaign around the COSMOS testbed (&lt;a href=&#34;http://www.cosmos-lab.org&#34;&gt;www.cosmos-lab.org&lt;/a&gt;), a wireless networking testbed located at Columbia stretching between 120th and 136th St. In collaboration with Bell Labs students will be able to use unique, state-of-the-art mmWave equipment to conduct these measurements (see pre-pandemic example in &lt;a href=&#34;https://wimnet.ee.columbia.edu/wp-content/uploads/2019/08/mmNets2019_COSMOS_28GHz.pdf)&#34;&gt;https://wimnet.ee.columbia.edu/wp-content/uploads/2019/08/mmNets2019_COSMOS_28GHz.pdf)&lt;/a&gt;. The measurements will play an important role in the development of network-level control algorithms, which is the other, more analytical side of this research project.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing within the CONCERN Project</title>
-      <link>/2021/01/project-natural-language-processing-within-the-concern-project/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-natural-language-processing-within-the-concern-project/</guid>
-      <description>&lt;p&gt;The CONCERN project aims to develop models and tools to quantify clinician concern about patient deterioration in the inpatient setting that can be used in early warning scores.  We have discovered and validated several measurable ways within the Electronic Health Record (EHR) to measure clinician concern and have demonstrated that our approach identified patients at risk of deterioration earlier than other methods, which focus only on physiological data.  One of our approaches is leveraging documentation of certain concepts within narrative text in nursing notes that are consistent with concern about a patient. However, this narrative free text is not easily accessible - it is often mixed together with structured or templated text and varies over note types. The steps to be performed are&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Predicting arsenic contamination and heterogeneity in groundwater across scales in Southeast Asia and the USA</title>
-      <link>/2021/01/project-predicting-arsenic-contamination-and-heterogeneity-in-groundwater-across-scales-in-southeast-asia-and-the-usa/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-predicting-arsenic-contamination-and-heterogeneity-in-groundwater-across-scales-in-southeast-asia-and-the-usa/</guid>
-      <description>&lt;p&gt;Chronic exposure to arsenic (As) in groundwater is a staggering global public health crisis and yet, we lack a complete understanding of the environmental conditions that govern As mobility and toxicity in groundwater and are unable predict groundwater As concentrations with enough confidence to make effective management decisions. The objective of this project is to identify key hydrologic and biogeochemical variables that control groundwater As concentrations and heterogeneity across spatial scales in Southeast Asia and the USA. We then aim to develop clear mechanistic linkages and high-resolution geospatial information that can be used with machine learning to evaluate and predict groundwater As contamination. This project involves the integration of various types of large datasets from remotely-sensed and field-collected measurements (e.g., surface hydrology and topography, groundwater geochemistry, climate, and population density). We are looking for a student to advance the connections between key environmental variables and groundwater As contamination across scales. The student will receive experience and mentorship in cutting-edge research that crosses interdisciplinary fields, and will have the opportunity to lead their own project and acquire analytical skills using creative measures, which can involve remote sensing, geospatial methods, statistics and graphing, machine learning, and predictive modeling.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Quantification of expected bi-allelic genetic variants&#39; rate</title>
       <link>/2021/01/project-quantification-of-expected-bi-allelic-genetic-variants-rate/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -152,75 +98,12 @@
     </item>
     
     <item>
-      <title>Reconstructions of the ocean carbon sink: Assessment of regional uncertainties</title>
-      <link>/2021/01/project-reconstructions-of-the-ocean-carbon-sink-assessment-of-regional-uncertainties/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-reconstructions-of-the-ocean-carbon-sink-assessment-of-regional-uncertainties/</guid>
-      <description>&lt;p&gt;The ocean significantly mitigates climate change by absorbing fossil fuel carbon from the atmosphere. Cumulatively since the preindustrial times, the ocean has absorbed 40% of emissions. To understand past changes, diagnose ongoing changes, and to predict the future behavior of the ocean carbon sink, we must understand its spatial and temporal variability. However, the ocean is poorly sampled and so we cannot do this directly from in situ measurements.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Reinforcement learning for vehicle routing</title>
-      <link>/2021/01/project-reinforcement-learning-for-vehicle-routing/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-reinforcement-learning-for-vehicle-routing/</guid>
-      <description>&lt;p&gt;Vehicle routing has been extensively studied in optimization problems. With the advance of AI and big data, this project aims to solve vehicle routing problems (VRP) using reinforcement learning.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Source apportionment of air pollution in Africa using a high resolution air quality model</title>
-      <link>/2021/01/project-source-apportionment-of-air-pollution-in-africa-using-a-high-resolution-air-quality-model/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-source-apportionment-of-air-pollution-in-africa-using-a-high-resolution-air-quality-model/</guid>
-      <description>&lt;p&gt;Air quality is a major crisis globally, leading to about 5 million premature deaths every year. In sub-Saharan Africa, there is little air pollution data available to characterize the problem, and a lack of focus on solutions. Using output from a high spatiotemporal resolution atmospheric chemistry transport model over Africa simulated by Dr. Westervelt and his group, the student will characterize levels of pollution and validate model results by comparing observed data to model output. The student will also analyze results from sensitivity simulations in which sources of air pollution have been artificially &amp;ldquo;turned off&amp;rdquo; in the model. Comparison between the two simulations will allow for source attribution of air pollution, which is important for developing satisfactory mitigation strategies to improve air quality.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Streaming video analysis and optimization during Work-from-Home period</title>
       <link>/2021/01/project-streaming-video-analysis-and-optimization-during-work-from-home-period/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/01/project-streaming-video-analysis-and-optimization-during-work-from-home-period/</guid>
       <description>&lt;p&gt;The goal of this project is to collect anonymized traces from the Columbia network in order to analyze video traffic characteristics during the work/study-from home period. This information will be used for developing various ML-based tools for Quality of Experience (QoE) measurement. We will perform the feature extraction at the collection time itself and use anonymization techniques (e.g., IP address anonymization), to preserve user privacy. Students will analyze/measure encrypted network traffic to provide ground truth for potential RL/ML algorithms for estimating video QoE and identifying device/application (e.g., the start of a video streaming session). These algorithms can serve as a basis for new video adaptation techniques (see for example - &lt;a href=&#34;https://wimnet.ee.columbia.edu/wimnet-team-wins-3rd-place-in-the-acm-mmsys20-twitch-grand-challenge/&#34;&gt;https://wimnet.ee.columbia.edu/wimnet-team-wins-3rd-place-in-the-acm-mmsys20-twitch-grand-challenge/&lt;/a&gt;)&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Systems biology approaches of mouse models of cancer</title>
-      <link>/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</guid>
-      <description>&lt;p&gt;We have a position open for a student(s) who is/are interested in working on systems biology projects in bladder and prostate cancer. Specifically, we are looking for students who are well versed in statistical analysis, basic understanding of standard statistical techniques (appied to biology is a plus) and knowledge of R is required. The position will entail supporting post-doctoral members of the lab with computational analyses of different types of biological data in a wide range of projects.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The identification of shared genetic mechanisms in cranial dysinnervation disorders</title>
-      <link>/2021/01/project-the-identification-of-shared-genetic-mechanisms-in-cranial-dysinnervation-disorders/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-the-identification-of-shared-genetic-mechanisms-in-cranial-dysinnervation-disorders/</guid>
-      <description>&lt;p&gt;The goal of this project is to study the molecular background of various congenital disorders affecting the cranial nerves, which are important in senses (hearing, vision, smell), facial muscle movements and more. Abnormal cranial nerve development can cause hearing loss, eye-movement disorders, facial weakness, loss of smell, and difficulties with respiration and swallowing. Some individuals may also have other motor, sensory, intellectual, behavioral and social disabilities. These disorders cause significant disability and are caused by genetic variants, often novel variation or de novo. Unfortunately, disorders affecting the 8th cranial nerve or vestibulocochlear nerve (CN VIII), important in hearing and balance, have been largely understudied. As various cranial nerves can be affected together, such as in Moebius syndrome, and as the vestibulocochlear nerve (CN VIII) and facial nerve (CN VII) also share a path in the internal auditory canal, it is likely that these disorders share underlying genes or closely interacting genes. To investigate the genetic architecture of cranial nerve abnormalities we suggest to molecularly investigate an in-house CN VIII cohort and other cranial dysinnervation cohorts. We will study rare genomic variants (both small variant as structural variants) to identify shared molecular pathways and genes amongst individuals with cranial dysinnervation disorders.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The role of early-life serotonin signaling in life-long set point determination for fear and anxiety-like behaviors</title>
-      <link>/2021/01/project-the-role-of-early-life-serotonin-signaling-in-life-long-set-point-determination-for-fear-and-anxiety-like-behaviors/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-the-role-of-early-life-serotonin-signaling-in-life-long-set-point-determination-for-fear-and-anxiety-like-behaviors/</guid>
-      <description>&lt;p&gt;This project investigates the long-term effects of perinatal serotonin modulation on unlearned fear and anxiety like behaviors. The project will use DeepLabCut (a method for 3D pose estimation based on transfer learning with deep neural networks) to quantify fear and anxiety-related behaviors in animals, in which serotonin has been chemogenetically manipulated early in life.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Using Social Media for Tobacco Regulatory Intelligence</title>
-      <link>/2021/01/project-using-social-media-for-tobacco-regulatory-intelligence/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/01/project-using-social-media-for-tobacco-regulatory-intelligence/</guid>
-      <description>&lt;p&gt;Using NLP techniques to discover 1) new e-cig products online and 2) proposed health claims that users advocate for.&lt;/p&gt;</description>
     </item>
     
     <item>
