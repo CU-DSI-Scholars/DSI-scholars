@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Engineering on Columbia DSI Scholars</title>
-    <link>/tags/software-engineering/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/software-engineering/</link>
     <description>Recent content in Software Engineering on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project: Enhancing Self-Directed Learning Opportunities Using Learning Analytics</title>
-      <link>/2019/01/project-enhancing-self-directed-learning-opportunities/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-enhancing-self-directed-learning-opportunities/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-enhancing-self-directed-learning-opportunities/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-enhancing-self-directed-learning-opportunities/</guid>
       <description>&lt;p&gt;Analyze data from one or more of the following Library Applications/Systems and create visualizations that highlight the most important findings related to our goal of supporting self-directed learning.&lt;/p&gt;</description>
     </item>
     

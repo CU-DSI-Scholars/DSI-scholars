@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sequence data on Columbia DSI Scholars</title>
-    <link>/tags/sequence-data/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sequence-data/</link>
     <description>Recent content in Sequence data on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sequence-data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/sequence-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biomarker discovery for cancer immunotherapy</title>
-      <link>/2020/09/project-biomarker-discovery-for-cancer-immunotherapy/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-biomarker-discovery-for-cancer-immunotherapy/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-biomarker-discovery-for-cancer-immunotherapy/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-biomarker-discovery-for-cancer-immunotherapy/</guid>
       <description>&lt;p&gt;Immune checkpoint blockade therapy has shown successful clinical outcomes in the treatment of  various solid tumors such as head and neck squamous cell carcinoma (HNSCC), melanoma, non-small cell lung cancer (NSCLC) and others. However, immune checkpoint inhibitors work best in patients who exhibit certain tumor biomarkers. In a collaboration with the Department of Hematology Oncology, the Department of Systems Biology, and the Mailman School of Public Health at Columbia University we aim to identify biomarkers which are associated with treatment outcome in patients with solid tumors who underwent immunotherapy. The project includes bioinformatic analysis of sequencing data. Mentoring and training will be provided.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Defining Aneuploidy from Next-Gen Sequencing</title>
-      <link>/2020/09/project-defining-aneuploidy-from-next-gen-sequencing/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-defining-aneuploidy-from-next-gen-sequencing/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-defining-aneuploidy-from-next-gen-sequencing/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-defining-aneuploidy-from-next-gen-sequencing/</guid>
       <description>&lt;p&gt;Our lab is interested in aneuploidy, or the incorrect number of whole chromosomes and chromosome arms. A challenge in this area of research is that karyotypes require a large number of proliferating cells for analysis. To address this, our lab and collaborators developed new algorithms to identify aneuploidy alterations from DNA sequencing data. Here, the project goal is to implement these algorithms at Columbia, and subsequently to apply these analysis methods to samples generated in the lab and patient samples. Building on this, the DSI student may also develop new algorithms for use with single-cell sequencing data and RNA sequencing data. Experience in one or more of the following is a must: UNIX, R, and python. The DSI student will be mentored by Dr. Alison Taylor, and he/she will also work closely with all lab members.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Generating a graph representation of microbial community diversity</title>
-      <link>/2020/09/project-generating-a-graph-representation-of-microbial-community-diversity/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-generating-a-graph-representation-of-microbial-community-diversity/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-generating-a-graph-representation-of-microbial-community-diversity/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-generating-a-graph-representation-of-microbial-community-diversity/</guid>
       <description>&lt;p&gt;Understanding the interaction between human-associated microbial communities and human health is expected to revolutionize healthcare. Recent work found that this interaction is, in part, shaped by genetic differences between otherwise identical species in the microbiome. Detecting this variation, however, is a significant challenge. This project aims to profile microbial genetic variation within and across multiple patients&#39; microbiomes. This will allow us to better compare and interpret this variation in the context of human disease, gaining mechanistic insight into complex human-microbiome interactions.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Identify molecular signiture of head and neck cancer in minority populations</title>
-      <link>/2020/09/project-identify-molecular-signiture-of-head-and-neck-cancer-in-minority-populations/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-identify-molecular-signiture-of-head-and-neck-cancer-in-minority-populations/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-identify-molecular-signiture-of-head-and-neck-cancer-in-minority-populations/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-identify-molecular-signiture-of-head-and-neck-cancer-in-minority-populations/</guid>
       <description>&lt;p&gt;A highly collaborative project is available in Dr. Alison Taylor’s and Dr. Fatemeh Momen-Heravi’s lab. This project aims to identify molecular changes such as mutations and RNA signature of head and neck cancer in Black/African American and Hispanic minority populations with the goal of identifying novel therapies for cancer patients and reduce health disparities. The project entails analysis of DNA and RNA sequencing data.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Single cell RNA-seq analysis of eye development and disease</title>
-      <link>/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</guid>
       <description>&lt;p&gt;Single cell sequencing has generated unprecedented insight into the cellular complexity of normal and diseased organ. We are interested in using this technique to understand the mechanisms of eye development, disease and regeneration. We also would like to compare the transcriptomic signatures between mouse models and human tissues. This project involves analysis of large amount of data from single cell sequencing. It requires understanding of statistical analysis and proficient programming skills.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Single-nucleus and spatial transcriptomics analysis of APOE mouse and human brain samples</title>
-      <link>/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</guid>
       <description>&lt;p&gt;We are conducting a large-scale study analyzing brain tissues from mice and humans with different APOE genotypes, using both single-nucleus sequencing and spatial transcriptomics to assess RNA expression differences caused by APOE genotype. We are working with an expert bioinformatics core, but would like a data science student to help perform the analyses and act as an in-lab lead for the bioinformatics analysis. Prior experience analyzing RNA-sequencing data is preferred, but not required.&lt;/p&gt;</description>
     </item>
     

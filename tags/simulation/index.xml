@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simulation on Columbia DSI Scholars</title>
-    <link>/tags/simulation/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/simulation/</link>
     <description>Recent content in Simulation on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Evolution of the Smallest Galaxies in the Universe</title>
-      <link>/2020/01/project-the-evolution-of-the-smallest-galaxies-in-the-universe/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-evolution-of-the-smallest-galaxies-in-the-universe/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-the-evolution-of-the-smallest-galaxies-in-the-universe/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-evolution-of-the-smallest-galaxies-in-the-universe/</guid>
       <description>&lt;p&gt;The Milky Way swarms with orbiting satellite dwarf galaxies of astounding diversity. Some galaxies continue to form stars while others stop and dim in brightness. In computer simulations, the evolutionary history of each dwarf galaxy that leads to these differences is known. Galaxies can lose gas and stop forming stars due to early exposure to stellar radiation (reionization), interaction with the hot gas of the host (ram-pressure stripping), or gravitational interactions with the host/dwarf galaxies (tidal effects).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Integrated Traffic-Communication Simulator for COSMOS testbed</title>
-      <link>/2019/09/project-integrated-traffic-communication-simulator-for-cosmos-testbed/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-integrated-traffic-communication-simulator-for-cosmos-testbed/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-integrated-traffic-communication-simulator-for-cosmos-testbed/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-integrated-traffic-communication-simulator-for-cosmos-testbed/</guid>
       <description>&lt;p&gt;Vehicle-to-Vehicle (V2V) has received increasing attention with the development of autonomous driving technology. It is believed that multi-vehicular and multi-informative algorithm is the direction of the autonomous driving technology. However, the stability and liability of the communication prevents the future from extensively embracing V2V-based transportation. Rigorous test is required before V2V can actually hit the road.  Compared with the costly field test, simulation tests are more economical and feasible.  To simulate the V2V communication and evaluate the robustness of current V2V-based algorithm, we are therefore developing a simulation platform integrating different commercial software like SUMO, Veins and OMNET++. These software simulate on the actual New York map, and simulate the vehicular communication in different scenarios and platoon configurations.  Our next step is to use this platform to test our own V2V-based algorithms. The output of this research will eventually provide an open platform which would automatically evaluate personally designed algorithm with least manual work.&lt;/p&gt;</description>
     </item>
     

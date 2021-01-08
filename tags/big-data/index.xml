@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big Data on Columbia DSI Scholars</title>
-    <link>/tags/big-data/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/big-data/</link>
     <description>Recent content in Big Data on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project: Blockchain Anomaly Detection</title>
-      <link>/2019/01/project-blockchain-anomaly-detection/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-blockchain-anomaly-detection/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-blockchain-anomaly-detection/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-blockchain-anomaly-detection/</guid>
       <description>&lt;p&gt;The project has collected a large set of data (&amp;gt;200GB) from a cryptocurrency block chain.  It is developing methods for detecting anomalies in transactions based on newer Social Networks, Graph Analysis and Machine Learning methods. The work involves data cleaning/wrangling and creation and implementation of various algorithms and analyzing the transactions for identifying different set of anomalies and manipulations.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: A longitudinal network study of Alzheimer’s and dementia care in relation to disparities and outcomes</title>
-      <link>/2018/01/project-a-longitudinal-network-study-of-alzheimer-s-and-dementia-care-in-relation-to-disparities-and-outcomes/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-a-longitudinal-network-study-of-alzheimer-s-and-dementia-care-in-relation-to-disparities-and-outcomes/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-a-longitudinal-network-study-of-alzheimer-s-and-dementia-care-in-relation-to-disparities-and-outcomes/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-a-longitudinal-network-study-of-alzheimer-s-and-dementia-care-in-relation-to-disparities-and-outcomes/</guid>
       <description>Alzheimer&amp;rsquo;s disease and related dementia (AD/dementia) represent a looming public health crisis, affecting roughly 5 million people in the U.S. and 11% of older adults. As with other chronic conditions, racial/ethnic and socio-economic disparities exist in the prevalence and burden of illness. However, less is known about how disparities in access to care influence the care trajectories – i.e., the scope, frequency and sequence of services used across healthcare settings – of those with AD/dementia.</description>
     </item>
     

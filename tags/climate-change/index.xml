@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Climate change on Columbia DSI Scholars</title>
-    <link>/tags/climate-change/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/climate-change/</link>
     <description>Recent content in Climate change on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data For Good: Visualization of water quality data as it flows into the NYC drinking water distribution system</title>
-      <link>/2020/09/project-dfg-visualization-of-water-quality-data-as-it-flows-into-the-nyc-drinking-water-distribution-system/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-visualization-of-water-quality-data-as-it-flows-into-the-nyc-drinking-water-distribution-system/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-dfg-visualization-of-water-quality-data-as-it-flows-into-the-nyc-drinking-water-distribution-system/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-visualization-of-water-quality-data-as-it-flows-into-the-nyc-drinking-water-distribution-system/</guid>
       <description>&lt;p&gt;DEP uses near real-time water quality data to guide its operations (i.e., the selection and routing of water) to achieve optimum quality for consumers. Historical data is used to evaluate the effectiveness of watershed protection programs, and model predictions of future water quality are used to understand potential impacts to the water supply under different infrastructure and climate scenarios.&lt;/p&gt;</description>
     </item>
     

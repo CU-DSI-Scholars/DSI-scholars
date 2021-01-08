@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Causal inference on Columbia DSI Scholars</title>
-    <link>/tags/causal-inference/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/causal-inference/</link>
     <description>Recent content in Causal inference on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/causal-inference/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/causal-inference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estimating Social Influence with Probabilistic Machine Learning</title>
-      <link>/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</guid>
       <description>&lt;p&gt;We are developing machine learning (ML) methods to understand how people influence each others’ behavior in social networks. For example, on Twitter, do users influence the content shared or posted by their followers? Methods that can identify such patterns of influence will play a role in studying, e.g., the spread of misinformation on social media sites.&lt;/p&gt;</description>
     </item>
     

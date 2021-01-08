@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genomics on Columbia DSI Scholars</title>
-    <link>/tags/genomics/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/genomics/</link>
     <description>Recent content in Genomics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bacterial and viral genomic epidemiology</title>
-      <link>/2020/05/project-bacterial-and-viral-genomic-epidemiology/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-bacterial-and-viral-genomic-epidemiology/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/project-bacterial-and-viral-genomic-epidemiology/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-bacterial-and-viral-genomic-epidemiology/</guid>
       <description>&lt;p&gt;Bacterial and viral genomic epidemiology. Ongoing and new projects.&lt;/p&gt;</description>
     </item>
     

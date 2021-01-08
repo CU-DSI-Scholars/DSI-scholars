@@ -2,116 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NLP on Columbia DSI Scholars</title>
-    <link>/tags/nlp/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/nlp/</link>
     <description>Recent content in NLP on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Social Media for Tobacco Regulatory Intelligence</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-using-social-media-for-tobacco-regulatory-intelligence/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-using-social-media-for-tobacco-regulatory-intelligence/</guid>
+      <description>&lt;p&gt;Using NLP techniques to discover 1) new e-cig products online and 2) proposed health claims that users advocate for.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Augmented Supervised Topic Models</title>
-      <link>/2020/05/project-augmented-supervised-topic-models/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-augmented-supervised-topic-models/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/project-augmented-supervised-topic-models/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-augmented-supervised-topic-models/</guid>
       <description>&lt;p&gt;In this project we&amp;rsquo;ll be expanding on the existing family of supervised topic models. These models extend LDA to document collections where, for each document, we observe additional labels or values of interest. More specifically, one of the goals of this project is to use additional document level data, such as author information, to develop better exploratory data tools.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Multilanguage analysis of book titles</title>
-      <link>/2020/05/project-multilanguage-analysis-of-book-titles/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-multilanguage-analysis-of-book-titles/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/project-multilanguage-analysis-of-book-titles/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-multilanguage-analysis-of-book-titles/</guid>
       <description>&lt;p&gt;Data visualization, statistics, and analysis of translation entries online. More details will be furnished upon request.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Multilanguage analysis of search results</title>
-      <link>/2020/05/project-multilanguage-analysis-of-search-results/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-multilanguage-analysis-of-search-results/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/project-multilanguage-analysis-of-search-results/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-multilanguage-analysis-of-search-results/</guid>
       <description>&lt;p&gt;The talent students will be given search entries, topics, or terms and will be required to analyze the algorithms of search results across various engines, languages. More information and details upon request.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Phenotyping COVID-19 patients using NLP and clinical notes</title>
-      <link>/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</guid>
       <description>&lt;p&gt;Our lab is using clinical notes to phenotype COVID patient outcomes. The aim is to better understand the sequela of COVID-19 from clinical notes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Social media echo chambers enhancing anxiety and depression: the effects of COVID-19</title>
-      <link>/2020/05/project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19/</guid>
       <description>&lt;p&gt;The question we ask is whether online echo-chambers on social media networks enhance the anxiety and depression of individuals during the COVID19 outbreak. More specifically we want to measure the intensity of the communication about COVID-19 within the echo-chamber of individuals on Twitter and investigate the impact on their subsequent tweets in terms of the level of anxiety and signs of depressive language in their Tweets.  We measure echo-chambers by the number of users in the social network that tweeted about COVID-19. We build on an extensive dataset of Twitter users for whom we have identified a large number of demographic and geographic variables (such as the gender, age, ethnicity, location by state, political affiliation) as well as their social network.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good: The Consequences of Language Policing</title>
-      <link>/2020/01/project-the-consequences-of-language-policing/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-consequences-of-language-policing/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-the-consequences-of-language-policing/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-consequences-of-language-policing/</guid>
       <description>&lt;p&gt;Contestation over language use is an unavoidable feature of American politics. Yet, despite the rise of language policing on both sides of the aisle, we know surprisingly little about how ordinary citizens respond to norms governing language use from both in-group and out-group members. Following Munger (2017), I would like to leverage social media platforms such as Reddit and Twitter to evaluate whether injunctions to use particular words (e.g., undocumented immigrant, Latinx) are effective. I plan to use an experimental approach, where conditional on mentions of &amp;ldquo;illegal alien&amp;rdquo; or &amp;ldquo;Hispanic/Latino,&amp;rdquo; users are randomly assigned to receive a &amp;ldquo;language correction.&amp;rdquo; Outcome measures would include subsequent use of corrected terms, valence of user responses, and upvoting/liking/RTing behavior.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Measuring Liberal Arts: Creating an Index for Higher Education</title>
-      <link>/2019/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
       <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&amp;rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Classifying drug patents</title>
-      <link>/2019/01/project-classifying-drug-patents/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-classifying-drug-patents/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-classifying-drug-patents/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-classifying-drug-patents/</guid>
       <description>&lt;p&gt;Taking out multiple patents on different aspects of a drug in order to cordon off competitors is standard practice in pharmaceuticals. In addition to primary patents, firms commonly attempt to acquire secondary patents on alternative forms of molecules, different formulations, dosages, and compositions, and new uses Policymakers in the U.S. and globally have raised concerns that these secondary patents can raise drug prices and restrict access to medicines. One challenge to assessing the impact of these patents is it is difficult and costly to know if a given patent is &amp;ldquo;primary&amp;rdquo; or &amp;ldquo;secondary.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: ArXivLab: A Platform for Developing and Evaluating Exploratory Tools for the Scientific Literature</title>
-      <link>/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</guid>
       <description>&lt;p&gt;Through ArXivLab we aim to develop the next generation recommender systems for the scientific literature using statistical machine learning approaches. In collaboration with ArXiv we are currently developing a new scholarly literature browser which will be able to extract knowledge implicit in the mathematical and scientific literature, offer advanced mathematical search capabilities and provide personalized recommendations.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Measuring Liberal Arts: Creating an Index for Higher Education</title>
-      <link>/2019/01/project-measuring-liberal-arts-creating-an-index-for-higher-education/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-measuring-liberal-arts-creating-an-index-for-higher-education/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
       <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Project ToxicDocs</title>
-      <link>/2018/01/project-project-toxicdocs/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-project-toxicdocs/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-project-toxicdocs/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-project-toxicdocs/</guid>
       <description>&lt;p&gt;We house the world&amp;rsquo;s largest dataset of once-secret documents on industrial pollution, unleashed from the vaults of corporations like DuPont, Dow, and Monsanto in toxic tort litigation. We are applying data science methods to analyze and render this material useable to a broad audience.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Data Science and the regulation of financial markets (application closed)</title>
-      <link>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
       <description>&lt;p&gt;The development of computational data science
 techniques in natural language processing (NLP) and machine
 learning (ML) algorithms to analyze large and complex textual

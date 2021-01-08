@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D3 on Columbia DSI Scholars</title>
-    <link>/tags/d3/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/d3/</link>
     <description>Recent content in D3 on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/d3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/d3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project: Project ToxicDocs</title>
-      <link>/2018/01/project-project-toxicdocs/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-project-toxicdocs/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-project-toxicdocs/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-project-toxicdocs/</guid>
       <description>&lt;p&gt;We house the world&amp;rsquo;s largest dataset of once-secret documents on industrial pollution, unleashed from the vaults of corporations like DuPont, Dow, and Monsanto in toxic tort litigation. We are applying data science methods to analyze and render this material useable to a broad audience.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Enhancing self-directed learning opportunities</title>
-      <link>/2018/01/project-enhancing-self-directed-learning-opportunities/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-enhancing-self-directed-learning-opportunities/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-enhancing-self-directed-learning-opportunities/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-enhancing-self-directed-learning-opportunities/</guid>
       <description>&lt;p&gt;Analyze data from one of the following library applications/systems and create visualizations that highlight the most important findings pertaining to the support of self-directed learning:  Vialogues (TC Video Discussion Application), PocketKnowledge (TC Online Archive), DocDel (E-Reserve System), Pressible (Blogging Platform), Library Website and Mobile App.&lt;/p&gt;</description>
     </item>
     

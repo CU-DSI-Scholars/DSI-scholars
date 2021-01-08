@@ -2,252 +2,252 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics on Columbia DSI Scholars</title>
-    <link>/tags/statistics/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/statistics/</link>
     <description>Recent content in Statistics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Can we detect COVID in the Internet?</title>
-      <link>/2020/09/project-can-we-detect-covid-in-the-internet/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-can-we-detect-covid-in-the-internet/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-can-we-detect-covid-in-the-internet/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-can-we-detect-covid-in-the-internet/</guid>
       <description>&lt;p&gt;COVID-19 has changed the way we use the internet, from taking classes to social interactions and entertainment. The FCC publishes a large dataset of network measurements from thousands of homes, with gigabytes of data. The project goal is to analyze the data and answer questions such as: Has the increased usage reduced internet speeds? Can we tell how much people are staying at home from data usage records? Is the increased use of video conferencing reflected in the upload metrics?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>China&#39;s War on Poverty</title>
-      <link>/2020/09/project-chinas-war-on-poverty/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-chinas-war-on-poverty/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-chinas-war-on-poverty/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-chinas-war-on-poverty/</guid>
       <description>&lt;p&gt;In 2013, the Chinese government launched its grand initiative to eradicate rural poverty by 2020. The initiative has made great progress since then, yet little rigorous empirical evidence is available due to data limitations. This project aims to use big data through both official and social media to analyze the trends, achievements, and challenges of this initiative and offer implications for the future and from a comparative perspective.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good: Developing Predictive Model for Project Cost Estimate</title>
-      <link>/2020/09/project-dfg-developing-predictive-model-for-project-cost-estimate/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-developing-predictive-model-for-project-cost-estimate/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-dfg-developing-predictive-model-for-project-cost-estimate/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-developing-predictive-model-for-project-cost-estimate/</guid>
       <description>&lt;p&gt;NYC DDC has initiated a machine learning project to develop predictive model for estimating cost of project and work items. Using the latest technique in Machine Learning and Advanced Statistics, NYC DDC to develop a model that predicts the cost of future and active projects and construction work items in different phases of the lifecycle of the project based on historical data. DDC has partnered with Microsoft who is providing the proof of concept guidance and making tools available for the proof of concept development. DDC is seeking assistance of a data scientist from the Town and Gown program to develop the model.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Measuring the network impact of COVID-19</title>
-      <link>/2020/09/project-measuring-the-network-impact-of-covid-19/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-measuring-the-network-impact-of-covid-19/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-measuring-the-network-impact-of-covid-19/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-measuring-the-network-impact-of-covid-19/</guid>
       <description>&lt;p&gt;The spread of COVID-19 has led to unprecedented and ongoing changes to daily life, including shelter-in-place orders, widespread closing of businesses and schools, and work-from-home and school-from-home at previously unknown levels. These changes in behavior are placing extraordinary demands on the Internet. This project will measure the Internet’s ability to meet these demands, including comparing its performance before, during, and after the peak of COVID-19; whether the amount of change varies between areas heavily impacted by COVID-19 and those less impacted; and whether and how large networks adapt. To provide this rich understanding, this project will combine multiple Internet-scale datasets that provide complementary views to investigate how responses to COVID-19 have impacted the Internet and how networks have reacted. Measuring the network impact of COVID-19 will illuminate the Internet’s strengths and weak points and is a crucial step towards improving the Internet’s future resilience in the face of pandemics, natural disasters, large scale conflict, and terrorist attacks.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Risk factors associated with aggressive forms of head and neck cancer</title>
-      <link>/2020/09/project-risk-factors-associated-with-aggressive-forms-of-head-and-neck-cancer/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-risk-factors-associated-with-aggressive-forms-of-head-and-neck-cancer/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-risk-factors-associated-with-aggressive-forms-of-head-and-neck-cancer/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-risk-factors-associated-with-aggressive-forms-of-head-and-neck-cancer/</guid>
       <description>&lt;p&gt;A translational medical informatic project is available to identify risk factors associated with head and neck cancer and lung cancer in electronic medical records. Projects include data extraction, data curation, and establishing and maintaining a database of biospecimens and patients&#39; characteristics. Statistical analysis and modeling will be done to identify clinical characteristics and risk factors which are associated with aggressive form of tumors. Training and mentorship will be provided. Prospective candidates should have great communication skills, willingness to work in a highly collaborative environment, and have excellent time management and organizational skills.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Single cell RNA-seq analysis of eye development and disease</title>
-      <link>/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</guid>
       <description>&lt;p&gt;Single cell sequencing has generated unprecedented insight into the cellular complexity of normal and diseased organ. We are interested in using this technique to understand the mechanisms of eye development, disease and regeneration. We also would like to compare the transcriptomic signatures between mouse models and human tissues. This project involves analysis of large amount of data from single cell sequencing. It requires understanding of statistical analysis and proficient programming skills.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Using social network analysis to improve access to mental health treatment in Brazil</title>
-      <link>/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</guid>
       <description>&lt;p&gt;The proposed project would focus on analyzing quantitative data from a 4 year NIMH-funded study entitled &amp;ldquo;Integrating evidence-based  depression treatment in primary care: Tuberculosis (TB) in Brazil as a model&amp;rdquo; (PI: Sweetland, K01MH104514). The aim of the study was to assess whether social network analysis could be used to leverage the receptivity and connectivity of TB providers in a Brazilian public health system in a way that could accelerate the adoption (implementation) and diffusion (dissemination) of an evidence-based treatment for depression treatment in a primary care network. Baseline receptivity was operationalized via six brief quantitative scales to measure mental health literacy, work self-efficacy, organizational climate, attitudes towards evidence-based practices, organizational readiness to change and individual innovation thresholds. Connectivity was assessed by asking TB providers with whom they discuss difficult cases, give advice to, or receive advice regarding difficult TB cases. Baseline receptivity and connectivity data was used to identify 3 pilot sites in which to train primary care providers to deliver evidence-based depression treatment for one year.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Assessing the relationship between sleep and cardiometabolic risk in NYC women</title>
-      <link>/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</guid>
       <description>&lt;p&gt;This was a 1-year prospective observational study to examine the relation between sleep and cardiometabolic risk among 506 women in the NYC area. All of the data has been collected and entered in a Redcap database, has been cleaned, and is ready for analysis.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>COVID-19 and commuting: How will Columbia cope?</title>
-      <link>/2020/05/project-covid-19-and-commuting-how-will-columbia-cope/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-covid-19-and-commuting-how-will-columbia-cope/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/project-covid-19-and-commuting-how-will-columbia-cope/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-covid-19-and-commuting-how-will-columbia-cope/</guid>
       <description>&lt;p&gt;The goal of this project is to mitigate the risks of commuting for Columbia employees when they will have to return to work after the state-on-pause is over from May 15. As Columbia has been preparing for ramping up labs with an emphasis on social distancing within campus, higher risks could arise when the employees have to commute between home and campus. It is estimated approximately one in five residents in NYC might have been infected by COVID-19 . With the fear of exposing to coronavirus, commuters have shifted from transit to individual cars or bikes, leading to a significant drop in subway ridership , more speeding tickets , surging bike traffic , and more crashes with cyclist injuries . On the other hand, low-income people of color, who have been hit the hardest by the coronavirus , could be in a more disadvantaged position after the state “un-pause”, because: (1) they lack accessibility to other travel modes than public transit; (2) they usually live far from their workplace for an affordable accommodation and have to commute a long way; and (3) many of them take night shift but most transportation options are shut down at night after the pandemic. This project aims to address travel safety and equity concerns of essential workers and provide a responsible and safe transportation solution for the Columbia community.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Understanding Orientation</title>
-      <link>/2020/02/project-understanding-orientation/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/02/project-understanding-orientation/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/02/project-understanding-orientation/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/02/project-understanding-orientation/</guid>
       <description>&lt;p&gt;Orienting to a novel event is a rapid shift in attention to a change in one’s surroundings that appears to be a fundamental biological mechanism for survival and essentially functions as a &amp;ldquo;what is it&amp;rdquo; detector. Orienting appears to play a central role in human learning and development, as it facilitates adaptation to an ever-changing environment.  Thus, orienting can be viewed as an allocational mechanism in which attention sifts through the complex multi-sensory world and selects relevant stimuli for further processing.  The selection of stimuli for further processing has implications for what will be encoded into memories and how strong those memory traces will be.  The ability to differentiate between relevant and irrelevant input, to inhibit the processing of irrelevant stimuli, and to sustain attention requires control, and inhibitory processes that improve with age.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Discovery of genes associated with progression of bladder cancer</title>
-      <link>/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
       <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Evaluating Reconstructions of the Ocean Carbon Sink</title>
-      <link>/2020/01/project-evaluating-reconstructions-of-the-ocean-carbon-sink/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-evaluating-reconstructions-of-the-ocean-carbon-sink/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-evaluating-reconstructions-of-the-ocean-carbon-sink/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-evaluating-reconstructions-of-the-ocean-carbon-sink/</guid>
       <description>&lt;p&gt;The ocean significantly mitigates climate change by absorbing fossil fuel carbon from the atmosphere. Cumulatively since the preindustrial times, the ocean has absorbed 40% of emissions. To understand past changes, diagnose ongoing changes, and to predict the future behavior of the ocean carbon sink, we must understand its spatial and temporal variability. However, the ocean is poorly sampled and so we cannot do this from direct measurements.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Group Decision Making and Communication in Limitless Space</title>
-      <link>/2020/01/project-group-decision-making-and-communication-in-limitless-space/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-group-decision-making-and-communication-in-limitless-space/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-group-decision-making-and-communication-in-limitless-space/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-group-decision-making-and-communication-in-limitless-space/</guid>
       <description>&lt;p&gt;The introduction of a new technology provides individuals and organizations with a large, unowned, and limitless space for communication and organization. How do individuals use or misuse this space in their decision making? Using online discussion platforms, we will analyze what types of discussions thrive - those with depth of discussion or topical complexity or those with cohesive contours? We’ll ask, are there high status actors who are particularly good at recognizing topic gaps which need new conversations? Using social psychological theories with a large-scale archival dataset, we’ll learn more about the impact of new technologies on group decision-making processes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Heating Decarbonization Model Data Visualization and Analysis</title>
-      <link>/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</guid>
       <description>&lt;p&gt;The Quadracci Sustainable Engineering Lab (qSEL) has several research efforts related to the low-carbon energy transition, including pathways to decarbonize building space heating. Recent work has produced large model data sets that have supported recent journal articles. Several maps have been produced using QGIS and data has been made public, but user functionality is limited. While we continue to build on these efforts, we also want to make our results and data available more widely for other researchers and policymakers. The large data sets (10 years of hourly data for more than 72,000 census tracts and six scenarios) and different spatial aggregations (e.g. states and electricity planning/operating regions) present challenges. In this project, the DSI Scholar would first work with qSEL researchers to develop an interactive web interface to display maps of relevant analyses and allow users to produce time series data from the underlying models. Additional research would include further analysis at a regional level – likely New York State – to refine the current model based on additional intraregional and energy source data. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Identifying disease subtypes by comorbidity clustering using structured data from electronic health records</title>
-      <link>/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</guid>
       <description>&lt;p&gt;A major challenge to implementing precision medicine arises from patients who share a clinical diagnosis but have different biological causes of disease. Disease subtypes that arise from obscure etiological heterogeneity create inefficiencies in healthcare and attenuate power in clinical trials and research studies. The ability to stratify patients into biologically homogenous subgroups improves the potential for translational research by allowing us to design more powerful studies.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Inclusionary Zoning in Paris and New York: Antidote to Gentrification or Trojan&#39;s Horse?</title>
-      <link>/2020/01/project-inclusionary-zoning-in-paris-and-new-york-antidote-to-gentrification-or-trojans-horse/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-inclusionary-zoning-in-paris-and-new-york-antidote-to-gentrification-or-trojans-horse/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-inclusionary-zoning-in-paris-and-new-york-antidote-to-gentrification-or-trojans-horse/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-inclusionary-zoning-in-paris-and-new-york-antidote-to-gentrification-or-trojans-horse/</guid>
       <description>&lt;p&gt;The research project examines how Inclusionary Zoning (IZ) impacts the housing markets of neighborhoods where it is implemented. The study focuses on the impacts of IZ in New York City and Paris, two cities at the forefront of adopting IZ in their respective countries.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Influence of past brain state on future perception</title>
-      <link>/2020/01/project-influence-of-past-brain-state-on-future-perception/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-influence-of-past-brain-state-on-future-perception/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-influence-of-past-brain-state-on-future-perception/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-influence-of-past-brain-state-on-future-perception/</guid>
       <description>&lt;p&gt;We are constantly exposed to inputs from the outside world, but we do not perceive everything we are exposed to. Some inputs are rather weak: we might perceive them at one point in time, but not at another. The state of our brains right before we receive such sensory inputs influences whether or not we perceive them. Brain oscillations are proposed to play a key role in setting these brain states; however, how exactly these brain rhythms influence our perception remains a topic of active research.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Linking State Medicaid and Clinical Registry Data to Assess Long-Term Outcomes for Children with Congenital Heart Disease</title>
-      <link>/2020/01/project-linking-state-medicaid-and-clinical-registry-data-to-assess-long-term-outcomes-for-children-with-congenital-heart-disease/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-linking-state-medicaid-and-clinical-registry-data-to-assess-long-term-outcomes-for-children-with-congenital-heart-disease/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-linking-state-medicaid-and-clinical-registry-data-to-assess-long-term-outcomes-for-children-with-congenital-heart-disease/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-linking-state-medicaid-and-clinical-registry-data-to-assess-long-term-outcomes-for-children-with-congenital-heart-disease/</guid>
       <description>&lt;p&gt;Scholars would assist with Aim 1 of a new R01 working with our lab and the Health Evaluation and Analytics Laboratory at NYU Wagner.&lt;/p&gt;
 &lt;p&gt;Congenital heart defects (CHDs) are the most common and resource intensive birth defects managed in the United States (US), affecting ~40,000 births per year in the US. (1) One-year mortality for these children is &amp;gt;10%.  It is &amp;gt;30% for children requiring neonatal surgery. (2) Yet there are currently limited data on long-term outcomes and health expenditures for these children.  Due to marked heterogeneity in disease subtypes and treatments among CHD patients, the power of single-center studies is limited.  Multi-center data are siloed in diagnostic or procedural registries or in-patient databases, or are the product of individual investigations.  Administrative data may lack clinical precision, as ICD codes for this population are not based on physiology.  Further, data on costs and value typically rely on cost-to-charge ratio based costs, which are highly influenced by hospital accounting.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Single cell RNA-seq analysis of eye development and disease</title>
-      <link>/2020/01/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</guid>
       <description>&lt;p&gt;Single cell sequencing has generated unprecedented insight into the cellular complexity of normal and diseased organ. We are interested in using this technique to understand the mechanisms of eye development, disease and regeneration. We also would like to compare the transcriptomic signatures between mouse models and human tissues. This project involves analysis of large amount of data from single cell sequencing. It requires understanding of statistical analysis and proficient programming skills.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Evolution of the Smallest Galaxies in the Universe</title>
-      <link>/2020/01/project-the-evolution-of-the-smallest-galaxies-in-the-universe/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-evolution-of-the-smallest-galaxies-in-the-universe/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-the-evolution-of-the-smallest-galaxies-in-the-universe/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-evolution-of-the-smallest-galaxies-in-the-universe/</guid>
       <description>&lt;p&gt;The Milky Way swarms with orbiting satellite dwarf galaxies of astounding diversity. Some galaxies continue to form stars while others stop and dim in brightness. In computer simulations, the evolutionary history of each dwarf galaxy that leads to these differences is known. Galaxies can lose gas and stop forming stars due to early exposure to stellar radiation (reionization), interaction with the hot gas of the host (ram-pressure stripping), or gravitational interactions with the host/dwarf galaxies (tidal effects).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Urban Lead Atlas</title>
-      <link>/2020/01/project-the-urban-lead-atlas/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-urban-lead-atlas/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-the-urban-lead-atlas/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-urban-lead-atlas/</guid>
       <description>&lt;p&gt;The Urban Lead Atlas is a collaborative community-based research initiative to create the nations’ first crowd-sourced open online map identifying toxic lead hazards located within the homes, schools, landscape, and lead service lines for water in American cities. The project will begin by integrating data from a small set of cities – New York, Philadelphia, Washington D.C. and Newark - including housing enforcement and lead service line datasets, data on lead dust in schools, and the results of soil lead tests in parks and backyards, on the websites of Columbia University’s Center for Sustainable Urban Development. Ultimately, the goal of the Urban Lead Atlas is to create and populate a fully open online platform that is capable of integrating data from “citizen scientists” and residents regarding the sites of lead hazards in their city’s environment and buildings. This research is important, as experts estimate that over nine million US children have lead blood levels which may cause sub-clinical effects and permanent adverse health, cognitive, and behavior outcomes. The Lead Atlas is intended as the first model for a national effort, the American Lead Atlas project, which seeks to create a national online collaborative map of lead hazards within American cities.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Poverty Eradication by 2020 in China: Evidence from Big Data</title>
-      <link>/2019/09/project-poverty-eradication-by-2020-in-china-evidence-from-big-data/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-poverty-eradication-by-2020-in-china-evidence-from-big-data/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-poverty-eradication-by-2020-in-china-evidence-from-big-data/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-poverty-eradication-by-2020-in-china-evidence-from-big-data/</guid>
       <description>&lt;p&gt;In 2013, the Chinese government launched its grand initiative to eradicate rural poverty by 2020. The initiative has made great progress since then, yet little rigorous empirical evidence is available due to data limitations. This project aims to use big data through both official and social media to analyze the trends, achievements, and challenges of this initiative and offer implications for the future and from a comparative perspective.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Analysis and Prediction of Opioid Outbreak Clusters</title>
-      <link>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
       <description>&lt;p&gt;We are interested in investigating how deaths and hospitalizations resulting from opioid overdoses cluster across space and time in the US. This analysis will be conducted with the aid of two comprehensive databases: 1) detailed mortality data across the US; and 2) a stratified sample of all hospitalizations in the US, which can be subset to select for opioid overdoses. Analyses will be extended to drug type (prescription drugs, fentanyl etc.) and subject demographics (age, race, etc.). We have previously conducted similar cluster analysis for other health phenomena.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Discovery of genes associated with progression of bladder cancer</title>
-      <link>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
       <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Measuring Broadband</title>
-      <link>/2019/01/project-measuring-broadband/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-measuring-broadband/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-measuring-broadband/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-measuring-broadband/</guid>
       <description>&lt;p&gt;The Federal Communications Commission (FCC) and the Census regularly publish data on U.S. Internet availability, performance and use, at granularities from census block to county and state. The project goal is to answer questions based on the available data, such as &amp;ldquo;How reliable is Internet access?&amp;rdquo;, &amp;ldquo;Who is deploying fiber where?&amp;rdquo;, &amp;ldquo;Can we predict reliability of different technologies?&amp;rdquo;, &amp;ldquo;Can we predict the deployment of fiber?&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Outcomes of multivisceral resections in colorectal cancer</title>
-      <link>/2019/01/project-outcomes-of-multivisceral-resections-in-colorectal-cancer/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-outcomes-of-multivisceral-resections-in-colorectal-cancer/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-outcomes-of-multivisceral-resections-in-colorectal-cancer/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-outcomes-of-multivisceral-resections-in-colorectal-cancer/</guid>
       <description>&lt;p&gt;When a colorectal cancer has grown through the wall of the colon or rectum and into other adjacent tissues or organs, it is identified as a T4 primary tumor.  If there is no evidence of distant metastasis then it is labeled a locally advanced tumor.  Such locally advanced tumors account for approximately 5-15 % of new colorectal cancers.  Surgery remains the principal treatment modality for patients with locally advanced colorectal cancer.  Studies have demonstrated planned en bloc or multivisceral resections rather than intraoperative assessment of margins more likely results in R0 resections leading to better local control and long-term survival.  However, the decision-making for a surgeon confronting a T4 colorectal cancer is challenging because surgery related mortality rates after multivisceral resections are reported up to 12%.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Data Science and the regulation of financial markets (application closed)</title>
-      <link>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
       <description>&lt;p&gt;The development of computational data science
 techniques in natural language processing (NLP) and machine
 learning (ML) algorithms to analyze large and complex textual
@@ -263,37 +263,37 @@ computational analysis.&lt;/p&gt;</description>
     
     <item>
       <title>Project: Real-time brain state classification</title>
-      <link>/2018/01/project-real-time-brain-state-classification/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-real-time-brain-state-classification/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</guid>
       <description>&lt;p&gt;Using machine learning to conduct brain state classification at real-time on EEG/fNIRS/fMRI data.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Statistical modeling for dynamic social networks</title>
-      <link>/2018/01/statistical-modeling-for-dynamic-social-networks/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/statistical-modeling-for-dynamic-social-networks/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
       <description>&lt;p&gt;Networked systems are ubiquitous in modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Analysis pipeline for strain-level microbiome shotgun sequencing</title>
-      <link>/2018/01/project-analysis-pipeline-for-strain-level-microbiome-shotgun-sequencing/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-analysis-pipeline-for-strain-level-microbiome-shotgun-sequencing/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-analysis-pipeline-for-strain-level-microbiome-shotgun-sequencing/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-analysis-pipeline-for-strain-level-microbiome-shotgun-sequencing/</guid>
       <description>&lt;p&gt;DNA sequence reads from a community of microbial genomes are currently processed without considering sequence variants. The project involves building a processing pipeline of such billions of short reads, identifying closest strains they might belong to, assembling them into specific clones, calling their variants, and analyzing the dynamic nature of these bacterial strains along sampling points.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Political attitudes and social networks</title>
-      <link>/2018/01/project-political-attitudes-and-social-networks/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-political-attitudes-and-social-networks/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-political-attitudes-and-social-networks/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-political-attitudes-and-social-networks/</guid>
       <description>&lt;p&gt;We are collecting and analyzing survey data asking people about the political attitudes and other characteristics of their family, friends, and others in their social circles. Some of this work is described &lt;a href=&#34;http://www.stat.columbia.edu/~gelman/research/unpublished/penumbra_paper_11_clean.pdf&#34;&gt;here&lt;/a&gt; and we are also doing polling relevant to the 2018 midterm elections.&lt;/p&gt;</description>
     </item>
     
