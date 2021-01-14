@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ecology on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/ecology/</link>
+    <link>/tags/ecology/</link>
     <description>Recent content in Ecology on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/ecology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ecology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>California&#39;s Water Data Challenge: Generating User-guided Prediction of Water Supply in the Californian Rivers</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</link>
+      <link>/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</guid>
+      <guid>/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</guid>
       <description>&lt;p&gt;Freshwater supply is critical for managing and meeting human and ecological demands. However, while stocks of water in both natural and artificial reservoirs are helpful for increasing availability, droughts and floods, as well as whiplash events affect reliability on these systems, posing grave consequences on water users. This risk is particularly salient in the state of California, where many local communities have been plagued by extreme hydrological events. In this current research, we contribute to California&amp;rsquo;s Water Data Challenge effort where a diverse group of volunteers convened to form a multi-disciplinary team that addresses the crucial issues of extreme events in California using data science approaches. Members include researchers and professionals who come from a range of backgrounds representing academia and private sectors. We combine a range of publicly available datasets with Machine Learning (ML) techniques to explore predictability of extreme events during California’s water years. More specifically, we use a variety of water districts and showcase how ML prediction models are not only able to predict the flow of water at varying time horizons, they capture uncertainties posed by the climate and human influences.&lt;/p&gt;</description>
     </item>
     

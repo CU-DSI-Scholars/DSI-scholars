@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blockchain on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/blockchain/</link>
+    <link>/tags/blockchain/</link>
     <description>Recent content in Blockchain on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain Expert Prediction Market</title>
+      <link>/2021/01/project-blockchain-expert-prediction-market/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-blockchain-expert-prediction-market/</guid>
+      <description>&lt;p&gt;Prediction Markets have been used to forecasts outcomes of research interest using market mechanism (See &lt;a href=&#34;https://www.nature.com/news/the-power-of-prediction-markets-1.20820)&#34;&gt;https://www.nature.com/news/the-power-of-prediction-markets-1.20820)&lt;/a&gt;. A decentralized prediction market, Augur, has been created on blockchain for betting purposes (See, &lt;a href=&#34;https://www.augur.net/)&#34;&gt;https://www.augur.net/)&lt;/a&gt;. An alternative approach to prediction market has been proposed in Dalal et al (&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0040162511000734)&#34;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0040162511000734)&lt;/a&gt;.  This project proposes to develop a new model for decentralized prediction market which can be used to elicit opinions of university researchers on socially important issues. Specifically, the project will use Ethereum based platform to develop a smart contract and an ERC-20 compliant token for researchers to participate in the new market.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Project: Blockchain Anomaly Detection</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-blockchain-anomaly-detection/</link>
+      <link>/2019/01/project-blockchain-anomaly-detection/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-blockchain-anomaly-detection/</guid>
+      <guid>/2019/01/project-blockchain-anomaly-detection/</guid>
       <description>&lt;p&gt;The project has collected a large set of data (&amp;gt;200GB) from a cryptocurrency block chain.  It is developing methods for detecting anomalies in transactions based on newer Social Networks, Graph Analysis and Machine Learning methods. The work involves data cleaning/wrangling and creation and implementation of various algorithms and analyzing the transactions for identifying different set of anomalies and manipulations.&lt;/p&gt;</description>
     </item>
     

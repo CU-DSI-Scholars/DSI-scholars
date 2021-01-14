@@ -2,1574 +2,1601 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spring 2021</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2021/</link>
+      <link>/tags/spring-2021/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2021/</guid>
+      <guid>/tags/spring-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Summer 2021</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2021/</link>
+      <link>/tags/summer-2021/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Classification</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/classification/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data For Good</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-for-good/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-for-good/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deduplication</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deduplication/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deduplication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fall 2021</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2021/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Network analysis</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/network-analysis/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/network-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLP</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/nlp/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/power-bi/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/python/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/r/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Record linkage</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/record-linkage/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/record-linkage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shiny</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/shiny/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/shiny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Signal Processing</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/signal-processing/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/signal-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tableau</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/tableau/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/tableau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Info</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/info/</link>
-      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/info/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fall 2020</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2020/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Approximate Bayesian inference</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/approximate-bayesian-inference/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/approximate-bayesian-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AWS</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/aws/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure ML</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/azure-ml/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/azure-ml/</guid>
+      <guid>/tags/summer-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Behavioral data</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/behavioral-data/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <link>/tags/behavioral-data/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/behavioral-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bioinformatics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/bioinformatics/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/bioinformatics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biomechanics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/biomechanics/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/biomechanics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C&#43;&#43;</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/c&#43;&#43;/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/c&#43;&#43;/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cancer</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/cancer/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/cancer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Causal inference</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/causal-inference/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/causal-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climate</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/climate/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/climate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climate change</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/climate-change/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/climate-change/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer networks</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/computer-networks/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/computer-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COVID</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/covid/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Databases</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/databases/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/databases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deconvolution</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deconvolution/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deconvolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep learning</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deep-learning/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecology</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/ecology/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/ecology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/education/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EHR</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/ehr/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/ehr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Environmental Science</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/environmental-science/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/environmental-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Excel</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/excel/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/excel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finance</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/finance/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/genetics/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/genetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geospatial statistics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/geospatial-statistics/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/geospatial-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human rights</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/human-rights/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/human-rights/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/internet/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/internet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Latent variable model</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/latent-variable-model/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/latent-variable-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linear algebra</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/linear-algebra/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/linear-algebra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Longitudinal data</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/longitudinal-data/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/longitudinal-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine learning</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/machine-learning/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mandarin</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/mandarin/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/mandarin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matlab</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/matlab/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/matlab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microbiology</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/microbiology/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/microbiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Missing data</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/missing-data/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/missing-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixture model</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/mixture-model/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/mixture-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiomics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/multiomics/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/multiomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural language processing</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/natural-language-processing/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/natural-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Omics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/omics/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/omics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polycrystals</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/polycrystals/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/polycrystals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Random forest</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/random-forest/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/random-forest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regression</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/regression/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SAS</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sas/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Satellite data</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/satellite-data/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/satellite-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sequence data</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sequence-data/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sequence-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social media</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/social-media/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/social-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial statistics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spatial-statistics/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spatial-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sql/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/statistics/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sustainability</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sustainability/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sustainability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TensorFlow</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/tensorflow/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/tensorflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unix-Linux</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/unix-linux/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/unix-linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unsupervised learning</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/unsupervised-learning/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/unsupervised-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urban data</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/urban-data/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/urban-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualization</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/visualization/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Summer 2020</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2020/</link>
-      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Summer 2020-2</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2020-2/</link>
-      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2020-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Undergraduate</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/undergraduate/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/undergraduate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biostatistics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/biostatistics/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/biostatistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COVID-19</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/covid-19/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/covid-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Epidemiology</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/epidemiology/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/epidemiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genomics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/genomics/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/genomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GIS</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/gis/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/gis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HIV</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/hiv/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/hiv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multilanguage</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/multilanguage/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/multilanguage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Population genetics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/population-genetics/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/population-genetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Redcap</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/redcap/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/redcap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Satellite</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/satellite/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/satellite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sleep</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sleep/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sleep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Survey data</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/survey-data/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/survey-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Survey design</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/survey-design/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/survey-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tentative</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/tentative/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/tentative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Topic models</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/topic-models/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/topic-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Twitter</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/twitter/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring 2020</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2020/</link>
-      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cryptocurrency</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/cryptocurrency/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/cryptocurrency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph modeling</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/graph-modeling/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/graph-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neuroscience</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/neuroscience/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/neuroscience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Psychology</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/psychology/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/psychology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aging</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/aging/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/aging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>App development</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/app-development/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/app-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/bayesian/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/bayesian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/c/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cities</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/cities/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/cities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud computing</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/cloud-computing/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/cloud-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clustering</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/clustering/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COSMOS</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/cosmos/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/cosmos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep nets</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deep-nets/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deep-nets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DeepLabCut</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deeplabcut/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deeplabcut/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Econometrics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/econometrics/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/econometrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EDAV</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/edav/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/edav/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entrepreneurship</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/entrepreneurship/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/entrepreneurship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Health</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/health/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image classification</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/image-classification/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/image-classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Imputation</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/imputation/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/imputation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/java/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markov models</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/markov-models/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/markov-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Molecular biology</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/molecular-biology/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/molecular-biology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pose estimation</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/pose-estimation/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/pose-estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Precision medicine</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/precision-medicine/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/precision-medicine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public health</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/public-health/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/public-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulation</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/simulation/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stata</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/stata/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/stata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time series</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/time-series/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/time-series/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video analysis</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/video-analysis/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/video-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video streaming</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/video-streaming/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/video-streaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web application development</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/web-application-development/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/web-application-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web development</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/web-development/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/web-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web scraping</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/web-scraping/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/web-scraping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algorithms</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/algorithms/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/algorithms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Astrophysics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/astrophysics/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/astrophysics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Autonomous vehicles</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/autonomous-vehicles/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/autonomous-vehicles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian statistics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/bayesian-statistics/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/bayesian-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational Genomics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/computational-genomics/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/computational-genomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous monitoring</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/continuous-monitoring/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/continuous-monitoring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dams</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/dams/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/dams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data mining</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-mining/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-mining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data structures</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-structures/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-structures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Earthquakes</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/earthquakes/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/earthquakes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exodusters</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/exodusters/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/exodusters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fairness</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fairness/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fairness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fall 2019</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2019/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feature extraction</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/feature-extraction/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/feature-extraction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Great Migration</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/great-migration/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/great-migration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hierarchical modeling</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/hierarchical-modeling/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/hierarchical-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>History</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/history/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/history/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image data</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/image-data/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/image-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lidar</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/lidar/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/lidar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/linux/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microbiome</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/microbiome/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/microbiome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Not accepting applications</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/not-accepting-applications/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/not-accepting-applications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proveable approximate correctness</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/proveable-approximate-correctness/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/proveable-approximate-correctness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Random projection</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/random-projection/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/random-projection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparsity</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sparsity/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sparsity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unix</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/unix/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/unix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unsupervised</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/unsupervised/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/unsupervised/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring 2019</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2019/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Summer 2019</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2019/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Astronomy</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/astronomy/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/astronomy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Database</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/database/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Javascript</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/javascript/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Engineering</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/software-engineering/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/software-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Big Data</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/big-data/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/big-data/</guid>
+      <guid>/tags/behavioral-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blockchain</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/blockchain/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <link>/tags/blockchain/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/blockchain/</guid>
+      <guid>/tags/blockchain/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Financial analytics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/financial-analytics/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Cancer</title>
+      <link>/tags/cancer/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/financial-analytics/</guid>
+      <guid>/tags/cancer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>GPU</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/gpu/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Classification</title>
+      <link>/tags/classification/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/gpu/</guid>
+      <guid>/tags/classification/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Julia</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/julia/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Data For Good</title>
+      <link>/tags/data-for-good/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/julia/</guid>
+      <guid>/tags/data-for-good/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Learning Activities</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/learning-activities/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Deduplication</title>
+      <link>/tags/deduplication/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/learning-activities/</guid>
+      <guid>/tags/deduplication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Summer 2018</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2018/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Fall 2021</title>
+      <link>/tags/fall-2021/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring 2018</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2018/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D3</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/d3/</link>
-      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/d3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MongoDB</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/mongodb/</link>
-      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/mongodb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fall 2018</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2018/</link>
-      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2018/</guid>
+      <guid>/tags/fall-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image analysis</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/image-analysis/</link>
+      <link>/tags/image-analysis/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/image-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Technology</title>
+      <link>/tags/information-technology/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/information-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>/tags/java/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>/tags/javascript/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network analysis</title>
+      <link>/tags/network-analysis/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>/tags/nlp/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omics</title>
+      <link>/tags/omics/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>/tags/power-bi/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychology</title>
+      <link>/tags/psychology/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendation Models</title>
+      <link>/tags/recommendation-models/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/recommendation-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Record linkage</title>
+      <link>/tags/record-linkage/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/record-linkage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAS</title>
+      <link>/tags/sas/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny</title>
+      <link>/tags/shiny/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal Processing</title>
+      <link>/tags/signal-processing/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/signal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>/tags/tableau/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tableau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Embeddings</title>
+      <link>/tags/word-embeddings/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/word-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Info</title>
+      <link>/tags/info/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall 2020</title>
+      <link>/tags/fall-2020/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fall-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Bayesian inference</title>
+      <link>/tags/approximate-bayesian-inference/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/approximate-bayesian-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>/tags/aws/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure ML</title>
+      <link>/tags/azure-ml/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/azure-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics</title>
+      <link>/tags/bioinformatics/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomechanics</title>
+      <link>/tags/biomechanics/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/biomechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>/tags/c&#43;&#43;/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal inference</title>
+      <link>/tags/causal-inference/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/causal-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate</title>
+      <link>/tags/climate/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/climate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate change</title>
+      <link>/tags/climate-change/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/climate-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer networks</title>
+      <link>/tags/computer-networks/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/computer-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID</title>
+      <link>/tags/covid/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>/tags/databases/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deconvolution</title>
+      <link>/tags/deconvolution/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deconvolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecology</title>
+      <link>/tags/ecology/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>/tags/education/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EHR</title>
+      <link>/tags/ehr/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental Science</title>
+      <link>/tags/environmental-science/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/environmental-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excel</title>
+      <link>/tags/excel/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>/tags/finance/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetics</title>
+      <link>/tags/genetics/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geospatial statistics</title>
+      <link>/tags/geospatial-statistics/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/geospatial-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human rights</title>
+      <link>/tags/human-rights/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/human-rights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>/tags/internet/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent variable model</title>
+      <link>/tags/latent-variable-model/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/latent-variable-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear algebra</title>
+      <link>/tags/linear-algebra/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/linear-algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal data</title>
+      <link>/tags/longitudinal-data/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/longitudinal-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mandarin</title>
+      <link>/tags/mandarin/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mandarin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matlab</title>
+      <link>/tags/matlab/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbiology</title>
+      <link>/tags/microbiology/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/microbiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missing data</title>
+      <link>/tags/missing-data/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/missing-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture model</title>
+      <link>/tags/mixture-model/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mixture-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiomics</title>
+      <link>/tags/multiomics/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural language processing</title>
+      <link>/tags/natural-language-processing/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polycrystals</title>
+      <link>/tags/polycrystals/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/polycrystals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random forest</title>
+      <link>/tags/random-forest/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/random-forest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satellite data</title>
+      <link>/tags/satellite-data/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/satellite-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence data</title>
+      <link>/tags/sequence-data/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sequence-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social media</title>
+      <link>/tags/social-media/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial statistics</title>
+      <link>/tags/spatial-statistics/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spatial-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>/tags/sql/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>/tags/statistics/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustainability</title>
+      <link>/tags/sustainability/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sustainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorFlow</title>
+      <link>/tags/tensorflow/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unix-Linux</title>
+      <link>/tags/unix-linux/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/unix-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised learning</title>
+      <link>/tags/unsupervised-learning/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/unsupervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban data</title>
+      <link>/tags/urban-data/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/urban-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>/tags/visualization/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer 2020</title>
+      <link>/tags/summer-2020/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/summer-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer 2020-2</title>
+      <link>/tags/summer-2020-2/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/summer-2020-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>/tags/undergraduate/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/undergraduate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biostatistics</title>
+      <link>/tags/biostatistics/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/biostatistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>/tags/covid-19/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiology</title>
+      <link>/tags/epidemiology/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/epidemiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomics</title>
+      <link>/tags/genomics/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIS</title>
+      <link>/tags/gis/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIV</title>
+      <link>/tags/hiv/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilanguage</title>
+      <link>/tags/multilanguage/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multilanguage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population genetics</title>
+      <link>/tags/population-genetics/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/population-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redcap</title>
+      <link>/tags/redcap/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/redcap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satellite</title>
+      <link>/tags/satellite/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/satellite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleep</title>
+      <link>/tags/sleep/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sleep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey data</title>
+      <link>/tags/survey-data/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/survey-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey design</title>
+      <link>/tags/survey-design/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/survey-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tentative</title>
+      <link>/tags/tentative/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tentative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic models</title>
+      <link>/tags/topic-models/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/topic-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>/tags/twitter/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring 2020</title>
+      <link>/tags/spring-2020/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spring-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptocurrency</title>
+      <link>/tags/cryptocurrency/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph modeling</title>
+      <link>/tags/graph-modeling/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/graph-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroscience</title>
+      <link>/tags/neuroscience/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aging</title>
+      <link>/tags/aging/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/aging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App development</title>
+      <link>/tags/app-development/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/app-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian</title>
+      <link>/tags/bayesian/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>/tags/c/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cities</title>
+      <link>/tags/cities/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud computing</title>
+      <link>/tags/cloud-computing/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>/tags/clustering/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COSMOS</title>
+      <link>/tags/cosmos/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cosmos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep nets</title>
+      <link>/tags/deep-nets/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-nets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepLabCut</title>
+      <link>/tags/deeplabcut/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deeplabcut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Econometrics</title>
+      <link>/tags/econometrics/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/econometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDAV</title>
+      <link>/tags/edav/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/edav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entrepreneurship</title>
+      <link>/tags/entrepreneurship/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>/tags/health/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image classification</title>
+      <link>/tags/image-classification/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/image-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imputation</title>
+      <link>/tags/imputation/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/imputation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov models</title>
+      <link>/tags/markov-models/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/markov-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular biology</title>
+      <link>/tags/molecular-biology/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/molecular-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pose estimation</title>
+      <link>/tags/pose-estimation/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pose-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision medicine</title>
+      <link>/tags/precision-medicine/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/precision-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public health</title>
+      <link>/tags/public-health/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/public-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>/tags/simulation/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stata</title>
+      <link>/tags/stata/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/stata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time series</title>
+      <link>/tags/time-series/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video analysis</title>
+      <link>/tags/video-analysis/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/video-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video streaming</title>
+      <link>/tags/video-streaming/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/video-streaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web application development</title>
+      <link>/tags/web-application-development/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/web-application-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web development</title>
+      <link>/tags/web-development/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web scraping</title>
+      <link>/tags/web-scraping/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/web-scraping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms</title>
+      <link>/tags/algorithms/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astrophysics</title>
+      <link>/tags/astrophysics/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/astrophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous vehicles</title>
+      <link>/tags/autonomous-vehicles/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/autonomous-vehicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian statistics</title>
+      <link>/tags/bayesian-statistics/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bayesian-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Genomics</title>
+      <link>/tags/computational-genomics/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/computational-genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous monitoring</title>
+      <link>/tags/continuous-monitoring/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/continuous-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dams</title>
+      <link>/tags/dams/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data mining</title>
+      <link>/tags/data-mining/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data structures</title>
+      <link>/tags/data-structures/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earthquakes</title>
+      <link>/tags/earthquakes/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/earthquakes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exodusters</title>
+      <link>/tags/exodusters/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/exodusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fairness</title>
+      <link>/tags/fairness/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fairness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall 2019</title>
+      <link>/tags/fall-2019/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fall-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature extraction</title>
+      <link>/tags/feature-extraction/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/feature-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Great Migration</title>
+      <link>/tags/great-migration/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/great-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical modeling</title>
+      <link>/tags/hierarchical-modeling/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hierarchical-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>/tags/history/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image data</title>
+      <link>/tags/image-data/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/image-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lidar</title>
+      <link>/tags/lidar/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lidar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>/tags/linux/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbiome</title>
+      <link>/tags/microbiome/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/microbiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not accepting applications</title>
+      <link>/tags/not-accepting-applications/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/not-accepting-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proveable approximate correctness</title>
+      <link>/tags/proveable-approximate-correctness/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/proveable-approximate-correctness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random projection</title>
+      <link>/tags/random-projection/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/random-projection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparsity</title>
+      <link>/tags/sparsity/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sparsity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unix</title>
+      <link>/tags/unix/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/unix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised</title>
+      <link>/tags/unsupervised/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring 2019</title>
+      <link>/tags/spring-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spring-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer 2019</title>
+      <link>/tags/summer-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/summer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astronomy</title>
+      <link>/tags/astronomy/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/astronomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>/tags/database/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>/tags/software-engineering/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data</title>
+      <link>/tags/big-data/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial analytics</title>
+      <link>/tags/financial-analytics/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/financial-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPU</title>
+      <link>/tags/gpu/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia</title>
+      <link>/tags/julia/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/julia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Activities</title>
+      <link>/tags/learning-activities/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/learning-activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer 2018</title>
+      <link>/tags/summer-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/summer-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring 2018</title>
+      <link>/tags/spring-2018/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spring-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D3</title>
+      <link>/tags/d3/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/d3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MongoDB</title>
+      <link>/tags/mongodb/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall 2018</title>
+      <link>/tags/fall-2018/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/image-analysis/</guid>
+      <guid>/tags/fall-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social science</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/social-science/</link>
+      <link>/tags/social-science/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/social-science/</guid>
+      <guid>/tags/social-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video processing</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/video-processing/</link>
+      <link>/tags/video-processing/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/video-processing/</guid>
+      <guid>/tags/video-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computing</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/computing/</link>
+      <link>/tags/computing/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/computing/</guid>
+      <guid>/tags/computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text Mining</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/text-mining/</link>
+      <link>/tags/text-mining/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/text-mining/</guid>
+      <guid>/tags/text-mining/</guid>
       <description></description>
     </item>
     

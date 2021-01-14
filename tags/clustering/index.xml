@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clustering on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/clustering/</link>
+    <link>/tags/clustering/</link>
     <description>Recent content in Clustering on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Identifying disease subtypes by comorbidity clustering using structured data from electronic health records</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</link>
+      <link>/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</guid>
+      <guid>/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</guid>
       <description>&lt;p&gt;A major challenge to implementing precision medicine arises from patients who share a clinical diagnosis but have different biological causes of disease. Disease subtypes that arise from obscure etiological heterogeneity create inefficiencies in healthcare and attenuate power in clinical trials and research studies. The ability to stratify patients into biologically homogenous subgroups improves the potential for translational research by allowing us to design more powerful studies.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Designing effective prediction models via kernel random projections</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-designing-effective-prediction-models-via-kernel-random-projections/</link>
+      <link>/2019/09/project-designing-effective-prediction-models-via-kernel-random-projections/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-designing-effective-prediction-models-via-kernel-random-projections/</guid>
+      <guid>/2019/09/project-designing-effective-prediction-models-via-kernel-random-projections/</guid>
       <description>&lt;p&gt;Mixture models are a popular technique for clustering and density estimation due to their simplicity and ease of use. However the success of these models relies crucially on specific assumptions these models make about the underlying data distribution. Gaussian mixture models, for instance, assume that the subpopulations within the data are Gaussians-like, and can thus lead to poor predictions on datasets with more complex intrinsic structures. A common approach in such situations is to resort to more complex data models. An interesting sparsely explored alternative is to find feature transformations that maintain the salient cluster information while simplifying the subpopulation structure, in effect making mixture models highly effective.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Development of unsupervised feature extraction methods for analysis of large earthquake data sets</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</link>
+      <link>/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</guid>
+      <guid>/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</guid>
       <description>&lt;p&gt;We are requesting a DSI Scholar position for an undergraduate to work with myself and my collaborator Ben Holtzman (Lamont Doherty Earth Observatory, LDEO). We have been collaborating on the development of novel machine learning applications to seismology, specifically unsupervised feature extraction in spectral properties of large numbers of small earthquakes. Our first application was published in Science Advances last year (Holtzman, Pate, Paisley, Waldhauser, Repetto, &amp;ldquo;Machine learning reveals cyclic changes in seismic source spectra in Geysers geothermal field.&amp;rdquo; Science Advances 4, eaao2929. doi:10.1126/sciadv.aao2929, 2018). Currently we are building a synthetic dataset to better understand the features that control clustering behavior, and compare different clustering methods.&lt;/p&gt;</description>
     </item>
     

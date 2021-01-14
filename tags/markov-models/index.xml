@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markov models on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/markov-models/</link>
+    <link>/tags/markov-models/</link>
     <description>Recent content in Markov models on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/markov-models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/markov-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Statistical analyses of Siamese fighting fish aggressive behavior</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-statistical-analyses-of-siamese-fighting-fish-aggressive-behavior/</link>
+      <link>/2020/01/project-statistical-analyses-of-siamese-fighting-fish-aggressive-behavior/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-statistical-analyses-of-siamese-fighting-fish-aggressive-behavior/</guid>
+      <guid>/2020/01/project-statistical-analyses-of-siamese-fighting-fish-aggressive-behavior/</guid>
       <description>&lt;p&gt;Project: analyze behavior of Siamese fighting fish (Betta splendens) as part of a collaboration between the Bendesky and Cunningham labs of the Zuckerman Institute (NeuroTheory Center)&lt;/p&gt;</description>
     </item>
     

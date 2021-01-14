@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COVID on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/covid/</link>
+    <link>/tags/covid/</link>
     <description>Recent content in COVID on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/covid/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/covid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Can we detect COVID in the Internet?</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-can-we-detect-covid-in-the-internet/</link>
+      <link>/2020/09/project-can-we-detect-covid-in-the-internet/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-can-we-detect-covid-in-the-internet/</guid>
+      <guid>/2020/09/project-can-we-detect-covid-in-the-internet/</guid>
       <description>&lt;p&gt;COVID-19 has changed the way we use the internet, from taking classes to social interactions and entertainment. The FCC publishes a large dataset of network measurements from thousands of homes, with gigabytes of data. The project goal is to analyze the data and answer questions such as: Has the increased usage reduced internet speeds? Can we tell how much people are staying at home from data usage records? Is the increased use of video conferencing reflected in the upload metrics?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Phenotyping COVID-19 patients using NLP and clinical notes</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</link>
+      <link>/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</guid>
+      <guid>/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</guid>
       <description>&lt;p&gt;Our lab is using clinical notes to phenotype COVID patient outcomes. The aim is to better understand the sequela of COVID-19 from clinical notes.&lt;/p&gt;</description>
     </item>
     

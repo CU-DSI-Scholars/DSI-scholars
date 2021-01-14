@@ -2,35 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/java/</link>
+    <link>/tags/java/</link>
     <description>Recent content in Java on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain Expert Prediction Market</title>
+      <link>/2021/01/project-blockchain-expert-prediction-market/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-blockchain-expert-prediction-market/</guid>
+      <description>&lt;p&gt;Prediction Markets have been used to forecasts outcomes of research interest using market mechanism (See &lt;a href=&#34;https://www.nature.com/news/the-power-of-prediction-markets-1.20820)&#34;&gt;https://www.nature.com/news/the-power-of-prediction-markets-1.20820)&lt;/a&gt;. A decentralized prediction market, Augur, has been created on blockchain for betting purposes (See, &lt;a href=&#34;https://www.augur.net/)&#34;&gt;https://www.augur.net/)&lt;/a&gt;. An alternative approach to prediction market has been proposed in Dalal et al (&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0040162511000734)&#34;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0040162511000734)&lt;/a&gt;.  This project proposes to develop a new model for decentralized prediction market which can be used to elicit opinions of university researchers on socially important issues. Specifically, the project will use Ethereum based platform to develop a smart contract and an ERC-20 compliant token for researchers to participate in the new market.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Creating accurate and equitable data resources for precision public health using machine learning tools</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</link>
+      <link>/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</guid>
+      <guid>/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</guid>
       <description>&lt;p&gt;The objective of this project is to construct linkages across disparate public health data systems using machine learning tools and assess them for bias and equitable representation of subpopulations defined by demographic and socioeconomic factors.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>High Quality Video Streaming over Wireless</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-high-quality-video-streaming-over-wireless/</link>
+      <link>/2020/01/project-high-quality-video-streaming-over-wireless/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-high-quality-video-streaming-over-wireless/</guid>
+      <guid>/2020/01/project-high-quality-video-streaming-over-wireless/</guid>
       <description>&lt;p&gt;The amount of video content that is being distributed over the Internet is increasing. Video providers rely on HTTP adaptive streaming approaches to deliver video clips to users. Complementary to the video provider, the service provider must determine the priority of each network stream. As part of the project, students will explore wireless network assisted strategies for http adaptive streaming by use of TOS/DSCP. This includes using machine-learning tools to analyze network video traffic and the design of reinforcement learning algorithms to improve users&#39; video Quality of Experience.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Advancing Public Health Monitoring and Analytics in New York City through Development of a Master Person Index</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</link>
+      <link>/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</guid>
+      <guid>/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</guid>
       <description>&lt;p&gt;Data is central to the NYC Department of Health’s mission to protect and promote the health of all New Yorkers. The agency’s many programs often require large scale record linkages that integrate data from individuals across multiple public health data systems and disease registries. We are implementing a Master Person Index (MPI) system in order to centralize, optimize and standardize matching methodology for administrative data across the Department of Health.&lt;/p&gt;</description>
     </item>
     

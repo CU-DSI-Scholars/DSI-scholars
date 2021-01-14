@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lidar on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/lidar/</link>
+    <link>/tags/lidar/</link>
     <description>Recent content in Lidar on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/lidar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/lidar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Waymo &amp; Lyft Driverless Car Data Analysis and Driving Modeling</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-waymo-lyft-driverless-car-data-analysis-and-driving-modeling/</link>
+      <link>/2019/09/project-waymo-lyft-driverless-car-data-analysis-and-driving-modeling/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-waymo-lyft-driverless-car-data-analysis-and-driving-modeling/</guid>
+      <guid>/2019/09/project-waymo-lyft-driverless-car-data-analysis-and-driving-modeling/</guid>
       <description>&lt;p&gt;Autonomous driving is developing rapidly. A lot of breakthroughs of autonomous driving have emerged in both academy and industry. However, many traffic accidents related to autonomous driving also occur and cause people’s concern on the safety issue of AV. To ensure safety and reliability, rigorous test and simulation is required before AV can really drive on road. For AV test and simulation, realistic data is an essential component. Comprehensive, multi-regime and sufficient self-driving data would definitely help the AV development.&lt;/p&gt;</description>
     </item>
     
