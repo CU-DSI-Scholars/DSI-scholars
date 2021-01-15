@@ -6,7 +6,16 @@
     <description>Recent content in Machine learning on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evaluating Machine learning algorithms in Earth science</title>
+      <link>/2021/01/project-evaluating-machine-learning-algorithms-in-earth-science/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-evaluating-machine-learning-algorithms-in-earth-science/</guid>
+      <description>&lt;p&gt;Since the industrial revolution the atmosphere has continued to warm due to an accumulation of carbon. Terrestrial ecosystems play a crucial role in quelling the effects of climate change by storing atmospheric carbon in biomass and in the soils. In order to inform carbon reduction policy an accurate quantification of land-air carbon fluxes is necessary. To quantify the terrestrial CO2 exchange, direct monitoring of surface carbon fluxes at few locations across the globe provide valuable observations. However, this data is sparse in both space and time, and is thus unable to provide an estimate of the global spatiotemporal changes, as well as rare extreme conditions (droughts, heatwaves). In this project we will first use synthetic data and sample CO2 fluxes from a simulation of the Earth system at observation locations and then use various machine learning algorithms (neural networks, boosting, GANs) to reconstruct the model&amp;rsquo;s CO2 flux at all locations. We will then evaluate the performance of each method using a suite of regression metrics. Finally, time permitting, we will apply these methods to real observations. This project provides a way of evaluating the performance of machine learning methods as they are used in Earth science.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>California&#39;s Water Data Challenge: Generating User-guided Prediction of Water Supply in the Californian Rivers</title>
       <link>/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</link>

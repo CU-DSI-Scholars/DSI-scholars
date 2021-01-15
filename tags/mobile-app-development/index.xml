@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile App Development on Columbia DSI Scholars</title>
+    <link>/tags/mobile-app-development/</link>
+    <description>Recent content in Mobile App Development on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mobile-app-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Developing Just-In-Time Mental Health Interventions for Racially/Ethnically Diverse Adolescents</title>
+      <link>/2021/01/project-developing-just-in-time-mental-health-interventions-for-racially-ethnically-diverse-adolescents/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-developing-just-in-time-mental-health-interventions-for-racially-ethnically-diverse-adolescents/</guid>
+      <description>&lt;p&gt;We are conducting a study at the Columbia School of Social Work to examine associations between adolescent mental health and physiological data (collected through smart watches), sociability metrics (e.g., number of texts, amount of time on social media platforms) and self-reported daily stressors (collected through mobile surveys) and use this data to inform the development of a just-in-time adaptive intervention (delivered by smartphone) to reduce mental health problems among adolescents. Just-in-time adaptive interventions aim to provide the right type/amount of support, at the right time, by adapting to an individual&amp;rsquo;s changing internal and contextual state. We are looking for a student(s) to develop a mobile app (Android and iOS compatible) that has the following capabilities:&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

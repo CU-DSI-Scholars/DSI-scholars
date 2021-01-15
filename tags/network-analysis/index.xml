@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Meta-analysis of single-cell genomic data to define cellular heterogeneity and dynamics in atherosclerotic vasculature</title>
+      <link>/2021/01/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</guid>
+      <description>&lt;p&gt;Atherosclerosis, a chronic inflammatory disease of the artery wall, is the underlying cause of human coronary heart diseases. Single-cell genomics have catalyzed the revolution in understanding of cellular heterogeneity and dynamics in atherosclerotic vasculature. The goal of the project is to leverage published and our own single-cell genomic data and perform a meta-analysis. Meta-analysis allows integrated analysis of much larger cell numbers and helps resolve the full spectrum of cellular heterogeneity and dynamics in atherosclerotic vessels and facilitate therapeutic translation. The DSI scholar will: (1) use the latest bioinformatic pipeline to integrate the existing scRNA-seq, CITE-seq, and scATAC-seq datasets; (2) analyze the integrated datasets using R/Bioconductor packages (e.g. Seurat); (3) interpret the data using pathway and network analysis. Some relevant workflows are available through the &amp;ldquo;Resources&amp;rdquo; page of our lab website at &lt;a href=&#34;https://hanruizhang.github.io/zhanglab/&#34;&gt;https://hanruizhang.github.io/zhanglab/&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Weather Effects on High Frequency Communication Links</title>
       <link>/2021/01/project-weather-effects-on-high-frequency-communication-links/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>

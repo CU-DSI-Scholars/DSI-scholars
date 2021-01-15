@@ -62,6 +62,15 @@
     </item>
     
     <item>
+      <title>Climate change</title>
+      <link>/tags/climate-change/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/climate-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cloud computing</title>
       <link>/tags/cloud-computing/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -103,6 +112,15 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excel</title>
+      <link>/tags/excel/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/excel/</guid>
       <description></description>
     </item>
     
@@ -170,6 +188,15 @@
     </item>
     
     <item>
+      <title>Machine learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mapping</title>
       <link>/tags/mapping/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -184,6 +211,24 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental Health</title>
+      <link>/tags/mental-health/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile App Development</title>
+      <link>/tags/mobile-app-development/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mobile-app-development/</guid>
       <description></description>
     </item>
     
@@ -296,6 +341,24 @@
     </item>
     
     <item>
+      <title>Sequence data</title>
+      <link>/tags/sequence-data/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sequence-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequencing Data</title>
+      <link>/tags/sequencing-data/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sequencing-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Shiny</title>
       <link>/tags/shiny/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -310,6 +373,15 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/signal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>/tags/software-engineering/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/software-engineering/</guid>
       <description></description>
     </item>
     
@@ -440,15 +512,6 @@
     </item>
     
     <item>
-      <title>Climate change</title>
-      <link>/tags/climate-change/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/climate-change/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computer networks</title>
       <link>/tags/computer-networks/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
@@ -512,15 +575,6 @@
     </item>
     
     <item>
-      <title>Excel</title>
-      <link>/tags/excel/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/excel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Finance</title>
       <link>/tags/finance/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
@@ -571,15 +625,6 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/longitudinal-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -670,15 +715,6 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/satellite-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sequence data</title>
-      <link>/tags/sequence-data/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sequence-data/</guid>
       <description></description>
     </item>
     
@@ -1480,15 +1516,6 @@
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Engineering</title>
-      <link>/tags/software-engineering/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/software-engineering/</guid>
       <description></description>
     </item>
     
