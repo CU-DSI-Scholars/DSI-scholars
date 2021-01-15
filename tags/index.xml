@@ -62,6 +62,15 @@
     </item>
     
     <item>
+      <title>Cloud computing</title>
+      <link>/tags/cloud-computing/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data For Good</title>
       <link>/tags/data-for-good/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -76,6 +85,15 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/deduplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     
@@ -103,6 +121,15 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/information-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>/tags/internet/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/internet/</guid>
       <description></description>
     </item>
     
@@ -157,6 +184,15 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pose estimation</title>
+      <link>/tags/pose-estimation/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pose-estimation/</guid>
       <description></description>
     </item>
     
@@ -247,6 +283,15 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/tableau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised learning</title>
+      <link>/tags/unsupervised-learning/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/unsupervised-learning/</guid>
       <description></description>
     </item>
     
@@ -395,15 +440,6 @@
     </item>
     
     <item>
-      <title>Deep learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ecology</title>
       <link>/tags/ecology/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
@@ -481,15 +517,6 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/human-rights/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet</title>
-      <link>/tags/internet/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/internet/</guid>
       <description></description>
     </item>
     
@@ -697,15 +724,6 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/unix-linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unsupervised learning</title>
-      <link>/tags/unsupervised-learning/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/unsupervised-learning/</guid>
       <description></description>
     </item>
     
@@ -980,15 +998,6 @@
     </item>
     
     <item>
-      <title>Cloud computing</title>
-      <link>/tags/cloud-computing/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cloud-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Clustering</title>
       <link>/tags/clustering/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
@@ -1093,15 +1102,6 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/molecular-biology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pose estimation</title>
-      <link>/tags/pose-estimation/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pose-estimation/</guid>
       <description></description>
     </item>
     
