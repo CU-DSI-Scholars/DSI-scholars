@@ -71,6 +71,15 @@
     </item>
     
     <item>
+      <title>COVID</title>
+      <link>/tags/covid/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data For Good</title>
       <link>/tags/data-for-good/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -103,6 +112,15 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/fall-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetics</title>
+      <link>/tags/genetics/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genetics/</guid>
       <description></description>
     </item>
     
@@ -161,6 +179,15 @@
     </item>
     
     <item>
+      <title>Matlab</title>
+      <link>/tags/matlab/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Network analysis</title>
       <link>/tags/network-analysis/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -184,6 +211,15 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontology Learning</title>
+      <link>/tags/ontology-learning/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ontology-learning/</guid>
       <description></description>
     </item>
     
@@ -274,6 +310,15 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/signal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>/tags/statistics/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/statistics/</guid>
       <description></description>
     </item>
     
@@ -413,15 +458,6 @@
     </item>
     
     <item>
-      <title>COVID</title>
-      <link>/tags/covid/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Databases</title>
       <link>/tags/databases/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
@@ -494,15 +530,6 @@
     </item>
     
     <item>
-      <title>Genetics</title>
-      <link>/tags/genetics/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/genetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Geospatial statistics</title>
       <link>/tags/geospatial-statistics/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
@@ -562,15 +589,6 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/mandarin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matlab</title>
-      <link>/tags/matlab/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/matlab/</guid>
       <description></description>
     </item>
     
@@ -688,15 +706,6 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistics</title>
-      <link>/tags/statistics/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/statistics/</guid>
       <description></description>
     </item>
     

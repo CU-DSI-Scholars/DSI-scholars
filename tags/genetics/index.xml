@@ -6,7 +6,25 @@
     <description>Recent content in Genetics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/genetics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/genetics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparison of four workflows for structural variants identification</title>
+      <link>/2021/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-comparison-of-four-workflows-for-structural-variants-identification/</guid>
+      <description>&lt;p&gt;Recent advances in genomic technologies have led to the identification of many novel disease-gene associations, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to identify structural variants (i.e. relatively large deletions and duplications of genomic sequences). These workflows can lead to the identification of different structural variants, raising the risk of missing disease-causing variants when using only one of those methods.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Comparison of three workflows for the identification of genetic variants</title>
+      <link>/2021/01/project-comparison-of-three-workflows-for-the-identification-of-genetic-variants/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-comparison-of-three-workflows-for-the-identification-of-genetic-variants/</guid>
+      <description>&lt;p&gt;Recent advances in genomic technologies have led to the identification of many novel disease-associated genes, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to extract the genetic information from raw data, including The Broad Institute&amp;rsquo;s GATK, Seven Bridge&amp;rsquo;s GenomeGraph and Google&amp;rsquo;s DeepVariant. These workflows can lead to the identification of different genetic variants, raising the risk of missing disease-causing variants when using only one of these methods.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Identification of genetic variation involved in Mendelian diseases</title>
       <link>/2020/09/project-identification-of-genetic-variation-involved-in-mendelian-diseases/</link>
