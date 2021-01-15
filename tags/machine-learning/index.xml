@@ -26,6 +26,33 @@
     </item>
     
     <item>
+      <title>Streaming video analysis and optimization during Work-from-Home period</title>
+      <link>/2021/01/project-streaming-video-analysis-and-optimization-during-work-from-home-period/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-streaming-video-analysis-and-optimization-during-work-from-home-period/</guid>
+      <description>&lt;p&gt;The goal of this project is to collect anonymized traces from the Columbia network in order to analyze video traffic characteristics during the work/study-from home period. This information will be used for developing various ML-based tools for Quality of Experience (QoE) measurement. We will perform the feature extraction at the collection time itself and use anonymization techniques (e.g., IP address anonymization), to preserve user privacy. Students will analyze/measure encrypted network traffic to provide ground truth for potential RL/ML algorithms for estimating video QoE and identifying device/application (e.g., the start of a video streaming session). These algorithms can serve as a basis for new video adaptation techniques (see for example - &lt;a href=&#34;https://wimnet.ee.columbia.edu/wimnet-team-wins-3rd-place-in-the-acm-mmsys20-twitch-grand-challenge/&#34;&gt;https://wimnet.ee.columbia.edu/wimnet-team-wins-3rd-place-in-the-acm-mmsys20-twitch-grand-challenge/&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using Data Science to Improve Telephone Triage of Ophthalmology Patients</title>
+      <link>/2021/01/project-using-data-science-to-improve-telephone-triage-of-ophthalmology-patients/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-using-data-science-to-improve-telephone-triage-of-ophthalmology-patients/</guid>
+      <description>&lt;p&gt;Health care professionals cannot examine every person calling the office with a question nor can they return every call. Therefore, medical offices seeking to improve the speed and efficiency of evaluating and triaging patients must utilize telephone personnel who are often non-clinical staff. These telephone triage personnel may be limited in their knowledge and ability to obtain the necessary details of the patient&amp;rsquo;s medical symptoms and direct medical care accordingly. Their role is not to make diagnoses by phone, but rather to collect sufficient data related to the patient’s complaints and assign them appropriately in order to get the patient to the right level of care with the right provider in the right place at the right time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using speech and language to identify patients at risk for hospitalizations and emergency department visits in homecare</title>
+      <link>/2021/01/project-using-speech-and-language-to-identify-patients-at-risk-for-hospitalizations-and-emergency-department-visits-in-homecare/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-using-speech-and-language-to-identify-patients-at-risk-for-hospitalizations-and-emergency-department-visits-in-homecare/</guid>
+      <description>&lt;p&gt;This study is the first step in exploring an emerging and previously understudied data stream - verbal communication between healthcare providers and patients. In partnership between Columbia Engineering, School of Nursing, Amazon, and the largest home healthcare agency in the US, the study will investigate how to use audio-recorded routine communications between patients and nurses to help identify patients at risk of hospitalization or emergency department visits. The study will combine speech recognition, machine learning and natural language processing to achieve its goals.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>California&#39;s Water Data Challenge: Generating User-guided Prediction of Water Supply in the Californian Rivers</title>
       <link>/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>

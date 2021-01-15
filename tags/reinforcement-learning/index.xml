@@ -16,5 +16,14 @@
       <description>&lt;p&gt;Vehicle routing has been extensively studied in optimization problems. With the advance of AI and big data, this project aims to solve vehicle routing problems (VRP) using reinforcement learning.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Streaming video analysis and optimization during Work-from-Home period</title>
+      <link>/2021/01/project-streaming-video-analysis-and-optimization-during-work-from-home-period/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-streaming-video-analysis-and-optimization-during-work-from-home-period/</guid>
+      <description>&lt;p&gt;The goal of this project is to collect anonymized traces from the Columbia network in order to analyze video traffic characteristics during the work/study-from home period. This information will be used for developing various ML-based tools for Quality of Experience (QoE) measurement. We will perform the feature extraction at the collection time itself and use anonymization techniques (e.g., IP address anonymization), to preserve user privacy. Students will analyze/measure encrypted network traffic to provide ground truth for potential RL/ML algorithms for estimating video QoE and identifying device/application (e.g., the start of a video streaming session). These algorithms can serve as a basis for new video adaptation techniques (see for example - &lt;a href=&#34;https://wimnet.ee.columbia.edu/wimnet-team-wins-3rd-place-in-the-acm-mmsys20-twitch-grand-challenge/&#34;&gt;https://wimnet.ee.columbia.edu/wimnet-team-wins-3rd-place-in-the-acm-mmsys20-twitch-grand-challenge/&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
