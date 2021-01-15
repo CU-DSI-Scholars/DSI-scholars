@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wireless Networks on Columbia DSI Scholars</title>
+    <link>/tags/wireless-networks/</link>
+    <description>Recent content in Wireless Networks on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wireless-networks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mmWave measurements in the COSMOS testbed</title>
+      <link>/2021/01/project-mmwave-measurements-in-the-cosmos-testbed/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-mmwave-measurements-in-the-cosmos-testbed/</guid>
+      <description>&lt;p&gt;5G cellular networks will use high-frequency millimeter-wave (mmWave) communication, which promises high data rates and ample spectrum availability. Students working on this project will help conduct a mmWave wireless channel measurement campaign around the COSMOS testbed (&lt;a href=&#34;http://www.cosmos-lab.org&#34;&gt;www.cosmos-lab.org&lt;/a&gt;), a wireless networking testbed located at Columbia stretching between 120th and 136th St. In collaboration with Bell Labs students will be able to use unique, state-of-the-art mmWave equipment to conduct these measurements (see pre-pandemic example in &lt;a href=&#34;https://wimnet.ee.columbia.edu/wp-content/uploads/2019/08/mmNets2019_COSMOS_28GHz.pdf)&#34;&gt;https://wimnet.ee.columbia.edu/wp-content/uploads/2019/08/mmNets2019_COSMOS_28GHz.pdf)&lt;/a&gt;. The measurements will play an important role in the development of network-level control algorithms, which is the other, more analytical side of this research project.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

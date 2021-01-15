@@ -26,6 +26,24 @@
     </item>
     
     <item>
+      <title>Mitigating Gender Bias in Sentence-level Natural Language Processing Models</title>
+      <link>/2021/01/project-mitigating-gender-bias-in-sentence-level-natural-language-processing-models/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-mitigating-gender-bias-in-sentence-level-natural-language-processing-models/</guid>
+      <description>&lt;p&gt;We will further develop a large scale dataset that evaluates gender biases in sentence-level NLP systems. We will then develop training techniques to encourage models to overcome and mitigate gender-based biases.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing within the CONCERN Project</title>
+      <link>/2021/01/project-natural-language-processing-within-the-concern-project/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/project-natural-language-processing-within-the-concern-project/</guid>
+      <description>&lt;p&gt;The CONCERN project aims to develop models and tools to quantify clinician concern about patient deterioration in the inpatient setting that can be used in early warning scores.  We have discovered and validated several measurable ways within the Electronic Health Record (EHR) to measure clinician concern and have demonstrated that our approach identified patients at risk of deterioration earlier than other methods, which focus only on physiological data.  One of our approaches is leveraging documentation of certain concepts within narrative text in nursing notes that are consistent with concern about a patient. However, this narrative free text is not easily accessible - it is often mixed together with structured or templated text and varies over note types. The steps to be performed are&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Using Social Media for Tobacco Regulatory Intelligence</title>
       <link>/2021/01/project-using-social-media-for-tobacco-regulatory-intelligence/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>

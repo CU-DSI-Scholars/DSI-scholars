@@ -116,6 +116,15 @@
     </item>
     
     <item>
+      <title>EHR</title>
+      <link>/tags/ehr/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Excel</title>
       <link>/tags/excel/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -139,6 +148,24 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geospatial statistics</title>
+      <link>/tags/geospatial-statistics/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/geospatial-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIS</title>
+      <link>/tags/gis/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gis/</guid>
       <description></description>
     </item>
     
@@ -184,6 +211,15 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter</title>
+      <link>/tags/jupyter/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jupyter/</guid>
       <description></description>
     </item>
     
@@ -256,6 +292,15 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Campus</title>
+      <link>/tags/on-campus/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/on-campus/</guid>
       <description></description>
     </item>
     
@@ -386,6 +431,15 @@
     </item>
     
     <item>
+      <title>SQL</title>
+      <link>/tags/sql/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Statistics</title>
       <link>/tags/statistics/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -404,11 +458,29 @@
     </item>
     
     <item>
+      <title>Unix-Linux</title>
+      <link>/tags/unix-linux/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/unix-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unsupervised learning</title>
       <link>/tags/unsupervised-learning/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/unsupervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Networks</title>
+      <link>/tags/wireless-networks/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wireless-networks/</guid>
       <description></description>
     </item>
     
@@ -557,15 +629,6 @@
     </item>
     
     <item>
-      <title>EHR</title>
-      <link>/tags/ehr/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ehr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Environmental Science</title>
       <link>/tags/environmental-science/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
@@ -580,15 +643,6 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geospatial statistics</title>
-      <link>/tags/geospatial-statistics/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/geospatial-statistics/</guid>
       <description></description>
     </item>
     
@@ -737,15 +791,6 @@
     </item>
     
     <item>
-      <title>SQL</title>
-      <link>/tags/sql/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sustainability</title>
       <link>/tags/sustainability/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
@@ -760,15 +805,6 @@
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/tensorflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unix-Linux</title>
-      <link>/tags/unix-linux/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/unix-linux/</guid>
       <description></description>
     </item>
     
@@ -850,15 +886,6 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/genomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GIS</title>
-      <link>/tags/gis/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gis/</guid>
       <description></description>
     </item>
     
