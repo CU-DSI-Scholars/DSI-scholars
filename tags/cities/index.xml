@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cities on Columbia DSI Scholars</title>
-    <link>/tags/cities/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/cities/</link>
     <description>Recent content in Cities on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/cities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COSMOS Smart Intersections, Cloud-Connected Vehicles</title>
-      <link>/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</guid>
       <description>&lt;p&gt;Research on: (i) COSMOS cloud connected vehicles, (ii) Monitoring of traffic intersections, using bird’s eye cameras, supported by ultra-low latency computational/communications hubs; (iii) Simultaneous video-based tracking of cars and pedestrians, and prediction of movement based on long-term observations of the intersection; (iv) Real-time computational processing, using deep learning, utilizing GPUs, in support of COSMOS applications; (v) Sub-10ms latency communication between all vehicles and the edge cloud computational/communication hub, to be used in support of autonomous vehicle navigation. The research is performed using the pilot node of project &lt;a href=&#34;https://cosmos-lab.org/&#34;&gt;COSMOS&lt;/a&gt; infrastructure.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good: Data Analysis for a Just Transition in Energy for Thermal Comfort</title>
-      <link>/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</guid>
       <description>&lt;p&gt;42% of New York City greenhouse gas emissions result from on-site fossil fuel combustion in residential and commercial buildings; space heating is, by far, the majority contributor. Both New York State and NYC have policies to dramatically reduce emissions that will require a transformation in the way buildings are heated, including major efforts in existing buildings. This transition is inextricably linked to existing energy equity issues that we believe significantly overlap across NYC (and elsewhere). These include unreliable heating in the winter, susceptibility to extreme heat (an increasing occurrence with climate change) and struggles to afford energy needs. Various known data sources for NYC are available, though they are disparate and have not been analyzed holistically. Further, we believe there are potential engineering and policy solutions to these challenges. In this project, the DSI scholar will access (and search for where not yet known to qSEL researchers) relevant data sets, analyze those data sets to identify communities exposed to all or a subset of these issues, and assist qSEL researchers in developing models to evaluate possible solutions. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Heating Decarbonization Model Data Visualization and Analysis</title>
-      <link>/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</guid>
       <description>&lt;p&gt;The Quadracci Sustainable Engineering Lab (qSEL) has several research efforts related to the low-carbon energy transition, including pathways to decarbonize building space heating. Recent work has produced large model data sets that have supported recent journal articles. Several maps have been produced using QGIS and data has been made public, but user functionality is limited. While we continue to build on these efforts, we also want to make our results and data available more widely for other researchers and policymakers. The large data sets (10 years of hourly data for more than 72,000 census tracts and six scenarios) and different spatial aggregations (e.g. states and electricity planning/operating regions) present challenges. In this project, the DSI Scholar would first work with qSEL researchers to develop an interactive web interface to display maps of relevant analyses and allow users to produce time series data from the underlying models. Additional research would include further analysis at a regional level – likely New York State – to refine the current model based on additional intraregional and energy source data. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Inclusionary Zoning in Paris and New York: Antidote to Gentrification or Trojan&#39;s Horse?</title>
-      <link>/2020/01/project-inclusionary-zoning-in-paris-and-new-york-antidote-to-gentrification-or-trojans-horse/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-inclusionary-zoning-in-paris-and-new-york-antidote-to-gentrification-or-trojans-horse/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-inclusionary-zoning-in-paris-and-new-york-antidote-to-gentrification-or-trojans-horse/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-inclusionary-zoning-in-paris-and-new-york-antidote-to-gentrification-or-trojans-horse/</guid>
       <description>&lt;p&gt;The research project examines how Inclusionary Zoning (IZ) impacts the housing markets of neighborhoods where it is implemented. The study focuses on the impacts of IZ in New York City and Paris, two cities at the forefront of adopting IZ in their respective countries.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Urban Lead Atlas</title>
-      <link>/2020/01/project-the-urban-lead-atlas/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-urban-lead-atlas/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-the-urban-lead-atlas/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-urban-lead-atlas/</guid>
       <description>&lt;p&gt;The Urban Lead Atlas is a collaborative community-based research initiative to create the nations’ first crowd-sourced open online map identifying toxic lead hazards located within the homes, schools, landscape, and lead service lines for water in American cities. The project will begin by integrating data from a small set of cities – New York, Philadelphia, Washington D.C. and Newark - including housing enforcement and lead service line datasets, data on lead dust in schools, and the results of soil lead tests in parks and backyards, on the websites of Columbia University’s Center for Sustainable Urban Development. Ultimately, the goal of the Urban Lead Atlas is to create and populate a fully open online platform that is capable of integrating data from “citizen scientists” and residents regarding the sites of lead hazards in their city’s environment and buildings. This research is important, as experts estimate that over nine million US children have lead blood levels which may cause sub-clinical effects and permanent adverse health, cognitive, and behavior outcomes. The Lead Atlas is intended as the first model for a national effort, the American Lead Atlas project, which seeks to create a national online collaborative map of lead hazards within American cities.&lt;/p&gt;</description>
     </item>
     

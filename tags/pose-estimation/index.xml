@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pose estimation on Columbia DSI Scholars</title>
-    <link>/tags/pose-estimation/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/pose-estimation/</link>
     <description>Recent content in Pose estimation on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/pose-estimation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/pose-estimation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Characterization of spontaneous animal behaviors from 3D pose estimation data</title>
-      <link>/2021/01/project-characterization-of-spontaneous-animal-behaviors-from-3d-pose-estimation-data/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-characterization-of-spontaneous-animal-behaviors-from-3d-pose-estimation-data/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-characterization-of-spontaneous-animal-behaviors-from-3d-pose-estimation-data/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-characterization-of-spontaneous-animal-behaviors-from-3d-pose-estimation-data/</guid>
       <description>&lt;p&gt;A major goal in neuroscience is to understand how neuronal activity gives rise to behavior. With new technologies, it is possible to record the activity of thousands of neurons simultaneously. However, the interpretation of these data depends on a solid understanding of animal behavior.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Decoding the elements of mouse behavior that reveal vigilance during exploration</title>
-      <link>/2021/01/project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</guid>
       <description>&lt;p&gt;Decoding behavioral signifiers for the brain state of vigilance can have far reaching implications for understanding actions and identifying disease. We are using high resolution video recordings of mice as they navigate a maze, but have access to very few pre-determined behavioral signifiers. Several recent publications implemented computer vision to extract a variety of previously unreachable aspects of behavioral analysis, including animal pose estimation and distinguishable internal states. These descriptions allowed for the identification and characterization of dynamics, which then revealed an unprecedented richness to the behaviors that determine decision making. Applying such computational approaches in our maze in the context of behaviors that have been validated to measure choice and memory can reveal dimensions of behavior that predict or even determine psychological constructs like vigilance. DSI scholars would use pose estimation analysis to evaluate behavioral signifiers for choice and memory and relate it to our real time concurrent measures of neural activity and transmitter release. The students would also have opportunity to examine the effect of disease models known to impair performance on our maze task on any identified signifier.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The role of early-life serotonin signaling in life-long set point determination for fear and anxiety-like behaviors</title>
-      <link>/2021/01/project-the-role-of-early-life-serotonin-signaling-in-life-long-set-point-determination-for-fear-and-anxiety-like-behaviors/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-the-role-of-early-life-serotonin-signaling-in-life-long-set-point-determination-for-fear-and-anxiety-like-behaviors/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-the-role-of-early-life-serotonin-signaling-in-life-long-set-point-determination-for-fear-and-anxiety-like-behaviors/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-the-role-of-early-life-serotonin-signaling-in-life-long-set-point-determination-for-fear-and-anxiety-like-behaviors/</guid>
       <description>&lt;p&gt;This project investigates the long-term effects of perinatal serotonin modulation on unlearned fear and anxiety like behaviors. The project will use DeepLabCut (a method for 3D pose estimation based on transfer learning with deep neural networks) to quantify fear and anxiety-related behaviors in animals, in which serotonin has been chemogenetically manipulated early in life.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Combining in vivo calcium imaging datasets and deep learning networks for video analysis (DeepLabCut) to identify novel brain regulators of fine motor learning in mice</title>
-      <link>/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</guid>
       <description>&lt;p&gt;Our goal is to use deep learning networks to understand which neurons in the brain encode fine motor movements in mice. We collected large datasets entailing calcium imaging data of active neurons and high-resolution videos when mice perform motor tasks. We want to use recent advances in deep learning to (1) estimate the poses of mouse body parts at a high spatiotemporal resolution (2) extract behaviorally-relevant information and (3) align them with neural activity data. Behavioral video analysis is made possible by transfer learning, the ability to take a network that was trained on a task with a large supervised dataset and utilize it on a small supervised dataset. This has been used e.g. in a human pose–estimation algorithm called DeeperCut. Recently, such algorithms were tailored for use in the laboratory in a Python-based toolbox known as DeepLabCut, providing a tool for high-throughput behavioral video analysis.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Decoding the dynamics of mouse behavior that predict exploring and remembering</title>
-      <link>/2020/01/project-decoding-the-dynamics-of-mouse-behavior-that-predict-exploring-and-remembering/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-decoding-the-dynamics-of-mouse-behavior-that-predict-exploring-and-remembering/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-decoding-the-dynamics-of-mouse-behavior-that-predict-exploring-and-remembering/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-decoding-the-dynamics-of-mouse-behavior-that-predict-exploring-and-remembering/</guid>
       <description>&lt;p&gt;Decoding behavioral signifiers for choice and memory can have far reaching implications for understanding actions and identifying disease. We use a four arm maze where we are able to observe choices and infer memory in mice, but have access to very few pre-determined behavioral signifiers. Several recent publications implemented computer vision to extract a variety of previously unreachable aspects of behavioral analysis, including animal pose estimation (Mathis et al., 2018) and distinguishable internal states (Calhoun et al., 2019). These descriptions allowed for the identification and characterization of dynamics, which then revealed an unprecedented richness to the behaviors that determine decision making. Applying such computational approaches to examine behavior in our maze in the context of behaviors that have been validated to measure choice and memory can reveal dimensions of behavior that predict or even determine these psychological constructs. DSI scholars would use pose estimation analysis to evaluate behavioral signifiers for choice and memory and relate it to our real time concurrent measures of neural activity and transmitter release. The students would also have opportunity to examine the effect of disease models known to impair performance on our maze task on any identified signifier.&lt;/p&gt;</description>
     </item>
     

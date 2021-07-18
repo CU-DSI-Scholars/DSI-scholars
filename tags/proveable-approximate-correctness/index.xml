@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Proveable approximate correctness on Columbia DSI Scholars</title>
-    <link>/tags/proveable-approximate-correctness/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/proveable-approximate-correctness/</link>
     <description>Recent content in Proveable approximate correctness on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/proveable-approximate-correctness/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/proveable-approximate-correctness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Designing Fair Representations with Provable Guarantees</title>
-      <link>/2019/09/project-designing-fair-representations-with-provable-guarantees/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-designing-fair-representations-with-provable-guarantees/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-designing-fair-representations-with-provable-guarantees/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-designing-fair-representations-with-provable-guarantees/</guid>
       <description>&lt;p&gt;Designing high quality prediction models while maintaining social equity (in terms of ethnicity, gender, age, etc.) is critical in today&amp;rsquo;s world. Most recent research in algorithmic fairness focuses on developing fair machine learning algorithms such as fair classification, fair regression, or fair clustering. Nevertheless, it can sometimes be more useful to simply preprocess the data so as to &amp;ldquo;remove&amp;rdquo; sensitive information from the input feature space, thus minimizing potential discrimination in subsequent prediction tasks. We call this a &amp;ldquo;fair representation&amp;rdquo; of the data. A key advantage of using a fair data representation is that a practitioner can simply run any off-the-shelf algorithm and still maintain social equity without having to worry about it.&lt;/p&gt;</description>
     </item>
     

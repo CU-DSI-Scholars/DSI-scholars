@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internet on Columbia DSI Scholars</title>
-    <link>/tags/internet/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/internet/</link>
     <description>Recent content in Internet on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Broadband Funding: Racial and Economic Equity</title>
-      <link>/2021/01/project-broadband-funding-racial-and-economic-equity/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-broadband-funding-racial-and-economic-equity/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-broadband-funding-racial-and-economic-equity/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-broadband-funding-racial-and-economic-equity/</guid>
       <description>&lt;p&gt;The federal government spends billions of dollars a year supporting rural broadband (internet access), subsidizing build-out in low-density areas that do not have broadband (unserved areas). However, it is not clear whether the rural areas most in need are receiving a fair share of the funding. Using a very large dataset of broadband availability, census data and recent auction results, the project will analyze whether unserved areas with high racial diversity or lower median income are receiving a fair share of funding. Depending on team size, we will also attempt to create a shareable master data set building on OpenStreetMap and other sources that provides key data points for census units.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Can we detect COVID in the Internet?</title>
-      <link>/2020/09/project-can-we-detect-covid-in-the-internet/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-can-we-detect-covid-in-the-internet/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-can-we-detect-covid-in-the-internet/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-can-we-detect-covid-in-the-internet/</guid>
       <description>&lt;p&gt;COVID-19 has changed the way we use the internet, from taking classes to social interactions and entertainment. The FCC publishes a large dataset of network measurements from thousands of homes, with gigabytes of data. The project goal is to analyze the data and answer questions such as: Has the increased usage reduced internet speeds? Can we tell how much people are staying at home from data usage records? Is the increased use of video conferencing reflected in the upload metrics?&lt;/p&gt;</description>
     </item>
     

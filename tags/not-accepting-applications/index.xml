@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Not accepting applications on Columbia DSI Scholars</title>
-    <link>/tags/not-accepting-applications/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/not-accepting-applications/</link>
     <description>Recent content in Not accepting applications on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/not-accepting-applications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/not-accepting-applications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Designing effective prediction models via kernel random projections</title>
-      <link>/2019/09/project-designing-effective-prediction-models-via-kernel-random-projections/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-designing-effective-prediction-models-via-kernel-random-projections/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-designing-effective-prediction-models-via-kernel-random-projections/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-designing-effective-prediction-models-via-kernel-random-projections/</guid>
       <description>&lt;p&gt;Mixture models are a popular technique for clustering and density estimation due to their simplicity and ease of use. However the success of these models relies crucially on specific assumptions these models make about the underlying data distribution. Gaussian mixture models, for instance, assume that the subpopulations within the data are Gaussians-like, and can thus lead to poor predictions on datasets with more complex intrinsic structures. A common approach in such situations is to resort to more complex data models. An interesting sparsely explored alternative is to find feature transformations that maintain the salient cluster information while simplifying the subpopulation structure, in effect making mixture models highly effective.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Designing Fair Representations with Provable Guarantees</title>
-      <link>/2019/09/project-designing-fair-representations-with-provable-guarantees/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-designing-fair-representations-with-provable-guarantees/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-designing-fair-representations-with-provable-guarantees/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-designing-fair-representations-with-provable-guarantees/</guid>
       <description>&lt;p&gt;Designing high quality prediction models while maintaining social equity (in terms of ethnicity, gender, age, etc.) is critical in today&amp;rsquo;s world. Most recent research in algorithmic fairness focuses on developing fair machine learning algorithms such as fair classification, fair regression, or fair clustering. Nevertheless, it can sometimes be more useful to simply preprocess the data so as to &amp;ldquo;remove&amp;rdquo; sensitive information from the input feature space, thus minimizing potential discrimination in subsequent prediction tasks. We call this a &amp;ldquo;fair representation&amp;rdquo; of the data. A key advantage of using a fair data representation is that a practitioner can simply run any off-the-shelf algorithm and still maintain social equity without having to worry about it.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Development of unsupervised feature extraction methods for analysis of large earthquake data sets</title>
-      <link>/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</guid>
       <description>&lt;p&gt;We are requesting a DSI Scholar position for an undergraduate to work with myself and my collaborator Ben Holtzman (Lamont Doherty Earth Observatory, LDEO). We have been collaborating on the development of novel machine learning applications to seismology, specifically unsupervised feature extraction in spectral properties of large numbers of small earthquakes. Our first application was published in Science Advances last year (Holtzman, Pate, Paisley, Waldhauser, Repetto, &amp;ldquo;Machine learning reveals cyclic changes in seismic source spectra in Geysers geothermal field.&amp;rdquo; Science Advances 4, eaao2929. doi:10.1126/sciadv.aao2929, 2018). Currently we are building a synthetic dataset to better understand the features that control clustering behavior, and compare different clustering methods.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Dynamic Identification and Risk Analysis of Tailings Dam Failure for Mining Operations</title>
-      <link>/2019/09/project-dynamic-identification-and-risk-analysis-of-tailings-dam-failure-for-mining-operations/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-dynamic-identification-and-risk-analysis-of-tailings-dam-failure-for-mining-operations/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-dynamic-identification-and-risk-analysis-of-tailings-dam-failure-for-mining-operations/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-dynamic-identification-and-risk-analysis-of-tailings-dam-failure-for-mining-operations/</guid>
       <description>&lt;p&gt;Recently, there have been multiple failures of large tailings dams that store mining wastes, around the world, with devastating impacts (e.g., &lt;a href=&#34;https://en.wikipedia.org/wiki/Brumadinho_dam_disaster)&#34;&gt;https://en.wikipedia.org/wiki/Brumadinho_dam_disaster)&lt;/a&gt;. These dams are unique in that they continue to be raised as waste piles up and can get as tall as 400m. The risk and impact of failure increases as the dam gets taller.  There are several thousand such dams around the world. The concept of the project is to develop a continuous status monitoring and risk analysis of these dams, automatically, using globally available satellite data from multiple bands, as well as regularly updated climate data products. Overtopping of the dam during an intense or persistent rainfall event is the leading mode of failure. Foundation failure which leads to a liquefaction or deformation of the dam is the second leading failure mode.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Healthcare machine learning and text mining (NimbleMiner)</title>
-      <link>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</guid>
       <description>&lt;p&gt;Our lab develops an open-source text mining software called NimbleMiner (&lt;a href=&#34;http://github.com/mtopaz/NimbleMiner)&#34;&gt;http://github.com/mtopaz/NimbleMiner)&lt;/a&gt;. We will work on improving the software using the latest machine learning techniques.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Spatiotemporal simulation and forecasting of renewable energy</title>
-      <link>/2019/09/project-spatiotemporal-simulation-and-forecasting-of-renewable-energy/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-spatiotemporal-simulation-and-forecasting-of-renewable-energy/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-spatiotemporal-simulation-and-forecasting-of-renewable-energy/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-spatiotemporal-simulation-and-forecasting-of-renewable-energy/</guid>
       <description>&lt;p&gt;A major obstacle to the decarbonization of the electricity production systems is the multi scale (space and time) variability of wind, solar and hydro energy sources. Much work is being done to understand the high frequency variations in these sources from the perspective of grid integration. However, as with rainfall and other natural systems, these variables can exhibit log-log fractal scaling in space and time, such that the variance of the process increases with temporal duration and with spatial scale. Focusing on high frequency variations thus grossly understates the systemic risk that is associated with these sources. Appropriate national grid design including electricity storage allocation, needs to consider both the periodic annual cycle variations and quasi-periodic inter-annual variability which have larger variance, and the phase lags in these variations across space. The proposed project would explore the development of a multi-level, hierarchical spatio-temporal model for wind or solar using data from the continental USA and its subregions to explore stochastic simulations and multi-scale predictions of the associated risk to inform system design and financial instruments development.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Data Science and the regulation of financial markets (application closed)</title>
-      <link>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
       <description>&lt;p&gt;The development of computational data science
 techniques in natural language processing (NLP) and machine
 learning (ML) algorithms to analyze large and complex textual
@@ -82,19 +82,19 @@ computational analysis.&lt;/p&gt;</description>
     
     <item>
       <title>Project: Global Interconnections Project (application closed)</title>
-      <link>/2018/01/project-global-interconnections-project-application-closed/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-global-interconnections-project-application-closed/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-global-interconnections-project-application-closed/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-global-interconnections-project-application-closed/</guid>
       <description>&lt;p&gt;Understand interconnected nature of global multi-national companies via their supply chain, product and services competition, co-investments and co-ownerships as well as other dependencies between operations and revenue streams. We would like to consider the way news on any company specifically propagate down the connection graph and impact other businesses that are related in a way that is not necessarily explicit.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Neuronal Ensemble Detection with Temporal CRF (application closed)</title>
-      <link>/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</guid>
       <description>&lt;p&gt;Given calcium imaging data of active neurons, can we detect groups of co-firing neurons, called neuronal ensembles? We have a number of datasets consisting of hundreds of neurons imaged for thousands of time steps, and seek to extend an existing CRF model to consider temporal relationships. The goal is to be able to detect neuronal ensembles that span multiple time steps, and that are not conditioned on external stimuli.&lt;/p&gt;</description>
     </item>
     

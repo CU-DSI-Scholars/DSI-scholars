@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javascript on Columbia DSI Scholars</title>
-    <link>/tags/javascript/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/javascript/</link>
     <description>Recent content in Javascript on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blockchain Expert Prediction Market</title>
-      <link>/2021/01/project-blockchain-expert-prediction-market/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-blockchain-expert-prediction-market/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-blockchain-expert-prediction-market/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-blockchain-expert-prediction-market/</guid>
       <description>&lt;p&gt;Prediction Markets have been used to forecasts outcomes of research interest using market mechanism (See &lt;a href=&#34;https://www.nature.com/news/the-power-of-prediction-markets-1.20820)&#34;&gt;https://www.nature.com/news/the-power-of-prediction-markets-1.20820)&lt;/a&gt;. A decentralized prediction market, Augur, has been created on blockchain for betting purposes (See, &lt;a href=&#34;https://www.augur.net/)&#34;&gt;https://www.augur.net/)&lt;/a&gt;. An alternative approach to prediction market has been proposed in Dalal et al (&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0040162511000734)&#34;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0040162511000734)&lt;/a&gt;.  This project proposes to develop a new model for decentralized prediction market which can be used to elicit opinions of university researchers on socially important issues. Specifically, the project will use Ethereum based platform to develop a smart contract and an ERC-20 compliant token for researchers to participate in the new market.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: ArXivLab: A Platform for Developing and Evaluating Exploratory Tools for the Scientific Literature</title>
-      <link>/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</guid>
       <description>&lt;p&gt;Through ArXivLab we aim to develop the next generation recommender systems for the scientific literature using statistical machine learning approaches. In collaboration with ArXiv we are currently developing a new scholarly literature browser which will be able to extract knowledge implicit in the mathematical and scientific literature, offer advanced mathematical search capabilities and provide personalized recommendations.&lt;/p&gt;</description>
     </item>
     

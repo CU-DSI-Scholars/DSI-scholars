@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EHR on Columbia DSI Scholars</title>
-    <link>/tags/ehr/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/ehr/</link>
     <description>Recent content in EHR on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ehr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/ehr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Natural Language Processing within the CONCERN Project</title>
-      <link>/2021/01/project-natural-language-processing-within-the-concern-project/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-natural-language-processing-within-the-concern-project/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-natural-language-processing-within-the-concern-project/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-natural-language-processing-within-the-concern-project/</guid>
       <description>&lt;p&gt;The CONCERN project aims to develop models and tools to quantify clinician concern about patient deterioration in the inpatient setting that can be used in early warning scores.  We have discovered and validated several measurable ways within the Electronic Health Record (EHR) to measure clinician concern and have demonstrated that our approach identified patients at risk of deterioration earlier than other methods, which focus only on physiological data.  One of our approaches is leveraging documentation of certain concepts within narrative text in nursing notes that are consistent with concern about a patient. However, this narrative free text is not easily accessible - it is often mixed together with structured or templated text and varies over note types. The steps to be performed are&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data driven approaches to finding undiagnosed HS patients in EHR</title>
-      <link>/2020/09/project-data-driven-approaches-to-finding-undiagnosed-hs-patients-in-ehr/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-data-driven-approaches-to-finding-undiagnosed-hs-patients-in-ehr/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-data-driven-approaches-to-finding-undiagnosed-hs-patients-in-ehr/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-data-driven-approaches-to-finding-undiagnosed-hs-patients-in-ehr/</guid>
       <description>&lt;p&gt;Electronic Health Records (EHR) provide a rich integrated source of phenotypic information that allow for automated extraction and recognition of phenotypes from EHR narratives and provide an efficient framework for conducting epidemiological and clinical studies.  In addition, when EHR are linked to genetic data in electronic biorepositories such as eMERGE and All of US, phenotype information embedded in EHR can be used to efficiently construct cohorts powered for genetic discoveries. However, limitations arise from repurposing data generated from healthcare processes for research, which can include data sparseness, low quality data and diagnostic errors. Phenotyping algorithms are developed to overcome these limitations providing a robust means to assess case status.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Risk factors associated with aggressive forms of head and neck cancer</title>
-      <link>/2020/09/project-risk-factors-associated-with-aggressive-forms-of-head-and-neck-cancer/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-risk-factors-associated-with-aggressive-forms-of-head-and-neck-cancer/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-risk-factors-associated-with-aggressive-forms-of-head-and-neck-cancer/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-risk-factors-associated-with-aggressive-forms-of-head-and-neck-cancer/</guid>
       <description>&lt;p&gt;A translational medical informatic project is available to identify risk factors associated with head and neck cancer and lung cancer in electronic medical records. Projects include data extraction, data curation, and establishing and maintaining a database of biospecimens and patients&#39; characteristics. Statistical analysis and modeling will be done to identify clinical characteristics and risk factors which are associated with aggressive form of tumors. Training and mentorship will be provided. Prospective candidates should have great communication skills, willingness to work in a highly collaborative environment, and have excellent time management and organizational skills.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Identifying disease subtypes by comorbidity clustering using structured data from electronic health records</title>
-      <link>/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</guid>
       <description>&lt;p&gt;A major challenge to implementing precision medicine arises from patients who share a clinical diagnosis but have different biological causes of disease. Disease subtypes that arise from obscure etiological heterogeneity create inefficiencies in healthcare and attenuate power in clinical trials and research studies. The ability to stratify patients into biologically homogenous subgroups improves the potential for translational research by allowing us to design more powerful studies.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Linking State Medicaid and Clinical Registry Data to Assess Long-Term Outcomes for Children with Congenital Heart Disease</title>
-      <link>/2020/01/project-linking-state-medicaid-and-clinical-registry-data-to-assess-long-term-outcomes-for-children-with-congenital-heart-disease/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-linking-state-medicaid-and-clinical-registry-data-to-assess-long-term-outcomes-for-children-with-congenital-heart-disease/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-linking-state-medicaid-and-clinical-registry-data-to-assess-long-term-outcomes-for-children-with-congenital-heart-disease/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-linking-state-medicaid-and-clinical-registry-data-to-assess-long-term-outcomes-for-children-with-congenital-heart-disease/</guid>
       <description>&lt;p&gt;Scholars would assist with Aim 1 of a new R01 working with our lab and the Health Evaluation and Analytics Laboratory at NYU Wagner.&lt;/p&gt;
 &lt;p&gt;Congenital heart defects (CHDs) are the most common and resource intensive birth defects managed in the United States (US), affecting ~40,000 births per year in the US. (1) One-year mortality for these children is &amp;gt;10%.  It is &amp;gt;30% for children requiring neonatal surgery. (2) Yet there are currently limited data on long-term outcomes and health expenditures for these children.  Due to marked heterogeneity in disease subtypes and treatments among CHD patients, the power of single-center studies is limited.  Multi-center data are siloed in diagnostic or procedural registries or in-patient databases, or are the product of individual investigations.  Administrative data may lack clinical precision, as ICD codes for this population are not based on physiology.  Further, data on costs and value typically rely on cost-to-charge ratio based costs, which are highly influenced by hospital accounting.&lt;/p&gt;</description>
     </item>

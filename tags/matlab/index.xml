@@ -2,152 +2,152 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matlab on Columbia DSI Scholars</title>
-    <link>/tags/matlab/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/matlab/</link>
     <description>Recent content in Matlab on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decoding the elements of mouse behavior that reveal vigilance during exploration</title>
-      <link>/2021/01/project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</guid>
       <description>&lt;p&gt;Decoding behavioral signifiers for the brain state of vigilance can have far reaching implications for understanding actions and identifying disease. We are using high resolution video recordings of mice as they navigate a maze, but have access to very few pre-determined behavioral signifiers. Several recent publications implemented computer vision to extract a variety of previously unreachable aspects of behavioral analysis, including animal pose estimation and distinguishable internal states. These descriptions allowed for the identification and characterization of dynamics, which then revealed an unprecedented richness to the behaviors that determine decision making. Applying such computational approaches in our maze in the context of behaviors that have been validated to measure choice and memory can reveal dimensions of behavior that predict or even determine psychological constructs like vigilance. DSI scholars would use pose estimation analysis to evaluate behavioral signifiers for choice and memory and relate it to our real time concurrent measures of neural activity and transmitter release. The students would also have opportunity to examine the effect of disease models known to impair performance on our maze task on any identified signifier.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>mmWave measurements in the COSMOS testbed</title>
-      <link>/2021/01/project-mmwave-measurements-in-the-cosmos-testbed/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-mmwave-measurements-in-the-cosmos-testbed/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-mmwave-measurements-in-the-cosmos-testbed/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-mmwave-measurements-in-the-cosmos-testbed/</guid>
       <description>&lt;p&gt;5G cellular networks will use high-frequency millimeter-wave (mmWave) communication, which promises high data rates and ample spectrum availability. Students working on this project will help conduct a mmWave wireless channel measurement campaign around the COSMOS testbed (&lt;a href=&#34;http://www.cosmos-lab.org&#34;&gt;www.cosmos-lab.org&lt;/a&gt;), a wireless networking testbed located at Columbia stretching between 120th and 136th St. In collaboration with Bell Labs students will be able to use unique, state-of-the-art mmWave equipment to conduct these measurements (see pre-pandemic example in &lt;a href=&#34;https://wimnet.ee.columbia.edu/wp-content/uploads/2019/08/mmNets2019_COSMOS_28GHz.pdf)&#34;&gt;https://wimnet.ee.columbia.edu/wp-content/uploads/2019/08/mmNets2019_COSMOS_28GHz.pdf)&lt;/a&gt;. The measurements will play an important role in the development of network-level control algorithms, which is the other, more analytical side of this research project.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Biomechanical indicators of adaptive decision making in children with unilateral cerebral palsy</title>
-      <link>/2020/09/project-biomechanical-indicators-of-adaptive-decision-making-in-children-with-unilateral-cerebral-palsy/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-biomechanical-indicators-of-adaptive-decision-making-in-children-with-unilateral-cerebral-palsy/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-biomechanical-indicators-of-adaptive-decision-making-in-children-with-unilateral-cerebral-palsy/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-biomechanical-indicators-of-adaptive-decision-making-in-children-with-unilateral-cerebral-palsy/</guid>
       <description>&lt;p&gt;The project will entail data processing and data analysis of behavioral and biomechanical data (collected) from experiments. The goal will be to develop a manuscript for publication at the end of the Spring semester 2021&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Prediction of microbial communities metabolic output</title>
-      <link>/2020/09/project-prediction-of-microbial-communities-metabolic-output/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-prediction-of-microbial-communities-metabolic-output/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-prediction-of-microbial-communities-metabolic-output/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-prediction-of-microbial-communities-metabolic-output/</guid>
       <description>&lt;p&gt;The human microbiome is associated with different diseases, but the metabolic mechanisms through which it can modulate health are mostly unknown. Understanding these mechanisms is of paramount importance for prevention and treatment. While metagenomics analysis provides associations between microbial presence and specific diseases, metabolomics analysis can highlight metabolic alterations. None of the two, however, can unveil microbiome metabolic mechanisms associated with these detected alterations. In an attempt to fill this knowledge gap, several microbiome metabolic modeling methods were recently developed. An accurate evaluation of the accuracy of such methods in relation to different pathologies and microbiomes was never conducted.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Using machine learning to understand tropical cyclone genesis pathways</title>
-      <link>/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</guid>
       <description>&lt;p&gt;Until today there is no comprehensive theory for formation of tropical cyclones (hurricanes, typhoons). Therefore, it is common to use statistical methods to derive empirical indices as proxies for the probability for genesis. There are also different types of genesis pathways that have been explored in ad-hoc manner. I would like to explore the possibility of using machine learning to explore tropical cyclone genesis, in particular the different pathways in a more comprehensive manner.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Understanding Orientation</title>
-      <link>/2020/02/project-understanding-orientation/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/02/project-understanding-orientation/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/02/project-understanding-orientation/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/02/project-understanding-orientation/</guid>
       <description>&lt;p&gt;Orienting to a novel event is a rapid shift in attention to a change in one’s surroundings that appears to be a fundamental biological mechanism for survival and essentially functions as a &amp;ldquo;what is it&amp;rdquo; detector. Orienting appears to play a central role in human learning and development, as it facilitates adaptation to an ever-changing environment.  Thus, orienting can be viewed as an allocational mechanism in which attention sifts through the complex multi-sensory world and selects relevant stimuli for further processing.  The selection of stimuli for further processing has implications for what will be encoded into memories and how strong those memory traces will be.  The ability to differentiate between relevant and irrelevant input, to inhibit the processing of irrelevant stimuli, and to sustain attention requires control, and inhibitory processes that improve with age.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A system for exploratory data analysis in neuroscience</title>
-      <link>/2020/01/project-a-system-for-exploratory-data-analysis-in-neuroscience/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-a-system-for-exploratory-data-analysis-in-neuroscience/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-a-system-for-exploratory-data-analysis-in-neuroscience/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-a-system-for-exploratory-data-analysis-in-neuroscience/</guid>
       <description>&lt;p&gt;Advances in data collection technologies in neuroscience has resulted in a deluge of high-quality data that needs to be analyzed, and presented to the experimentalist in a meaningful way. Usually the “data analysis and visualization”-pipeline is built from scratch for each new experiment resulting in a significant amount of code duplication and wasted effort in rebuilding the analysis tools. There is a growing need for a unified system to automate much of the repetitive tasks and aid biologists in understanding their data more efficiently.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Advanced data science methods to improve spinal electrical stimulation for paralysis</title>
-      <link>/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</guid>
       <description>&lt;p&gt;We aim to augment recovery in spinal cord (SC) injured patients. Electrical stimulation of the SC can facilitate recovery, but the mechanisms are not yet understood. One knowledge gap lies in the exact pathways that are recruited by stimulation. To close this gap, we have tested the effects of SC stimulation in people undergoing clinically indicated surgery. By testing the distribution and size of muscle responses to SC stimulation, we can infer which circuits are activated. We are also examining how SC injury changes those responses. We propose to use Bayesian methods to understand the  interaction between muscle responses to stimulation and the MRI indicated pattern of damage. The project will involve construction of models linking multiple data modalities that predict muscle activity, followed by the modification of these models to account for patterns of damage. Construction of such models would enable a deeper understanding of SC stimulation leading to more effective stimulation paradigms.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Combining in vivo calcium imaging datasets and deep learning networks for video analysis (DeepLabCut) to identify novel brain regulators of fine motor learning in mice</title>
-      <link>/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-combining-in-vivo-calcium-imaging-datasets-and-deep-learning-networks-for-video-analysis-deeplabcut-to-identify-novel-brain-regulators-of-fine-motor-learning-in-mice/</guid>
       <description>&lt;p&gt;Our goal is to use deep learning networks to understand which neurons in the brain encode fine motor movements in mice. We collected large datasets entailing calcium imaging data of active neurons and high-resolution videos when mice perform motor tasks. We want to use recent advances in deep learning to (1) estimate the poses of mouse body parts at a high spatiotemporal resolution (2) extract behaviorally-relevant information and (3) align them with neural activity data. Behavioral video analysis is made possible by transfer learning, the ability to take a network that was trained on a task with a large supervised dataset and utilize it on a small supervised dataset. This has been used e.g. in a human pose–estimation algorithm called DeeperCut. Recently, such algorithms were tailored for use in the laboratory in a Python-based toolbox known as DeepLabCut, providing a tool for high-throughput behavioral video analysis.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Deep learning for tracking single molecules and proteins</title>
-      <link>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</guid>
       <description>&lt;p&gt;This project will be focused on creating a deep learning framework for tracking individual molecules and proteins as they move within a cell under various conditions. Using total internal reflection (TIRF) microscopy, we have accumulated more than 10 million trajectories over dozens of experimental preparations with differences in both the imaging approaches as well as the biological context. In our experiments we have captured particles under a wide variety of conditions including increased protein expression level, and a range of drug concentrations. Our biggest challenge is being able to stably track the movement of a particle as it passes by other particles or groups of particles, and to do this in a way that generalizes over novel conditions. The Data Science Institute Scholar chosen for this project would work with scientists in the Javitch laboratory and others across the Columbia campus to conceive of an approach for efficiently and effectively tracking particles. The resulting work would be of great interest to an increasing number of scientists working in this field who currently rely on methods based on feature engineering that are often inaccurate or inflexible compared to modern deep learning methods.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Influence of past brain state on future perception</title>
-      <link>/2020/01/project-influence-of-past-brain-state-on-future-perception/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-influence-of-past-brain-state-on-future-perception/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-influence-of-past-brain-state-on-future-perception/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-influence-of-past-brain-state-on-future-perception/</guid>
       <description>&lt;p&gt;We are constantly exposed to inputs from the outside world, but we do not perceive everything we are exposed to. Some inputs are rather weak: we might perceive them at one point in time, but not at another. The state of our brains right before we receive such sensory inputs influences whether or not we perceive them. Brain oscillations are proposed to play a key role in setting these brain states; however, how exactly these brain rhythms influence our perception remains a topic of active research.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Analysis and Prediction of Opioid Outbreak Clusters</title>
-      <link>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
       <description>&lt;p&gt;We are interested in investigating how deaths and hospitalizations resulting from opioid overdoses cluster across space and time in the US. This analysis will be conducted with the aid of two comprehensive databases: 1) detailed mortality data across the US; and 2) a stratified sample of all hospitalizations in the US, which can be subset to select for opioid overdoses. Analyses will be extended to drug type (prescription drugs, fentanyl etc.) and subject demographics (age, race, etc.). We have previously conducted similar cluster analysis for other health phenomena.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Distance Metric Learning in Hyperbolic Spaces</title>
-      <link>/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</guid>
       <description>&lt;p&gt;Effective representations and analyses of symbolic data, such as lexical data (words) and networks (graphs), have become of great interest in recent years, due both to advancements in data collection in Natural Language Processing (NLP), and the ubiquity of social networks. Such data often has no natural numerical representation, and is typically described in terms relational expressions or as pairwise similarities. It turns out that finding numerical representations of such data in “Hyperbolic” spaces&amp;mdash;rather than into the more familiar Euclidean spaces&amp;mdash;is a more effective way to preserve valuable relational information.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Neuronal Ensemble Detection with Temporal CRF (application closed)</title>
-      <link>/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-neuronal-ensemble-detection-with-temporal-crf/</guid>
       <description>&lt;p&gt;Given calcium imaging data of active neurons, can we detect groups of co-firing neurons, called neuronal ensembles? We have a number of datasets consisting of hundreds of neurons imaged for thousands of time steps, and seek to extend an existing CRF model to consider temporal relationships. The goal is to be able to detect neuronal ensembles that span multiple time steps, and that are not conditioned on external stimuli.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Real-time brain state classification</title>
-      <link>/2018/01/project-real-time-brain-state-classification/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-real-time-brain-state-classification/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</guid>
       <description>&lt;p&gt;Using machine learning to conduct brain state classification at real-time on EEG/fNIRS/fMRI data.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Human peri-ictal single unit activity</title>
-      <link>/2018/01/project-human-peri-ictal-single-unit-activity/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-human-peri-ictal-single-unit-activity/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-human-peri-ictal-single-unit-activity/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-human-peri-ictal-single-unit-activity/</guid>
       <description>&lt;p&gt;Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures.  Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge.  Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and addressing fundamental questions about the activity of different cell classes at seizure initiation.&lt;/p&gt;</description>
     </item>
     

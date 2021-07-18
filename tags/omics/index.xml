@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Omics on Columbia DSI Scholars</title>
-    <link>/tags/omics/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/omics/</link>
     <description>Recent content in Omics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/omics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/omics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A cancer vulnerability network for functional genomics</title>
-      <link>/2021/01/project-a-cancer-vulnerability-network-for-functional-genomics/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-a-cancer-vulnerability-network-for-functional-genomics/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-a-cancer-vulnerability-network-for-functional-genomics/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-a-cancer-vulnerability-network-for-functional-genomics/</guid>
       <description>&lt;p&gt;Genome wide CRISPR lethality screens show broad variability in cellular fitness phenotypes across cancer. We postulate that genes with overlapping functions should deliver similar responses enabling functional annotation of uncharacterized genes. Here we will build a network connecting genes based on the similarity of their knockout phenotypes, benchmark this network using protein interaction databases and functional  transcriptomics, and leverage network analyses to identify mutational and transcriptional modulators of functional complexes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Comparison of four workflows for structural variants identification</title>
-      <link>/2021/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-comparison-of-four-workflows-for-structural-variants-identification/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-comparison-of-four-workflows-for-structural-variants-identification/</guid>
       <description>&lt;p&gt;Recent advances in genomic technologies have led to the identification of many novel disease-gene associations, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to identify structural variants (i.e. relatively large deletions and duplications of genomic sequences). These workflows can lead to the identification of different structural variants, raising the risk of missing disease-causing variants when using only one of those methods.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Comparison of three workflows for the identification of genetic variants</title>
-      <link>/2021/01/project-comparison-of-three-workflows-for-the-identification-of-genetic-variants/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-comparison-of-three-workflows-for-the-identification-of-genetic-variants/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-comparison-of-three-workflows-for-the-identification-of-genetic-variants/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-comparison-of-three-workflows-for-the-identification-of-genetic-variants/</guid>
       <description>&lt;p&gt;Recent advances in genomic technologies have led to the identification of many novel disease-associated genes, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to extract the genetic information from raw data, including The Broad Institute&amp;rsquo;s GATK, Seven Bridge&amp;rsquo;s GenomeGraph and Google&amp;rsquo;s DeepVariant. These workflows can lead to the identification of different genetic variants, raising the risk of missing disease-causing variants when using only one of these methods.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Identification of genomic and transcriptomic landscape of head and neck cancer</title>
-      <link>/2021/01/project-identification-of-genomic-and-transcriptomic-landscape-of-head-and-neck-cancer/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-identification-of-genomic-and-transcriptomic-landscape-of-head-and-neck-cancer/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-identification-of-genomic-and-transcriptomic-landscape-of-head-and-neck-cancer/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-identification-of-genomic-and-transcriptomic-landscape-of-head-and-neck-cancer/</guid>
       <description>&lt;p&gt;A highly collaborative project is available in Dr. Alison Taylor&amp;rsquo;s and Dr. Fatemeh Momen-Heravi&amp;rsquo;s lab. This project aims to identify molecular changes such as mutations and RNA signature of head and neck cancer in Black/African American and Hispanic minority populations with the goal of identifying novel therapies for cancer patients and reduce health disparities. The project entails analysis of DNA and RNA sequencing data. Basic coding skills are necessary and the student will be mentored by both principal investigators. The prospective candidate should be motivated, a fast learner, and be able to work in a highly collaborative team environment.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Meta-analysis of single-cell genomic data to define cellular heterogeneity and dynamics in atherosclerotic vasculature</title>
-      <link>/2021/01/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</guid>
       <description>&lt;p&gt;Atherosclerosis, a chronic inflammatory disease of the artery wall, is the underlying cause of human coronary heart diseases. Single-cell genomics have catalyzed the revolution in understanding of cellular heterogeneity and dynamics in atherosclerotic vasculature. The goal of the project is to leverage published and our own single-cell genomic data and perform a meta-analysis. Meta-analysis allows integrated analysis of much larger cell numbers and helps resolve the full spectrum of cellular heterogeneity and dynamics in atherosclerotic vessels and facilitate therapeutic translation. The DSI scholar will: (1) use the latest bioinformatic pipeline to integrate the existing scRNA-seq, CITE-seq, and scATAC-seq datasets; (2) analyze the integrated datasets using R/Bioconductor packages (e.g. Seurat); (3) interpret the data using pathway and network analysis. Some relevant workflows are available through the &amp;ldquo;Resources&amp;rdquo; page of our lab website at &lt;a href=&#34;https://hanruizhang.github.io/zhanglab/&#34;&gt;https://hanruizhang.github.io/zhanglab/&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Systems biology approaches of mouse models of cancer</title>
-      <link>/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</guid>
       <description>&lt;p&gt;We have a position open for a student(s) who is/are interested in working on systems biology projects in bladder and prostate cancer. Specifically, we are looking for students who are well versed in statistical analysis, basic understanding of standard statistical techniques (appied to biology is a plus) and knowledge of R is required. The position will entail supporting post-doctoral members of the lab with computational analyses of different types of biological data in a wide range of projects.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Identification of genetic variation involved in Mendelian diseases</title>
-      <link>/2020/09/project-identification-of-genetic-variation-involved-in-mendelian-diseases/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-identification-of-genetic-variation-involved-in-mendelian-diseases/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-identification-of-genetic-variation-involved-in-mendelian-diseases/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-identification-of-genetic-variation-involved-in-mendelian-diseases/</guid>
       <description>&lt;p&gt;This project will focus on the identification of genetic factors involved in various forms of hereditary diseases, including neurodevelopmental disorders, hearing loss, skeletal disorders and more. Some of these children endure years-long diagnostic odysseys of trial-and-error testing with inconclusive results and misdirected treatments. We are dedicated to track down their molecular causes by integrating various “-omics” technologies, including genomics, transcriptomics and epigenomics.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Single-nucleus and spatial transcriptomics analysis of APOE mouse and human brain samples</title>
-      <link>/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</guid>
       <description>&lt;p&gt;We are conducting a large-scale study analyzing brain tissues from mice and humans with different APOE genotypes, using both single-nucleus sequencing and spatial transcriptomics to assess RNA expression differences caused by APOE genotype. We are working with an expert bioinformatics core, but would like a data science student to help perform the analyses and act as an in-lab lead for the bioinformatics analysis. Prior experience analyzing RNA-sequencing data is preferred, but not required.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A multi-omic map of human aging</title>
-      <link>/2020/01/project-a-multi-omic-map-of-human-aging/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-a-multi-omic-map-of-human-aging/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-a-multi-omic-map-of-human-aging/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-a-multi-omic-map-of-human-aging/</guid>
       <description>&lt;p&gt;This project builds on a novel cellular model of human aging (Sturm et al. Epigenomics 2019) where we can investigate trajectories of multiple molecular features of aging over long time periods. The underlying multi-omic dataset includes epigenomic (DNA methylation), proteomic (protein abundance), bioenergetics (mitochondrial respiration), telomere length, and various secreted factors. A major challenge for the DSI Fellow will be to integrate the multi-omic dataset to capture dynamic signatures of mitochondrial dysfunction and cellular aging, working collaboratively with other scientists. The existing project is expected to result in one or more publications. Possibility to continue work for pay over the summer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Decoding the human genome with interpretable deep learning </title>
-      <link>/2020/01/project-decoding-the-human-genome-with-interpretable-deep-learning/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-decoding-the-human-genome-with-interpretable-deep-learning/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-decoding-the-human-genome-with-interpretable-deep-learning/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-decoding-the-human-genome-with-interpretable-deep-learning/</guid>
       <description>&lt;p&gt;The function for much of the 3 billion letters in the human genome remain to be understood. Advances in DNA sequencing technology have generated enormous amount of data, yet we don’t have the tool to extract rules of how the genome works. Deep learning holds great potential in decoding the genome, in particular due to the digital nature of DNA sequences and the ability to handle large data sets. However, like many other applications, the interpretability of deep learning models hampers its ability to help understand the genome. We are developing deep learning architectures embedded with the principles of gene regulation and we will be leveraging billions of existing measurements of gene activity to learn a mechanistic model of gene regulation in human cells.&lt;/p&gt;</description>
     </item>
     
