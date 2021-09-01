@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021  - Data For Good on Columbia DSI Scholars</title>
+    <link>/tags/2021-data-for-good/</link>
+    <description>Recent content in 2021  - Data For Good on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/2021-data-for-good/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data For Good: Citizen Science Interactive- an open source data science learning tool</title>
+      <link>/2021/09/project-dfg-citizen-science-interactive-an-open-source-data-science-learning-tool/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/09/project-dfg-citizen-science-interactive-an-open-source-data-science-learning-tool/</guid>
+      <description>&lt;p&gt;This DFG project is a collaboration with researchers from Pittsburgh and ThroughlinesEdu. We are developing a R Shiny-based dashboard that enables grades 3-8 students to interactively learn data science concepts and research methods through themes of environmental justice. The goal is to develop a stand-alone educational tool that is open source and accessible by all regardless of demographic background, which can then be integrated into the teaching curricula. To this end, we are developing static and dynamic visualizations (e.g., graphs, figures, maps) using data on natural disasters, climate, and sea levels, as well as relief allocation to areas impacted by natural disasters.The end product will be introduced to social studies teachers of various grades 3-8 who work at schools in underserved districts at the end of October 2021.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
