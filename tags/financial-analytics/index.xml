@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial analytics on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/financial-analytics/</link>
+    <link>/tags/financial-analytics/</link>
     <description>Recent content in Financial analytics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/financial-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/financial-analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project: Quantifying Global Risks</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-quantifying-global-risks/</link>
+      <link>/2019/01/project-quantifying-global-risks/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-quantifying-global-risks/</guid>
+      <guid>/2019/01/project-quantifying-global-risks/</guid>
       <description>&lt;p&gt;In a globalized world we live in today consequences of catastrophic events easily transgress national borders. Whether it’s a natural disaster, a war or an economic crisis it’s likely to spread out and affect all of us. We propose a framework to model global risks that is not bound to any specific model and is a hybrid of human and machine intelligence. The core of this approach is in using Bayesian Nets of causalities constructed by an analyst equipped with text mining and a map of economic, political and business interconnections.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Data Science and the regulation of financial markets (application closed)</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
+      <link>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
+      <guid>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
       <description>&lt;p&gt;The development of computational data science
 techniques in natural language processing (NLP) and machine
 learning (ML) algorithms to analyze large and complex textual
@@ -37,10 +37,10 @@ computational analysis.&lt;/p&gt;</description>
     
     <item>
       <title>Project: Global Interconnections Project (application closed)</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-global-interconnections-project-application-closed/</link>
+      <link>/2018/01/project-global-interconnections-project-application-closed/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-global-interconnections-project-application-closed/</guid>
+      <guid>/2018/01/project-global-interconnections-project-application-closed/</guid>
       <description>&lt;p&gt;Understand interconnected nature of global multi-national companies via their supply chain, product and services competition, co-investments and co-ownerships as well as other dependencies between operations and revenue streams. We would like to consider the way news on any company specifically propagate down the connection graph and impact other businesses that are related in a way that is not necessarily explicit.&lt;/p&gt;</description>
     </item>
     

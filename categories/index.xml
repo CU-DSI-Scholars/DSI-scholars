@@ -2,188 +2,215 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Announcement</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/announcement/</link>
-      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <title>Closed  2021</title>
+      <link>/categories/closed-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/announcement/</guid>
+      <guid>/categories/closed-2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>info</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/info/</link>
-      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <title>Closed Fall 2021</title>
+      <link>/categories/closed-fall-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/info/</guid>
+      <guid>/categories/closed-fall-2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Closed Flexible Timeline 2021</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline-2021/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Closed Flexible Timeline</title>
+      <link>/categories/closed-flexible-timeline/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Closed Spring 2021</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-spring-2021/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-spring-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Closed Summer 2021</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-summer-2021/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-summer-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data For Good</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/data-for-good/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/data-for-good/</guid>
+      <guid>/categories/closed-flexible-timeline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Fall 2021</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-fall-2021/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <link>/categories/open-fall-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-fall-2021/</guid>
+      <guid>/categories/open-fall-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Flexible Timeline</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/</link>
+      <link>/categories/open-flexible-timeline/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/open-flexible-timeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>info</title>
+      <link>/categories/info/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Announcement</title>
+      <link>/categories/announcement/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closed Flexible Timeline 2021</title>
+      <link>/categories/closed-flexible-timeline-2021/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/</guid>
+      <guid>/categories/closed-flexible-timeline-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closed Spring 2021</title>
+      <link>/categories/closed-spring-2021/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/closed-spring-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closed Summer 2021</title>
+      <link>/categories/closed-summer-2021/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/closed-summer-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data For Good</title>
+      <link>/categories/data-for-good/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data-for-good/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Flexible Timeline 2021</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline-2021/</link>
+      <link>/categories/open-flexible-timeline-2021/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline-2021/</guid>
+      <guid>/categories/open-flexible-timeline-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Spring 2021</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-spring-2021/</link>
+      <link>/categories/open-spring-2021/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-spring-2021/</guid>
+      <guid>/categories/open-spring-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Summer 2021</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-summer-2021/</link>
+      <link>/categories/open-summer-2021/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-summer-2021/</guid>
+      <guid>/categories/open-summer-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Closed Projects Fall 2020</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-projects-fall-2020/</link>
+      <link>/categories/closed-projects-fall-2020/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-projects-fall-2020/</guid>
+      <guid>/categories/closed-projects-fall-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Projects Fall 2020</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-projects-fall-2020/</link>
+      <link>/categories/open-projects-fall-2020/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-projects-fall-2020/</guid>
+      <guid>/categories/open-projects-fall-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project Summer 2020-2</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-summer-2020-2/</link>
+      <link>/categories/project-summer-2020-2/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-summer-2020-2/</guid>
+      <guid>/categories/project-summer-2020-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project Spring 2020</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-spring-2020/</link>
+      <link>/categories/project-spring-2020/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-spring-2020/</guid>
+      <guid>/categories/project-spring-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project Summer 2020</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-summer-2020/</link>
+      <link>/categories/project-summer-2020/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-summer-2020/</guid>
+      <guid>/categories/project-summer-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project Fall 2019</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-fall-2019/</link>
+      <link>/categories/project-fall-2019/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-fall-2019/</guid>
+      <guid>/categories/project-fall-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project 2019</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-2019/</link>
+      <link>/categories/project-2019/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-2019/</guid>
+      <guid>/categories/project-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/blog/</link>
+      <link>/categories/blog/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/blog/</guid>
+      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project 2018</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-2018/</link>
+      <link>/categories/project-2018/</link>
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-2018/</guid>
+      <guid>/categories/project-2018/</guid>
       <description></description>
     </item>
     

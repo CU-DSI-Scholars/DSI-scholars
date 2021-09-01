@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GPU on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/gpu/</link>
+    <link>/tags/gpu/</link>
     <description>Recent content in GPU on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project: Blockchain Anomaly Detection</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-blockchain-anomaly-detection/</link>
+      <link>/2019/01/project-blockchain-anomaly-detection/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-blockchain-anomaly-detection/</guid>
+      <guid>/2019/01/project-blockchain-anomaly-detection/</guid>
       <description>&lt;p&gt;The project has collected a large set of data (&amp;gt;200GB) from a cryptocurrency block chain.  It is developing methods for detecting anomalies in transactions based on newer Social Networks, Graph Analysis and Machine Learning methods. The work involves data cleaning/wrangling and creation and implementation of various algorithms and analyzing the transactions for identifying different set of anomalies and manipulations.&lt;/p&gt;</description>
     </item>
     

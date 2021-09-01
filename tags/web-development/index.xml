@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web development on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/web-development/</link>
+    <link>/tags/web-development/</link>
     <description>Recent content in Web development on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Heating Decarbonization Model Data Visualization and Analysis</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</link>
+      <link>/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</guid>
+      <guid>/2020/01/project-heating-decarbonization-model-data-visualization-and-analysis/</guid>
       <description>&lt;p&gt;The Quadracci Sustainable Engineering Lab (qSEL) has several research efforts related to the low-carbon energy transition, including pathways to decarbonize building space heating. Recent work has produced large model data sets that have supported recent journal articles. Several maps have been produced using QGIS and data has been made public, but user functionality is limited. While we continue to build on these efforts, we also want to make our results and data available more widely for other researchers and policymakers. The large data sets (10 years of hourly data for more than 72,000 census tracts and six scenarios) and different spatial aggregations (e.g. states and electricity planning/operating regions) present challenges. In this project, the DSI Scholar would first work with qSEL researchers to develop an interactive web interface to display maps of relevant analyses and allow users to produce time series data from the underlying models. Additional research would include further analysis at a regional level – likely New York State – to refine the current model based on additional intraregional and energy source data. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aging on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/aging/</link>
+    <link>/tags/aging/</link>
     <description>Recent content in Aging on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/aging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/aging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A multi-omic map of human aging</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-a-multi-omic-map-of-human-aging/</link>
+      <link>/2020/01/project-a-multi-omic-map-of-human-aging/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-a-multi-omic-map-of-human-aging/</guid>
+      <guid>/2020/01/project-a-multi-omic-map-of-human-aging/</guid>
       <description>&lt;p&gt;This project builds on a novel cellular model of human aging (Sturm et al. Epigenomics 2019) where we can investigate trajectories of multiple molecular features of aging over long time periods. The underlying multi-omic dataset includes epigenomic (DNA methylation), proteomic (protein abundance), bioenergetics (mitochondrial respiration), telomere length, and various secreted factors. A major challenge for the DSI Fellow will be to integrate the multi-omic dataset to capture dynamic signatures of mitochondrial dysfunction and cellular aging, working collaboratively with other scientists. The existing project is expected to result in one or more publications. Possibility to continue work for pay over the summer.&lt;/p&gt;</description>
     </item>
     

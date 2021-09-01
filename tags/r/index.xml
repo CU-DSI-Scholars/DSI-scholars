@@ -2,404 +2,404 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/r/</link>
+    <link>/tags/r/</link>
     <description>Recent content in R on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Recipe For Creative Recipes</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-a-recipe-for-creative-recipes/</link>
+      <link>/2021/01/project-a-recipe-for-creative-recipes/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-a-recipe-for-creative-recipes/</guid>
+      <guid>/2021/01/project-a-recipe-for-creative-recipes/</guid>
       <description>&lt;p&gt;This project has a two-fold aim. First, we seek to determine what makes an idea seem novel versus ordinary and if there is an ideal mix of the two. Second, building on these findings, we build a generative model that suggests tweaks to an idea that enhance its perceived creativity and appeal. We will pursue these two aims using 69K recipes and reviews from allrecipes.com. We will use NLP approach to extract important features from the recipe such as ingredients, preparation instruction and review content.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Comparison of four workflows for structural variants identification</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
+      <link>/2021/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-comparison-of-four-workflows-for-structural-variants-identification/</guid>
+      <guid>/2021/01/project-comparison-of-four-workflows-for-structural-variants-identification/</guid>
       <description>&lt;p&gt;Recent advances in genomic technologies have led to the identification of many novel disease-gene associations, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to identify structural variants (i.e. relatively large deletions and duplications of genomic sequences). These workflows can lead to the identification of different structural variants, raising the risk of missing disease-causing variants when using only one of those methods.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Comparison of three workflows for the identification of genetic variants</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-comparison-of-three-workflows-for-the-identification-of-genetic-variants/</link>
+      <link>/2021/01/project-comparison-of-three-workflows-for-the-identification-of-genetic-variants/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-comparison-of-three-workflows-for-the-identification-of-genetic-variants/</guid>
+      <guid>/2021/01/project-comparison-of-three-workflows-for-the-identification-of-genetic-variants/</guid>
       <description>&lt;p&gt;Recent advances in genomic technologies have led to the identification of many novel disease-associated genes, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to extract the genetic information from raw data, including The Broad Institute&amp;rsquo;s GATK, Seven Bridge&amp;rsquo;s GenomeGraph and Google&amp;rsquo;s DeepVariant. These workflows can lead to the identification of different genetic variants, raising the risk of missing disease-causing variants when using only one of these methods.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good: African North Americans Database</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-dfg-african-north-americans-database/</link>
+      <link>/2021/01/project-dfg-african-north-americans-database/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-dfg-african-north-americans-database/</guid>
+      <guid>/2021/01/project-dfg-african-north-americans-database/</guid>
       <description>&lt;p&gt;This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, &amp;ldquo;color,&amp;rdquo; birthplace, or other details.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Identification of genomic and transcriptomic landscape of head and neck cancer</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-identification-of-genomic-and-transcriptomic-landscape-of-head-and-neck-cancer/</link>
+      <link>/2021/01/project-identification-of-genomic-and-transcriptomic-landscape-of-head-and-neck-cancer/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-identification-of-genomic-and-transcriptomic-landscape-of-head-and-neck-cancer/</guid>
+      <guid>/2021/01/project-identification-of-genomic-and-transcriptomic-landscape-of-head-and-neck-cancer/</guid>
       <description>&lt;p&gt;A highly collaborative project is available in Dr. Alison Taylor&amp;rsquo;s and Dr. Fatemeh Momen-Heravi&amp;rsquo;s lab. This project aims to identify molecular changes such as mutations and RNA signature of head and neck cancer in Black/African American and Hispanic minority populations with the goal of identifying novel therapies for cancer patients and reduce health disparities. The project entails analysis of DNA and RNA sequencing data. Basic coding skills are necessary and the student will be mentored by both principal investigators. The prospective candidate should be motivated, a fast learner, and be able to work in a highly collaborative team environment.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Meta-analysis of single-cell genomic data to define cellular heterogeneity and dynamics in atherosclerotic vasculature</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</link>
+      <link>/2021/01/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</guid>
+      <guid>/2021/01/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</guid>
       <description>&lt;p&gt;Atherosclerosis, a chronic inflammatory disease of the artery wall, is the underlying cause of human coronary heart diseases. Single-cell genomics have catalyzed the revolution in understanding of cellular heterogeneity and dynamics in atherosclerotic vasculature. The goal of the project is to leverage published and our own single-cell genomic data and perform a meta-analysis. Meta-analysis allows integrated analysis of much larger cell numbers and helps resolve the full spectrum of cellular heterogeneity and dynamics in atherosclerotic vessels and facilitate therapeutic translation. The DSI scholar will: (1) use the latest bioinformatic pipeline to integrate the existing scRNA-seq, CITE-seq, and scATAC-seq datasets; (2) analyze the integrated datasets using R/Bioconductor packages (e.g. Seurat); (3) interpret the data using pathway and network analysis. Some relevant workflows are available through the &amp;ldquo;Resources&amp;rdquo; page of our lab website at &lt;a href=&#34;https://hanruizhang.github.io/zhanglab/&#34;&gt;https://hanruizhang.github.io/zhanglab/&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Predicting arsenic contamination and heterogeneity in groundwater across scales in Southeast Asia and the USA</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-predicting-arsenic-contamination-and-heterogeneity-in-groundwater-across-scales-in-southeast-asia-and-the-usa/</link>
+      <link>/2021/01/project-predicting-arsenic-contamination-and-heterogeneity-in-groundwater-across-scales-in-southeast-asia-and-the-usa/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-predicting-arsenic-contamination-and-heterogeneity-in-groundwater-across-scales-in-southeast-asia-and-the-usa/</guid>
+      <guid>/2021/01/project-predicting-arsenic-contamination-and-heterogeneity-in-groundwater-across-scales-in-southeast-asia-and-the-usa/</guid>
       <description>&lt;p&gt;Chronic exposure to arsenic (As) in groundwater is a staggering global public health crisis and yet, we lack a complete understanding of the environmental conditions that govern As mobility and toxicity in groundwater and are unable predict groundwater As concentrations with enough confidence to make effective management decisions. The objective of this project is to identify key hydrologic and biogeochemical variables that control groundwater As concentrations and heterogeneity across spatial scales in Southeast Asia and the USA. We then aim to develop clear mechanistic linkages and high-resolution geospatial information that can be used with machine learning to evaluate and predict groundwater As contamination. This project involves the integration of various types of large datasets from remotely-sensed and field-collected measurements (e.g., surface hydrology and topography, groundwater geochemistry, climate, and population density). We are looking for a student to advance the connections between key environmental variables and groundwater As contamination across scales. The student will receive experience and mentorship in cutting-edge research that crosses interdisciplinary fields, and will have the opportunity to lead their own project and acquire analytical skills using creative measures, which can involve remote sensing, geospatial methods, statistics and graphing, machine learning, and predictive modeling.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Quantification of expected bi-allelic genetic variants&#39; rate</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-quantification-of-expected-bi-allelic-genetic-variants-rate/</link>
+      <link>/2021/01/project-quantification-of-expected-bi-allelic-genetic-variants-rate/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-quantification-of-expected-bi-allelic-genetic-variants-rate/</guid>
+      <guid>/2021/01/project-quantification-of-expected-bi-allelic-genetic-variants-rate/</guid>
       <description>&lt;p&gt;Advances in genomic technologies have led to the identification of many novel disease-gene associations, allowing medical diagnoses to be more precise and tailored to an individual. However, the high number of variants present in each individual represents a significant challenge for the implementation of genomic medicine. The goal of this project is to enable the identification of novel genes associated with recessive disorders.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Source apportionment of air pollution in Africa using a high resolution air quality model</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-source-apportionment-of-air-pollution-in-africa-using-a-high-resolution-air-quality-model/</link>
+      <link>/2021/01/project-source-apportionment-of-air-pollution-in-africa-using-a-high-resolution-air-quality-model/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-source-apportionment-of-air-pollution-in-africa-using-a-high-resolution-air-quality-model/</guid>
+      <guid>/2021/01/project-source-apportionment-of-air-pollution-in-africa-using-a-high-resolution-air-quality-model/</guid>
       <description>&lt;p&gt;Air quality is a major crisis globally, leading to about 5 million premature deaths every year. In sub-Saharan Africa, there is little air pollution data available to characterize the problem, and a lack of focus on solutions. Using output from a high spatiotemporal resolution atmospheric chemistry transport model over Africa simulated by Dr. Westervelt and his group, the student will characterize levels of pollution and validate model results by comparing observed data to model output. The student will also analyze results from sensitivity simulations in which sources of air pollution have been artificially &amp;ldquo;turned off&amp;rdquo; in the model. Comparison between the two simulations will allow for source attribution of air pollution, which is important for developing satisfactory mitigation strategies to improve air quality.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Systems biology approaches of mouse models of cancer</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</link>
+      <link>/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</guid>
+      <guid>/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</guid>
       <description>&lt;p&gt;We have a position open for a student(s) who is/are interested in working on systems biology projects in bladder and prostate cancer. Specifically, we are looking for students who are well versed in statistical analysis, basic understanding of standard statistical techniques (appied to biology is a plus) and knowledge of R is required. The position will entail supporting post-doctoral members of the lab with computational analyses of different types of biological data in a wide range of projects.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The identification of shared genetic mechanisms in cranial dysinnervation disorders</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-the-identification-of-shared-genetic-mechanisms-in-cranial-dysinnervation-disorders/</link>
+      <link>/2021/01/project-the-identification-of-shared-genetic-mechanisms-in-cranial-dysinnervation-disorders/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-the-identification-of-shared-genetic-mechanisms-in-cranial-dysinnervation-disorders/</guid>
+      <guid>/2021/01/project-the-identification-of-shared-genetic-mechanisms-in-cranial-dysinnervation-disorders/</guid>
       <description>&lt;p&gt;The goal of this project is to study the molecular background of various congenital disorders affecting the cranial nerves, which are important in senses (hearing, vision, smell), facial muscle movements and more. Abnormal cranial nerve development can cause hearing loss, eye-movement disorders, facial weakness, loss of smell, and difficulties with respiration and swallowing. Some individuals may also have other motor, sensory, intellectual, behavioral and social disabilities. These disorders cause significant disability and are caused by genetic variants, often novel variation or de novo. Unfortunately, disorders affecting the 8th cranial nerve or vestibulocochlear nerve (CN VIII), important in hearing and balance, have been largely understudied. As various cranial nerves can be affected together, such as in Moebius syndrome, and as the vestibulocochlear nerve (CN VIII) and facial nerve (CN VII) also share a path in the internal auditory canal, it is likely that these disorders share underlying genes or closely interacting genes. To investigate the genetic architecture of cranial nerve abnormalities we suggest to molecularly investigate an in-house CN VIII cohort and other cranial dysinnervation cohorts. We will study rare genomic variants (both small variant as structural variants) to identify shared molecular pathways and genes amongst individuals with cranial dysinnervation disorders.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>California&#39;s Water Data Challenge: Generating User-guided Prediction of Water Supply in the Californian Rivers</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</link>
+      <link>/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</guid>
+      <guid>/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</guid>
       <description>&lt;p&gt;Freshwater supply is critical for managing and meeting human and ecological demands. However, while stocks of water in both natural and artificial reservoirs are helpful for increasing availability, droughts and floods, as well as whiplash events affect reliability on these systems, posing grave consequences on water users. This risk is particularly salient in the state of California, where many local communities have been plagued by extreme hydrological events. In this current research, we contribute to California&amp;rsquo;s Water Data Challenge effort where a diverse group of volunteers convened to form a multi-disciplinary team that addresses the crucial issues of extreme events in California using data science approaches. Members include researchers and professionals who come from a range of backgrounds representing academia and private sectors. We combine a range of publicly available datasets with Machine Learning (ML) techniques to explore predictability of extreme events during California’s water years. More specifically, we use a variety of water districts and showcase how ML prediction models are not only able to predict the flow of water at varying time horizons, they capture uncertainties posed by the climate and human influences.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good: African North Americans Database</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-african-north-americans-database/</link>
+      <link>/2020/09/project-dfg-african-north-americans-database/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-african-north-americans-database/</guid>
+      <guid>/2020/09/project-dfg-african-north-americans-database/</guid>
       <description>&lt;p&gt;This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, &amp;ldquo;color,&amp;rdquo; birthplace, or other details.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good: Food Insecurity, Obesity, and COVID-19</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-food-insecurity-obesity-and-covid-19/</link>
+      <link>/2020/09/project-dfg-food-insecurity-obesity-and-covid-19/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-food-insecurity-obesity-and-covid-19/</guid>
+      <guid>/2020/09/project-dfg-food-insecurity-obesity-and-covid-19/</guid>
       <description>&lt;p&gt;New York Presbyterian/Columbia University Irving Medical Center (NYP/CUIMC) serves a high number of racial/ethnic minority and low-income patients. In this project, we will create a data repository of all patients who have completed a universal screen in a clinical encounter for social determinants of health, including food insecurity. The scholar will handle large datasets extracted from the medical record for database creation and data visualizations. The dataset will include patient demographics, food security, and clinical outcomes. This data resource will allow the scholar to partner with researchers to examine predictors of food insecurity, clinical courses, and health outcomes among a large population of patients, including a time period prior to the COVID-19 surge in New York City.  The project will be co-mentored through the members of the University-wide Food Systems Network, a novel collaboration of researchers at the Medical Center, Earth Institute, SIPA, and Teacher&amp;rsquo;s College.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Decode the DNA Methylation in Memory</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-decode-the-dna-methylation-in-memory/</link>
+      <link>/2020/09/project-decode-the-dna-methylation-in-memory/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-decode-the-dna-methylation-in-memory/</guid>
+      <guid>/2020/09/project-decode-the-dna-methylation-in-memory/</guid>
       <description>&lt;p&gt;Memory is a basic function of our brain that enables us to use the past experiences to service the present and future on a daily base, and memory function is often disrupted in neurological and psychiatric diseases, such as Alzheimer’s disease and posttraumatic stress disorder. To understand the molecular mechanism of memory storage, we will focus on DNA methylation, a chemical modification of our genome, that is hypothesized to play a critical role for memory. We have identified thousands of DNA methylation changes at numerous genomic loci occurred during the formation of fear and reward memory in the mouse brain. We will develop new computational tools to analyze these changes of DNA methylation and search for the common sequence features of these genomic loci. The result of this project will lead to a systematic understanding of the principle on the function and regulation of DNA methylation in memory, and will pave the way to develop new therapeutic strategies for diseases involved memory defects.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Deconvolution methods for detecting contamination in microbiome samples</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/</link>
+      <link>/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/</guid>
+      <guid>/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/</guid>
       <description>&lt;p&gt;Complex microbial communities play an important role in numerous fields, from human health to bioremediation. One critical challenge in their data analysis is to separate true biological data from contamination of various sources. While contemporary experimental procedures include various negative controls, a comprehensive statistical approach for their analysis has not been developed. Such a framework would have a far-reaching impact on the field.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Deconvolution methods for detecting spatial contamination in microbiome samples</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-deconvolution-methods-for-detecting-spatial-contamination-in-microbiome-samples/</link>
+      <link>/2020/09/project-deconvolution-methods-for-detecting-spatial-contamination-in-microbiome-samples/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-deconvolution-methods-for-detecting-spatial-contamination-in-microbiome-samples/</guid>
+      <guid>/2020/09/project-deconvolution-methods-for-detecting-spatial-contamination-in-microbiome-samples/</guid>
       <description>&lt;p&gt;Complex microbiomes play an important role in numerous fields. One critical challenge in their data analysis is to separate true biological data from contamination. Contemporary experimental procedures include negative controls from various sources, but their analysis is complicated by “well-to-well” contamination: contamination that associates with the position of samples during experimental procedures. This causes bacteria sampled from a true biological source to appear in nearby control samples, and vice versa. An analytic approach that accounts for this source of contamination would have a far-reaching impact on the field.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Defining Aneuploidy from Next-Gen Sequencing</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-defining-aneuploidy-from-next-gen-sequencing/</link>
+      <link>/2020/09/project-defining-aneuploidy-from-next-gen-sequencing/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-defining-aneuploidy-from-next-gen-sequencing/</guid>
+      <guid>/2020/09/project-defining-aneuploidy-from-next-gen-sequencing/</guid>
       <description>&lt;p&gt;Our lab is interested in aneuploidy, or the incorrect number of whole chromosomes and chromosome arms. A challenge in this area of research is that karyotypes require a large number of proliferating cells for analysis. To address this, our lab and collaborators developed new algorithms to identify aneuploidy alterations from DNA sequencing data. Here, the project goal is to implement these algorithms at Columbia, and subsequently to apply these analysis methods to samples generated in the lab and patient samples. Building on this, the DSI student may also develop new algorithms for use with single-cell sequencing data and RNA sequencing data. Experience in one or more of the following is a must: UNIX, R, and python. The DSI student will be mentored by Dr. Alison Taylor, and he/she will also work closely with all lab members.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Identification of genetic variation involved in Mendelian diseases</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-identification-of-genetic-variation-involved-in-mendelian-diseases/</link>
+      <link>/2020/09/project-identification-of-genetic-variation-involved-in-mendelian-diseases/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-identification-of-genetic-variation-involved-in-mendelian-diseases/</guid>
+      <guid>/2020/09/project-identification-of-genetic-variation-involved-in-mendelian-diseases/</guid>
       <description>&lt;p&gt;This project will focus on the identification of genetic factors involved in various forms of hereditary diseases, including neurodevelopmental disorders, hearing loss, skeletal disorders and more. Some of these children endure years-long diagnostic odysseys of trial-and-error testing with inconclusive results and misdirected treatments. We are dedicated to track down their molecular causes by integrating various “-omics” technologies, including genomics, transcriptomics and epigenomics.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Improving observed and modeled air pollution data quality over sub-Saharan Africa using machine learning</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-improving-observed-and-modeled-air-pollution-data-quality-over-sub-saharan-africa-using-machine-learning/</link>
+      <link>/2020/09/project-improving-observed-and-modeled-air-pollution-data-quality-over-sub-saharan-africa-using-machine-learning/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-improving-observed-and-modeled-air-pollution-data-quality-over-sub-saharan-africa-using-machine-learning/</guid>
+      <guid>/2020/09/project-improving-observed-and-modeled-air-pollution-data-quality-over-sub-saharan-africa-using-machine-learning/</guid>
       <description>&lt;p&gt;The goal of the project is twofold: 1) to better understand and further improve the use of low cost air pollution sensors and 2) to analyze and characterize air pollution data in sub-Saharan Africa. Air pollution kills an estimated 700,000 people per year in Africa, but existing air pollution data in Africa is extremely sparse and estimates of the associated mortality are uncertain. Low cost air pollution sensors have the potential to rapidly revolutionize air quality awareness and data availability in data-sparse areas of  the world, including sub-Saharan Africa. However, use of low cost sensors requires careful calibration, performance evaluation, and other quality assurance before the data can be fully trusted to the same degree as regulatory-grade monitors. As part of a larger project led by Dr. Westervelt, fine particulate matter (PM2.5) sensors have already been deployed in several African megacities, including Kinshasa, Democratic Republic of Congo; Nairobi, Kenya; Kampala, Uganda; Accra, Ghana, and Lomé, Togo. In Kampala and Accra, sensors are co-located with a regulatory-grade PM2.5 instrument for several months, allowing for a direct comparison between low cost and regulatory-grade PM2.5 measurements, and also allowing for the development of calibration factors.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Measuring Liberal Arts: Creating an Index for Higher Education</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</link>
+      <link>/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
+      <guid>/2020/09/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
       <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills. Tasks likely include: (1) Using Amazon Web Services to create and maintain cloud-based storage (SQL, S3 buckets) of the project&amp;rsquo;s expanding library of data. (2) Extracting information (named entities, times, places, books, and so on) from millions of plain-text syllabus records. (3) Merging multiple forms of data into a single dataset. (4) Scraping websites for relevant information (e.g., college course offerings, school rankings). Some pages may include dynamically created content that requires the use of a program such as Selenium.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Prediction of microbial communities metabolic output</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-prediction-of-microbial-communities-metabolic-output/</link>
+      <link>/2020/09/project-prediction-of-microbial-communities-metabolic-output/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-prediction-of-microbial-communities-metabolic-output/</guid>
+      <guid>/2020/09/project-prediction-of-microbial-communities-metabolic-output/</guid>
       <description>&lt;p&gt;The human microbiome is associated with different diseases, but the metabolic mechanisms through which it can modulate health are mostly unknown. Understanding these mechanisms is of paramount importance for prevention and treatment. While metagenomics analysis provides associations between microbial presence and specific diseases, metabolomics analysis can highlight metabolic alterations. None of the two, however, can unveil microbiome metabolic mechanisms associated with these detected alterations. In an attempt to fill this knowledge gap, several microbiome metabolic modeling methods were recently developed. An accurate evaluation of the accuracy of such methods in relation to different pathologies and microbiomes was never conducted.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Single cell RNA-seq analysis of eye development and disease</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</link>
+      <link>/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</guid>
+      <guid>/2020/09/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</guid>
       <description>&lt;p&gt;Single cell sequencing has generated unprecedented insight into the cellular complexity of normal and diseased organ. We are interested in using this technique to understand the mechanisms of eye development, disease and regeneration. We also would like to compare the transcriptomic signatures between mouse models and human tissues. This project involves analysis of large amount of data from single cell sequencing. It requires understanding of statistical analysis and proficient programming skills.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Single-nucleus and spatial transcriptomics analysis of APOE mouse and human brain samples</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</link>
+      <link>/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</guid>
+      <guid>/2020/09/project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples/</guid>
       <description>&lt;p&gt;We are conducting a large-scale study analyzing brain tissues from mice and humans with different APOE genotypes, using both single-nucleus sequencing and spatial transcriptomics to assess RNA expression differences caused by APOE genotype. We are working with an expert bioinformatics core, but would like a data science student to help perform the analyses and act as an in-lab lead for the bioinformatics analysis. Prior experience analyzing RNA-sequencing data is preferred, but not required.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Using social network analysis to improve access to mental health treatment in Brazil</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</link>
+      <link>/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</guid>
+      <guid>/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</guid>
       <description>&lt;p&gt;The proposed project would focus on analyzing quantitative data from a 4 year NIMH-funded study entitled &amp;ldquo;Integrating evidence-based  depression treatment in primary care: Tuberculosis (TB) in Brazil as a model&amp;rdquo; (PI: Sweetland, K01MH104514). The aim of the study was to assess whether social network analysis could be used to leverage the receptivity and connectivity of TB providers in a Brazilian public health system in a way that could accelerate the adoption (implementation) and diffusion (dissemination) of an evidence-based treatment for depression treatment in a primary care network. Baseline receptivity was operationalized via six brief quantitative scales to measure mental health literacy, work self-efficacy, organizational climate, attitudes towards evidence-based practices, organizational readiness to change and individual innovation thresholds. Connectivity was assessed by asking TB providers with whom they discuss difficult cases, give advice to, or receive advice regarding difficult TB cases. Baseline receptivity and connectivity data was used to identify 3 pilot sites in which to train primary care providers to deliver evidence-based depression treatment for one year.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Analysis and processing of GIS data in assessing international development</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/</link>
+      <link>/2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/</guid>
+      <guid>/2020/05/project-analysis-and-processing-of-gis-data-in-assessing-international-development/</guid>
       <description>&lt;p&gt;We need someone with strong data wrangling capabilities, to be able to determine quick ways to clean and merge data. The format of the data is spatial (GIS) but it could also be manipulated in tabular format. GRID3 is a program within &lt;a href=&#34;http://www.ciesin.org/&#34;&gt;CIESIN&lt;/a&gt; which is a research center located at the Lamont-Doherty Campus (with office space on the morningside campus) and is part of Columbia&amp;rsquo;s Earth Institute.  Candidates can learn more about the program at the GRID3 &lt;a href=&#34;https://grid3.org/&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Phenotyping COVID-19 patients using NLP and clinical notes</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</link>
+      <link>/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</guid>
+      <guid>/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</guid>
       <description>&lt;p&gt;Our lab is using clinical notes to phenotype COVID patient outcomes. The aim is to better understand the sequela of COVID-19 from clinical notes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Social media echo chambers enhancing anxiety and depression: the effects of COVID-19</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19/</link>
+      <link>/2020/05/project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19/</guid>
+      <guid>/2020/05/project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19/</guid>
       <description>&lt;p&gt;The question we ask is whether online echo-chambers on social media networks enhance the anxiety and depression of individuals during the COVID19 outbreak. More specifically we want to measure the intensity of the communication about COVID-19 within the echo-chamber of individuals on Twitter and investigate the impact on their subsequent tweets in terms of the level of anxiety and signs of depressive language in their Tweets.  We measure echo-chambers by the number of users in the social network that tweeted about COVID-19. We build on an extensive dataset of Twitter users for whom we have identified a large number of demographic and geographic variables (such as the gender, age, ethnicity, location by state, political affiliation) as well as their social network.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Creating accurate and equitable data resources for precision public health using machine learning tools</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</link>
+      <link>/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</guid>
+      <guid>/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</guid>
       <description>&lt;p&gt;The objective of this project is to construct linkages across disparate public health data systems using machine learning tools and assess them for bias and equitable representation of subpopulations defined by demographic and socioeconomic factors.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good: Data Analysis for a Just Transition in Energy for Thermal Comfort</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</link>
+      <link>/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</guid>
+      <guid>/2020/01/project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort/</guid>
       <description>&lt;p&gt;42% of New York City greenhouse gas emissions result from on-site fossil fuel combustion in residential and commercial buildings; space heating is, by far, the majority contributor. Both New York State and NYC have policies to dramatically reduce emissions that will require a transformation in the way buildings are heated, including major efforts in existing buildings. This transition is inextricably linked to existing energy equity issues that we believe significantly overlap across NYC (and elsewhere). These include unreliable heating in the winter, susceptibility to extreme heat (an increasing occurrence with climate change) and struggles to afford energy needs. Various known data sources for NYC are available, though they are disparate and have not been analyzed holistically. Further, we believe there are potential engineering and policy solutions to these challenges. In this project, the DSI scholar will access (and search for where not yet known to qSEL researchers) relevant data sets, analyze those data sets to identify communities exposed to all or a subset of these issues, and assist qSEL researchers in developing models to evaluate possible solutions. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Discovery of genes associated with progression of bladder cancer</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
+      <link>/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
+      <guid>/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
       <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Single cell RNA-seq analysis of eye development and disease</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</link>
+      <link>/2020/01/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</guid>
+      <guid>/2020/01/project-single-cell-rna-seq-analysis-of-eye-development-and-disease/</guid>
       <description>&lt;p&gt;Single cell sequencing has generated unprecedented insight into the cellular complexity of normal and diseased organ. We are interested in using this technique to understand the mechanisms of eye development, disease and regeneration. We also would like to compare the transcriptomic signatures between mouse models and human tissues. This project involves analysis of large amount of data from single cell sequencing. It requires understanding of statistical analysis and proficient programming skills.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Statistical analyses of Siamese fighting fish aggressive behavior</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-statistical-analyses-of-siamese-fighting-fish-aggressive-behavior/</link>
+      <link>/2020/01/project-statistical-analyses-of-siamese-fighting-fish-aggressive-behavior/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-statistical-analyses-of-siamese-fighting-fish-aggressive-behavior/</guid>
+      <guid>/2020/01/project-statistical-analyses-of-siamese-fighting-fish-aggressive-behavior/</guid>
       <description>&lt;p&gt;Project: analyze behavior of Siamese fighting fish (Betta splendens) as part of a collaboration between the Bendesky and Cunningham labs of the Zuckerman Institute (NeuroTheory Center)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Urban Lead Atlas</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-urban-lead-atlas/</link>
+      <link>/2020/01/project-the-urban-lead-atlas/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-urban-lead-atlas/</guid>
+      <guid>/2020/01/project-the-urban-lead-atlas/</guid>
       <description>&lt;p&gt;The Urban Lead Atlas is a collaborative community-based research initiative to create the nations’ first crowd-sourced open online map identifying toxic lead hazards located within the homes, schools, landscape, and lead service lines for water in American cities. The project will begin by integrating data from a small set of cities – New York, Philadelphia, Washington D.C. and Newark - including housing enforcement and lead service line datasets, data on lead dust in schools, and the results of soil lead tests in parks and backyards, on the websites of Columbia University’s Center for Sustainable Urban Development. Ultimately, the goal of the Urban Lead Atlas is to create and populate a fully open online platform that is capable of integrating data from “citizen scientists” and residents regarding the sites of lead hazards in their city’s environment and buildings. This research is important, as experts estimate that over nine million US children have lead blood levels which may cause sub-clinical effects and permanent adverse health, cognitive, and behavior outcomes. The Lead Atlas is intended as the first model for a national effort, the American Lead Atlas project, which seeks to create a national online collaborative map of lead hazards within American cities.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Healthcare machine learning and text mining (NimbleMiner)</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</link>
+      <link>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</guid>
+      <guid>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</guid>
       <description>&lt;p&gt;Our lab develops an open-source text mining software called NimbleMiner (&lt;a href=&#34;http://github.com/mtopaz/NimbleMiner)&#34;&gt;http://github.com/mtopaz/NimbleMiner)&lt;/a&gt;. We will work on improving the software using the latest machine learning techniques.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Locally advanced primary colon, rectosigmoid and rectal cancers: Perioperative outcomes and survival with multivisceral resection</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-locally-advanced-primary-colon-rectosigmoid-and-rectal-cancers-perioperative-outcomes-and-survival-with-multivisceral-resection/</link>
+      <link>/2019/09/project-locally-advanced-primary-colon-rectosigmoid-and-rectal-cancers-perioperative-outcomes-and-survival-with-multivisceral-resection/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-locally-advanced-primary-colon-rectosigmoid-and-rectal-cancers-perioperative-outcomes-and-survival-with-multivisceral-resection/</guid>
+      <guid>/2019/09/project-locally-advanced-primary-colon-rectosigmoid-and-rectal-cancers-perioperative-outcomes-and-survival-with-multivisceral-resection/</guid>
       <description>&lt;p&gt;Locally advanced colorectal cancers that invade adjacent organs (i.e., T4 primary tumors) without evidence of distant metastasis account for approximately 5-15% of new colorectal cancers.  There are limited multi-institutional study describing the perioperative complication rates and long-term survival of patients undergoing single organ resection after neoadjuvant chemotherapy and/or radiation versus multivisceral resections for patients with T4 colorectal cancers.  Using the American College of Surgeons National Cancer Database (NCDB), we seek to analyze differential outcomes (perioperative complications and overall survival) by procedure performed, tumor details, pathological findings, chemo-radiotherapy regimens, patient demographics.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Single-Cell Transcriptome Profiling in Atherosclerosis</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-single-cell-transcriptome-profiling-in-atherosclerosis/</link>
+      <link>/2019/09/project-single-cell-transcriptome-profiling-in-atherosclerosis/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-single-cell-transcriptome-profiling-in-atherosclerosis/</guid>
+      <guid>/2019/09/project-single-cell-transcriptome-profiling-in-atherosclerosis/</guid>
       <description>&lt;p&gt;Atherosclerosis—a chronic inflammatory disease of the artery wall—is the underlying cause of human coronary heart diseases. Cells within atherosclerotic lesions are heterogeneous and dynamic. Their pathological features have been characterized by histology and flow cytometry and more recently, by bulk-tissue omics profiling. Despite this progress, our knowledge of cell types and their roles in atherogenesis remains incomplete because of masking of differences across cells when using genomic measurement at bulk level. Single-cell RNA sequencing (scRNA-seq) has catalyzed a revolution in understanding of cellular heterogeneity in organ systems and diseases. This project applies scRNA-seq to define the genetic influences on cell subpopulations and functions in atherosclerotic lesion of transgenic mice for candidate risk genes of human coronary heart diseases as inspired by human genomic discoveries. The students involved in this project are expected to work on: (1) analysis of scRNA-seq data using R/Bioconductor packages; (2) Interpretation of the data using pathway and network analysis. Some relevant workflows are available through the &amp;ldquo;Resources&amp;rdquo; page of our lab website at &lt;a href=&#34;https://hanruizhang.github.io/zhanglab/&#34;&gt;https://hanruizhang.github.io/zhanglab/&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Analysis and Prediction of Opioid Outbreak Clusters</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
+      <link>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
+      <guid>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
       <description>&lt;p&gt;We are interested in investigating how deaths and hospitalizations resulting from opioid overdoses cluster across space and time in the US. This analysis will be conducted with the aid of two comprehensive databases: 1) detailed mortality data across the US; and 2) a stratified sample of all hospitalizations in the US, which can be subset to select for opioid overdoses. Analyses will be extended to drug type (prescription drugs, fentanyl etc.) and subject demographics (age, race, etc.). We have previously conducted similar cluster analysis for other health phenomena.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Discover novel regulators of macrophage efferocytosis by genome-wide CRISPR screen</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discover-novel-regulators-of-macrophage-efferocytosis-by-genome-wide-crispr-screen/</link>
+      <link>/2019/01/project-discover-novel-regulators-of-macrophage-efferocytosis-by-genome-wide-crispr-screen/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discover-novel-regulators-of-macrophage-efferocytosis-by-genome-wide-crispr-screen/</guid>
+      <guid>/2019/01/project-discover-novel-regulators-of-macrophage-efferocytosis-by-genome-wide-crispr-screen/</guid>
       <description>&lt;p&gt;Defective efferocytosis, the phagocytic clearance of apoptotic cells, by macrophages is the cause of many human diseases including tumor, autoimmune diseases and atherosclerosis. Enhancing efferocytosis has potential therapeutic benefits. Many key regulators of efferocytosis have been identified, but a systematic approach to map regulators of efferocytosis in an unbiased manner on a genome-wide scale is missing. This project applies innovative genome-wide CRISPR screen to discover novel regulators of macrophage efferocytosis.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Discovery of genes associated with progression of bladder cancer</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
+      <link>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
+      <guid>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
       <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Measuring Broadband</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-measuring-broadband/</link>
+      <link>/2019/01/project-measuring-broadband/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-measuring-broadband/</guid>
+      <guid>/2019/01/project-measuring-broadband/</guid>
       <description>&lt;p&gt;The Federal Communications Commission (FCC) and the Census regularly publish data on U.S. Internet availability, performance and use, at granularities from census block to county and state. The project goal is to answer questions based on the available data, such as &amp;ldquo;How reliable is Internet access?&amp;rdquo;, &amp;ldquo;Who is deploying fiber where?&amp;rdquo;, &amp;ldquo;Can we predict reliability of different technologies?&amp;rdquo;, &amp;ldquo;Can we predict the deployment of fiber?&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Data science for better health</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-data-science-for-better-health/</link>
+      <link>/2019/01/project-data-science-for-better-health/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-data-science-for-better-health/</guid>
+      <guid>/2019/01/project-data-science-for-better-health/</guid>
       <description>&lt;p&gt;Our goal is use a large pool of homecare data (including structured data, free text clinical notes, and recorded patient-provider phone conversations) to build predictive models that help identify patients at risk for poor outcomes (like hospital admission or falls).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Technology transfer insights from data</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-technology-transfer-insights-from-data/</link>
+      <link>/2018/01/project-technology-transfer-insights-from-data/</link>
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-technology-transfer-insights-from-data/</guid>
+      <guid>/2018/01/project-technology-transfer-insights-from-data/</guid>
       <description>&lt;p&gt;CTV’s core mission is to facilitate the transfer of inventions from academic labs to the market for the benefit of society. In a typical year, CTV receives ~400 inventions, completes ~100 licenses and options, and helps form ~20 startups. A good video summary of CTV is here: &lt;a href=&#34;https://vimeo.com/110193999&#34;&gt;https://vimeo.com/110193999&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Data Science and the regulation of financial markets (application closed)</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
+      <link>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
+      <guid>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
       <description>&lt;p&gt;The development of computational data science
 techniques in natural language processing (NLP) and machine
 learning (ML) algorithms to analyze large and complex textual
@@ -415,28 +415,28 @@ computational analysis.&lt;/p&gt;</description>
     
     <item>
       <title>Project: Enhancing self-directed learning opportunities</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-enhancing-self-directed-learning-opportunities/</link>
+      <link>/2018/01/project-enhancing-self-directed-learning-opportunities/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-enhancing-self-directed-learning-opportunities/</guid>
+      <guid>/2018/01/project-enhancing-self-directed-learning-opportunities/</guid>
       <description>&lt;p&gt;Analyze data from one of the following library applications/systems and create visualizations that highlight the most important findings pertaining to the support of self-directed learning:  Vialogues (TC Video Discussion Application), PocketKnowledge (TC Online Archive), DocDel (E-Reserve System), Pressible (Blogging Platform), Library Website and Mobile App.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Statistical modeling for dynamic social networks</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/statistical-modeling-for-dynamic-social-networks/</link>
+      <link>/2018/01/statistical-modeling-for-dynamic-social-networks/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
+      <guid>/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
       <description>&lt;p&gt;Networked systems are ubiquitous in modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Healthcare data analytics internship</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-healthcare-data-analytics-internship/</link>
+      <link>/2018/01/project-healthcare-data-analytics-internship/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-healthcare-data-analytics-internship/</guid>
+      <guid>/2018/01/project-healthcare-data-analytics-internship/</guid>
       <description>&lt;p&gt;Recently Columbia University, Cornell, and NewYork-Presbyterian have agreed to integrate their clinical (healthcare) and business IT systems onto one shared platform called Epic. The motivating factors to move to Epic are to enhance the patient experience, improve and integrate care, and give our physicians an integrated technology platform that supports the mission of an academic medical center. The intern will assist with developing the “operational” analytics capabilities of Columbia University Medical Center including financial, healthcare operations and healthcare quality analytics.&lt;/p&gt;</description>
     </item>
     

@@ -2,170 +2,170 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/health/</link>
+    <link>/tags/health/</link>
     <description>Recent content in Health on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advanced data science methods to improve spinal electrical stimulation for paralysis</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</link>
+      <link>/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</guid>
+      <guid>/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</guid>
       <description>&lt;p&gt;We aim to augment recovery in spinal cord (SC) injured patients. Electrical stimulation of the SC can facilitate recovery, but the mechanisms are not yet understood. One knowledge gap lies in the exact pathways that are recruited by stimulation. To close this gap, we have tested the effects of SC stimulation in people undergoing clinically indicated surgery. By testing the distribution and size of muscle responses to SC stimulation, we can infer which circuits are activated. We are also examining how SC injury changes those responses. We propose to use Bayesian methods to understand the  interaction between muscle responses to stimulation and the MRI indicated pattern of damage. The project will involve construction of models linking multiple data modalities that predict muscle activity, followed by the modification of these models to account for patterns of damage. Construction of such models would enable a deeper understanding of SC stimulation leading to more effective stimulation paradigms.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Discovery of genes associated with progression of bladder cancer</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
+      <link>/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
+      <guid>/2020/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
       <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Identifying disease subtypes by comorbidity clustering using structured data from electronic health records</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</link>
+      <link>/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</guid>
+      <guid>/2020/01/project-identifying-disease-subtypes-by-comorbidity-clustering-using-structured-data-from-electronic-health-records/</guid>
       <description>&lt;p&gt;A major challenge to implementing precision medicine arises from patients who share a clinical diagnosis but have different biological causes of disease. Disease subtypes that arise from obscure etiological heterogeneity create inefficiencies in healthcare and attenuate power in clinical trials and research studies. The ability to stratify patients into biologically homogenous subgroups improves the potential for translational research by allowing us to design more powerful studies.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Healthcare machine learning and text mining (NimbleMiner)</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</link>
+      <link>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</guid>
+      <guid>/2019/09/project-healthcare-machine-learning-and-text-mining-nimbleminer/</guid>
       <description>&lt;p&gt;Our lab develops an open-source text mining software called NimbleMiner (&lt;a href=&#34;http://github.com/mtopaz/NimbleMiner)&#34;&gt;http://github.com/mtopaz/NimbleMiner)&lt;/a&gt;. We will work on improving the software using the latest machine learning techniques.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Advancing Public Health Monitoring and Analytics in New York City through Development of a Master Person Index</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</link>
+      <link>/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</guid>
+      <guid>/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</guid>
       <description>&lt;p&gt;Data is central to the NYC Department of Health’s mission to protect and promote the health of all New Yorkers. The agency’s many programs often require large scale record linkages that integrate data from individuals across multiple public health data systems and disease registries. We are implementing a Master Person Index (MPI) system in order to centralize, optimize and standardize matching methodology for administrative data across the Department of Health.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Analysis and Prediction of Opioid Outbreak Clusters</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
+      <link>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
+      <guid>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
       <description>&lt;p&gt;We are interested in investigating how deaths and hospitalizations resulting from opioid overdoses cluster across space and time in the US. This analysis will be conducted with the aid of two comprehensive databases: 1) detailed mortality data across the US; and 2) a stratified sample of all hospitalizations in the US, which can be subset to select for opioid overdoses. Analyses will be extended to drug type (prescription drugs, fentanyl etc.) and subject demographics (age, race, etc.). We have previously conducted similar cluster analysis for other health phenomena.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Discovery of genes associated with progression of bladder cancer</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
+      <link>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
+      <guid>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
       <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Injury-Disease Interactions in Older Adults</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-injury-disease-interactions-in-older-adults/</link>
+      <link>/2019/01/project-injury-disease-interactions-in-older-adults/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-injury-disease-interactions-in-older-adults/</guid>
+      <guid>/2019/01/project-injury-disease-interactions-in-older-adults/</guid>
       <description>&lt;p&gt;Injury, such as falls, motor vehicle crashes, and drug overdose, is a major source of morbidity and mortality.  The interaction between injury and disease is complex and mutually causative.  For instance, patients with Alzheimer&amp;rsquo;s Disease or Parkinson&amp;rsquo;s Disease are known to be at heightened risk of hip fracture from falls and in turn injurious falls among these patients can drastically alter the trajectory of the disease.  So far, research on injury-disease interaction has been scant and fragmented.  The proposed project is aimed at uncovering the gestalt of the relations between different injuries and different diseases through a data science approach.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Data science for better health</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-data-science-for-better-health/</link>
+      <link>/2019/01/project-data-science-for-better-health/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-data-science-for-better-health/</guid>
+      <guid>/2019/01/project-data-science-for-better-health/</guid>
       <description>&lt;p&gt;Our goal is use a large pool of homecare data (including structured data, free text clinical notes, and recorded patient-provider phone conversations) to build predictive models that help identify patients at risk for poor outcomes (like hospital admission or falls).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Visualization of continuous health data measurements</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-visualization-of-continuous-health-data-measurements/</link>
+      <link>/2019/01/project-visualization-of-continuous-health-data-measurements/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-visualization-of-continuous-health-data-measurements/</guid>
+      <guid>/2019/01/project-visualization-of-continuous-health-data-measurements/</guid>
       <description>&lt;p&gt;Despite the promise of predictive analytics in healthcare, the lack of continuous internal sensing devices has impeded its realization. With the exception of CGMs, no current commercially available wearable devices yield information intimate to the body. To overcome this deficiency, our research group has developed a minimally invasive wearable device capable of continuous monitoring of glucose and electrolytes in the superficial layer of the skin in an extremely minimally invasive manner.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: A longitudinal network study of Alzheimer’s and dementia care in relation to disparities and outcomes</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-a-longitudinal-network-study-of-alzheimer-s-and-dementia-care-in-relation-to-disparities-and-outcomes/</link>
+      <link>/2018/01/project-a-longitudinal-network-study-of-alzheimer-s-and-dementia-care-in-relation-to-disparities-and-outcomes/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-a-longitudinal-network-study-of-alzheimer-s-and-dementia-care-in-relation-to-disparities-and-outcomes/</guid>
+      <guid>/2018/01/project-a-longitudinal-network-study-of-alzheimer-s-and-dementia-care-in-relation-to-disparities-and-outcomes/</guid>
       <description>Alzheimer&amp;rsquo;s disease and related dementia (AD/dementia) represent a looming public health crisis, affecting roughly 5 million people in the U.S. and 11% of older adults. As with other chronic conditions, racial/ethnic and socio-economic disparities exist in the prevalence and burden of illness. However, less is known about how disparities in access to care influence the care trajectories – i.e., the scope, frequency and sequence of services used across healthcare settings – of those with AD/dementia.</description>
     </item>
     
     <item>
       <title>Project: Genomic and environmental predictor of preterm birth</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</link>
+      <link>/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</guid>
+      <guid>/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</guid>
       <description>&lt;p&gt;Predicting preterm birth in nulliparous women is challenging and our efforts to develop predictors for that condition from environmental variables produce insufficient classifier accuracy. Recent studies highlight the involvement of common genetic variants in length of pregnancy. This project involves the development of a risk score for preterm birth based on both genetic and environmental attributes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Real-time brain state classification</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</link>
+      <link>/2018/01/project-real-time-brain-state-classification/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</guid>
+      <guid>/2018/01/project-real-time-brain-state-classification/</guid>
       <description>&lt;p&gt;Using machine learning to conduct brain state classification at real-time on EEG/fNIRS/fMRI data.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Analysis pipeline for strain-level microbiome shotgun sequencing</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-analysis-pipeline-for-strain-level-microbiome-shotgun-sequencing/</link>
+      <link>/2018/01/project-analysis-pipeline-for-strain-level-microbiome-shotgun-sequencing/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-analysis-pipeline-for-strain-level-microbiome-shotgun-sequencing/</guid>
+      <guid>/2018/01/project-analysis-pipeline-for-strain-level-microbiome-shotgun-sequencing/</guid>
       <description>&lt;p&gt;DNA sequence reads from a community of microbial genomes are currently processed without considering sequence variants. The project involves building a processing pipeline of such billions of short reads, identifying closest strains they might belong to, assembling them into specific clones, calling their variants, and analyzing the dynamic nature of these bacterial strains along sampling points.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Healthcare data analytics internship</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-healthcare-data-analytics-internship/</link>
+      <link>/2018/01/project-healthcare-data-analytics-internship/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-healthcare-data-analytics-internship/</guid>
+      <guid>/2018/01/project-healthcare-data-analytics-internship/</guid>
       <description>&lt;p&gt;Recently Columbia University, Cornell, and NewYork-Presbyterian have agreed to integrate their clinical (healthcare) and business IT systems onto one shared platform called Epic. The motivating factors to move to Epic are to enhance the patient experience, improve and integrate care, and give our physicians an integrated technology platform that supports the mission of an academic medical center. The intern will assist with developing the “operational” analytics capabilities of Columbia University Medical Center including financial, healthcare operations and healthcare quality analytics.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Human peri-ictal single unit activity</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-human-peri-ictal-single-unit-activity/</link>
+      <link>/2018/01/project-human-peri-ictal-single-unit-activity/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-human-peri-ictal-single-unit-activity/</guid>
+      <guid>/2018/01/project-human-peri-ictal-single-unit-activity/</guid>
       <description>&lt;p&gt;Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures.  Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge.  Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and addressing fundamental questions about the activity of different cell classes at seizure initiation.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Informatics approaches to biomedical evidence appraisal using public data</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</link>
+      <link>/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</guid>
+      <guid>/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</guid>
       <description>&lt;p&gt;The quality of biomedical evidence can affect research sustainability, patient safety, and the public&amp;rsquo;s trust in biomedical research. However, often the quality of biomedical evidence remains opaque to the public. It is imperative to improve the transparency of evidence quality. This project aims to leverage the public data sources, including but not limited to The ClinicalTrials.gov, The PubMed database for biomedical literature, The National Health and Nutrition Examination Survey (NHANES) database, and so on, to develop and apply novel data mining and visualization methods for appraising the biomedical research evidence, uncovering implicit biases in clinical research designs at different levels, and presenting this information intuitively to the public.  Students on this project will acquire or hone their skills in data mining, results presentation, and user interface designs and evaluation.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Visualization of continuous health data measurements</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-visualization-of-continuous-health-data-measurements/</link>
+      <link>/2018/01/project-visualization-of-continuous-health-data-measurements/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-visualization-of-continuous-health-data-measurements/</guid>
+      <guid>/2018/01/project-visualization-of-continuous-health-data-measurements/</guid>
       <description>&lt;p&gt;The ubiquity of current smart and IoT devices has the potential to transform healthcare. For example, current devices can measure continuously activity levels, heart rate, blood oxygen levels, and electrocardiogram. Our lab is developing new devices which can measure additional streams of health data which are currently not possible.  The summer project will involve visualization of this entire set of data, machine learning, and multiparametric data analysis to extract trends that match health outcomes.&lt;/p&gt;</description>
     </item>
     

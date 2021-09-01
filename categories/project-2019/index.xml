@@ -2,224 +2,224 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project 2019 on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-2019/</link>
+    <link>/categories/project-2019/</link>
     <description>Recent content in Project 2019 on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-2019/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/project-2019/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project: Classifying drug patents</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-classifying-drug-patents/</link>
+      <link>/2019/01/project-classifying-drug-patents/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-classifying-drug-patents/</guid>
+      <guid>/2019/01/project-classifying-drug-patents/</guid>
       <description>&lt;p&gt;Taking out multiple patents on different aspects of a drug in order to cordon off competitors is standard practice in pharmaceuticals. In addition to primary patents, firms commonly attempt to acquire secondary patents on alternative forms of molecules, different formulations, dosages, and compositions, and new uses Policymakers in the U.S. and globally have raised concerns that these secondary patents can raise drug prices and restrict access to medicines. One challenge to assessing the impact of these patents is it is difficult and costly to know if a given patent is &amp;ldquo;primary&amp;rdquo; or &amp;ldquo;secondary.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: A Data-driven Approach for Improving the User Experience of Internet Users</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-a-data-driven-approach-for-improving-the-user-experience-of-internet-users/</link>
+      <link>/2019/01/project-a-data-driven-approach-for-improving-the-user-experience-of-internet-users/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-a-data-driven-approach-for-improving-the-user-experience-of-internet-users/</guid>
+      <guid>/2019/01/project-a-data-driven-approach-for-improving-the-user-experience-of-internet-users/</guid>
       <description>&lt;p&gt;Our lives are heavily reliant on Internet-connected devices and services. However, to deliver the desired user experience over the Internet, network operators need to detect and diagnose various network events (e.g., disruption, outage, misconfiguration, etc.) as well as resolve them in real-time. We have developed an Internet-wide measurement infrastructure that collects performance metrics (e.g., latency, jitter, throughput, packet loss rate, signal strength, etc.) from vantage points deployed by real users (mobile phones, WiFi access points, etc.) at regular intervals.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Advancing Public Health Monitoring and Analytics in New York City through Development of a Master Person Index</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</link>
+      <link>/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</guid>
+      <guid>/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</guid>
       <description>&lt;p&gt;Data is central to the NYC Department of Health’s mission to protect and promote the health of all New Yorkers. The agency’s many programs often require large scale record linkages that integrate data from individuals across multiple public health data systems and disease registries. We are implementing a Master Person Index (MPI) system in order to centralize, optimize and standardize matching methodology for administrative data across the Department of Health.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Analysis and Prediction of Opioid Outbreak Clusters</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
+      <link>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
+      <guid>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
       <description>&lt;p&gt;We are interested in investigating how deaths and hospitalizations resulting from opioid overdoses cluster across space and time in the US. This analysis will be conducted with the aid of two comprehensive databases: 1) detailed mortality data across the US; and 2) a stratified sample of all hospitalizations in the US, which can be subset to select for opioid overdoses. Analyses will be extended to drug type (prescription drugs, fentanyl etc.) and subject demographics (age, race, etc.). We have previously conducted similar cluster analysis for other health phenomena.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: ArXivLab: A Platform for Developing and Evaluating Exploratory Tools for the Scientific Literature</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</link>
+      <link>/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</guid>
+      <guid>/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</guid>
       <description>&lt;p&gt;Through ArXivLab we aim to develop the next generation recommender systems for the scientific literature using statistical machine learning approaches. In collaboration with ArXiv we are currently developing a new scholarly literature browser which will be able to extract knowledge implicit in the mathematical and scientific literature, offer advanced mathematical search capabilities and provide personalized recommendations.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Discover novel regulators of macrophage efferocytosis by genome-wide CRISPR screen</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discover-novel-regulators-of-macrophage-efferocytosis-by-genome-wide-crispr-screen/</link>
+      <link>/2019/01/project-discover-novel-regulators-of-macrophage-efferocytosis-by-genome-wide-crispr-screen/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discover-novel-regulators-of-macrophage-efferocytosis-by-genome-wide-crispr-screen/</guid>
+      <guid>/2019/01/project-discover-novel-regulators-of-macrophage-efferocytosis-by-genome-wide-crispr-screen/</guid>
       <description>&lt;p&gt;Defective efferocytosis, the phagocytic clearance of apoptotic cells, by macrophages is the cause of many human diseases including tumor, autoimmune diseases and atherosclerosis. Enhancing efferocytosis has potential therapeutic benefits. Many key regulators of efferocytosis have been identified, but a systematic approach to map regulators of efferocytosis in an unbiased manner on a genome-wide scale is missing. This project applies innovative genome-wide CRISPR screen to discover novel regulators of macrophage efferocytosis.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Discovering the cost function optimized by the primate visual system&#39;s deep hierarchical architecture</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discovering-the-cost-function-optimized-by-the-primate-visual-system-s-deep-hierarchical-architecture/</link>
+      <link>/2019/01/project-discovering-the-cost-function-optimized-by-the-primate-visual-system-s-deep-hierarchical-architecture/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discovering-the-cost-function-optimized-by-the-primate-visual-system-s-deep-hierarchical-architecture/</guid>
+      <guid>/2019/01/project-discovering-the-cost-function-optimized-by-the-primate-visual-system-s-deep-hierarchical-architecture/</guid>
       <description>&lt;p&gt;The visual cortex has a distinctive deep hierarchical organization as a result of ontogenetic and phylogenetic optimization. It is unclear what the factors are that shape this particular hierarchical organization. One factor is the compositional and hierarchical nature of our world’s appearance, which may be optimally processed by a hierarchical visual system. Another factor is the need for space and energy efficiency, which constrains the number of neurons and connections. The project will employ computational modeling to understand the contribution of these constraints to shaping the combination of breadth, depth, and skipping connections employed by primate visual cortex.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Discovery of genes associated with progression of bladder cancer</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
+      <link>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
+      <guid>/2019/01/project-discovery-of-genes-associated-with-progression-of-bladder-cancer/</guid>
       <description>&lt;p&gt;We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Distance Metric Learning in Hyperbolic Spaces</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</link>
+      <link>/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</guid>
+      <guid>/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</guid>
       <description>&lt;p&gt;Effective representations and analyses of symbolic data, such as lexical data (words) and networks (graphs), have become of great interest in recent years, due both to advancements in data collection in Natural Language Processing (NLP), and the ubiquity of social networks. Such data often has no natural numerical representation, and is typically described in terms relational expressions or as pairwise similarities. It turns out that finding numerical representations of such data in “Hyperbolic” spaces&amp;mdash;rather than into the more familiar Euclidean spaces&amp;mdash;is a more effective way to preserve valuable relational information.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Enhancing Self-Directed Learning Opportunities Using Learning Analytics</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-enhancing-self-directed-learning-opportunities/</link>
+      <link>/2019/01/project-enhancing-self-directed-learning-opportunities/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-enhancing-self-directed-learning-opportunities/</guid>
+      <guid>/2019/01/project-enhancing-self-directed-learning-opportunities/</guid>
       <description>&lt;p&gt;Analyze data from one or more of the following Library Applications/Systems and create visualizations that highlight the most important findings related to our goal of supporting self-directed learning.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Finding Electromagnetic Counterparts to Cosmic Gravitational Wave Sources</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-finding-electromagnetic-counterparts-to-cosmic-gravitational-wave-sources/</link>
+      <link>/2019/01/project-finding-electromagnetic-counterparts-to-cosmic-gravitational-wave-sources/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-finding-electromagnetic-counterparts-to-cosmic-gravitational-wave-sources/</guid>
+      <guid>/2019/01/project-finding-electromagnetic-counterparts-to-cosmic-gravitational-wave-sources/</guid>
       <description>&lt;p&gt;Finding the exact counterpart galaxies to merging black hole binaries detected in gravitational waves is one of the most pressing problems in cosmology. The redshift of the host galaxy (which has to be measured from its electromagnetic emission) combined with the luminosity distance to the gravitational wave source allows for a direct measurement of the expansion history of the Universe, an approach commonly referred to as the &amp;lsquo;Standard Siren&amp;rsquo; method. To date, there are no proven techniques for accomplishing this goal.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Injury-Disease Interactions in Older Adults</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-injury-disease-interactions-in-older-adults/</link>
+      <link>/2019/01/project-injury-disease-interactions-in-older-adults/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-injury-disease-interactions-in-older-adults/</guid>
+      <guid>/2019/01/project-injury-disease-interactions-in-older-adults/</guid>
       <description>&lt;p&gt;Injury, such as falls, motor vehicle crashes, and drug overdose, is a major source of morbidity and mortality.  The interaction between injury and disease is complex and mutually causative.  For instance, patients with Alzheimer&amp;rsquo;s Disease or Parkinson&amp;rsquo;s Disease are known to be at heightened risk of hip fracture from falls and in turn injurious falls among these patients can drastically alter the trajectory of the disease.  So far, research on injury-disease interaction has been scant and fragmented.  The proposed project is aimed at uncovering the gestalt of the relations between different injuries and different diseases through a data science approach.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Machine learning of clouds</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-machine-learning-of-clouds/</link>
+      <link>/2019/01/project-machine-learning-of-clouds/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-machine-learning-of-clouds/</guid>
+      <guid>/2019/01/project-machine-learning-of-clouds/</guid>
       <description>&lt;p&gt;The objective is to use new large cloud-resolving simulations to try and better represent cloud processes in coarse-resolution climate models (~100km in horizontal resolution). Those simulations are global (spanning the entire globe) at 2km resolution and 30-minute output. The data will be hosted on google cloud platform (Pangeo) (the data size is about 50TB). We will in particular evaluate the impact of using Constitutional Neural Network (in time and space) and the capacity for out of sample prediction.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Measuring Broadband</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-measuring-broadband/</link>
+      <link>/2019/01/project-measuring-broadband/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-measuring-broadband/</guid>
+      <guid>/2019/01/project-measuring-broadband/</guid>
       <description>&lt;p&gt;The Federal Communications Commission (FCC) and the Census regularly publish data on U.S. Internet availability, performance and use, at granularities from census block to county and state. The project goal is to answer questions based on the available data, such as &amp;ldquo;How reliable is Internet access?&amp;rdquo;, &amp;ldquo;Who is deploying fiber where?&amp;rdquo;, &amp;ldquo;Can we predict reliability of different technologies?&amp;rdquo;, &amp;ldquo;Can we predict the deployment of fiber?&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Outcomes of multivisceral resections in colorectal cancer</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-outcomes-of-multivisceral-resections-in-colorectal-cancer/</link>
+      <link>/2019/01/project-outcomes-of-multivisceral-resections-in-colorectal-cancer/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-outcomes-of-multivisceral-resections-in-colorectal-cancer/</guid>
+      <guid>/2019/01/project-outcomes-of-multivisceral-resections-in-colorectal-cancer/</guid>
       <description>&lt;p&gt;When a colorectal cancer has grown through the wall of the colon or rectum and into other adjacent tissues or organs, it is identified as a T4 primary tumor.  If there is no evidence of distant metastasis then it is labeled a locally advanced tumor.  Such locally advanced tumors account for approximately 5-15 % of new colorectal cancers.  Surgery remains the principal treatment modality for patients with locally advanced colorectal cancer.  Studies have demonstrated planned en bloc or multivisceral resections rather than intraoperative assessment of margins more likely results in R0 resections leading to better local control and long-term survival.  However, the decision-making for a surgeon confronting a T4 colorectal cancer is challenging because surgery related mortality rates after multivisceral resections are reported up to 12%.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Random Forest vs. Neural Networks for Estimating the Ocean Carbon Sink</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/random-forest-vs-neural-networks-for-estimating-the-ocean-carbon-sink/</link>
+      <link>/2019/01/random-forest-vs-neural-networks-for-estimating-the-ocean-carbon-sink/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/random-forest-vs-neural-networks-for-estimating-the-ocean-carbon-sink/</guid>
+      <guid>/2019/01/random-forest-vs-neural-networks-for-estimating-the-ocean-carbon-sink/</guid>
       <description>&lt;p&gt;The ocean has absorbed the equivalent of 41% of industrial-age fossil carbon emissions. In the future, this rate of this ocean carbon sink will determine how much of mankind’s emissions remain in the atmosphere and drive climate change.  To quantify the ocean carbon sink, surface ocean pCO2 must be known, but cannot be measured from satellite; instead it requires direct sampling across the vast and dangerous oceans. Thus, there will never be enough observations to directly estimate the carbon sink as it evolves. Data science can fill this gap by offering robust approaches to extrapolate from sparse observations to full coverage fields given auxiliary data that can be measured remotely.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Training a deep neural network on large-scale brain imaging and cognition data.</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-training-a-deep-neural-network-on-large-scale-brain-imaging-and-cognition-data/</link>
+      <link>/2019/01/project-training-a-deep-neural-network-on-large-scale-brain-imaging-and-cognition-data/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-training-a-deep-neural-network-on-large-scale-brain-imaging-and-cognition-data/</guid>
+      <guid>/2019/01/project-training-a-deep-neural-network-on-large-scale-brain-imaging-and-cognition-data/</guid>
       <description>&lt;p&gt;The goal of this project is to develop and validate a deep neural network that predicts a child&amp;rsquo;s emotion and cognition. DSI scholars will implement 3D convolutional neural networks on brain imaging data from thousands of children to predict cognitive, emotional, and socio-developmental variables. Statistical evaluation of the model performance will be conducted. The scalable deep neural network analysis will help find brain underpinnings of cognition and emotion.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Blockchain Anomaly Detection</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-blockchain-anomaly-detection/</link>
+      <link>/2019/01/project-blockchain-anomaly-detection/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-blockchain-anomaly-detection/</guid>
+      <guid>/2019/01/project-blockchain-anomaly-detection/</guid>
       <description>&lt;p&gt;The project has collected a large set of data (&amp;gt;200GB) from a cryptocurrency block chain.  It is developing methods for detecting anomalies in transactions based on newer Social Networks, Graph Analysis and Machine Learning methods. The work involves data cleaning/wrangling and creation and implementation of various algorithms and analyzing the transactions for identifying different set of anomalies and manipulations.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Data science for better health</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-data-science-for-better-health/</link>
+      <link>/2019/01/project-data-science-for-better-health/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-data-science-for-better-health/</guid>
+      <guid>/2019/01/project-data-science-for-better-health/</guid>
       <description>&lt;p&gt;Our goal is use a large pool of homecare data (including structured data, free text clinical notes, and recorded patient-provider phone conversations) to build predictive models that help identify patients at risk for poor outcomes (like hospital admission or falls).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Learning Representations and Patterns in Mathematical Proofs </title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</link>
+      <link>/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</guid>
+      <guid>/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</guid>
       <description>&lt;p&gt;A common challenge for students in heavy proof-based courses is to come up with a long sequence of logical arguments from the problem statement to the final solution. In doing so, they can often skip steps leading to logical leaps or downright incorrect solutions. Ideally the instructor should identify these mis-steps and help students master such proof-based course material. Here we want to take a data-driven approach to address this challenge.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Looking for the Weird in TESS</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-looking-for-the-weird-in-tess/</link>
+      <link>/2019/01/project-looking-for-the-weird-in-tess/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-looking-for-the-weird-in-tess/</guid>
+      <guid>/2019/01/project-looking-for-the-weird-in-tess/</guid>
       <description>&lt;p&gt;Last year one of my graduate students developed a novel algorithm for detecting &amp;ldquo;weird&amp;rdquo; signals in photometric time series, such as those taken by NASA&amp;rsquo;s Kepler Mission and now TESS. An undergraduate students will work in my team to run the algorithm on TESS data, which is just starting to be released publicly (&lt;a href=&#34;https://heasarc.gsfc.nasa.gov/docs/tess/status.html)&#34;&gt;https://heasarc.gsfc.nasa.gov/docs/tess/status.html)&lt;/a&gt;. We hope to detect strange signatures, possibly including analogs to Tabby&amp;rsquo;s Star, interacting binaries and perhaps even technosignatures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Measuring Liberal Arts: Creating an Index for Higher Education</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-measuring-liberal-arts-creating-an-index-for-higher-education/</link>
+      <link>/2019/01/project-measuring-liberal-arts-creating-an-index-for-higher-education/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
+      <guid>/2019/01/project-measuring-liberal-arts-creating-an-index-for-higher-education/</guid>
       <description>&lt;p&gt;This project works with a novel corpus of text-based school data to develop a multi-dimensional measure of the degree to which American colleges and universities offer a liberal arts education. We seek a data scientist for various tasks on a project that uses analysis of multiple text corpora to better understand the liberal arts. This is an ongoing three-year project with opportunities for future collaborations, academic publications, and developing and improving existing data science and machine learning skills.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Quantifying Global Risks</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-quantifying-global-risks/</link>
+      <link>/2019/01/project-quantifying-global-risks/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-quantifying-global-risks/</guid>
+      <guid>/2019/01/project-quantifying-global-risks/</guid>
       <description>&lt;p&gt;In a globalized world we live in today consequences of catastrophic events easily transgress national borders. Whether it’s a natural disaster, a war or an economic crisis it’s likely to spread out and affect all of us. We propose a framework to model global risks that is not bound to any specific model and is a hybrid of human and machine intelligence. The core of this approach is in using Bayesian Nets of causalities constructed by an analyst equipped with text mining and a map of economic, political and business interconnections.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Visualization of continuous health data measurements</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-visualization-of-continuous-health-data-measurements/</link>
+      <link>/2019/01/project-visualization-of-continuous-health-data-measurements/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-visualization-of-continuous-health-data-measurements/</guid>
+      <guid>/2019/01/project-visualization-of-continuous-health-data-measurements/</guid>
       <description>&lt;p&gt;Despite the promise of predictive analytics in healthcare, the lack of continuous internal sensing devices has impeded its realization. With the exception of CGMs, no current commercially available wearable devices yield information intimate to the body. To overcome this deficiency, our research group has developed a minimally invasive wearable device capable of continuous monitoring of glucose and electrolytes in the superficial layer of the skin in an extremely minimally invasive manner.&lt;/p&gt;</description>
     </item>
     

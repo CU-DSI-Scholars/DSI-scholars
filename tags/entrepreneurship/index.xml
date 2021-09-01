@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entrepreneurship on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/entrepreneurship/</link>
+    <link>/tags/entrepreneurship/</link>
     <description>Recent content in Entrepreneurship on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Startup Cartography Project: Data and quality support</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-startup-cartography-project-data-and-quality-support/</link>
+      <link>/2020/01/project-startup-cartography-project-data-and-quality-support/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-startup-cartography-project-data-and-quality-support/</guid>
+      <guid>/2020/01/project-startup-cartography-project-data-and-quality-support/</guid>
       <description>&lt;p&gt;We are looking for talented data scientists to support the data processing and learning in the Startup Cartography Project and its follow-on project, the Artificial Intelligence in Entrepreneurship Lab.&lt;/p&gt;</description>
     </item>
     

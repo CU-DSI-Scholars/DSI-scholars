@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microbiology on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/microbiology/</link>
+    <link>/tags/microbiology/</link>
     <description>Recent content in Microbiology on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/microbiology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/microbiology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prediction of microbial communities metabolic output</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-prediction-of-microbial-communities-metabolic-output/</link>
+      <link>/2020/09/project-prediction-of-microbial-communities-metabolic-output/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-prediction-of-microbial-communities-metabolic-output/</guid>
+      <guid>/2020/09/project-prediction-of-microbial-communities-metabolic-output/</guid>
       <description>&lt;p&gt;The human microbiome is associated with different diseases, but the metabolic mechanisms through which it can modulate health are mostly unknown. Understanding these mechanisms is of paramount importance for prevention and treatment. While metagenomics analysis provides associations between microbial presence and specific diseases, metabolomics analysis can highlight metabolic alterations. None of the two, however, can unveil microbiome metabolic mechanisms associated with these detected alterations. In an attempt to fill this knowledge gap, several microbiome metabolic modeling methods were recently developed. An accurate evaluation of the accuracy of such methods in relation to different pathologies and microbiomes was never conducted.&lt;/p&gt;</description>
     </item>
     

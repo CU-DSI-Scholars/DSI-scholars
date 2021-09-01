@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sleep on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sleep/</link>
+    <link>/tags/sleep/</link>
     <description>Recent content in Sleep on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/sleep/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sleep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assessing the relationship between sleep and cardiometabolic risk in NYC women</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</link>
+      <link>/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</guid>
+      <guid>/2020/05/project-assessing-the-relationship-between-sleep-and-cardiometabolic-risk-in-nyc-women/</guid>
       <description>&lt;p&gt;This was a 1-year prospective observational study to examine the relation between sleep and cardiometabolic risk among 506 women in the NYC area. All of the data has been collected and entered in a Redcap database, has been cleaned, and is ready for analysis.&lt;/p&gt;</description>
     </item>
     
