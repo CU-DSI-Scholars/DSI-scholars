@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speech Recognition on Columbia DSI Scholars</title>
-    <link>/tags/speech-recognition/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/speech-recognition/</link>
     <description>Recent content in Speech Recognition on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/speech-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/speech-recognition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using speech and language to identify patients at risk for hospitalizations and emergency department visits in homecare</title>
-      <link>/2021/01/project-using-speech-and-language-to-identify-patients-at-risk-for-hospitalizations-and-emergency-department-visits-in-homecare/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-using-speech-and-language-to-identify-patients-at-risk-for-hospitalizations-and-emergency-department-visits-in-homecare/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-using-speech-and-language-to-identify-patients-at-risk-for-hospitalizations-and-emergency-department-visits-in-homecare/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-using-speech-and-language-to-identify-patients-at-risk-for-hospitalizations-and-emergency-department-visits-in-homecare/</guid>
       <description>&lt;p&gt;This study is the first step in exploring an emerging and previously understudied data stream - verbal communication between healthcare providers and patients. In partnership between Columbia Engineering, School of Nursing, Amazon, and the largest home healthcare agency in the US, the study will investigate how to use audio-recorded routine communications between patients and nurses to help identify patients at risk of hospitalization or emergency department visits. The study will combine speech recognition, machine learning and natural language processing to achieve its goals.&lt;/p&gt;</description>
     </item>
     

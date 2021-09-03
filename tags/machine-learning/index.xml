@@ -2,377 +2,377 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine learning on Columbia DSI Scholars</title>
-    <link>/tags/machine-learning/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/machine-learning/</link>
     <description>Recent content in Machine learning on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evaluating Machine learning algorithms in Earth science</title>
-      <link>/2021/01/project-evaluating-machine-learning-algorithms-in-earth-science/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-evaluating-machine-learning-algorithms-in-earth-science/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-evaluating-machine-learning-algorithms-in-earth-science/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-evaluating-machine-learning-algorithms-in-earth-science/</guid>
       <description>&lt;p&gt;Since the industrial revolution the atmosphere has continued to warm due to an accumulation of carbon. Terrestrial ecosystems play a crucial role in quelling the effects of climate change by storing atmospheric carbon in biomass and in the soils. In order to inform carbon reduction policy an accurate quantification of land-air carbon fluxes is necessary. To quantify the terrestrial CO2 exchange, direct monitoring of surface carbon fluxes at few locations across the globe provide valuable observations. However, this data is sparse in both space and time, and is thus unable to provide an estimate of the global spatiotemporal changes, as well as rare extreme conditions (droughts, heatwaves). In this project we will first use synthetic data and sample CO2 fluxes from a simulation of the Earth system at observation locations and then use various machine learning algorithms (neural networks, boosting, GANs) to reconstruct the model&amp;rsquo;s CO2 flux at all locations. We will then evaluate the performance of each method using a suite of regression metrics. Finally, time permitting, we will apply these methods to real observations. This project provides a way of evaluating the performance of machine learning methods as they are used in Earth science.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Reconstructions of the ocean carbon sink: Assessment of regional uncertainties</title>
-      <link>/2021/01/project-reconstructions-of-the-ocean-carbon-sink-assessment-of-regional-uncertainties/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-reconstructions-of-the-ocean-carbon-sink-assessment-of-regional-uncertainties/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-reconstructions-of-the-ocean-carbon-sink-assessment-of-regional-uncertainties/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-reconstructions-of-the-ocean-carbon-sink-assessment-of-regional-uncertainties/</guid>
       <description>&lt;p&gt;The ocean significantly mitigates climate change by absorbing fossil fuel carbon from the atmosphere. Cumulatively since the preindustrial times, the ocean has absorbed 40% of emissions. To understand past changes, diagnose ongoing changes, and to predict the future behavior of the ocean carbon sink, we must understand its spatial and temporal variability. However, the ocean is poorly sampled and so we cannot do this directly from in situ measurements.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Streaming video analysis and optimization during Work-from-Home period</title>
-      <link>/2021/01/project-streaming-video-analysis-and-optimization-during-work-from-home-period/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-streaming-video-analysis-and-optimization-during-work-from-home-period/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-streaming-video-analysis-and-optimization-during-work-from-home-period/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-streaming-video-analysis-and-optimization-during-work-from-home-period/</guid>
       <description>&lt;p&gt;The goal of this project is to collect anonymized traces from the Columbia network in order to analyze video traffic characteristics during the work/study-from home period. This information will be used for developing various ML-based tools for Quality of Experience (QoE) measurement. We will perform the feature extraction at the collection time itself and use anonymization techniques (e.g., IP address anonymization), to preserve user privacy. Students will analyze/measure encrypted network traffic to provide ground truth for potential RL/ML algorithms for estimating video QoE and identifying device/application (e.g., the start of a video streaming session). These algorithms can serve as a basis for new video adaptation techniques (see for example - &lt;a href=&#34;https://wimnet.ee.columbia.edu/wimnet-team-wins-3rd-place-in-the-acm-mmsys20-twitch-grand-challenge/&#34;&gt;https://wimnet.ee.columbia.edu/wimnet-team-wins-3rd-place-in-the-acm-mmsys20-twitch-grand-challenge/&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Using Data Science to Improve Telephone Triage of Ophthalmology Patients</title>
-      <link>/2021/01/project-using-data-science-to-improve-telephone-triage-of-ophthalmology-patients/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-using-data-science-to-improve-telephone-triage-of-ophthalmology-patients/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-using-data-science-to-improve-telephone-triage-of-ophthalmology-patients/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-using-data-science-to-improve-telephone-triage-of-ophthalmology-patients/</guid>
       <description>&lt;p&gt;Health care professionals cannot examine every person calling the office with a question nor can they return every call. Therefore, medical offices seeking to improve the speed and efficiency of evaluating and triaging patients must utilize telephone personnel who are often non-clinical staff. These telephone triage personnel may be limited in their knowledge and ability to obtain the necessary details of the patient&amp;rsquo;s medical symptoms and direct medical care accordingly. Their role is not to make diagnoses by phone, but rather to collect sufficient data related to the patient’s complaints and assign them appropriately in order to get the patient to the right level of care with the right provider in the right place at the right time.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Using speech and language to identify patients at risk for hospitalizations and emergency department visits in homecare</title>
-      <link>/2021/01/project-using-speech-and-language-to-identify-patients-at-risk-for-hospitalizations-and-emergency-department-visits-in-homecare/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-using-speech-and-language-to-identify-patients-at-risk-for-hospitalizations-and-emergency-department-visits-in-homecare/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-using-speech-and-language-to-identify-patients-at-risk-for-hospitalizations-and-emergency-department-visits-in-homecare/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-using-speech-and-language-to-identify-patients-at-risk-for-hospitalizations-and-emergency-department-visits-in-homecare/</guid>
       <description>&lt;p&gt;This study is the first step in exploring an emerging and previously understudied data stream - verbal communication between healthcare providers and patients. In partnership between Columbia Engineering, School of Nursing, Amazon, and the largest home healthcare agency in the US, the study will investigate how to use audio-recorded routine communications between patients and nurses to help identify patients at risk of hospitalization or emergency department visits. The study will combine speech recognition, machine learning and natural language processing to achieve its goals.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>California&#39;s Water Data Challenge: Generating User-guided Prediction of Water Supply in the Californian Rivers</title>
-      <link>/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-californias-water-data-challenge-generating-user-guided-prediction-of-water-supply-in-the-californian-rivers/</guid>
       <description>&lt;p&gt;Freshwater supply is critical for managing and meeting human and ecological demands. However, while stocks of water in both natural and artificial reservoirs are helpful for increasing availability, droughts and floods, as well as whiplash events affect reliability on these systems, posing grave consequences on water users. This risk is particularly salient in the state of California, where many local communities have been plagued by extreme hydrological events. In this current research, we contribute to California&amp;rsquo;s Water Data Challenge effort where a diverse group of volunteers convened to form a multi-disciplinary team that addresses the crucial issues of extreme events in California using data science approaches. Members include researchers and professionals who come from a range of backgrounds representing academia and private sectors. We combine a range of publicly available datasets with Machine Learning (ML) techniques to explore predictability of extreme events during California’s water years. More specifically, we use a variety of water districts and showcase how ML prediction models are not only able to predict the flow of water at varying time horizons, they capture uncertainties posed by the climate and human influences.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good: Developing Predictive Model for Project Cost Estimate</title>
-      <link>/2020/09/project-dfg-developing-predictive-model-for-project-cost-estimate/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-developing-predictive-model-for-project-cost-estimate/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-dfg-developing-predictive-model-for-project-cost-estimate/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-developing-predictive-model-for-project-cost-estimate/</guid>
       <description>&lt;p&gt;NYC DDC has initiated a machine learning project to develop predictive model for estimating cost of project and work items. Using the latest technique in Machine Learning and Advanced Statistics, NYC DDC to develop a model that predicts the cost of future and active projects and construction work items in different phases of the lifecycle of the project based on historical data. DDC has partnered with Microsoft who is providing the proof of concept guidance and making tools available for the proof of concept development. DDC is seeking assistance of a data scientist from the Town and Gown program to develop the model.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good: Operationalize Project Cash Flow Model</title>
-      <link>/2020/09/project-dfg-operationalize-project-cash-flow-model/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-operationalize-project-cash-flow-model/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-dfg-operationalize-project-cash-flow-model/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-operationalize-project-cash-flow-model/</guid>
       <description>&lt;p&gt;In collaboration with DDC, Microsoft AI team has developed a predictive machine learning model that forecasts monthly distribution of cash flow for DDC’s active projects. DDC intends to operationalize this model and possibly integrate into our dashboards.  Assistance is needed of a data scientist to collaborate with DDC in operationalizing the model whereby DDC can prepare the visuals and data scientist can assist with operationalizing the machine learning components.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good: The Cost of Human Rights Violations</title>
-      <link>/2020/09/project-dfg-the-cost-of-human-rights-violations/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-the-cost-of-human-rights-violations/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-dfg-the-cost-of-human-rights-violations/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-dfg-the-cost-of-human-rights-violations/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://rightscolab.org&#34;&gt;Rights CoLab&lt;/a&gt; is working with the Sustainability Accounting Standards Board (SASB) to develop and define a strengthened set of disclosure standards that investors can use to persuade companies to improve labor rights for both direct employees and workers in their supply chains. The project has two components: a data science project and an Independent Advisory Group. Our coalition of labor experts, data scientists, and SASB partners is focused on improving social disclosure standards that drive real gains in human rights.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Estimating Social Influence with Probabilistic Machine Learning</title>
-      <link>/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</guid>
       <description>&lt;p&gt;We are developing machine learning (ML) methods to understand how people influence each others’ behavior in social networks. For example, on Twitter, do users influence the content shared or posted by their followers? Methods that can identify such patterns of influence will play a role in studying, e.g., the spread of misinformation on social media sites.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Using machine learning to understand tropical cyclone genesis pathways</title>
-      <link>/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</guid>
       <description>&lt;p&gt;Until today there is no comprehensive theory for formation of tropical cyclones (hurricanes, typhoons). Therefore, it is common to use statistical methods to derive empirical indices as proxies for the probability for genesis. There are also different types of genesis pathways that have been explored in ad-hoc manner. I would like to explore the possibility of using machine learning to explore tropical cyclone genesis, in particular the different pathways in a more comprehensive manner.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Augmented Supervised Topic Models</title>
-      <link>/2020/05/project-augmented-supervised-topic-models/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-augmented-supervised-topic-models/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/project-augmented-supervised-topic-models/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-augmented-supervised-topic-models/</guid>
       <description>&lt;p&gt;In this project we&amp;rsquo;ll be expanding on the existing family of supervised topic models. These models extend LDA to document collections where, for each document, we observe additional labels or values of interest. More specifically, one of the goals of this project is to use additional document level data, such as author information, to develop better exploratory data tools.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Characterizing network behavior in phishing emails</title>
-      <link>/2020/05/project-characterizing-network-behavior-in-phishing-emails/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-characterizing-network-behavior-in-phishing-emails/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/project-characterizing-network-behavior-in-phishing-emails/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-characterizing-network-behavior-in-phishing-emails/</guid>
       <description>&lt;p&gt;Targeted phishing is one of the most common and damaging cybersecurity attacks, incurring tens of billions of dollars in losses a year. In order to increase the success of the phishing emails, attackers often craft emails that impersonate real people or legitimate online services, and send them from networks and hosting sites that have a high reputation. This leads major email security services, including Outlook and Gmail, to often misclassify these emails as legitimate.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good Project: The Cost of Human Rights Violations</title>
-      <link>/2020/05/project-the-cost-of-human-rights-violations/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-the-cost-of-human-rights-violations/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/project-the-cost-of-human-rights-violations/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-the-cost-of-human-rights-violations/</guid>
       <description>&lt;p&gt;Under United States securities laws corporations must disclose material risks to their operations. Human rights issues, especially in authoritarian countries, rarely show up in the information that data providers offer to investors, in part due to the risks to those subject to these abuses. The result is a dearth of data on human rights materiality and the tendency of investors to overlook human rights risks of the companies that they finance.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Machine-learning based methods to extract river flow information from satellite imagery</title>
-      <link>/2020/05/project-machine-learning-based-methods-to-extract-river-flow-information-from-satellite-imagery/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-machine-learning-based-methods-to-extract-river-flow-information-from-satellite-imagery/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/project-machine-learning-based-methods-to-extract-river-flow-information-from-satellite-imagery/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-machine-learning-based-methods-to-extract-river-flow-information-from-satellite-imagery/</guid>
       <description>&lt;p&gt;Humanity thrives along major rivers – this is as true now as it was ages ago. Our dependence on rivers for agriculture and electricity, as well as the need to control its flow because of our proximity, has  resulted in dramatic changes to the nature of the rivers. What were once great perennial rivers are now mere trickles during the summer months. This puts the livelihood of many people, especially poor farmers, in jeopardy. How can we monitor and document changes to the flow through rivers over time? Since river gauge measurements are rare or non-existent, any way in which we can use freely available satellite imagery (Landsat, Sentinel) to determine the changes in flow patterns of rivers over time would be extremely useful. One such tool is Rivamap – it uses OpenCV to analyze satellite imagery to extract information about rivers, especially for large rivers. What about smaller ones – it does not seem to work as well. In this project, the student(s) will have to develop machine-learning based methods  (or extend the capabilities of Rivamap) to study satellite images to extract information about the path and dimensions of rivers of different flow rates and flow patterns. Comparison with ground-truth data will be needed.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Using machine learning identify trends in HIV incidence, treatment disruption and risk factors in the PHIA multi-country population-based HIV Impact Assessment survey</title>
-      <link>/2020/05/project-using-machine-learning-identify-trends-in-hiv-incidence-treatment-disruption-and-risk-factors-in-the-phia-multi-country-population-based-hiv-impact-assessment-survey/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-using-machine-learning-identify-trends-in-hiv-incidence-treatment-disruption-and-risk-factors-in-the-phia-multi-country-population-based-hiv-impact-assessment-survey/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/05/project-using-machine-learning-identify-trends-in-hiv-incidence-treatment-disruption-and-risk-factors-in-the-phia-multi-country-population-based-hiv-impact-assessment-survey/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-using-machine-learning-identify-trends-in-hiv-incidence-treatment-disruption-and-risk-factors-in-the-phia-multi-country-population-based-hiv-impact-assessment-survey/</guid>
       <description>&lt;p&gt;The PHIA project is a multi-country population-based HIV Impact Assessment survey which has interviewed and tested for HIV over 450,000 people of all ages in Africa. We are also currently conducting a second round of surveys in many countries, and hope to use best practices in big data management to generate a combined dataset across all countries. We want to combine this data with environmental, mobility and social media data and then use machine learning to identify trends in HIV incidence, treatment disruption and risk factors. We would also be interested in looking at other ways to use environmental data to predict potential zoonotic outbreaks.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cryptocurrency Analytics: Identifying Bad Actors</title>
-      <link>/2020/02/project-cryptocurrency-analytics-identifying-bad-actors/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/02/project-cryptocurrency-analytics-identifying-bad-actors/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/02/project-cryptocurrency-analytics-identifying-bad-actors/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/02/project-cryptocurrency-analytics-identifying-bad-actors/</guid>
       <description>&lt;p&gt;Many of the cryptocurrency transactions have involved fraudulent activities including ponzi schemes, ransomware as well money-laundering. The objective is to use Graph Machine Learning methods to identify the miscreants on Bitcoin and Etherium Networks. There are many challenges including the amount of data in 100s of Gigabytes, creation and scalability of algorithms.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A multi-omic map of human aging</title>
-      <link>/2020/01/project-a-multi-omic-map-of-human-aging/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-a-multi-omic-map-of-human-aging/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-a-multi-omic-map-of-human-aging/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-a-multi-omic-map-of-human-aging/</guid>
       <description>&lt;p&gt;This project builds on a novel cellular model of human aging (Sturm et al. Epigenomics 2019) where we can investigate trajectories of multiple molecular features of aging over long time periods. The underlying multi-omic dataset includes epigenomic (DNA methylation), proteomic (protein abundance), bioenergetics (mitochondrial respiration), telomere length, and various secreted factors. A major challenge for the DSI Fellow will be to integrate the multi-omic dataset to capture dynamic signatures of mitochondrial dysfunction and cellular aging, working collaboratively with other scientists. The existing project is expected to result in one or more publications. Possibility to continue work for pay over the summer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A system for exploratory data analysis in neuroscience</title>
-      <link>/2020/01/project-a-system-for-exploratory-data-analysis-in-neuroscience/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-a-system-for-exploratory-data-analysis-in-neuroscience/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-a-system-for-exploratory-data-analysis-in-neuroscience/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-a-system-for-exploratory-data-analysis-in-neuroscience/</guid>
       <description>&lt;p&gt;Advances in data collection technologies in neuroscience has resulted in a deluge of high-quality data that needs to be analyzed, and presented to the experimentalist in a meaningful way. Usually the “data analysis and visualization”-pipeline is built from scratch for each new experiment resulting in a significant amount of code duplication and wasted effort in rebuilding the analysis tools. There is a growing need for a unified system to automate much of the repetitive tasks and aid biologists in understanding their data more efficiently.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Advanced data science methods to improve spinal electrical stimulation for paralysis</title>
-      <link>/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-advanced-data-science-methods-to-improve-spinal-electrical-stimulation-for-paralysis/</guid>
       <description>&lt;p&gt;We aim to augment recovery in spinal cord (SC) injured patients. Electrical stimulation of the SC can facilitate recovery, but the mechanisms are not yet understood. One knowledge gap lies in the exact pathways that are recruited by stimulation. To close this gap, we have tested the effects of SC stimulation in people undergoing clinically indicated surgery. By testing the distribution and size of muscle responses to SC stimulation, we can infer which circuits are activated. We are also examining how SC injury changes those responses. We propose to use Bayesian methods to understand the  interaction between muscle responses to stimulation and the MRI indicated pattern of damage. The project will involve construction of models linking multiple data modalities that predict muscle activity, followed by the modification of these models to account for patterns of damage. Construction of such models would enable a deeper understanding of SC stimulation leading to more effective stimulation paradigms.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>COSMOS Smart Intersections, Cloud-Connected Vehicles</title>
-      <link>/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-cosmos-smart-intersections-cloud-connected-vehicles/</guid>
       <description>&lt;p&gt;Research on: (i) COSMOS cloud connected vehicles, (ii) Monitoring of traffic intersections, using bird’s eye cameras, supported by ultra-low latency computational/communications hubs; (iii) Simultaneous video-based tracking of cars and pedestrians, and prediction of movement based on long-term observations of the intersection; (iv) Real-time computational processing, using deep learning, utilizing GPUs, in support of COSMOS applications; (v) Sub-10ms latency communication between all vehicles and the edge cloud computational/communication hub, to be used in support of autonomous vehicle navigation. The research is performed using the pilot node of project &lt;a href=&#34;https://cosmos-lab.org/&#34;&gt;COSMOS&lt;/a&gt; infrastructure.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Creating accurate and equitable data resources for precision public health using machine learning tools</title>
-      <link>/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-creating-accurate-and-equitable-data-resources-for-precision-public-health-using-machine-learning-tools/</guid>
       <description>&lt;p&gt;The objective of this project is to construct linkages across disparate public health data systems using machine learning tools and assess them for bias and equitable representation of subpopulations defined by demographic and socioeconomic factors.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Deep learning for tracking single molecules and proteins</title>
-      <link>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-deep-learning-for-tracking-single-molecules-and-proteins/</guid>
       <description>&lt;p&gt;This project will be focused on creating a deep learning framework for tracking individual molecules and proteins as they move within a cell under various conditions. Using total internal reflection (TIRF) microscopy, we have accumulated more than 10 million trajectories over dozens of experimental preparations with differences in both the imaging approaches as well as the biological context. In our experiments we have captured particles under a wide variety of conditions including increased protein expression level, and a range of drug concentrations. Our biggest challenge is being able to stably track the movement of a particle as it passes by other particles or groups of particles, and to do this in a way that generalizes over novel conditions. The Data Science Institute Scholar chosen for this project would work with scientists in the Javitch laboratory and others across the Columbia campus to conceive of an approach for efficiently and effectively tracking particles. The resulting work would be of great interest to an increasing number of scientists working in this field who currently rely on methods based on feature engineering that are often inaccurate or inflexible compared to modern deep learning methods.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Efficient representations and prediction of multidimensional time series data</title>
-      <link>/2020/01/project-efficient-representations-and-prediction-of-multidimensional-time-series-data/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-efficient-representations-and-prediction-of-multidimensional-time-series-data/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-efficient-representations-and-prediction-of-multidimensional-time-series-data/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-efficient-representations-and-prediction-of-multidimensional-time-series-data/</guid>
       <description>&lt;p&gt;Big data with temporal dependence brings unique challenges in effective prediction and data analysis. The complex high-dimensional interactions between observations in such data brings unique challenges which standard off-the-shelf machine learning algorithms cannot handle. Even basic tasks of clustering, visualization and identification of recurring patterns are difficult.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>High Quality Video Streaming over Wireless</title>
-      <link>/2020/01/project-high-quality-video-streaming-over-wireless/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-high-quality-video-streaming-over-wireless/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-high-quality-video-streaming-over-wireless/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-high-quality-video-streaming-over-wireless/</guid>
       <description>&lt;p&gt;The amount of video content that is being distributed over the Internet is increasing. Video providers rely on HTTP adaptive streaming approaches to deliver video clips to users. Complementary to the video provider, the service provider must determine the priority of each network stream. As part of the project, students will explore wireless network assisted strategies for http adaptive streaming by use of TOS/DSCP. This includes using machine-learning tools to analyze network video traffic and the design of reinforcement learning algorithms to improve users&#39; video Quality of Experience.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Using machine learning and topology to phenotype mouse behavior</title>
-      <link>/2020/01/project-using-machine-learning-and-topology-to-phenotype-mouse-behavior/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-using-machine-learning-and-topology-to-phenotype-mouse-behavior/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-using-machine-learning-and-topology-to-phenotype-mouse-behavior/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-using-machine-learning-and-topology-to-phenotype-mouse-behavior/</guid>
       <description>&lt;p&gt;A central issue facing systems neuroscience is defining the rich naturalistic behavioral repertoire that mice engage in under psychiatrically relevant situations. Recent advances in deep learning (e.g., DeepLabCut) have made frame by frame detailed pose estimation possible. However, this dense behavioral data requires new techniques for defining the ethogram (full description of behavior). To date, researchers have used frequency based time series approaches to tackle this problem, with significant limitations. An alternative approach would be to take advantage of new topology methods (persistent homology and directed algebraic topology) to characterize the shapes formed by mouse limb trajectories. Such an approach would have broad application in systems neuroscience. For this project, the student will use machine learning to label animal body parts, then topology to characterize the ethogram and compare the results to existing approaches.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cryptocurrency Analytics: Identifying Bad Actors</title>
-      <link>/2019/09/project-cryptocurrency-analytics-identifying-bad-actors/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-cryptocurrency-analytics-identifying-bad-actors/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-cryptocurrency-analytics-identifying-bad-actors/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-cryptocurrency-analytics-identifying-bad-actors/</guid>
       <description>&lt;p&gt;Many of the cryptocurrency transactions have involved fraudulent activities including ponzi schemes, ransomware as well money-laundering. The objective is to use Graph Machine Learning methods to identify the miscreants on Bitcoin and Etherium Networks. There are many challenges including the amount of data in 100s of Gigabytes, creation and scalability of algorithms.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good Project: The Cost of Human Rights Violations</title>
-      <link>/2019/09/project-the-cost-of-human-rights-violations/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-the-cost-of-human-rights-violations/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-the-cost-of-human-rights-violations/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-the-cost-of-human-rights-violations/</guid>
       <description>&lt;p&gt;Under United States securities laws corporations must disclose material risks to their operations. Human rights issues, especially in authoritarian countries, rarely show up in the information that data providers offer to investors, in part due to the risks to those subject to these abuses. The result is a dearth of data on human rights materiality and the tendency of investors to overlook human rights risks of the companies that they finance.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Development of unsupervised feature extraction methods for analysis of large earthquake data sets</title>
-      <link>/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-development-of-unsupervised-feature-extraction-methods-for-analysis-of-large-earthquake-data-sets/</guid>
       <description>&lt;p&gt;We are requesting a DSI Scholar position for an undergraduate to work with myself and my collaborator Ben Holtzman (Lamont Doherty Earth Observatory, LDEO). We have been collaborating on the development of novel machine learning applications to seismology, specifically unsupervised feature extraction in spectral properties of large numbers of small earthquakes. Our first application was published in Science Advances last year (Holtzman, Pate, Paisley, Waldhauser, Repetto, &amp;ldquo;Machine learning reveals cyclic changes in seismic source spectra in Geysers geothermal field.&amp;rdquo; Science Advances 4, eaao2929. doi:10.1126/sciadv.aao2929, 2018). Currently we are building a synthetic dataset to better understand the features that control clustering behavior, and compare different clustering methods.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Dynamic Identification and Risk Analysis of Tailings Dam Failure for Mining Operations</title>
-      <link>/2019/09/project-dynamic-identification-and-risk-analysis-of-tailings-dam-failure-for-mining-operations/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-dynamic-identification-and-risk-analysis-of-tailings-dam-failure-for-mining-operations/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-dynamic-identification-and-risk-analysis-of-tailings-dam-failure-for-mining-operations/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-dynamic-identification-and-risk-analysis-of-tailings-dam-failure-for-mining-operations/</guid>
       <description>&lt;p&gt;Recently, there have been multiple failures of large tailings dams that store mining wastes, around the world, with devastating impacts (e.g., &lt;a href=&#34;https://en.wikipedia.org/wiki/Brumadinho_dam_disaster)&#34;&gt;https://en.wikipedia.org/wiki/Brumadinho_dam_disaster)&lt;/a&gt;. These dams are unique in that they continue to be raised as waste piles up and can get as tall as 400m. The risk and impact of failure increases as the dam gets taller.  There are several thousand such dams around the world. The concept of the project is to develop a continuous status monitoring and risk analysis of these dams, automatically, using globally available satellite data from multiple bands, as well as regularly updated climate data products. Overtopping of the dam during an intense or persistent rainfall event is the leading mode of failure. Foundation failure which leads to a liquefaction or deformation of the dam is the second leading failure mode.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Learning the most crucial features of the galaxy merger histories</title>
-      <link>/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</guid>
       <description>&lt;p&gt;Galaxies in our universe form hierarchically, continuously merging and absorbing smaller galaxies over cosmic time. In this project we aim to identify the most important features of, as well as generate efficient new features from, the merger histories of galaxies. Namely, features that predict (or physically speaking, determine) the properties of galaxies, e.g. their shape or color. This will be done using the results from a large cosmological simulation, IllustrisTNG (&lt;a href=&#34;http://www.tng-project.org&#34;&gt;www.tng-project.org&lt;/a&gt;). We will begin with identifying ways to represent the rich information in the merger history. We will then compare various ML methods oriented towards feature selection or importance analysis: random forests or gradient boosted trees, L1SVM, neural networks (through analysis of e.g. saliency maps). More advanced models can also be applied, such as neural network models designed for feature selection. Finally, we wish to apply / develop methods that can build &amp;lsquo;interpretable&amp;rsquo; new features by constructing them as algebraic formulas from original input features (inspired by e.g. &lt;a href=&#34;https://science.sciencemag.org/content/324/5923/81)&#34;&gt;https://science.sciencemag.org/content/324/5923/81)&lt;/a&gt;. The overarching goal is to understand better what in the merger history is most crucial in determining a galaxy&amp;rsquo;s present-day properties, an answer to which can be widely applicable to problems in galaxy formation.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Advancing Public Health Monitoring and Analytics in New York City through Development of a Master Person Index</title>
-      <link>/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-advancing-public-health-monitoring-and-analytics-in-new-york-city-through-development-of-a-master-person-index/</guid>
       <description>&lt;p&gt;Data is central to the NYC Department of Health’s mission to protect and promote the health of all New Yorkers. The agency’s many programs often require large scale record linkages that integrate data from individuals across multiple public health data systems and disease registries. We are implementing a Master Person Index (MPI) system in order to centralize, optimize and standardize matching methodology for administrative data across the Department of Health.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Analysis and Prediction of Opioid Outbreak Clusters</title>
-      <link>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-analysis-and-prediction-of-opioid-outbreak-clusters/</guid>
       <description>&lt;p&gt;We are interested in investigating how deaths and hospitalizations resulting from opioid overdoses cluster across space and time in the US. This analysis will be conducted with the aid of two comprehensive databases: 1) detailed mortality data across the US; and 2) a stratified sample of all hospitalizations in the US, which can be subset to select for opioid overdoses. Analyses will be extended to drug type (prescription drugs, fentanyl etc.) and subject demographics (age, race, etc.). We have previously conducted similar cluster analysis for other health phenomena.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: ArXivLab: A Platform for Developing and Evaluating Exploratory Tools for the Scientific Literature</title>
-      <link>/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-arxivlab-a-platform-for-developing-and-evaluating-exploratory-tools-for-the-scientific-literature/</guid>
       <description>&lt;p&gt;Through ArXivLab we aim to develop the next generation recommender systems for the scientific literature using statistical machine learning approaches. In collaboration with ArXiv we are currently developing a new scholarly literature browser which will be able to extract knowledge implicit in the mathematical and scientific literature, offer advanced mathematical search capabilities and provide personalized recommendations.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Distance Metric Learning in Hyperbolic Spaces</title>
-      <link>/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-distance-metric-learning-in-hyperbolic-spaces/</guid>
       <description>&lt;p&gt;Effective representations and analyses of symbolic data, such as lexical data (words) and networks (graphs), have become of great interest in recent years, due both to advancements in data collection in Natural Language Processing (NLP), and the ubiquity of social networks. Such data often has no natural numerical representation, and is typically described in terms relational expressions or as pairwise similarities. It turns out that finding numerical representations of such data in “Hyperbolic” spaces&amp;mdash;rather than into the more familiar Euclidean spaces&amp;mdash;is a more effective way to preserve valuable relational information.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Injury-Disease Interactions in Older Adults</title>
-      <link>/2019/01/project-injury-disease-interactions-in-older-adults/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-injury-disease-interactions-in-older-adults/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-injury-disease-interactions-in-older-adults/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-injury-disease-interactions-in-older-adults/</guid>
       <description>&lt;p&gt;Injury, such as falls, motor vehicle crashes, and drug overdose, is a major source of morbidity and mortality.  The interaction between injury and disease is complex and mutually causative.  For instance, patients with Alzheimer&amp;rsquo;s Disease or Parkinson&amp;rsquo;s Disease are known to be at heightened risk of hip fracture from falls and in turn injurious falls among these patients can drastically alter the trajectory of the disease.  So far, research on injury-disease interaction has been scant and fragmented.  The proposed project is aimed at uncovering the gestalt of the relations between different injuries and different diseases through a data science approach.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Machine learning of clouds</title>
-      <link>/2019/01/project-machine-learning-of-clouds/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-machine-learning-of-clouds/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-machine-learning-of-clouds/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-machine-learning-of-clouds/</guid>
       <description>&lt;p&gt;The objective is to use new large cloud-resolving simulations to try and better represent cloud processes in coarse-resolution climate models (~100km in horizontal resolution). Those simulations are global (spanning the entire globe) at 2km resolution and 30-minute output. The data will be hosted on google cloud platform (Pangeo) (the data size is about 50TB). We will in particular evaluate the impact of using Constitutional Neural Network (in time and space) and the capacity for out of sample prediction.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Random Forest vs. Neural Networks for Estimating the Ocean Carbon Sink</title>
-      <link>/2019/01/random-forest-vs-neural-networks-for-estimating-the-ocean-carbon-sink/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/random-forest-vs-neural-networks-for-estimating-the-ocean-carbon-sink/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/random-forest-vs-neural-networks-for-estimating-the-ocean-carbon-sink/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/random-forest-vs-neural-networks-for-estimating-the-ocean-carbon-sink/</guid>
       <description>&lt;p&gt;The ocean has absorbed the equivalent of 41% of industrial-age fossil carbon emissions. In the future, this rate of this ocean carbon sink will determine how much of mankind’s emissions remain in the atmosphere and drive climate change.  To quantify the ocean carbon sink, surface ocean pCO2 must be known, but cannot be measured from satellite; instead it requires direct sampling across the vast and dangerous oceans. Thus, there will never be enough observations to directly estimate the carbon sink as it evolves. Data science can fill this gap by offering robust approaches to extrapolate from sparse observations to full coverage fields given auxiliary data that can be measured remotely.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Learning Representations and Patterns in Mathematical Proofs </title>
-      <link>/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</guid>
       <description>&lt;p&gt;A common challenge for students in heavy proof-based courses is to come up with a long sequence of logical arguments from the problem statement to the final solution. In doing so, they can often skip steps leading to logical leaps or downright incorrect solutions. Ideally the instructor should identify these mis-steps and help students master such proof-based course material. Here we want to take a data-driven approach to address this challenge.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Visualization of continuous health data measurements</title>
-      <link>/2019/01/project-visualization-of-continuous-health-data-measurements/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-visualization-of-continuous-health-data-measurements/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-visualization-of-continuous-health-data-measurements/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-visualization-of-continuous-health-data-measurements/</guid>
       <description>&lt;p&gt;Despite the promise of predictive analytics in healthcare, the lack of continuous internal sensing devices has impeded its realization. With the exception of CGMs, no current commercially available wearable devices yield information intimate to the body. To overcome this deficiency, our research group has developed a minimally invasive wearable device capable of continuous monitoring of glucose and electrolytes in the superficial layer of the skin in an extremely minimally invasive manner.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Data Science and the regulation of financial markets (application closed)</title>
-      <link>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-data-science-and-the-regulation-of-financial-markets/</guid>
       <description>&lt;p&gt;The development of computational data science
 techniques in natural language processing (NLP) and machine
 learning (ML) algorithms to analyze large and complex textual
@@ -388,55 +388,55 @@ computational analysis.&lt;/p&gt;</description>
     
     <item>
       <title>Project: Genomic and environmental predictor of preterm birth</title>
-      <link>/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-genomic-and-environmental-predictor-of-preterm-birth/</guid>
       <description>&lt;p&gt;Predicting preterm birth in nulliparous women is challenging and our efforts to develop predictors for that condition from environmental variables produce insufficient classifier accuracy. Recent studies highlight the involvement of common genetic variants in length of pregnancy. This project involves the development of a risk score for preterm birth based on both genetic and environmental attributes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Modeling Genomic Evolution with Machine Learning</title>
-      <link>/2018/01/project-modeling-genomic-evolution-with-machine-learning/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-modeling-genomic-evolution-with-machine-learning/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-modeling-genomic-evolution-with-machine-learning/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-modeling-genomic-evolution-with-machine-learning/</guid>
       <description>&lt;p&gt;A &lt;strong&gt;Fall 2018&lt;/strong&gt; internship is available in the Eaton lab to work on the development and application of machine learning approaches to historical evolutionary inference. Research will involve learning to use high performance distributed computing infrastructure, performing population genetic simulations, fitting machine learning models, and writing reproducible shareable code. The ideal candidate will have experience and interest in Python coding and a reasonable understanding of linear algebra.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Real-time brain state classification</title>
-      <link>/2018/01/project-real-time-brain-state-classification/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-real-time-brain-state-classification/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</guid>
       <description>&lt;p&gt;Using machine learning to conduct brain state classification at real-time on EEG/fNIRS/fMRI data.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Statistical modeling for dynamic social networks</title>
-      <link>/2018/01/statistical-modeling-for-dynamic-social-networks/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/statistical-modeling-for-dynamic-social-networks/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/statistical-modeling-for-dynamic-social-networks/</guid>
       <description>&lt;p&gt;Networked systems are ubiquitous in modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Visual-tactile geometric reasoning</title>
-      <link>/2018/01/project-visual-tactile-geometric-reasoning/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-visual-tactile-geometric-reasoning/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-visual-tactile-geometric-reasoning/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-visual-tactile-geometric-reasoning/</guid>
       <description>&lt;p&gt;Robotic grasp planning based on raw sensory data is difficult due to occlusion and incomplete scene geometry.  Often one sensory modality does not provide enough context to enable reliable planning.  A single depth sensor image cannot provide information about occluded regions of an object, and tactile information is incredibly sparse spatially.  We are building a Deep Learning CNN that combines both 3D vision and tactile information to perform shape completion of an object seen from a single view only, and plan stable grasps on these completed models.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Visualization of continuous health data measurements</title>
-      <link>/2018/01/project-visualization-of-continuous-health-data-measurements/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-visualization-of-continuous-health-data-measurements/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-visualization-of-continuous-health-data-measurements/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-visualization-of-continuous-health-data-measurements/</guid>
       <description>&lt;p&gt;The ubiquity of current smart and IoT devices has the potential to transform healthcare. For example, current devices can measure continuously activity levels, heart rate, blood oxygen levels, and electrocardiogram. Our lab is developing new devices which can measure additional streams of health data which are currently not possible.  The summer project will involve visualization of this entire set of data, machine learning, and multiparametric data analysis to extract trends that match health outcomes.&lt;/p&gt;</description>
     </item>
     

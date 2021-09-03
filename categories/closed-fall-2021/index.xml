@@ -2,19 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Closed Fall 2021 on Columbia DSI Scholars</title>
-<<<<<<< Updated upstream
-    <link>/categories/closed-fall-2021/</link>
-    <description>Recent content in Closed Fall 2021 on Columbia DSI Scholars</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/closed-fall-2021/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>An Extension for the Brown Institute</title>
-      <link>/2021/09/project-an-extension-for-the-brown-institute/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-an-extension-for-the-brown-institute/</guid>
-=======
     <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-fall-2021/</link>
     <description>Recent content in Closed Fall 2021 on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -26,28 +13,10 @@
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-an-extension-for-the-brown-institute/</guid>
->>>>>>> Stashed changes
       <description>&lt;p&gt;The pandemic brought with it a range of tools for virtual collaboration. In 2020, the Brown Institute space was taken offline and our events were virtual. The affordances of virtual platforms, and in particular the highly-programmable ohyay.co, quickly became obvious — people participated in events who ordinarily would not, either as presenters or as audience members, and scriptable interactions helped boost the depth of involvement in our discussions. As we begin returning to in-person events, we would like to hold onto the best properties of a virtual environment. Our proposal is for the development of a “multi-modal” Extension to the Brown Institute space. This will be a series of interventions both in ohyay.co as well as in the physical Brown Institute. Partnering with the original architect and with engineers from ohyay.co, the Brown Institute Extension will be a space for unique collaboration. Why involve DSI? The Extension will support and enhance our programming in the technical tools of journalism, including data+computation, data visualization, AR/VR, machine learning, natural language processing… and the list goes on. We hope to find an intern with an interest in HCI and computation to help us design and program our Extension.&lt;/p&gt;</description>
     </item>
     
     <item>
-<<<<<<< Updated upstream
-      <title>Health Behaviors and Cardiovascular Risk</title>
-      <link>/2021/09/project-health-behaviors-and-cardiovascular-risk/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-health-behaviors-and-cardiovascular-risk/</guid>
-      <description>&lt;p&gt;The project will include conducting analyses on lifestyle behaviors, namely diet and sleep, in relation to cardiovascular health. Analyses will be completed within NHANES (National Health and Nutrition Examination Surveys). Analyses will also be completed using data from a 24/7 sleep and activity tracker in relation to blood pressure. The student will contribute to data management and statistical analyses and will be a co-author on manuscripts submitted for publication.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>How Do Competing Regulators Regulate Conflict of Interest (COI) Disclosure? Evidence from Fairness Opinion Providers’ COI Disclosures</title>
-      <link>/2021/09/project-how-do-competing-regulators-regulate-conflict-of-interest-coi-disclosure-evidence-from-fairness-opinion-providers-coi-disclosures/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-how-do-competing-regulators-regulate-conflict-of-interest-coi-disclosure-evidence-from-fairness-opinion-providers-coi-disclosures/</guid>
-      <description>&lt;p&gt;We study how competing groups of regulators regulate the COI disclosure using the setting of the fairness opinion (“FO”) providers in mergers and acquisitions (“M&amp;amp;A”). In this setting, there are three types of regulators with cross-sectional variation in enforcement: the SEC, FINRA, and state courts. Though each group regulates the same disclosure, they all have authority over different regulatees: The SEC has authority over the managers who create the filings; FINRA has authority over the FO providers; and state courts have authority over the board of directors. We examine the effectiveness of each group’s enforcement and the effect of their interactions on COI disclosures. Our paper contributes to the literature on regulatory design for financial reporting disclosures, especially when the different regulatees need to coordinate information or when disclosures have negative implications.&lt;/p&gt;</description>
-=======
       <title>How Do Competing Regulators Regulate Conflict of Interest (COI) Disclosure? Evidence from Fairness Opinion Providers’ COI Disclosures</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-how-do-competing-regulators-regulate-conflict-of-interest-coi-disclosure-evidence-from-fairness-opinion-providers-coi-disclosures/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
@@ -63,158 +32,59 @@
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-identification-of-gene-networks-regulated-by-the-asd-risk-gene-chd8/</guid>
       <description>&lt;p&gt;The focus of our research is on autism spectrum disorder (ASD) and the neural pathways, neurodevelopment, and genes implicated in ASD.  We will be focusing on the gene CHD8, which is a regulatory gene expressed in the early fetal brain. The aim of this research is to map CHD8 cell-type specific networks in the cortex.  We will be using chromatin immunoprecipitation followed by sequencing (bioChIP-seq) to identify the cell type and lineage specific regulatory networks controlled by CHD8 that are critical for neurodevelopment and ASD risk.  We will perform bioChIP-seq using an epitope-tagged Chd8-3XFLAG-Avi transgenic mouse by crossing the mouse with a conditionally activated biotin ligase called BirA to generate mouse line Chd8-3XFLAG-Avi; neo-BirA. This mouse can be crossed with Cre driver lines to activate biotinylation of tagged Chd8 in specific cell types. Following bioChIP-seq, we will use the program HOMER to determine statistically significant target sites found in CHD8-3XFLAG-Avi-Biotin complexes in comparison with bioChIP-seq performed using non-biotinylated tagged Chd8.  The identified peaks will then be matched to genes and this data will be used to generate a cell-type specific regulatory network of genes and enhancers bound by Chd8 that will be assessed for additional genetic risk factors.&lt;/p&gt;</description>
->>>>>>> Stashed changes
     </item>
     
     <item>
       <title>Image analysis of powder blends for content unifomity measurements</title>
-<<<<<<< Updated upstream
-      <link>/2021/09/project-image-analysis-of-powder-blends-for-content-unifomity-measurements/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-image-analysis-of-powder-blends-for-content-unifomity-measurements/</guid>
-=======
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-image-analysis-of-powder-blends-for-content-unifomity-measurements/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-image-analysis-of-powder-blends-for-content-unifomity-measurements/</guid>
->>>>>>> Stashed changes
       <description>&lt;p&gt;Using image analysis and decision tree methods establish algorithms to determine extent of blend uniformity.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Impacts of flood risk on socio-economic characteristics of coastal neighborhoods</title>
-<<<<<<< Updated upstream
-      <link>/2021/09/project-impacts-of-flood-risk-on-socio-economic-characteristics-of-coastal-neighborhoods/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-impacts-of-flood-risk-on-socio-economic-characteristics-of-coastal-neighborhoods/</guid>
-=======
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-impacts-of-flood-risk-on-socio-economic-characteristics-of-coastal-neighborhoods/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-impacts-of-flood-risk-on-socio-economic-characteristics-of-coastal-neighborhoods/</guid>
->>>>>>> Stashed changes
       <description>&lt;p&gt;The project is analyzing how flood risk affects the composition of coastal neighborhoods. Understanding the effects of flooding on residential mobility and livelihoods is important for designing policies that support equitable adaptation to coastal flooding, addressing inequities in the impacts of flooding. Increasing flood risk may lead to gentrification as wealthier homeowners who have the resources to defend their homes against rising waters displace lower income households in waterfront locations, or coastal neighborhoods may deteriorate if flood-prone real estate loses value and/or economic activity and incomes decline. The study focuses on the effect of flooding associated with Hurricane Sandy on the composition of coastal neighborhoods in New York and New Jersey. The study will use panel data from the American Community Survey from 2010 to 2020 and data on flooding due to Sandy to compare the change in neighborhood characteristics such as income distribution, education, race, gender, and age over time in locations that were affected by Sandy and similar communities that were not. Dr. Malgosia Madajewicz will mentor the scholar, meeting at least once a week in person or virtually, and more often if needed. She will communicate with the scholar by email and phone as often as necessary.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Learning from Learners- Designing a Data Science Curriculum</title>
-<<<<<<< Updated upstream
-      <link>/2021/09/project-learning-from-learners-designing-a-data-science-curriculum/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-learning-from-learners-designing-a-data-science-curriculum/</guid>
-=======
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-learning-from-learners-designing-a-data-science-curriculum/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-learning-from-learners-designing-a-data-science-curriculum/</guid>
->>>>>>> Stashed changes
       <description>&lt;p&gt;This project is an opportunity to gain hands-on experience teaching data science in an advanced secondary-school environment. This fall, you will act as a teaching assistant (mostly remote, but with some on-site requirements) for a new introductory data science class that will be offered to advanced secondary-school students through the Bard College Early High School program. You will have the opportunity to contribute to the curriculum for this unique course, as well as learn firsthand from this diverse student body about how data science instruction can attract and engage learners of all backgrounds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Machine Readable Scientific Literature</title>
-<<<<<<< Updated upstream
-      <link>/2021/09/project-machine-readable-scientific-literature/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-machine-readable-scientific-literature/</guid>
-=======
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-machine-readable-scientific-literature/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-machine-readable-scientific-literature/</guid>
->>>>>>> Stashed changes
       <description>&lt;p&gt;For 350 years the scientific literature has been designed such that scientific knowledge and discoveries can be shared and understood by human beings.  With the acceleration in the pace of research in the 21st century, and the rise of data science, there is now a need to develop a different model for the scientific literature such that the products of the research, currently articles, can be read directly by machines as well as humans.  This will accelerate scientific discovery because AI and Machine Learning methods can be applied more easily to the resulting research products.   This is a pilot project to demonstrate a proof of principle, highlighting the benefits and challenges of this vision for the scientific literature of the future.&lt;/p&gt;</description>
     </item>
     
     <item>
-<<<<<<< Updated upstream
-      <title>Mapping and disrupting business email compromise criminal networks</title>
-      <link>/2021/09/project-mapping-and-disrupting-business-email-compromise-criminal-networks/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-mapping-and-disrupting-business-email-compromise-criminal-networks/</guid>
-      <description>&lt;p&gt;Business email compromise (BEC) is a prevalent cyber attack, where the attacker impersonates a figure of authority or legitimacy (e.g., the CEO, a business associate), and asks the target to wire money to a bank account by the attacker. Based on FBI estimates, in the past several years, attackers have been able to steal over $22B in fraudulent wire transfers. Such attacks have affected a very wide range of individuals and institutions, from the world&amp;rsquo;s largest and most sophisticated companies (e.g., Google, Facebook), to government and public entities, and even individuals whose house down payment was stolen by an attacker pretending to be their mortgage broker.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Meta-analysis of single-cell genomic data to define cellular heterogeneity and dynamics in atherosclerotic vasculature</title>
-      <link>/2021/09/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</guid>
-      <description>&lt;p&gt;Atherosclerosis, a chronic inflammatory disease of the artery wall, is the underlying cause of human coronary heart diseases. Single-cell genomics have catalyzed the revolution in understanding of cellular heterogeneity and dynamics in atherosclerotic vasculature. The goal of the project is to leverage published and our own single-cell genomic data and perform a meta-analysis. Meta-analysis allows integrated analysis of much larger cell numbers and helps resolve the full spectrum of cellular heterogeneity and dynamics in atherosclerotic vessels and facilitate therapeutic translation. The DSI scholar will: (1) use the latest bioinformatic pipeline to integrate the existing scRNA-seq, CITE-seq, and scATAC-seq datasets; (2) analyze the integrated datasets using R/Bioconductor packages (e.g. Seurat); (3) interpret the data using pathway and network analysis. Some relevant workflows are available through the &amp;ldquo;Resources&amp;rdquo; page of our lab website at &lt;a href=&#34;https://hanruizhang.github.io/zhanglab/&#34;&gt;https://hanruizhang.github.io/zhanglab/&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Organizational Statements and Inequality</title>
-      <link>/2021/09/project-organizational-statements-and-inequality/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-organizational-statements-and-inequality/</guid>
-=======
       <title>Organizational Statements and Inequality</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-organizational-statements-and-inequality/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-organizational-statements-and-inequality/</guid>
->>>>>>> Stashed changes
       <description>&lt;p&gt;Project focuses on using text (from company statements and job postings) to better understand inequality in labor market outcomes. It will require some data scraping, managing large amounts of text data (e.g., captures from company websites), using NLP to better understand trends in the data, and SML to code key elements in text data. It may also involve running descriptives and comparisons of text data across time periods (e.g., how the language changes).&lt;/p&gt;</description>
     </item>
     
     <item>
-<<<<<<< Updated upstream
-      <title>Representation learning for the identification of bacterial non-coding RNAs</title>
-      <link>/2021/09/project-representation-learning-for-the-identification-of-bacterial-non-coding-rnas/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-representation-learning-for-the-identification-of-bacterial-non-coding-rnas/</guid>
-      <description>&lt;p&gt;Computational methods for identifying protein coding genes can leverage the conserved translational mapping of triplet codons to amino acids. However, non-coding genes, that are transcribed into RNAs but do not code for proteins, lack this structure, hindering their identification. Deep neural networks have shown tremendous promise in learning useful representations of unstructured data, including genomic data. Our lab is investigating the application of deep learning and natural language processing to the learning of representations useful for non-coding gene identification in bacterial genomes. We are seeking a student to contribute to this work. The goals of this project include 1) the identification and application of neural network architectures useful for identifying different classes of non-coding RNAs, 2) the interrogation of well-performing models in order to identify features of non-coding RNAs, and 3) the design of robust test cases which enable the comparison of these novel methods to existing methods for non-coding RNA identification in bacterial genomes.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Spanish-Language Misinformation</title>
-      <link>/2021/09/project-spanish-language-misinformation/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-spanish-language-misinformation/</guid>
-      <description>&lt;p&gt;I will use Twitter data to assess the popularity and reach of false claims affecting Latinos regarding Covid-19, the 2020 election, and the Biden presidency. I also plan to characterize these data using text analysis methods in order to recover general themes or topics, and how they varied as a function of geography, time, and user characteristics. I have access to the Twitter academic API.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>startup pivoting</title>
-      <link>/2021/09/project-startup-pivoting/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-startup-pivoting/</guid>
-      <description>&lt;p&gt;use data science with historical version of startup websites to identify when do they pivot to new strategies.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Value of Data</title>
-      <link>/2021/09/project-the-value-of-data/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-the-value-of-data/</guid>
-      <description>&lt;p&gt;Many scholars and policymakers view establishing functioning data markets as essential for the digital economy to bring prosperity and stability to society at large. A key challenge is to determine the value of an individual&amp;rsquo;s specific data. Is one buyer’s data more valuable than another’s for an e-commerce platform? How much should each be paid?&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Towards a combined geopolitical and technical understanding of regional Internet</title>
-      <link>/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</guid>
-=======
       <title>Towards a combined geopolitical and technical understanding of regional Internet</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</guid>
->>>>>>> Stashed changes
       <description>&lt;p&gt;This research project aims at exploring and developing methods to improve and diversify the visualizations of the interactions between the Internet and the topographical and geopolitical space (i.e. space and the political actors that rule over it) through the case study of a region of interest (could be virtually any region that would be of interest for the student). The main intend of the project is to produce a set of maps and visualizations (including infographics where relevant), as comprehensive and diverse as possible, combining Internet mapping with the geographical and geopolitical context of that region. We will build on top of existing techniques for visualizations of the Internet and discuss potential capacities to further model the Internet.&lt;/p&gt;</description>
     </item>
     

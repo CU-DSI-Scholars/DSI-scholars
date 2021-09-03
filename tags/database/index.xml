@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Database on Columbia DSI Scholars</title>
-    <link>/tags/database/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/database/</link>
     <description>Recent content in Database on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project: Injury-Disease Interactions in Older Adults</title>
-      <link>/2019/01/project-injury-disease-interactions-in-older-adults/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-injury-disease-interactions-in-older-adults/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-injury-disease-interactions-in-older-adults/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-injury-disease-interactions-in-older-adults/</guid>
       <description>&lt;p&gt;Injury, such as falls, motor vehicle crashes, and drug overdose, is a major source of morbidity and mortality.  The interaction between injury and disease is complex and mutually causative.  For instance, patients with Alzheimer&amp;rsquo;s Disease or Parkinson&amp;rsquo;s Disease are known to be at heightened risk of hip fracture from falls and in turn injurious falls among these patients can drastically alter the trajectory of the disease.  So far, research on injury-disease interaction has been scant and fragmented.  The proposed project is aimed at uncovering the gestalt of the relations between different injuries and different diseases through a data science approach.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Measuring Broadband</title>
-      <link>/2019/01/project-measuring-broadband/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-measuring-broadband/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/project-measuring-broadband/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-measuring-broadband/</guid>
       <description>&lt;p&gt;The Federal Communications Commission (FCC) and the Census regularly publish data on U.S. Internet availability, performance and use, at granularities from census block to county and state. The project goal is to answer questions based on the available data, such as &amp;ldquo;How reliable is Internet access?&amp;rdquo;, &amp;ldquo;Who is deploying fiber where?&amp;rdquo;, &amp;ldquo;Can we predict reliability of different technologies?&amp;rdquo;, &amp;ldquo;Can we predict the deployment of fiber?&amp;rdquo;&lt;/p&gt;</description>
     </item>
     

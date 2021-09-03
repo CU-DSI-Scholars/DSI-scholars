@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text Mining on Columbia DSI Scholars</title>
-    <link>/tags/text-mining/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/text-mining/</link>
     <description>Recent content in Text Mining on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project: Informatics approaches to biomedical evidence appraisal using public data</title>
-      <link>/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-informatics-approaches-to-biomedical-evidence-appraisal-using-public-data/</guid>
       <description>&lt;p&gt;The quality of biomedical evidence can affect research sustainability, patient safety, and the public&amp;rsquo;s trust in biomedical research. However, often the quality of biomedical evidence remains opaque to the public. It is imperative to improve the transparency of evidence quality. This project aims to leverage the public data sources, including but not limited to The ClinicalTrials.gov, The PubMed database for biomedical literature, The National Health and Nutrition Examination Survey (NHANES) database, and so on, to develop and apply novel data mining and visualization methods for appraising the biomedical research evidence, uncovering implicit biases in clinical research designs at different levels, and presenting this information intuitively to the public.  Students on this project will acquire or hone their skills in data mining, results presentation, and user interface designs and evaluation.&lt;/p&gt;</description>
     </item>
     

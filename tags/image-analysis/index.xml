@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image analysis on Columbia DSI Scholars</title>
-    <link>/tags/image-analysis/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/image-analysis/</link>
     <description>Recent content in Image analysis on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/image-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/image-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A global-to-local processing bias in conditions of restricted awareness: the case of symmetry and illusory figures</title>
-      <link>/2021/01/project-a-global-to-local-processing-bias-in-conditions-of-restricted-awareness-the-case-of-symmetry-and-illusory-figures/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-a-global-to-local-processing-bias-in-conditions-of-restricted-awareness-the-case-of-symmetry-and-illusory-figures/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-a-global-to-local-processing-bias-in-conditions-of-restricted-awareness-the-case-of-symmetry-and-illusory-figures/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-a-global-to-local-processing-bias-in-conditions-of-restricted-awareness-the-case-of-symmetry-and-illusory-figures/</guid>
       <description>&lt;p&gt;A wealth of evidence for the automaticity of perceptual organization processes points toward the existence of a global-to-local processing bias in early perceptual stages. Global features are encoded and spontaneously reported during early conscious vision, resulting in the perception of coherent objects prior to identifying detailed information. Yet, results from experiments that presented illusory figure presentation below the perceptual threshold to study the reliance of perceptual organization on visual awareness have shown conflicting findings, leaving open the question of how global features interact during figure perception. The present study will examine the interaction between symmetry and perceptual completion under conditions of restricted awareness.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Real-time brain state classification</title>
-      <link>/2018/01/project-real-time-brain-state-classification/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/project-real-time-brain-state-classification/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2018/01/project-real-time-brain-state-classification/</guid>
       <description>&lt;p&gt;Using machine learning to conduct brain state classification at real-time on EEG/fNIRS/fMRI data.&lt;/p&gt;</description>
     </item>
     

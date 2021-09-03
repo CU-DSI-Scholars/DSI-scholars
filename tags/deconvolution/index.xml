@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deconvolution on Columbia DSI Scholars</title>
-    <link>/tags/deconvolution/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deconvolution/</link>
     <description>Recent content in Deconvolution on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/deconvolution/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/deconvolution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deconvolution methods for detecting contamination in microbiome samples</title>
-      <link>/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-deconvolution-methods-for-detecting-contamination-in-microbiome-samples/</guid>
       <description>&lt;p&gt;Complex microbial communities play an important role in numerous fields, from human health to bioremediation. One critical challenge in their data analysis is to separate true biological data from contamination of various sources. While contemporary experimental procedures include various negative controls, a comprehensive statistical approach for their analysis has not been developed. Such a framework would have a far-reaching impact on the field.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Deconvolution methods for detecting spatial contamination in microbiome samples</title>
-      <link>/2020/09/project-deconvolution-methods-for-detecting-spatial-contamination-in-microbiome-samples/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-deconvolution-methods-for-detecting-spatial-contamination-in-microbiome-samples/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-deconvolution-methods-for-detecting-spatial-contamination-in-microbiome-samples/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-deconvolution-methods-for-detecting-spatial-contamination-in-microbiome-samples/</guid>
       <description>&lt;p&gt;Complex microbiomes play an important role in numerous fields. One critical challenge in their data analysis is to separate true biological data from contamination. Contemporary experimental procedures include negative controls from various sources, but their analysis is complicated by “well-to-well” contamination: contamination that associates with the position of samples during experimental procedures. This causes bacteria sampled from a true biological source to appear in nearby control samples, and vice versa. An analytic approach that accounts for this source of contamination would have a far-reaching impact on the field.&lt;/p&gt;</description>
     </item>
     

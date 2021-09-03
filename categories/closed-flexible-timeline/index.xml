@@ -2,28 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Closed Flexible Timeline on Columbia DSI Scholars</title>
-<<<<<<< Updated upstream
-    <link>/categories/closed-flexible-timeline/</link>
-    <description>Recent content in Closed Flexible Timeline on Columbia DSI Scholars</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/closed-flexible-timeline/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Health Behaviors and Cardiovascular Risk</title>
-      <link>/2021/09/project-health-behaviors-and-cardiovascular-risk/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-health-behaviors-and-cardiovascular-risk/</guid>
-      <description>&lt;p&gt;The project will include conducting analyses on lifestyle behaviors, namely diet and sleep, in relation to cardiovascular health. Analyses will be completed within NHANES (National Health and Nutrition Examination Surveys). Analyses will also be completed using data from a 24/7 sleep and activity tracker in relation to blood pressure. The student will contribute to data management and statistical analyses and will be a co-author on manuscripts submitted for publication.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Machine Readable Scientific Literature</title>
-      <link>/2021/09/project-machine-readable-scientific-literature/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-machine-readable-scientific-literature/</guid>
-=======
     <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline/</link>
     <description>Recent content in Closed Flexible Timeline on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -35,33 +13,15 @@
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-machine-readable-scientific-literature/</guid>
->>>>>>> Stashed changes
       <description>&lt;p&gt;For 350 years the scientific literature has been designed such that scientific knowledge and discoveries can be shared and understood by human beings.  With the acceleration in the pace of research in the 21st century, and the rise of data science, there is now a need to develop a different model for the scientific literature such that the products of the research, currently articles, can be read directly by machines as well as humans.  This will accelerate scientific discovery because AI and Machine Learning methods can be applied more easily to the resulting research products.   This is a pilot project to demonstrate a proof of principle, highlighting the benefits and challenges of this vision for the scientific literature of the future.&lt;/p&gt;</description>
     </item>
     
     <item>
-<<<<<<< Updated upstream
-      <title>Representation learning for the identification of bacterial non-coding RNAs</title>
-      <link>/2021/09/project-representation-learning-for-the-identification-of-bacterial-non-coding-rnas/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-representation-learning-for-the-identification-of-bacterial-non-coding-rnas/</guid>
-      <description>&lt;p&gt;Computational methods for identifying protein coding genes can leverage the conserved translational mapping of triplet codons to amino acids. However, non-coding genes, that are transcribed into RNAs but do not code for proteins, lack this structure, hindering their identification. Deep neural networks have shown tremendous promise in learning useful representations of unstructured data, including genomic data. Our lab is investigating the application of deep learning and natural language processing to the learning of representations useful for non-coding gene identification in bacterial genomes. We are seeking a student to contribute to this work. The goals of this project include 1) the identification and application of neural network architectures useful for identifying different classes of non-coding RNAs, 2) the interrogation of well-performing models in order to identify features of non-coding RNAs, and 3) the design of robust test cases which enable the comparison of these novel methods to existing methods for non-coding RNA identification in bacterial genomes.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Towards a combined geopolitical and technical understanding of regional Internet</title>
-      <link>/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</guid>
-=======
       <title>Towards a combined geopolitical and technical understanding of regional Internet</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</guid>
->>>>>>> Stashed changes
       <description>&lt;p&gt;This research project aims at exploring and developing methods to improve and diversify the visualizations of the interactions between the Internet and the topographical and geopolitical space (i.e. space and the political actors that rule over it) through the case study of a region of interest (could be virtually any region that would be of interest for the student). The main intend of the project is to produce a set of maps and visualizations (including infographics where relevant), as comprehensive and diverse as possible, combining Internet mapping with the geographical and geopolitical context of that region. We will build on top of existing techniques for visualizations of the Internet and discuss potential capacities to further model the Internet.&lt;/p&gt;</description>
     </item>
     

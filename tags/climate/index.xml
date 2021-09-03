@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Climate on Columbia DSI Scholars</title>
-    <link>/tags/climate/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/climate/</link>
     <description>Recent content in Climate on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/climate/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/climate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using ICESat 2 satellite laser altimetry to track storms in Antarctica</title>
-      <link>/2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica/</guid>
       <description>&lt;p&gt;The main goal of this work is to assess if storms have increased in frequency over Antarctica. It is theorized that climate change will increase the intensity of the winds and frequency of the storms. With ICESat 2 satellite laser altimetry, we can count the number of storms and blowing snow events. ICESat 2 is a photon counting laser and generates terrabytes of data each day. Innovative data science techniques are needed to handle the data and analyze it. This project is, therefore, a suitable topic for a masters student that combines an important problem in Geophysics and climate science with a great Data Science application.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Using machine learning to understand tropical cyclone genesis pathways</title>
-      <link>/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-machine-learning-to-understand-tropical-cyclone-genesis-pathways/</guid>
       <description>&lt;p&gt;Until today there is no comprehensive theory for formation of tropical cyclones (hurricanes, typhoons). Therefore, it is common to use statistical methods to derive empirical indices as proxies for the probability for genesis. There are also different types of genesis pathways that have been explored in ad-hoc manner. I would like to explore the possibility of using machine learning to explore tropical cyclone genesis, in particular the different pathways in a more comprehensive manner.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Evaluating Reconstructions of the Ocean Carbon Sink</title>
-      <link>/2020/01/project-evaluating-reconstructions-of-the-ocean-carbon-sink/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-evaluating-reconstructions-of-the-ocean-carbon-sink/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/project-evaluating-reconstructions-of-the-ocean-carbon-sink/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-evaluating-reconstructions-of-the-ocean-carbon-sink/</guid>
       <description>&lt;p&gt;The ocean significantly mitigates climate change by absorbing fossil fuel carbon from the atmosphere. Cumulatively since the preindustrial times, the ocean has absorbed 40% of emissions. To understand past changes, diagnose ongoing changes, and to predict the future behavior of the ocean carbon sink, we must understand its spatial and temporal variability. However, the ocean is poorly sampled and so we cannot do this from direct measurements.&lt;/p&gt;</description>
     </item>
     

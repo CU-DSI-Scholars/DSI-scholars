@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Astrophysics on Columbia DSI Scholars</title>
-    <link>/tags/astrophysics/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/astrophysics/</link>
     <description>Recent content in Astrophysics on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/astrophysics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/astrophysics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning the most crucial features of the galaxy merger histories</title>
-      <link>/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/09/project-learning-the-most-crucial-features-of-the-galaxy-merger-histories/</guid>
       <description>&lt;p&gt;Galaxies in our universe form hierarchically, continuously merging and absorbing smaller galaxies over cosmic time. In this project we aim to identify the most important features of, as well as generate efficient new features from, the merger histories of galaxies. Namely, features that predict (or physically speaking, determine) the properties of galaxies, e.g. their shape or color. This will be done using the results from a large cosmological simulation, IllustrisTNG (&lt;a href=&#34;http://www.tng-project.org&#34;&gt;www.tng-project.org&lt;/a&gt;). We will begin with identifying ways to represent the rich information in the merger history. We will then compare various ML methods oriented towards feature selection or importance analysis: random forests or gradient boosted trees, L1SVM, neural networks (through analysis of e.g. saliency maps). More advanced models can also be applied, such as neural network models designed for feature selection. Finally, we wish to apply / develop methods that can build &amp;lsquo;interpretable&amp;rsquo; new features by constructing them as algebraic formulas from original input features (inspired by e.g. &lt;a href=&#34;https://science.sciencemag.org/content/324/5923/81)&#34;&gt;https://science.sciencemag.org/content/324/5923/81)&lt;/a&gt;. The overarching goal is to understand better what in the merger history is most crucial in determining a galaxy&amp;rsquo;s present-day properties, an answer to which can be widely applicable to problems in galaxy formation.&lt;/p&gt;</description>
     </item>
     

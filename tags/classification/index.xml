@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Classification on Columbia DSI Scholars</title>
-    <link>/tags/classification/</link>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/classification/</link>
     <description>Recent content in Classification on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/classification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Natural Language Processing within the CONCERN Project</title>
-      <link>/2021/01/project-natural-language-processing-within-the-concern-project/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-natural-language-processing-within-the-concern-project/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-natural-language-processing-within-the-concern-project/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-natural-language-processing-within-the-concern-project/</guid>
       <description>&lt;p&gt;The CONCERN project aims to develop models and tools to quantify clinician concern about patient deterioration in the inpatient setting that can be used in early warning scores.  We have discovered and validated several measurable ways within the Electronic Health Record (EHR) to measure clinician concern and have demonstrated that our approach identified patients at risk of deterioration earlier than other methods, which focus only on physiological data.  One of our approaches is leveraging documentation of certain concepts within narrative text in nursing notes that are consistent with concern about a patient. However, this narrative free text is not easily accessible - it is often mixed together with structured or templated text and varies over note types. The steps to be performed are&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Weather Effects on High Frequency Communication Links</title>
-      <link>/2021/01/project-weather-effects-on-high-frequency-communication-links/</link>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-weather-effects-on-high-frequency-communication-links/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/project-weather-effects-on-high-frequency-communication-links/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-weather-effects-on-high-frequency-communication-links/</guid>
       <description>&lt;p&gt;Future wireless networks will use high-frequency millimeter-wave (mmWave) links for transmitting and receiving information with high throughput. A key difference between mmWave links and conventional sub-6GHz links is that mmWave links are severely affected by weather conditions. Students working on this project will use a state-of-the-art mmWave radar to assess the impact of wind speed, temperature, humidity, and other factors on the high-frequency link. The end goal of the project is to develop a classifier that can infer weather conditions based on the signal received from the mmWave radar. In this project, students are expected to learn how the mmWave radar works, design experiments to obtain labeled data, perform measurements, and develop the classifier.&lt;/p&gt;</description>
     </item>
     
