@@ -6,6 +6,7 @@
     <description>Recent content in Open Flexible Timeline on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< Updated upstream
     <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/open-flexible-timeline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>@Dear Pandemic, a social media-based science communication project targeting the COVID-19 infodemic</title>
@@ -13,105 +14,221 @@
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/project-dear-pandemic-a-social-media-based-science-communication-project-targeting-the-covid-19-infodemic/</guid>
+=======
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@Dear Pandemic, a social media-based science communication project targeting the COVID-19 infodemic</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dear-pandemic-a-social-media-based-science-communication-project-targeting-the-covid-19-infodemic/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dear-pandemic-a-social-media-based-science-communication-project-targeting-the-covid-19-infodemic/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;The WHO has identified scientific misinformation as a public health crisis, calling it an “infodemic.” Social media allows misinformation to spread quickly and out-compete scientifically grounded information. Dear Pandemic is an innovative, multidisciplinary, social media-based science communication project led by women scientists across several institutions around the US and the UK. The mission is to educate and empower individuals to successfully navigate the overwhelming amount of information. The goals are: 1) To disseminate trustworthy, comprehensive, and timely scientific content about the pandemic to lay audiences, and 2) To promote media and health literacy, equipping readers to better manage the COVID-19 infodemic within their own networks. More than one year after launch, the project has a combined monthly reach of &amp;gt; 5 million people across 4 social media channels (2 Facebook pages in English and Spanish; Instagram; and Twitter).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A traffic map for the Internet</title>
+<<<<<<< Updated upstream
       <link>/2021/09/project-a-traffic-map-for-the-internet/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/project-a-traffic-map-for-the-internet/</guid>
+=======
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-a-traffic-map-for-the-internet/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-a-traffic-map-for-the-internet/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;The impact of an outage, congestion, hijacking, and many other Internet phenomena depends on how many users or how much traffic use the route, but researchers lack visibility into how important routes are, and, distressingly, seem to have lost hope of obtaining this information without proprietary datasets or privileged viewpoints. We believe that there is hope &amp;ndash; new measurement methods and changes in Internet structure make it possible to construct an “Internet Traffic Map” identifying the locations (logical and perhaps geographical) of Internet users and major services, the paths between users and major services, and the relative activity levels (traffic, queries, or number of users) routed along these paths. We will construct this map. The realization of an Internet Traffic Map will be an Internet-scale effort that will have Internet-scale consequences that reach far beyond the research community.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Associations between specific antibiotic classes and risk for Clostridioides difficile infection within the MarketScan database</title>
+<<<<<<< Updated upstream
       <link>/2021/09/project-associations-between-specific-antibiotic-classes-and-risk-for-clostridioides-difficile-infection-within-the-marketscan-database/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/project-associations-between-specific-antibiotic-classes-and-risk-for-clostridioides-difficile-infection-within-the-marketscan-database/</guid>
+=======
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-associations-between-specific-antibiotic-classes-and-risk-for-clostridioides-difficile-infection-within-the-marketscan-database/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-associations-between-specific-antibiotic-classes-and-risk-for-clostridioides-difficile-infection-within-the-marketscan-database/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;Clostridioides difficile infection (CDI) is highly associated with antibiotic exposure, but it is uncertain which classes of antibiotics confer the greatest risk for CDI.  This project will use the MarketScan database, a large commercial insurance billing database containing 40 million patient records, outpatient antibiotic prescription data, and ICD-based disease information, to test for associations between specific antibiotic classes and risk for CDI.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Complex genome rearrangements in a unicellular model organism</title>
+<<<<<<< Updated upstream
       <link>/2021/09/project-complex-genome-rearrangements-in-a-unicellular-model-organism/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/project-complex-genome-rearrangements-in-a-unicellular-model-organism/</guid>
+=======
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-complex-genome-rearrangements-in-a-unicellular-model-organism/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-complex-genome-rearrangements-in-a-unicellular-model-organism/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;The Landweber Lab is looking for a computational student to work with us to analyze long-read DNA sequence datasets from Oxford Nanopore and PacBio (so-called third generation sequencing platforms). These datasets were collected across a time-course while single cells of the genus Oxytricha are undergoing RNA-guided natural genome editing. This process leads to a completely different &amp;ldquo;output&amp;rdquo; product genome from the precursor &amp;ldquo;input&amp;rdquo; or germline genome, and has been compared to a cellular computer. The goal will be to capture and classify long reads in these DNA datasets that represent the intermediate steps in genome rearrangements, when chromosomes mix and match hundreds of thousands of precursor building blocks to assemble a mature genome of 18,000 new chromosomes during programmed nuclear development.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>COVID-19 Evidence Retrieval and Synthesis Using PubMed Abstracts</title>
+<<<<<<< Updated upstream
       <link>/2021/09/project-covid-19-evidence-retrieval-and-synthesis-using-pubmed-abstracts/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/project-covid-19-evidence-retrieval-and-synthesis-using-pubmed-abstracts/</guid>
+=======
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-covid-19-evidence-retrieval-and-synthesis-using-pubmed-abstracts/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-covid-19-evidence-retrieval-and-synthesis-using-pubmed-abstracts/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;Evidence-based Medicine (EBM) is the conscientious, explicit and judicious use of current best evidence in making decisions about the care of individual patients. The key difference between evidence-based medicine and traditional medicine is not that EBM considers the evidence while the latter does not, but rather that EBM demands better evidence. Given the exponential growth of the medical literature and the free text format of this big body of literature that hampers efficient evidence computing, researchers, patients and clinicians face significant challenges in evidence retrieval, appraisal, and synthesis. Our long-term goal is to develop natural language processing and text summarization methods to overcome these challenges. Our short-term goal is to build a computable evidence base for COVID-19 and to enable evidence synthesis and reasoning over COVID-19 study findings. Currently we have a database of structured data elements for PubMed abstracts for randomized controlled trials published within the past 20 years. For this scholar project, we expect the participating students to develop methods to analyze the evidence in our evidence base, to build COVID-19 knowledge graphs, and to enable evidence synthesis and appraisal at scale. On this basis, we will also compare the evidence in the literature to the evidence derived from the real world data of COVID-19 patients.&lt;/p&gt;</description>
     </item>
     
     <item>
+<<<<<<< Updated upstream
       <title>Data For Good: The Cost of Human Rights Violations</title>
       <link>/2021/09/project-dfg-the-cost-of-human-rights-violations/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/project-dfg-the-cost-of-human-rights-violations/</guid>
+=======
+      <title>Data For Good: Poverty Research Cartagena</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-poverty-research-cartagena/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-poverty-research-cartagena/</guid>
+      <description>&lt;p&gt;This project is an exciting opportunity to work with FEM, a non-profit that aims to address social rights issues among rural communities in Colombia. The team is currently working with the mayor’s office in Cartagena, Colombia to access multiple datasets and data sources to establish who and where the extreme poor in Cartagena live. Her team piloted a smartphone-based collection strategy during IOTA Hurricane and obtained data on 4845 households in a very vulnerable area. The first data science challenge was to wrangle and analyze these data to better characterize the population and their needs. This part of the project was conducted in the Spring and Summer of 2021.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data For Good: The Cost of Human Rights Violations</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-the-cost-of-human-rights-violations/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-the-cost-of-human-rights-violations/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;Rights CoLab is working with the Sustainability Accounting Standards Board (SASB) to define a strengthened set of disclosure standards that investors can use to persuade companies to improve labor rights for both their workforce and workers in supply chains. The project has two components: 1) a data science project, and 2) an Expert Group.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Evaluating the impact of telemedicine on chronic disease outcomes</title>
+<<<<<<< Updated upstream
       <link>/2021/09/project-evaluating-the-impact-of-telemedicine-on-chronic-disease-outcomes/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/project-evaluating-the-impact-of-telemedicine-on-chronic-disease-outcomes/</guid>
+=======
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-evaluating-the-impact-of-telemedicine-on-chronic-disease-outcomes/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-evaluating-the-impact-of-telemedicine-on-chronic-disease-outcomes/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;The Center for Behavioral Cardiovascular Health has been at the forefront of developing virtual interventions (e.g., home BP telemonitoring, iHeart enhanced depression screening app, and COVID remote care program) to improve the management of hypertension, depression, and COVID. We are looking for motivated mentees to help us organize and analyze a wide-breadth of patient data from the Columbia-New York Presbyterian data warehouse to understand the impact of the interventions on patient outcomes. The mentee would work alongside highly experienced biostatisticians and our Center&amp;rsquo;s professionalized data team managers. The mentee will develop expertise in analyzing health system data and will inform decisions to modify, sustain, or de-implement existing programs.&lt;/p&gt;</description>
     </item>
     
     <item>
+<<<<<<< Updated upstream
       <title>Mapping NYPD Subway Fare Evasion Enforcement</title>
       <link>/2021/09/project-mapping-nypd-subway-fare-evasion-enforcement/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/project-mapping-nypd-subway-fare-evasion-enforcement/</guid>
+=======
+      <title>Health Behaviors and Cardiovascular Risk</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-health-behaviors-and-cardiovascular-risk/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-health-behaviors-and-cardiovascular-risk/</guid>
+      <description>&lt;p&gt;The project will include conducting analyses on lifestyle behaviors, namely diet and sleep, in relation to cardiovascular health. Analyses will be completed within NHANES (National Health and Nutrition Examination Surveys). Analyses will also be completed using data from a 24/7 sleep and activity tracker in relation to blood pressure. The student will contribute to data management and statistical analyses and will be a co-author on manuscripts submitted for publication.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mapping NYPD Subway Fare Evasion Enforcement</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-mapping-nypd-subway-fare-evasion-enforcement/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-mapping-nypd-subway-fare-evasion-enforcement/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;This project is the next phase in ongoing research to document how the MTA and NYPD use public resources to criminalize poverty at the subway turnstile, especially in Black and Brown communities.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Multi-class probabilistic clustering of the human gut microbiome</title>
+<<<<<<< Updated upstream
       <link>/2021/09/project-multi-class-probabilistic-clustering-of-the-human-gut-microbiome/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/project-multi-class-probabilistic-clustering-of-the-human-gut-microbiome/</guid>
+=======
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-multi-class-probabilistic-clustering-of-the-human-gut-microbiome/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-multi-class-probabilistic-clustering-of-the-human-gut-microbiome/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;Understanding the structure and function of the human gut microbiome is expected to revolutionize healthcare due to its many associations with human disease. A critical step in microbiome analysis involves a clustering stage, where genomic sequences of unknown origin are assigned to latent genomes present in the sample. Current clustering methods rely on mixture-models, yet these fail to correctly model the features of genomic sequences shared across multiple genomes. These sequences are of great importance, often encoding antibiotic resistance genes that drive resistant outbreaks. This project&amp;rsquo;s goal is to develop a clustering algorithm that will effectively cluster both shared and unique genomic sequences. We have developed two probabilistic models, both based around hierarchical Poisson factorization, that have already produced promising results. The project&amp;rsquo;s goal will be to refine these models: This will involve robustly evaluating the current models, determining their limitations, and designing new models that improve upon the current. A successful project will enable for the first time, scalable, and comprehensive reconstruction of bacterial genomes. In turn, this will enable a large-scale analysis of antimicrobial resistance in the context of the human gut microbiome. We anticipate a successful project to result in an exciting publication.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Predicting gene expression from sequencing in Alzheimers Disease</title>
+<<<<<<< Updated upstream
       <link>/2021/09/project-predicting-gene-expression-from-sequencing-in-alzheimers-disease/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/project-predicting-gene-expression-from-sequencing-in-alzheimers-disease/</guid>
+=======
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-predicting-gene-expression-from-sequencing-in-alzheimers-disease/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-predicting-gene-expression-from-sequencing-in-alzheimers-disease/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;The goal of this project is to evaluate algorithms that predict gene expression directly from sequencing data. With the availability of large scale sequencing data in ADSP and progress made in machine learning methods, it is possible to model long range interactions in the DNA sequence to infer intermediate phenotypes such as gene expression. First, we will test a deep learning based method called Enformer that is able to integrate long-range interactions (such as promoter-enhancer interactions) in the genome and predict gene expression from sequence. Using available RNA-sequencing on a small number of samples (e.g. ROSMAP cohort), we will optimize the algorithm to improve accuracy of prediction. Secondly, inferred expression in the ADSP cohorts will be used to test association with Alzheimer’s Disease and related endophenotypes. Finally, we will incorporate datasets that will become available in future such as cell-type specific ATAC-seq and disease-specific gene expression to re-train learning models to improve gene-expression prediction directly from sequencing data.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Randomized algorithms for plasma fusion data analysis</title>
+<<<<<<< Updated upstream
       <link>/2021/09/project-randomized-algorithms-for-plasma-fusion-data-analysis/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/project-randomized-algorithms-for-plasma-fusion-data-analysis/</guid>
+=======
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-randomized-algorithms-for-plasma-fusion-data-analysis/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-randomized-algorithms-for-plasma-fusion-data-analysis/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;Tokamak fusion reactors produce vast amounts of information rich data. Traditional approaches to data analysis struggle to cope with the scale of the data produced. In this project we aim to apply techniques from randomized numerical to beat the curse of dimensionality. Interested students should have a solid understanding of linear algebra, probability, and be happy coding in MATLAB or Python.&lt;/p&gt;</description>
     </item>
     
     <item>
+<<<<<<< Updated upstream
       <title>Volatile solubility laws in melts and magmas; an adaptative and universal Bayesian approach</title>
       <link>/2021/09/project-volatile-solubility-laws-in-melts-and-magmas-an-adaptative-and-universal-bayesian-approach/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/project-volatile-solubility-laws-in-melts-and-magmas-an-adaptative-and-universal-bayesian-approach/</guid>
+=======
+      <title>Representation learning for the identification of bacterial non-coding RNAs</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-representation-learning-for-the-identification-of-bacterial-non-coding-rnas/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-representation-learning-for-the-identification-of-bacterial-non-coding-rnas/</guid>
+      <description>&lt;p&gt;Computational methods for identifying protein coding genes can leverage the conserved translational mapping of triplet codons to amino acids. However, non-coding genes, that are transcribed into RNAs but do not code for proteins, lack this structure, hindering their identification. Deep neural networks have shown tremendous promise in learning useful representations of unstructured data, including genomic data. Our lab is investigating the application of deep learning and natural language processing to the learning of representations useful for non-coding gene identification in bacterial genomes. We are seeking a student to contribute to this work. The goals of this project include 1) the identification and application of neural network architectures useful for identifying different classes of non-coding RNAs, 2) the interrogation of well-performing models in order to identify features of non-coding RNAs, and 3) the design of robust test cases which enable the comparison of these novel methods to existing methods for non-coding RNA identification in bacterial genomes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Volatile solubility laws in melts and magmas: an adaptative and universal Bayesian approach</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-volatile-solubility-laws-in-melts-and-magmas-an-adaptative-and-universal-bayesian-approach/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-volatile-solubility-laws-in-melts-and-magmas-an-adaptative-and-universal-bayesian-approach/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;All volcanoes on earth are driven by the degassing of volatile elements, mostly H2O and CO2 from their host magma. To model the degassing process, one needs to know the solubility laws of these volatile. To that end, petrologists have been performing high-pressure high-temperature experiments for sixty years to determine how much water and CO2 dissolves in magma as a function of Pressure, Temperature, Melt composition (12 oxides) and oxidation state. To model how these fifteen parameters affect solubility laws petrologist have then relied on empirical interpolation between experimental data points and some extrapolations using classical thermodynamic theory to infer the expected behavior beyond experimental calibration.&lt;/p&gt;</description>
     </item>
     
