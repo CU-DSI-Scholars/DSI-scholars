@@ -6,6 +6,7 @@
     <description>Recent content in Tags on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< Updated upstream
     <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021  - Data For Good</title>
@@ -13,33 +14,63 @@
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/2021-data-for-good/</guid>
+=======
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021  - Data For Good</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/2021-data-for-good/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/2021-data-for-good/</guid>
+>>>>>>> Stashed changes
       <description></description>
     </item>
     
     <item>
       <title>Fall 2021</title>
+<<<<<<< Updated upstream
       <link>/tags/fall-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/fall-2021/</guid>
+=======
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2021/</guid>
+>>>>>>> Stashed changes
       <description></description>
     </item>
     
     <item>
       <title>Fall 2021  - Data For Good</title>
+<<<<<<< Updated upstream
       <link>/tags/fall-2021-data-for-good/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/fall-2021-data-for-good/</guid>
+=======
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2021-data-for-good/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2021-data-for-good/</guid>
+>>>>>>> Stashed changes
       <description></description>
     </item>
     
     <item>
       <title>Info</title>
+<<<<<<< Updated upstream
       <link>/tags/info/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/info/</guid>
+=======
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/info/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/info/</guid>
+>>>>>>> Stashed changes
       <description></description>
     </item>
     
@@ -485,6 +516,15 @@
     </item>
     
     <item>
+      <title>Spring 2021</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2021/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SQL</title>
       <link>/tags/sql/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -508,6 +548,15 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/summer-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer 2021</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2021/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2021/</guid>
       <description></description>
     </item>
     

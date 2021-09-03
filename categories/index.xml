@@ -6,6 +6,7 @@
     <description>Recent content in Categories on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< Updated upstream
     <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Closed  2021</title>
@@ -13,22 +14,88 @@
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/closed-2021/</guid>
+=======
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Closed  2021</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Closed Fall 2021</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-fall-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-fall-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closed Flexible Timeline</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Fall 2021</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-fall-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-fall-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Flexible Timeline</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/</guid>
+>>>>>>> Stashed changes
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< Updated upstream
+      <title>Closed Fall 2021</title>
       <link>/categories/closed-fall-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+=======
+      <title>info</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/info/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+>>>>>>> Stashed changes
       
       <guid>/categories/closed-fall-2021/</guid>
       <description></description>
     </item>
     
     <item>
+<<<<<<< Updated upstream
       <title>Closed Flexible Timeline</title>
       <link>/categories/closed-flexible-timeline/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+=======
+      <title>Announcement</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/announcement/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closed Flexible Timeline 2021</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline-2021/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+>>>>>>> Stashed changes
       
       <guid>/categories/closed-flexible-timeline/</guid>
       <description></description>
@@ -89,6 +156,7 @@
     </item>
     
     <item>
+<<<<<<< Updated upstream
       <title>Closed Summer 2021</title>
       <link>/categories/closed-summer-2021/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -107,6 +175,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> Stashed changes
       <title>Open Flexible Timeline 2021</title>
       <link>/categories/open-flexible-timeline-2021/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>

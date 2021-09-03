@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fall 2021  - Data For Good on Columbia DSI Scholars</title>
+<<<<<<< Updated upstream
     <link>/tags/fall-2021-data-for-good/</link>
     <description>Recent content in Fall 2021  - Data For Good on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -13,6 +14,28 @@
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/project-dfg-the-cost-of-human-rights-violations/</guid>
+=======
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2021-data-for-good/</link>
+    <description>Recent content in Fall 2021  - Data For Good on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2021-data-for-good/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data For Good: Poverty Research Cartagena</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-poverty-research-cartagena/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-poverty-research-cartagena/</guid>
+      <description>&lt;p&gt;This project is an exciting opportunity to work with FEM, a non-profit that aims to address social rights issues among rural communities in Colombia. The team is currently working with the mayor’s office in Cartagena, Colombia to access multiple datasets and data sources to establish who and where the extreme poor in Cartagena live. Her team piloted a smartphone-based collection strategy during IOTA Hurricane and obtained data on 4845 households in a very vulnerable area. The first data science challenge was to wrangle and analyze these data to better characterize the population and their needs. This part of the project was conducted in the Spring and Summer of 2021.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data For Good: The Cost of Human Rights Violations</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-the-cost-of-human-rights-violations/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-the-cost-of-human-rights-violations/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;Rights CoLab is working with the Sustainability Accounting Standards Board (SASB) to define a strengthened set of disclosure standards that investors can use to persuade companies to improve labor rights for both their workforce and workers in supply chains. The project has two components: 1) a data science project, and 2) an Expert Group.&lt;/p&gt;</description>
     </item>
     

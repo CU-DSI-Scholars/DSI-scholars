@@ -3,46 +3,309 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< Updated upstream
     <loc>/tags/2021-data-for-good/</loc>
+=======
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/2021-data-for-good/</loc>
+>>>>>>> Stashed changes
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< Updated upstream
     <loc>/2021/09/project-dear-pandemic-a-social-media-based-science-communication-project-targeting-the-covid-19-infodemic/</loc>
+=======
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dear-pandemic-a-social-media-based-science-communication-project-targeting-the-covid-19-infodemic/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-a-traffic-map-for-the-internet/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-an-extension-for-the-brown-institute/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-associations-between-specific-antibiotic-classes-and-risk-for-clostridioides-difficile-infection-within-the-marketscan-database/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-biomarker-discovery-for-cancer-immunotherapy/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-blockchain-prediction-platform-and-defi-applications/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-body-composition-and-cardiovascular-health-among-women/</loc>
+>>>>>>> Stashed changes
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+<<<<<<< Updated upstream
     <loc>/2021/09/project-a-traffic-map-for-the-internet/</loc>
+=======
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/categories/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-chemical-and-genomic-approaches-to-restore-mhc-expression-in-cancer/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-2021/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-fall-2021/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline/</loc>
+>>>>>>> Stashed changes
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+<<<<<<< Updated upstream
     <loc>/2021/09/project-an-extension-for-the-brown-institute/</loc>
+=======
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-complex-genome-rearrangements-in-a-unicellular-model-organism/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-covid-19-evidence-retrieval-and-synthesis-using-pubmed-abstracts/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-citizen-science-interactive-an-open-source-data-science-learning-tool/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-poverty-research-cartagena/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-the-cost-of-human-rights-violations/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-detection-of-facial-asymmetry-using-computer-vision-for-detection-of-ischemic-stroke/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-detection-of-speech-deficits-for-detection-of-ischemic-stroke/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-discovery-and-rescue-of-rare-sperm-cell-from-semen-samples/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-effects-of-timing-and-compliance-of-arginine-supplemented-immunonutrition-on-surgical-outcomes-for-major-cancer-operations/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-evaluating-the-impact-of-telemedicine-on-chronic-disease-outcomes/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-exploring-unsupervised-learning-methods-to-phenotype-sleep-disturbance-patterns-in-marginalized-adults/</loc>
+>>>>>>> Stashed changes
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+<<<<<<< Updated upstream
     <loc>/2021/09/project-associations-between-specific-antibiotic-classes-and-risk-for-clostridioides-difficile-infection-within-the-marketscan-database/</loc>
+=======
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2021/</loc>
+>>>>>>> Stashed changes
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< Updated upstream
     <loc>/2021/09/project-biomarker-discovery-for-cancer-immunotherapy/</loc>
+=======
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2021-data-for-good/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-freedom-school-workshops-at-the-malcolmx-and-dr-betty-shabazz-center/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-health-behaviors-and-cardiovascular-risk/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-how-do-competing-regulators-regulate-conflict-of-interest-coi-disclosure-evidence-from-fairness-opinion-providers-coi-disclosures/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-identification-of-gene-networks-regulated-by-the-asd-risk-gene-chd8/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-image-analysis-of-powder-blends-for-content-unifomity-measurements/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-impacts-of-flood-risk-on-socio-economic-characteristics-of-coastal-neighborhoods/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-investigating-the-effects-of-pre-and-post-natal-exposures-and-trajectories-of-maternal-depression-in-shaping-long-term-health-outcomes/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-learning-from-learners-designing-a-data-science-curriculum/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-machine-learning-and-causal-inference-for-traffic-safety-assessment/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-machine-readable-scientific-literature/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-mapping-and-disrupting-business-email-compromise-criminal-networks/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-mapping-nypd-subway-fare-evasion-enforcement/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-multi-class-probabilistic-clustering-of-the-human-gut-microbiome/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-natural-language-processing-of-social-media-data-on-covid-19-travel-pattern-analysis/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-fall-2021/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-organizational-statements-and-inequality/</loc>
+>>>>>>> Stashed changes
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+<<<<<<< Updated upstream
     <loc>/2021/09/project-blockchain-prediction-platform-defi-applications/</loc>
+=======
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/post/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-predicting-gene-expression-from-sequencing-in-alzheimers-disease/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-race-ethnicity-and-air-pollution-in-covid-19-hospitalization-outcomes-reach-out-study/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-randomized-algorithms-for-plasma-fusion-data-analysis/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-reinforcement-learning-for-vehicle-routing/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-representation-learning-for-the-identification-of-bacterial-non-coding-rnas/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-spanish-language-misinformation/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-startup-pivoting/</loc>
+>>>>>>> Stashed changes
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+<<<<<<< Updated upstream
     <loc>/2021/09/project-body-composition-and-cardiovascular-health-among-women/</loc>
+=======
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/</loc>
+>>>>>>> Stashed changes
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< Updated upstream
     <loc>/categories/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -334,6 +597,74 @@
   
   <url>
     <loc>/page/pi_faq_2021_fall/</loc>
+=======
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-the-language-of-vaccine-hesitancy-on-social-media/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-the-market-for-highly-skilled-labor-evidence-from-professional-sports/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-the-value-of-data/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-using-speech-and-language-to-identify-patients-at-risk-for-hospitalizations-and-emergency-department-visits-in-homecare/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-volatile-solubility-laws-in-melts-and-magmas-an-adaptative-and-universal-bayesian-approach/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/page/faq_fall_2021/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/info/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/categories/info/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/page/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/categories/announcement/</loc>
+    <lastmod>2021-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/07/call-for-faculty-participation-dsi-scholars-fall-2021/</loc>
+    <lastmod>2021-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/page/faq2021/</loc>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/page/pi_faq_2021_fall/</loc>
+>>>>>>> Stashed changes
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -638,6 +969,7 @@
   </url>
   
   <url>
+<<<<<<< Updated upstream
     <loc>/categories/open-flexible-timeline-2021/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
@@ -649,6 +981,9 @@
   
   <url>
     <loc>/categories/open-summer-2021/</loc>
+=======
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline-2021/</loc>
+>>>>>>> Stashed changes
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -763,7 +1098,16 @@
   </url>
   
   <url>
+<<<<<<< Updated upstream
     <loc>/tags/statistics/</loc>
+=======
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2021/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sql/</loc>
+>>>>>>> Stashed changes
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -778,7 +1122,16 @@
   </url>
   
   <url>
+<<<<<<< Updated upstream
     <loc>/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</loc>
+=======
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/summer-2021/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</loc>
+>>>>>>> Stashed changes
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
