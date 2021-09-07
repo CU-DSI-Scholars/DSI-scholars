@@ -8,30 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-fall-2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>An Extension for the Brown Institute</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-an-extension-for-the-brown-institute/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-an-extension-for-the-brown-institute/</guid>
-      <description>&lt;p&gt;The pandemic brought with it a range of tools for virtual collaboration. In 2020, the Brown Institute space was taken offline and our events were virtual. The affordances of virtual platforms, and in particular the highly-programmable ohyay.co, quickly became obvious — people participated in events who ordinarily would not, either as presenters or as audience members, and scriptable interactions helped boost the depth of involvement in our discussions. As we begin returning to in-person events, we would like to hold onto the best properties of a virtual environment. Our proposal is for the development of a “multi-modal” Extension to the Brown Institute space. This will be a series of interventions both in ohyay.co as well as in the physical Brown Institute. Partnering with the original architect and with engineers from ohyay.co, the Brown Institute Extension will be a space for unique collaboration. Why involve DSI? The Extension will support and enhance our programming in the technical tools of journalism, including data+computation, data visualization, AR/VR, machine learning, natural language processing… and the list goes on. We hope to find an intern with an interest in HCI and computation to help us design and program our Extension.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>How Do Competing Regulators Regulate Conflict of Interest (COI) Disclosure? Evidence from Fairness Opinion Providers’ COI Disclosures</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-how-do-competing-regulators-regulate-conflict-of-interest-coi-disclosure-evidence-from-fairness-opinion-providers-coi-disclosures/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-how-do-competing-regulators-regulate-conflict-of-interest-coi-disclosure-evidence-from-fairness-opinion-providers-coi-disclosures/</guid>
       <description>&lt;p&gt;We study how competing groups of regulators regulate the COI disclosure using the setting of the fairness opinion (“FO”) providers in mergers and acquisitions (“M&amp;amp;A”). In this setting, there are three types of regulators with cross-sectional variation in enforcement: the SEC, FINRA, and state courts. Though each group regulates the same disclosure, they all have authority over different regulatees: The SEC has authority over the managers who create the filings; FINRA has authority over the FO providers; and state courts have authority over the board of directors. We examine the effectiveness of each group’s enforcement and the effect of their interactions on COI disclosures. Our paper contributes to the literature on regulatory design for financial reporting disclosures, especially when the different regulatees need to coordinate information or when disclosures have negative implications.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Identification of gene networks regulated by the  ASD risk gene CHD8</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-identification-of-gene-networks-regulated-by-the-asd-risk-gene-chd8/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-identification-of-gene-networks-regulated-by-the-asd-risk-gene-chd8/</guid>
-      <description>&lt;p&gt;The focus of our research is on autism spectrum disorder (ASD) and the neural pathways, neurodevelopment, and genes implicated in ASD.  We will be focusing on the gene CHD8, which is a regulatory gene expressed in the early fetal brain. The aim of this research is to map CHD8 cell-type specific networks in the cortex.  We will be using chromatin immunoprecipitation followed by sequencing (bioChIP-seq) to identify the cell type and lineage specific regulatory networks controlled by CHD8 that are critical for neurodevelopment and ASD risk.  We will perform bioChIP-seq using an epitope-tagged Chd8-3XFLAG-Avi transgenic mouse by crossing the mouse with a conditionally activated biotin ligase called BirA to generate mouse line Chd8-3XFLAG-Avi; neo-BirA. This mouse can be crossed with Cre driver lines to activate biotinylation of tagged Chd8 in specific cell types. Following bioChIP-seq, we will use the program HOMER to determine statistically significant target sites found in CHD8-3XFLAG-Avi-Biotin complexes in comparison with bioChIP-seq performed using non-biotinylated tagged Chd8.  The identified peaks will then be matched to genes and this data will be used to generate a cell-type specific regulatory network of genes and enhancers bound by Chd8 that will be assessed for additional genetic risk factors.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,30 +26,12 @@
     </item>
     
     <item>
-      <title>Impacts of flood risk on socio-economic characteristics of coastal neighborhoods</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-impacts-of-flood-risk-on-socio-economic-characteristics-of-coastal-neighborhoods/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-impacts-of-flood-risk-on-socio-economic-characteristics-of-coastal-neighborhoods/</guid>
-      <description>&lt;p&gt;The project is analyzing how flood risk affects the composition of coastal neighborhoods. Understanding the effects of flooding on residential mobility and livelihoods is important for designing policies that support equitable adaptation to coastal flooding, addressing inequities in the impacts of flooding. Increasing flood risk may lead to gentrification as wealthier homeowners who have the resources to defend their homes against rising waters displace lower income households in waterfront locations, or coastal neighborhoods may deteriorate if flood-prone real estate loses value and/or economic activity and incomes decline. The study focuses on the effect of flooding associated with Hurricane Sandy on the composition of coastal neighborhoods in New York and New Jersey. The study will use panel data from the American Community Survey from 2010 to 2020 and data on flooding due to Sandy to compare the change in neighborhood characteristics such as income distribution, education, race, gender, and age over time in locations that were affected by Sandy and similar communities that were not. Dr. Malgosia Madajewicz will mentor the scholar, meeting at least once a week in person or virtually, and more often if needed. She will communicate with the scholar by email and phone as often as necessary.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Learning from Learners- Designing a Data Science Curriculum</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-learning-from-learners-designing-a-data-science-curriculum/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-learning-from-learners-designing-a-data-science-curriculum/</guid>
       <description>&lt;p&gt;This project is an opportunity to gain hands-on experience teaching data science in an advanced secondary-school environment. This fall, you will act as a teaching assistant (mostly remote, but with some on-site requirements) for a new introductory data science class that will be offered to advanced secondary-school students through the Bard College Early High School program. You will have the opportunity to contribute to the curriculum for this unique course, as well as learn firsthand from this diverse student body about how data science instruction can attract and engage learners of all backgrounds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Machine Readable Scientific Literature</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-machine-readable-scientific-literature/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-machine-readable-scientific-literature/</guid>
-      <description>&lt;p&gt;For 350 years the scientific literature has been designed such that scientific knowledge and discoveries can be shared and understood by human beings.  With the acceleration in the pace of research in the 21st century, and the rise of data science, there is now a need to develop a different model for the scientific literature such that the products of the research, currently articles, can be read directly by machines as well as humans.  This will accelerate scientific discovery because AI and Machine Learning methods can be applied more easily to the resulting research products.   This is a pilot project to demonstrate a proof of principle, highlighting the benefits and challenges of this vision for the scientific literature of the future.&lt;/p&gt;</description>
     </item>
     
     <item>

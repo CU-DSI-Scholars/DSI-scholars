@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Student Applications - Fall 2021</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/call-for-student-applications-dsi-scholars-fall-2021/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/call-for-student-applications-dsi-scholars-fall-2021/</guid>
+      <description>&lt;p&gt;Columbia University &lt;a href=&#34;http://datascience.columbia.edu/&#34;&gt;Data Science Institute&lt;/a&gt; is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Fall 2021 are open for application.&lt;/p&gt;
+&lt;p&gt;The goal of the DSI Scholars Program is to engage Columbia University&amp;rsquo;s undergraduate and master&amp;rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
+&lt;p&gt;The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &amp;ldquo;real world&amp;rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>@Dear Pandemic, a social media-based science communication project targeting the COVID-19 infodemic</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dear-pandemic-a-social-media-based-science-communication-project-targeting-the-covid-19-infodemic/</link>
@@ -23,15 +34,6 @@
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-a-traffic-map-for-the-internet/</guid>
       <description>&lt;p&gt;The impact of an outage, congestion, hijacking, and many other Internet phenomena depends on how many users or how much traffic use the route, but researchers lack visibility into how important routes are, and, distressingly, seem to have lost hope of obtaining this information without proprietary datasets or privileged viewpoints. We believe that there is hope &amp;ndash; new measurement methods and changes in Internet structure make it possible to construct an “Internet Traffic Map” identifying the locations (logical and perhaps geographical) of Internet users and major services, the paths between users and major services, and the relative activity levels (traffic, queries, or number of users) routed along these paths. We will construct this map. The realization of an Internet Traffic Map will be an Internet-scale effort that will have Internet-scale consequences that reach far beyond the research community.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>An Extension for the Brown Institute</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-an-extension-for-the-brown-institute/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-an-extension-for-the-brown-institute/</guid>
-      <description>&lt;p&gt;The pandemic brought with it a range of tools for virtual collaboration. In 2020, the Brown Institute space was taken offline and our events were virtual. The affordances of virtual platforms, and in particular the highly-programmable ohyay.co, quickly became obvious — people participated in events who ordinarily would not, either as presenters or as audience members, and scriptable interactions helped boost the depth of involvement in our discussions. As we begin returning to in-person events, we would like to hold onto the best properties of a virtual environment. Our proposal is for the development of a “multi-modal” Extension to the Brown Institute space. This will be a series of interventions both in ohyay.co as well as in the physical Brown Institute. Partnering with the original architect and with engineers from ohyay.co, the Brown Institute Extension will be a space for unique collaboration. Why involve DSI? The Extension will support and enhance our programming in the technical tools of journalism, including data+computation, data visualization, AR/VR, machine learning, natural language processing… and the list goes on. We hope to find an intern with an interest in HCI and computation to help us design and program our Extension.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -206,15 +208,6 @@
     </item>
     
     <item>
-      <title>Identification of gene networks regulated by the  ASD risk gene CHD8</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-identification-of-gene-networks-regulated-by-the-asd-risk-gene-chd8/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-identification-of-gene-networks-regulated-by-the-asd-risk-gene-chd8/</guid>
-      <description>&lt;p&gt;The focus of our research is on autism spectrum disorder (ASD) and the neural pathways, neurodevelopment, and genes implicated in ASD.  We will be focusing on the gene CHD8, which is a regulatory gene expressed in the early fetal brain. The aim of this research is to map CHD8 cell-type specific networks in the cortex.  We will be using chromatin immunoprecipitation followed by sequencing (bioChIP-seq) to identify the cell type and lineage specific regulatory networks controlled by CHD8 that are critical for neurodevelopment and ASD risk.  We will perform bioChIP-seq using an epitope-tagged Chd8-3XFLAG-Avi transgenic mouse by crossing the mouse with a conditionally activated biotin ligase called BirA to generate mouse line Chd8-3XFLAG-Avi; neo-BirA. This mouse can be crossed with Cre driver lines to activate biotinylation of tagged Chd8 in specific cell types. Following bioChIP-seq, we will use the program HOMER to determine statistically significant target sites found in CHD8-3XFLAG-Avi-Biotin complexes in comparison with bioChIP-seq performed using non-biotinylated tagged Chd8.  The identified peaks will then be matched to genes and this data will be used to generate a cell-type specific regulatory network of genes and enhancers bound by Chd8 that will be assessed for additional genetic risk factors.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Image analysis of powder blends for content unifomity measurements</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-image-analysis-of-powder-blends-for-content-unifomity-measurements/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
@@ -257,15 +250,6 @@
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-machine-learning-and-causal-inference-for-traffic-safety-assessment/</guid>
       <description>&lt;p&gt;Traffic safety has become an emerging issue in the city of New York since the pandemic. This project aims to use causal inference methods to investigate how traffic safety countermeasures (including adding more bike lanes) that have been deployed by the city affect traffic fatalities.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Machine Readable Scientific Literature</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-machine-readable-scientific-literature/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-machine-readable-scientific-literature/</guid>
-      <description>&lt;p&gt;For 350 years the scientific literature has been designed such that scientific knowledge and discoveries can be shared and understood by human beings.  With the acceleration in the pace of research in the 21st century, and the rise of data science, there is now a need to develop a different model for the scientific literature such that the products of the research, currently articles, can be read directly by machines as well as humans.  This will accelerate scientific discovery because AI and Machine Learning methods can be applied more easily to the resulting research products.   This is a pilot project to demonstrate a proof of principle, highlighting the benefits and challenges of this vision for the scientific literature of the future.&lt;/p&gt;</description>
     </item>
     
     <item>
