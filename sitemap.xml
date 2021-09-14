@@ -103,6 +103,21 @@
   </url>
   
   <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-for-good/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/categories/data-for-good/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-african-north-americans-database/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-citizen-science-interactive-an-open-source-data-science-learning-tool/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -114,6 +129,11 @@
   
   <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-the-cost-of-human-rights-violations/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deduplication/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -243,6 +263,11 @@
   </url>
   
   <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-spring-2022/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-organizational-statements-and-inequality/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -253,7 +278,22 @@
   </url>
   
   <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/power-bi/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-predicting-gene-expression-from-sequencing-in-alzheimers-disease/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/python/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/r/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -268,6 +308,11 @@
   </url>
   
   <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/record-linkage/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-reinforcement-learning-for-vehicle-routing/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -278,12 +323,27 @@
   </url>
   
   <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/shiny/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-spanish-language-misinformation/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2022/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-startup-pivoting/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/tableau/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -443,16 +503,6 @@
   </url>
   
   <url>
-    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-for-good/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/categories/data-for-good/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-dfg-african-north-americans-database/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
@@ -469,11 +519,6 @@
   
   <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deduplication/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -653,11 +698,6 @@
   </url>
   
   <url>
-    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/power-bi/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-predicting-arsenic-contamination-and-heterogeneity-in-groundwater-across-scales-in-southeast-asia-and-the-usa/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
@@ -668,17 +708,7 @@
   </url>
   
   <url>
-    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/python/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-quantification-of-expected-bi-allelic-genetic-variants-rate/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/r/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -689,11 +719,6 @@
   
   <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-reconstructions-of-the-ocean-carbon-sink-assessment-of-regional-uncertainties/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/record-linkage/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -719,11 +744,6 @@
   
   <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/sequencing-data/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/shiny/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -774,11 +794,6 @@
   
   <url>
     <loc>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-systems-biology-approaches-of-mouse-models-of-cancer/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cu-dsi-scholars.github.io/DSI-scholars/tags/tableau/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   

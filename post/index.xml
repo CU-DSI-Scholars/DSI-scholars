@@ -100,6 +100,15 @@
     </item>
     
     <item>
+      <title>Data For Good: African North Americans Database</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-african-north-americans-database/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-african-north-americans-database/</guid>
+      <description>&lt;p&gt;This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, &amp;ldquo;color,&amp;rdquo; birthplace, or other details.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Data For Good: Citizen Science Interactive- an open source data science learning tool</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-citizen-science-interactive-an-open-source-data-science-learning-tool/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
@@ -361,12 +370,14 @@
     </item>
     
     <item>
-      <title>startup pivoting</title>
+      <title>Startup Pivoting</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-startup-pivoting/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-startup-pivoting/</guid>
-      <description>&lt;p&gt;use data science with historical version of startup websites to identify when do they pivot to new strategies.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project aims to use data science with historical version of startup websites to identify when do they pivot to new strategies.&lt;/p&gt;
+&lt;p&gt;Firm strategies—what they choose to to do or not to do, and why—represent the main way in which firms shape the economy. In a time of widely encompassing platforms, corporate-led crypto currencies, activist CEOs, and socially-oriented corporations, characterizing how firms differ in their strategies, and in the choices they take, appears as important as ever. There is a need for tools to measure firm strategy.&lt;/p&gt;
+&lt;p&gt;As a student scholar, your role in this position would be to work in the nascent Measuring Strategy Lab, using natural language processing methods to devise new ways to understand and measure firm strategy.  Specifically, using a large sample of startup websites downloaded through the Wayback Machine, develop systematic ways to understand when a startup is changing their strategy and why, and how does this predict their performance.  This work builds also on the Startup Cartography Project, and is part of the ongoing efforts of bringing data science into strategy research.&lt;/p&gt;</description>
     </item>
     
     <item>
