@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Info</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/info/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring 2022</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2022/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2022/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Fall 2021</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2021/</link>
@@ -53,15 +71,6 @@
     </item>
     
     <item>
-      <title>Info</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/info/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/info/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Power BI</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/power-bi/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
@@ -103,15 +112,6 @@
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/shiny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring 2022</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2022/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2022/</guid>
       <description></description>
     </item>
     

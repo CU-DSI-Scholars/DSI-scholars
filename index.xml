@@ -6,7 +6,37 @@
     <description>Recent content on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DSI Student Project Programs</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/page/dsi_programs/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/page/dsi_programs/</guid>
+      <description>If you&amp;rsquo;re not sure which Data Science Institute student project program is right for you, submit to Campus Connections and we will route your request to the best destination, including those below. What follows are the programs the DSI runs directly.
+This page is for faculty. Students looking to apply to the DSI or Data For Good Scholars programs, please see this page. For employment opportunities in data science, please see this document.</description>
+    </item>
+    
+    <item>
+      <title>PI Frequently Asked Questions</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/page/pi_faq_2021_spring/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/page/pi_faq_2021_spring/</guid>
+      <description>Question: How does the DSI Scholars stipend/matching fund process work?
+Answer: Stipends are issued directly by Student Financial Services in coordination with the Data Science Institute. PIs for selected projects will be asked to make a commitment as to the level of their support, after which the DSI will arrange for the stipend to be issued. For example, if you are contributing $2,000, DSI will match that for a total stipend of $4,000 per PI.</description>
+    </item>
+    
+    <item>
+      <title>Call for Faculty Participation --- DSI Scholars Fall 2022</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/12/call-for-faculty-participation-dsi-scholars-spring-2022/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/12/call-for-faculty-participation-dsi-scholars-spring-2022/</guid>
+      <description>&lt;h3 id=&#34;call-for-faculty-participation-spring-2022&#34;&gt;Call for Faculty Participation. Spring 2022.&lt;/h3&gt;
+&lt;p&gt;The Data Science Institute is calling for faculty submissions of research projects for the Spring and/or summer 2022 sessions of the Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with over 40 projects and received more than 350 unique applications from Columbia Students. The program&amp;rsquo;s unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScyVuBIx2F1SdIdXOcuHZev0flwvubO9ACmTy0PVxQlb5Cm2w/viewform&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Call for Student Applications - Fall 2021</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/call-for-student-applications-dsi-scholars-fall-2021/</link>
@@ -1148,16 +1178,6 @@ Answer: Faculty will be reviewing applications between the student deadline of O
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</guid>
       <description>&lt;p&gt;The proposed project would focus on analyzing quantitative data from a 4 year NIMH-funded study entitled &amp;ldquo;Integrating evidence-based  depression treatment in primary care: Tuberculosis (TB) in Brazil as a model&amp;rdquo; (PI: Sweetland, K01MH104514). The aim of the study was to assess whether social network analysis could be used to leverage the receptivity and connectivity of TB providers in a Brazilian public health system in a way that could accelerate the adoption (implementation) and diffusion (dissemination) of an evidence-based treatment for depression treatment in a primary care network. Baseline receptivity was operationalized via six brief quantitative scales to measure mental health literacy, work self-efficacy, organizational climate, attitudes towards evidence-based practices, organizational readiness to change and individual innovation thresholds. Connectivity was assessed by asking TB providers with whom they discuss difficult cases, give advice to, or receive advice regarding difficult TB cases. Baseline receptivity and connectivity data was used to identify 3 pilot sites in which to train primary care providers to deliver evidence-based depression treatment for one year.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>DSI Student Project Programs</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/page/dsi_programs/</link>
-      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/page/dsi_programs/</guid>
-      <description>If you&amp;rsquo;re not sure which Data Science Institute student project program is right for you, submit to Campus Connections and we will route your request to the best destination, including those below. What follows are the programs the DSI runs directly.
-This page is for faculty. Students looking to apply to the DSI or Data For Good Scholars programs, please see this page. For employment opportunities in data science, please see this document.</description>
     </item>
     
     <item>
