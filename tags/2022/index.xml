@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/2022/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Application of Gaussian Mixture Regression to obtain useful, actionable air pollution data from consumer-grade, low-cost monitoring devices</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/</link>
-      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/</guid>
-      <description>&lt;p&gt;Our primary objective for this work will be to build a GMR model that can correct for bias in low cost particulate matter (PM2.5) sensors to be used globally. We will select 5-10 diverse reference PM2.5 and low cost PM2.5 co-locations to build a Gaussian Mixture Regression model (GMR). Recently, our team showed that GMR provides a higher quality correction factor for PurpleAir PM2.5 sensors than multiple linear regression and random forest, in terms of both correlation and accuracy. We then plan to evaluate this model on at least 20 independent co-location datasets that the GMR has not seen. There has been an exciting recent rise in commercially available low-cost sensors (LCS), such as PurpleAir (&lt;a href=&#34;http://www.purpleair.com&#34;&gt;www.purpleair.com&lt;/a&gt;) and Clarity sensors, which when paired with machine learning (ML) based correction algorithms demonstrate high accuracy compared to co-located reference grade monitors5,6. So far, these corrections have been limited to the few LCS locations which are co-located with expensive reference-grade monitors, while the potential from the thousands of un-co-located sensors remains untapped. PurpleAir and similar devices have been deployed all over the world. Ideally our global correction factor will allow for the extraction of more trustworthy data from huge open-access databases of air pollution data such as PurpleAir.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Comparison of four workflows for structural variants identification</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
@@ -68,6 +59,15 @@
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-evaluating-5g-mmwave-outdoors-to-indoors/</guid>
       <description>&lt;p&gt;5G-and-beyond networks will utilize data transmissions at millimeter-wave (mmWave) frequencies to improve data throughput and wireless spectrum utilization. Recently, there is interest in utilizing mmWave frequencies for fixed wireless access (FWA), which can provide Internet connectivity to buildings which do not currently have good service. FWA requires a much lower infrastructure investment than running fiber optic or copper cables into a premise, which remains by far the predominant method of providing Internet access to a building today.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gaussian Mixture Regression to obtain useful, actionable air pollution data from consumer-grade, low-cost monitoring devices</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/</guid>
+      <description>&lt;p&gt;Our primary objective for this work will be to build a GMR model that can correct for bias in low cost particulate matter (PM2.5) sensors to be used globally. We will select 5-10 diverse reference PM2.5 and low cost PM2.5 co-locations to build a Gaussian Mixture Regression model (GMR). Recently, our team showed that GMR provides a higher quality correction factor for PurpleAir PM2.5 sensors than multiple linear regression and random forest, in terms of both correlation and accuracy. We then plan to evaluate this model on at least 20 independent co-location datasets that the GMR has not seen. There has been an exciting recent rise in commercially available low-cost sensors (LCS), such as PurpleAir (&lt;a href=&#34;http://www.purpleair.com&#34;&gt;www.purpleair.com&lt;/a&gt;) and Clarity sensors, which when paired with machine learning (ML) based correction algorithms demonstrate high accuracy compared to co-located reference grade monitors5,6. So far, these corrections have been limited to the few LCS locations which are co-located with expensive reference-grade monitors, while the potential from the thousands of un-co-located sensors remains untapped. PurpleAir and similar devices have been deployed all over the world. Ideally our global correction factor will allow for the extraction of more trustworthy data from huge open-access databases of air pollution data such as PurpleAir.&lt;/p&gt;</description>
     </item>
     
     <item>
