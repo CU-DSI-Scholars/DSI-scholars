@@ -6,7 +6,25 @@
     <description>Recent content in Closed Flexible Timeline on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparison of four workflows for structural variants identification</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/</guid>
+      <description>&lt;p&gt;Recent advances in genomic technologies have led to the identification of many novel disease-gene associations, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to identify structural variants (i.e. relatively large deletions and duplications of genomic sequences). These workflows can lead to the identification of different structural variants, raising the risk of missing disease-causing variants when using only one of those methods. Unfortunately, many of the variants identified by those workflows are artifacts (i.e. absent in the biological sample), raising concerns that time and effort will be wasted on those artifacts instead of analyzing the causative genetic variant. The goal of this project is to develop best practices to increase the chance to identify causative structural variants, while reducing the number of artifacts. We will use the raw data from whole-exome and whole-genome sequencing of patients with renal diseases. The students will be expected to (1) Compare the output of 4 different tools for identifying structural variants and visualize the differences (using R or Python) and (2) Identify the tool specific parameters that increases the specificity and sensitivity of each tool in differentiating true variants and artifacts.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Database of variants/phenotype and ClinVar submissions</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-database-of-variants-phenotype-and-clinvar-submissions/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-database-of-variants-phenotype-and-clinvar-submissions/</guid>
+      <description>&lt;p&gt;The IGM has performed diagnostic whole exome or whole genome sequencing on more than 5000 CUIMC patients with presentations including undiagnosed diseases of childhood, chronic kidney disease, fetal anomalies and neurological diseases (with a focus on epilepsy) among many others. These patients have been analyzed with a standardized diagnostic pipeline to identify single genotypes that are responsible for disease. Diagnostic genotypes are those that are considered to be likely contributing to the patient’s presentation through study team consensus (a multidisciplinary team that includes population geneticists, molecular geneticists, clinicians, genetic counselors, bioinformaticians and analysts). The student will be expected to 1) build an easy-to-use interface and secure database for variant records and phenotype information, and 2) implement a web interface to facilitate variant submission to ClinVar which is a freely accessible, public archive of reports of the relationships among human variations and phenotypes, with supporting evidence.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Towards a combined geopolitical and technical understanding of regional Internet</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</link>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Closed  2022 on Columbia DSI Scholars</title>
+    <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-2022/</link>
+    <description>Recent content in Closed  2022 on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparison of four workflows for structural variants identification</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/</guid>
+      <description>&lt;p&gt;Recent advances in genomic technologies have led to the identification of many novel disease-gene associations, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to identify structural variants (i.e. relatively large deletions and duplications of genomic sequences). These workflows can lead to the identification of different structural variants, raising the risk of missing disease-causing variants when using only one of those methods. Unfortunately, many of the variants identified by those workflows are artifacts (i.e. absent in the biological sample), raising concerns that time and effort will be wasted on those artifacts instead of analyzing the causative genetic variant. The goal of this project is to develop best practices to increase the chance to identify causative structural variants, while reducing the number of artifacts. We will use the raw data from whole-exome and whole-genome sequencing of patients with renal diseases. The students will be expected to (1) Compare the output of 4 different tools for identifying structural variants and visualize the differences (using R or Python) and (2) Identify the tool specific parameters that increases the specificity and sensitivity of each tool in differentiating true variants and artifacts.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Database of variants/phenotype and ClinVar submissions</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-database-of-variants-phenotype-and-clinvar-submissions/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-database-of-variants-phenotype-and-clinvar-submissions/</guid>
+      <description>&lt;p&gt;The IGM has performed diagnostic whole exome or whole genome sequencing on more than 5000 CUIMC patients with presentations including undiagnosed diseases of childhood, chronic kidney disease, fetal anomalies and neurological diseases (with a focus on epilepsy) among many others. These patients have been analyzed with a standardized diagnostic pipeline to identify single genotypes that are responsible for disease. Diagnostic genotypes are those that are considered to be likely contributing to the patient’s presentation through study team consensus (a multidisciplinary team that includes population geneticists, molecular geneticists, clinicians, genetic counselors, bioinformaticians and analysts). The student will be expected to 1) build an easy-to-use interface and secure database for variant records and phenotype information, and 2) implement a web interface to facilitate variant submission to ClinVar which is a freely accessible, public archive of reports of the relationships among human variations and phenotypes, with supporting evidence.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Evaluating 5G mmWave Outdoors-to-Indoors</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-evaluating-5g-mmwave-outdoors-to-indoors/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-evaluating-5g-mmwave-outdoors-to-indoors/</guid>
+      <description>&lt;p&gt;5G-and-beyond networks will utilize data transmissions at millimeter-wave (mmWave) frequencies to improve data throughput and wireless spectrum utilization. Recently, there is interest in utilizing mmWave frequencies for fixed wireless access (FWA), which can provide Internet connectivity to buildings which do not currently have good service. FWA requires a much lower infrastructure investment than running fiber optic or copper cables into a premise, which remains by far the predominant method of providing Internet access to a building today.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Intelligent Spectrum Coordination for Future Wireless Networks</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-intelligent-spectrum-coordination-for-future-wireless-networks/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-intelligent-spectrum-coordination-for-future-wireless-networks/</guid>
+      <description>&lt;p&gt;The wireless revolution is fueling the demand for access to the radio frequency spectrum. Smartphones, wearables, modern cars, and smart homes are all competing for spectrum resources. Managing this increasing demand is an important and timely research challenge. Dynamic Spectrum Allocation (DSA) methods allow multiple wireless networks to collaboratively adapt in real-time to dynamic RF frequency environments. In this project, we consider intelligent wireless networks that exchange Spectrum Consumption Models (SCMs) in order to dynamically coordinate the spectrum usage aiming to avoid harmful interference. Students working on this project will construct SCMs based on real measurements of wireless signals, develop novel frequency coordination protocols based on SCMs, and implement the protocols in a custom-built python simulator and/or in a Software-Defined Radio testbed.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

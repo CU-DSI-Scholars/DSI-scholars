@@ -6,7 +6,43 @@
     <description>Recent content in Open Flexible Timeline on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application of Gaussian Mixture Regression to obtain useful, actionable air pollution data from consumer-grade, low-cost monitoring devices</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/</guid>
+      <description>&lt;p&gt;Our primary objective for this work will be to build a GMR model that can correct for bias in low cost particulate matter (PM2.5) sensors to be used globally. We will select 5-10 diverse reference PM2.5 and low cost PM2.5 co-locations to build a Gaussian Mixture Regression model (GMR). Recently, our team showed that GMR provides a higher quality correction factor for PurpleAir PM2.5 sensors than multiple linear regression and random forest, in terms of both correlation and accuracy. We then plan to evaluate this model on at least 20 independent co-location datasets that the GMR has not seen. There has been an exciting recent rise in commercially available low-cost sensors (LCS), such as PurpleAir (&lt;a href=&#34;http://www.purpleair.com&#34;&gt;www.purpleair.com&lt;/a&gt;) and Clarity sensors, which when paired with machine learning (ML) based correction algorithms demonstrate high accuracy compared to co-located reference grade monitors5,6. So far, these corrections have been limited to the few LCS locations which are co-located with expensive reference-grade monitors, while the potential from the thousands of un-co-located sensors remains untapped. PurpleAir and similar devices have been deployed all over the world. Ideally our global correction factor will allow for the extraction of more trustworthy data from huge open-access databases of air pollution data such as PurpleAir.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Detecting inherited compound heterozygous variants</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-detecting-inherited-compound-heterozygous-variants/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-detecting-inherited-compound-heterozygous-variants/</guid>
+      <description>&lt;p&gt;One of the methods to identify novel gene-disease associations is called “trio analysis”, when an affected child (proband) and both his/her parents DNA are sequenced. The genetic information from the child and his/her parents allows for the rapid identification of compound heterozygous variants (i.e. 2 variants in the same gene, one inherited from the mother and the other one from the father).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Structural variant detection in neurological disorders</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-structural-variant-detection-in-neurological-disorders/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-structural-variant-detection-in-neurological-disorders/</guid>
+      <description>&lt;p&gt;Structural variants (SVs) are large genomic alterations which can be implicated in disease. This project will focus on using novel genomic techniques to identify structural variants in genomic cold cases with neurological disorders. These &amp;ldquo;cold&amp;rdquo; cases which have previously remained unsolved with standard genomic approaches. We will use optical genome mapping and long read sequencing, together with novel bioinformatic techniques to detect and analyze structural variants.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Urban Design and Children’s Mobility and Crash Risks in US Cities</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-urban-design-and-childrens-mobility-and-crash-risks-in-us-cities/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-urban-design-and-childrens-mobility-and-crash-risks-in-us-cities/</guid>
+      <description>&lt;p&gt;Road traffic crashes involving child passengers, child pedestrians, and child bicyclists are the leading cause of death for people aged 5 to 15 years in the USA. A total of 10,344 children died on US roads in the decade from 2010-2019; a further 4.2 million were hospitalized. Urban design—meaning the overall physical form of cities—is a modifiable environmental feature that can be changed to reduce the immense burden due to child road traffic injuries. Altering the overall configuration of a city’s transportation network affects the way children and other road users routinely travel through urban space, thereby altering children’s risks for being injured or killed in a road traffic crash.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>@Dear Pandemic, a social media-based science communication project targeting the COVID-19 infodemic</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dear-pandemic-a-social-media-based-science-communication-project-targeting-the-covid-19-infodemic/</link>

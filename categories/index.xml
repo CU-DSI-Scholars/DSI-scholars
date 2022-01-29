@@ -6,22 +6,58 @@
     <description>Recent content in Categories on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>info</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/info/</link>
-      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      <title>Closed  2022</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-2022/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/info/</guid>
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closed Flexible Timeline</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open  2022</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-2022/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Flexible Timeline</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Announcement</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/announcement/</link>
-      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>info</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/info/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/info/</guid>
       <description></description>
     </item>
     
@@ -44,15 +80,6 @@
     </item>
     
     <item>
-      <title>Closed Flexible Timeline</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data For Good</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/data-for-good/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
@@ -67,15 +94,6 @@
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-fall-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Flexible Timeline</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.80.0 with theme Tranquilpeak 0.4.8-BETA">
+<meta name="author" content="Columbia Data Science Institute (DSI) Scholars Program">
+<meta name="keywords" content="">
+<meta name="description" content="Our primary objective for this work will be to build a GMR model that can correct for bias in low cost particulate matter (PM2.5) sensors to be used globally. We will select 5-10 diverse reference PM2.5 and low cost PM2.5 co-locations to build a Gaussian Mixture Regression model (GMR). Recently, our team showed that GMR provides a higher quality correction factor for PurpleAir PM2.5 sensors than multiple linear regression and random forest, in terms of both correlation and accuracy. We then plan to evaluate this model on at least 20 independent co-location datasets that the GMR has not seen. There has been an exciting recent rise in commercially available low-cost sensors (LCS), such as PurpleAir (www.purpleair.com) and Clarity sensors, which when paired with machine learning (ML) based correction algorithms demonstrate high accuracy compared to co-located reference grade monitors5,6. So far, these corrections have been limited to the few LCS locations which are co-located with expensive reference-grade monitors, while the potential from the thousands of un-co-located sensors remains untapped. PurpleAir and similar devices have been deployed all over the world. Ideally our global correction factor will allow for the extraction of more trustworthy data from huge open-access databases of air pollution data such as PurpleAir.">
+
+
+<meta property="og:description" content="Our primary objective for this work will be to build a GMR model that can correct for bias in low cost particulate matter (PM2.5) sensors to be used globally. We will select 5-10 diverse reference PM2.5 and low cost PM2.5 co-locations to build a Gaussian Mixture Regression model (GMR). Recently, our team showed that GMR provides a higher quality correction factor for PurpleAir PM2.5 sensors than multiple linear regression and random forest, in terms of both correlation and accuracy. We then plan to evaluate this model on at least 20 independent co-location datasets that the GMR has not seen. There has been an exciting recent rise in commercially available low-cost sensors (LCS), such as PurpleAir (www.purpleair.com) and Clarity sensors, which when paired with machine learning (ML) based correction algorithms demonstrate high accuracy compared to co-located reference grade monitors5,6. So far, these corrections have been limited to the few LCS locations which are co-located with expensive reference-grade monitors, while the potential from the thousands of un-co-located sensors remains untapped. PurpleAir and similar devices have been deployed all over the world. Ideally our global correction factor will allow for the extraction of more trustworthy data from huge open-access databases of air pollution data such as PurpleAir.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Application of Gaussian Mixture Regression to obtain useful, actionable air pollution data from consumer-grade, low-cost monitoring devices">
+<meta name="twitter:title" content="Application of Gaussian Mixture Regression to obtain useful, actionable air pollution data from consumer-grade, low-cost monitoring devices">
+<meta property="og:url" content="https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/">
+<meta property="twitter:url" content="https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/">
+<meta property="og:site_name" content="Columbia DSI Scholars">
+<meta property="og:description" content="Our primary objective for this work will be to build a GMR model that can correct for bias in low cost particulate matter (PM2.5) sensors to be used globally. We will select 5-10 diverse reference PM2.5 and low cost PM2.5 co-locations to build a Gaussian Mixture Regression model (GMR). Recently, our team showed that GMR provides a higher quality correction factor for PurpleAir PM2.5 sensors than multiple linear regression and random forest, in terms of both correlation and accuracy. We then plan to evaluate this model on at least 20 independent co-location datasets that the GMR has not seen. There has been an exciting recent rise in commercially available low-cost sensors (LCS), such as PurpleAir (www.purpleair.com) and Clarity sensors, which when paired with machine learning (ML) based correction algorithms demonstrate high accuracy compared to co-located reference grade monitors5,6. So far, these corrections have been limited to the few LCS locations which are co-located with expensive reference-grade monitors, while the potential from the thousands of un-co-located sensors remains untapped. PurpleAir and similar devices have been deployed all over the world. Ideally our global correction factor will allow for the extraction of more trustworthy data from huge open-access databases of air pollution data such as PurpleAir.">
+<meta name="twitter:description" content="Our primary objective for this work will be to build a GMR model that can correct for bias in low cost particulate matter (PM2.5) sensors to be used globally. We will select 5-10 diverse reference PM2.5 and low cost PM2.5 co-locations to build a Gaussian Mixture Regression model (GMR). Recently, our team showed that GMR provides a higher quality correction factor for PurpleAir PM2.5 sensors than multiple linear regression and random forest, in terms of both correlation and accuracy. We then plan to evaluate this model on at least 20 independent co-location datasets that the GMR has not seen. There has been an exciting recent rise in commercially available low-cost sensors (LCS), such as PurpleAir (www.purpleair.com) and Clarity sensors, which when paired with machine learning (ML) based correction algorithms demonstrate high accuracy compared to co-located reference grade monitors5,6. So far, these corrections have been limited to the few LCS locations which are co-located with expensive reference-grade monitors, while the potential from the thousands of un-co-located sensors remains untapped. PurpleAir and similar devices have been deployed all over the world. Ideally our global correction factor will allow for the extraction of more trustworthy data from huge open-access databases of air pollution data such as PurpleAir.">
+<meta property="og:locale" content="en-us">
+
+  
+    <meta property="article:published_time" content="2022-01-28T00:00:00">
+  
+  
+    <meta property="article:modified_time" content="2022-01-28T00:00:00">
+  
+  
+  
+    
+      <meta property="article:section" content="Open  2022">
+    
+      <meta property="article:section" content="Open Flexible Timeline">
+    
+  
+  
+    
+      <meta property="article:tag" content="2022">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+  <meta name="twitter:site" content="@dsi_columbia">
+
+
+  <meta name="twitter:creator" content="@dsi_columbia">
+
+
+
+
+
+
+  <meta property="og:image" content="https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/river2.png?raw=true">
+  <meta property="twitter:image" content="https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/river2.png?raw=true">
+
+
+
+
+
+  <meta property="og:image" content="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png">
+  <meta property="twitter:image" content="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png">
+
+
+    <title>Application of Gaussian Mixture Regression to obtain useful, actionable air pollution data from consumer-grade, low-cost monitoring devices</title>
+
+    <link rel="icon" href="http://res.cloudinary.com/tz33cu/image/upload/c_scale,w_150/v1516739017/DSI-scholars/Data-Science-Avatar_qkn5fd.png">
+    
+
+    
+
+    <link rel="canonical" href="https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="../../../css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="../../../">Columbia DSI Scholars</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="http://datascience.columbia.edu/" target="_blank" rel="noopener">
+    
+    
+    
+      
+        <img class="header-picture" src="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="../../../#about">
+          <img class="sidebar-profile-picture" src="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Columbia Data Science Institute (DSI) Scholars Program</h4>
+        
+          <h5 class="sidebar-profile-bio">The DSI Scholars Program is to engage and support undergraduate and master students in participating data science related research with Columbia faculty. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../static/student_faq">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question-circle"></i>
+      
+      <span class="sidebar-button-desc">FAQ</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-university"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../#about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-info"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://forms.gle/qjj2dZbp7uLZRT1w7" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-mortar-board"></i>
+      
+      <span class="sidebar-button-desc">Apply Now</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="../../../page/contact-info">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-paper-plane"></i>
+      
+      <span class="sidebar-button-desc">Contact Info</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/CU-DSI-Scholars" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/DSI_Columbia" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="5"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Application of Gaussian Mixture Regression to obtain useful, actionable air pollution data from consumer-grade, low-cost monitoring devices
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2022-01-28T00:00:00Z">
+        
+  January 28, 2022
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="../../../categories/open-2022">Open  2022</a>, 
+    
+      <a class="category-link" href="../../../categories/open-flexible-timeline">Open Flexible Timeline</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>Our primary objective for this work will be to build a GMR model that can correct for bias in low cost particulate matter (PM2.5) sensors to be used globally. We will select 5-10 diverse reference PM2.5 and low cost PM2.5 co-locations to build a Gaussian Mixture Regression model (GMR). Recently, our team showed that GMR provides a higher quality correction factor for PurpleAir PM2.5 sensors than multiple linear regression and random forest, in terms of both correlation and accuracy. We then plan to evaluate this model on at least 20 independent co-location datasets that the GMR has not seen. There has been an exciting recent rise in commercially available low-cost sensors (LCS), such as PurpleAir (<a href="http://www.purpleair.com">www.purpleair.com</a>) and Clarity sensors, which when paired with machine learning (ML) based correction algorithms demonstrate high accuracy compared to co-located reference grade monitors5,6. So far, these corrections have been limited to the few LCS locations which are co-located with expensive reference-grade monitors, while the potential from the thousands of un-co-located sensors remains untapped. PurpleAir and similar devices have been deployed all over the world. Ideally our global correction factor will allow for the extraction of more trustworthy data from huge open-access databases of air pollution data such as PurpleAir.</p>
+<div class="alert success ">
+  <p>This project is eligible for a matching fund stipend from the Data Science Institute. This is not a guarantee of payment, and the total amount is subject to available funding.</p>
+</div>
+<h2 id="faculty-advisor">Faculty Advisor</h2>
+<ul>
+<li>Professor: <a href="https://aerosol.ldeo.columbia.edu/">Daniel M Westervelt</a></li>
+<li>Center/Lab: Lamont-Doherty Earth Observatory,</li>
+<li>Location: LDEO</li>
+<li>All things aerosol, air quality, atmospheric chemistry, and climate change. Using data science methods to extract useful data out of environmental sensors.</li>
+</ul>
+<h2 id="project-timeline">Project Timeline</h2>
+<ul>
+<li>Earliest starting date: 3/1/2022</li>
+<li>End date: 8/1/2022</li>
+<li>Number of hours per week of research expected during Spring/Summer 2022: ~10</li>
+<li>Number of hours per week of research expected during Summer 2022: ~30</li>
+</ul>
+<h2 id="candidate-requirements">Candidate requirements</h2>
+<ul>
+<li>Skill sets: R/Python, machine learning methods, probabilistic methods (e.g. Gaussian Mixture Models),  work with sensor data</li>
+<li>Student eligibility: <del>freshman</del>, <del>sophomore</del>, <del>junior</del>, <del>senior</del>, <del>master&rsquo;s</del></li>
+<li>International students on F1 or J1 visa: <strong>eligible</strong></li>
+<li>Academic Credit Possible: Yes</li>
+</ul>
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="../../../tags/2022/">2022</a>
+
+                  </div>
+                
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/" data-tooltip="Comparison of four workflows for structural variants identification">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2022 Columbia Data Science Institute (DSI) Scholars Program. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="../../../2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/" data-tooltip="Comparison of four workflows for structural variants identification">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcu-dsi-scholars.github.io%2FDSI-scholars%2F2022%2F01%2Fproject-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices%2F">
+          <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fcu-dsi-scholars.github.io%2FDSI-scholars%2F2022%2F01%2Fproject-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices%2F">
+          <i class="fa fa-twitter"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=https%3A%2F%2Fcu-dsi-scholars.github.io%2FDSI-scholars%2F2022%2F01%2Fproject-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices%2F">
+          <i class="fa fa-google-plus"></i><span>Share on Google&#43;</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Columbia Data Science Institute (DSI) Scholars Program</h4>
+    
+      <div id="about-card-bio">The DSI Scholars Program is to engage and support undergraduate and master students in participating data science related research with Columbia faculty. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Columbia University DSI
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        New York, NY
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/CU-bk2.png?raw=true');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="../../../js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+  
+    
+  
+
+
+
+
+    
+  </body>
+</html>
+
