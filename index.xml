@@ -17,6 +17,17 @@
     </item>
     
     <item>
+      <title>Call for Student Applications - Spring 2022</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/call-for-student-applications-dsi-scholars-spring-2022/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/call-for-student-applications-dsi-scholars-spring-2022/</guid>
+      <description>&lt;p&gt;Columbia University &lt;a href=&#34;http://datascience.columbia.edu/&#34;&gt;Data Science Institute&lt;/a&gt; is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Spring 2022 are open for application.&lt;/p&gt;
+&lt;p&gt;The goal of the DSI Scholars Program is to engage Columbia University&amp;rsquo;s undergraduate and master&amp;rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
+&lt;p&gt;The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &amp;ldquo;real world&amp;rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Comparison of four workflows for structural variants identification</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
@@ -167,17 +178,6 @@
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-weather-effects-on-high-frequency-communication-links/</guid>
       <description>&lt;p&gt;Future wireless networks will use high-frequency millimeter-wave (mmWave) links for transmitting and receiving information with high throughput. A key difference between mmWave links and conventional sub-6GHz links is that mmWave links are severely affected by weather conditions. Students working on this project will use a state-of-the-art mmWave radar to assess the impact of wind speed, temperature, humidity, and other factors on the high-frequency link. The end goal of the project is to develop a classifier that can infer weather conditions based on the signal received from the mmWave radar. In this project, students are expected to learn how the mmWave radar works, design experiments to obtain labeled data, perform measurements, and develop the classifier.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Call for Student Applications - Spring 2022</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/call-for-student-applications-dsi-scholars-spring-2022/</link>
-      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/call-for-student-applications-dsi-scholars-spring-2022/</guid>
-      <description>&lt;p&gt;Columbia University &lt;a href=&#34;http://datascience.columbia.edu/&#34;&gt;Data Science Institute&lt;/a&gt; is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Spring 2022 are open for application.&lt;/p&gt;
-&lt;p&gt;The goal of the DSI Scholars Program is to engage Columbia University&amp;rsquo;s undergraduate and master&amp;rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
-&lt;p&gt;The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &amp;ldquo;real world&amp;rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.&lt;/p&gt;</description>
     </item>
     
     <item>
