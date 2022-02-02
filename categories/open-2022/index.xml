@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-2022/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Comparison of four workflows for structural variants identification</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/</guid>
+      <description>&lt;p&gt;Recent advances in genomic technologies have led to the identification of many novel disease-gene associations, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to identify structural variants (i.e. relatively large deletions and duplications of genomic sequences). These workflows can lead to the identification of different structural variants, raising the risk of missing disease-causing variants when using only one of those methods. Unfortunately, many of the variants identified by those workflows are artifacts (i.e. absent in the biological sample), raising concerns that time and effort will be wasted on those artifacts instead of analyzing the causative genetic variant. The goal of this project is to develop best practices to increase the chance to identify causative structural variants, while reducing the number of artifacts. We will use the raw data from whole-exome and whole-genome sequencing of patients with renal diseases. The students will be expected to (1) Compare the output of 4 different tools for identifying structural variants and visualize the differences (using R or Python) and (2) Identify the tool specific parameters that increases the specificity and sensitivity of each tool in differentiating true variants and artifacts.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>D-Hacking</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-d-hacking/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
@@ -23,6 +32,15 @@
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-dfg-using-nlp-to-reveal-the-cost-of-corporate-human-rights-violations/</guid>
       <description>&lt;p&gt;Rights CoLab (&lt;a href=&#34;https://rightscolab.org/&#34;&gt;https://rightscolab.org/&lt;/a&gt;) is working with the Sustainability Accounting Standards Board (SASB) to define a strengthened set of disclosure standards that investors can use to persuade companies to improve labor rights for both their workforce and workers in supply chains. The project has two components: 1) a data science project, and 2) an Expert Group.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Database of variants/phenotype and ClinVar submissions</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-database-of-variants-phenotype-and-clinvar-submissions/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-database-of-variants-phenotype-and-clinvar-submissions/</guid>
+      <description>&lt;p&gt;The IGM has performed diagnostic whole exome or whole genome sequencing on more than 5000 CUIMC patients with presentations including undiagnosed diseases of childhood, chronic kidney disease, fetal anomalies and neurological diseases (with a focus on epilepsy) among many others. These patients have been analyzed with a standardized diagnostic pipeline to identify single genotypes that are responsible for disease. Diagnostic genotypes are those that are considered to be likely contributing to the patient’s presentation through study team consensus (a multidisciplinary team that includes population geneticists, molecular geneticists, clinicians, genetic counselors, bioinformaticians and analysts). The student will be expected to 1) build an easy-to-use interface and secure database for variant records and phenotype information, and 2) implement a web interface to facilitate variant submission to ClinVar which is a freely accessible, public archive of reports of the relationships among human variations and phenotypes, with supporting evidence.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,6 +62,15 @@
     </item>
     
     <item>
+      <title>Evaluating 5G mmWave Outdoors-to-Indoors</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-evaluating-5g-mmwave-outdoors-to-indoors/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-evaluating-5g-mmwave-outdoors-to-indoors/</guid>
+      <description>&lt;p&gt;5G-and-beyond networks will utilize data transmissions at millimeter-wave (mmWave) frequencies to improve data throughput and wireless spectrum utilization. Recently, there is interest in utilizing mmWave frequencies for fixed wireless access (FWA), which can provide Internet connectivity to buildings which do not currently have good service. FWA requires a much lower infrastructure investment than running fiber optic or copper cables into a premise, which remains by far the predominant method of providing Internet access to a building today.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Gaussian Mixture Regression to obtain useful, actionable air pollution data from consumer-grade, low-cost monitoring devices</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
@@ -59,6 +86,15 @@
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-generating-a-3d-atlas-of-the-salamander-brain/</guid>
       <description>&lt;p&gt;The brain is the most complex organ of the body, and hosts a multitude of cell types organized in functionally-specialized brain regions. So far, systematic attempts to describe the complexity of the brain have been limited to a few species, including mouse and the fruit fly. Extending the description of brains to multiple species is essential to identify evolutionarily-conserved principles of brain organization and function.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Intelligent Spectrum Coordination for Future Wireless Networks</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-intelligent-spectrum-coordination-for-future-wireless-networks/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-intelligent-spectrum-coordination-for-future-wireless-networks/</guid>
+      <description>&lt;p&gt;The wireless revolution is fueling the demand for access to the radio frequency spectrum. Smartphones, wearables, modern cars, and smart homes are all competing for spectrum resources. Managing this increasing demand is an important and timely research challenge. Dynamic Spectrum Allocation (DSA) methods allow multiple wireless networks to collaboratively adapt in real-time to dynamic RF frequency environments. In this project, we consider intelligent wireless networks that exchange Spectrum Consumption Models (SCMs) in order to dynamically coordinate the spectrum usage aiming to avoid harmful interference. Students working on this project will construct SCMs based on real measurements of wireless signals, develop novel frequency coordination protocols based on SCMs, and implement the protocols in a custom-built python simulator and/or in a Software-Defined Radio testbed.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -103,7 +139,7 @@
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-summer-research-experiences-for-undergraduates/</guid>
-      <description>&lt;p&gt;LEAP will offer research experiences for undergraduate students as summer research internships as part of LEAP&amp;rsquo;s research through synergistic innovations in data science and climate science. This includes, but is not limited to, physics-informed and causally-informed machine learning, novel ML-based subgrid parameterizations for Earth System Models, global parameter inference, and new ML- based diagnostics and metrics for evaluating these models, with a focus on the Community Earth System Model (CESM). The center is committed to building a diverse research community at the intersection of geosciences and data sciences with the objective to build a LEAP community on par with the US population in terms of gender and race diversity.&lt;/p&gt;</description>
+      <description>&lt;p&gt;LEAP &lt;a href=&#34;https://leap.columbia.edu/&#34;&gt;link&lt;/a&gt; will offer research experiences for undergraduate students as summer research internships as part of LEAP&amp;rsquo;s research through synergistic innovations in data science and climate science. This includes, but is not limited to, physics-informed and causally-informed machine learning, novel ML-based subgrid parameterizations for Earth System Models, global parameter inference, and new ML- based diagnostics and metrics for evaluating these models, with a focus on the Community Earth System Model (CESM). The center is committed to building a diverse research community at the intersection of geosciences and data sciences with the objective to build a LEAP community on par with the US population in terms of gender and race diversity.&lt;/p&gt;</description>
     </item>
     
     <item>
