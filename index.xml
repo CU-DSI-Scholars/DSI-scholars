@@ -6,7 +6,235 @@
     <description>Recent content on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A multi-scale approach to characterizing developing executive functions</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-a-multi-scale-approach-to-characterizing-developing-executive-functions/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-a-multi-scale-approach-to-characterizing-developing-executive-functions/</guid>
+      <description>&lt;p&gt;This multi-scale, multi-modal study aims to characterize the development of executive functions (EF) over the 1st 1000 days of life across diverse cultures and geographies. The international and multidisciplinary team brings together experts in global child health, EFs neurodevelopment, neuroimaging, nutrition, genomics, and the microbiome to realize several ambitious goals. The goals of the project are: i) rich longitudinal characterization of the structural and functional development of brain networks that underlie EFs. We will use behavior in combination with: A. state-of-the-art and multi-modal high-density EEG and MRI; and B. scalable low-field portable MRI and lower-density EEG to establish utility worldwide and particularly in global regions with limited resources; ii) rich longitudinal characterization of environmental influences on structural and functional development of brain networks that underlie EFs. Complementing the imaging portion of the study, the multimodal multiscale assessments include state-of-the-art deep phenotypic measurements including comprehensive surveys, sleep wearables, psychosocial and sociodemographic contextual factors, and biospecimen data to characterize health and environmental factors. The student(s) will be required to rapidly become familiar with a variety of data types, e.g., questionnaire data, physiological high-dimensional signals, neurobehavioral clinical examinations, neurodevelopmental assessments, etc. This DSI project will focus on the deep phenotyping of sleep in early life by analyzing objective and subjective measures. From a methodological point of view, the student(s) will support the development of: i) pipelines for the standardized and automated preprocessing and cleaning of physiological signals collected during sleep; ii) machine learning techniques (data-drive clustering, prediction) and iii) advanced statistical methodologies (inference, mediation, multidimensional data integration) tailored to the investigation of the role of sleep in relationship to the emergence of EF. The student(s) will join a young and highly dynamic multidisciplinary team of experts, students, and RAs (some who originally joined the lab as DSI-students).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analysis of copy number variants and structural variants in pediatric neurological diseases</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-analysis-of-copy-number-variants-and-structural-variants-in-pediatric-neurological-diseases/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-analysis-of-copy-number-variants-and-structural-variants-in-pediatric-neurological-diseases/</guid>
+      <description>&lt;p&gt;Neurodevelopmental disorders (NDDs) comprise of a group of disorders associated with abnormal brain development. Rare genetic variants have been shown to play a key role in their development, especially in those NDDs which are severe in nature. During the last decade, genetic testing has emerged as an important etiological diagnostic test for NDDs with a considerable impact on disease management and treatment. Yet, current genetic testing has a diagnostic rate of ~ 50%. Due to technical limitations in modern next-generation sequencing techniques, these techniques fail to asses a large part of the genome (2/3rd), missing critical regions which may have clinical significance. New methods now have emerged that can assess these regions better, can access repetitive regions and identify complex structural genomic events with more accuracy. This project will employ and integrate novel genomic technologies, including optical genome mapping and long read sequencing, to perform a comprehensive investigation of the human genome in parent-child trios which remained genetically unsolved after standard genomic approaches.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cardiotoxicity of Hydroxychloroquine</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-cardiotoxicity-of-hydroxychloroquine/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-cardiotoxicity-of-hydroxychloroquine/</guid>
+      <description>&lt;p&gt;Patients with rheumatic diseases like rheumatoid arthritis (RA) or systemic lupus erythematosus (SLE) remain inherently at risk for cardiac diseases due to the effects of systemic inflammation combined with immunologic activation and antibody formation targeting specific organs. Examples include coronary artery disease, associated ischemic and non-ischemic heart failure, myocarditis, and interstitial lung disease. While treatment with disease modifying anti-rheumatic drugs (DMARDs) adequately controls primary disease activity (clinically, skin and joints; serologically with reduction of inflammatory/disease activity markers), the effects of DMARDs on inciting or ameliorating/worsening pre-existing cardiac diseases associated with rheumatic diseases, are hotly contested.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Analysis and Visualization with the Human Health Exposure Analysis Resource (HHEAR) Data Repository</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-data-analysis-and-visualization-with-the-human-health-exposure-analysis-resource-hhear-data-repository/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-data-analysis-and-visualization-with-the-human-health-exposure-analysis-resource-hhear-data-repository/</guid>
+      <description>&lt;p&gt;Background: The Human Health Exposure Analysis Resource (HHEAR) provides investigators access to laboratory and statistical analyses aimed at incorporating and expanding environmental exposures within their research. To benefit the broader scientific community, the HHEAR Data Repository houses deidentified epidemiologic and biomarker data from all studies accepted into the HHEAR program. To date, 46 studies including data from over 36,000 individuals are part of the HHEAR program. Of those studies, 26 have deposited their data in the HHEAR Data Repository. More information on HHEAR can be found at hheardatacenter.mssm.edu.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Designing an Early Warning System for Gender Academia in Latin America</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-designing-an-early-warning-system-for-gender-academia-in-latin-america/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-designing-an-early-warning-system-for-gender-academia-in-latin-america/</guid>
+      <description>&lt;p&gt;WGGA at the Institute for the Study of Human Rights at Columbia University and CoreWoman aim to bring scholars together to help strengthen the resilience of the “gender academy” and contribute to its capacity for institutional and intellectual innovation. WGGA with the support of CoreWoman is exploring the creation of an Early-Warning System to provide information, resources, and support to gender scholars potentially acing illiberal attacks. The pilot project will be launched in Latin America, and ultimately, include other regions. The pilot in three Latin American countries, to allow for testing some hypotheses of the Early-Warning System. Some possible candidates include México, Brazil, Colombia, Peru, Nicaragua, Bolivia, and Venezuela.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Developing deep learning models for CRISPR/Cas13 specificity</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-developing-deep-learning-models-for-crispr-cas13-specificity/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-developing-deep-learning-models-for-crispr-cas13-specificity/</guid>
+      <description>&lt;p&gt;CRISPR/Cas13 is a programmable RNA-targeting system with a significant therapeutic potential. However, there is a lack of method for designing highly specific CRISPR/Cas13 systems. We have generated a large data set with high-throughput genomic assays and a previous DSI scholar has developed a transformer-based model that is capable of predicting targeting specificity from RNA sequences. We are looking for a motivated student with a strong deep learning background and a basic understanding of molecular biology to improve the model and publish the result.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Developing MLOps Tools for Researchers/Auto extraction of Model Architecture Metadata</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-developing-mlops-tools-for-researchers-auto-extraction-of-model-architecture-metadata/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-developing-mlops-tools-for-researchers-auto-extraction-of-model-architecture-metadata/</guid>
+      <description>&lt;p&gt;Students will design and contribute new features to the AI Model Share MLOps Platform.  Projects will allow students first hand experience working with and developing MLOps tools including model deployment, continuous model improvement, and ML analytics.  Individualized projects will allow students to 1) integrate advanced deep learning models into our system, 2) work on ML model replication tools, 3) integrate new ML dashboards into our toolkit, and more.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Diagnostic tools for identification of improvement in chronic diseases</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-diagnostic-tools-for-identification-of-improvement-in-chronic-diseases/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-diagnostic-tools-for-identification-of-improvement-in-chronic-diseases/</guid>
+      <description>&lt;p&gt;Research in Lyme Disease shows that it is very hard to identify clinically meaningful improvement for chronic patients whose symptoms tend to wax and wane. Our team developed a diagnostic tool - General Symptom Questionnaire (Fallon et all., 2019, PMID: 31867334) and gathered a lot of data on patients who attended our center for research and/or treatment. The purpose of the proposed study is to analyze the existing data to find clinically meaningful cut-offs on the scale that can inform clinicians on whether the patient improved or not. If you are interested in psychometrics and want to contribute to understanding of how the chronic disease evolves, this is the project for you.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Extracting Novel Decision-Making Features from Unstructured Eye Movements of Clinical Experts</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-extracting-novel-decision-making-features-from-unstructured-eye-movements-of-clinical-experts/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-extracting-novel-decision-making-features-from-unstructured-eye-movements-of-clinical-experts/</guid>
+      <description>&lt;p&gt;The aim of this project is to use artificial intelligence (AI) to extract valuable information from unstructured eye movements of highly-skilled domain experts, in particular those of expert clinicians as they perform complex diagnostic decision-making tasks.  Such eye-movement data is rich in patterns that can be deciphered using the power of unsupervised machine learning algorithms (such as k-nearest neighbor/hierarchical clustering and principal components analysis) or unsupervised deep learning algorithms (such as deep generative models, autoencoders, and long short-term memory autoencoders for sequence data).  Furthermore, as novices transform into experts, patterns embedded in their eye movements (time spent on regions of interest vs. time spent on surgical equipment) may offer a valuable tool for extracting features that pinpoint the critical mechanisms (’eureka moments’) behind expert decision-making.  The primary objectives of this project are (1) to collect eye movements of novice and expert ophthalmologists as they view medical images during eye-disease diagnoses using benchtop-based, head-mounted, or Virtual Reality embedded eye trackers (Eyelink 1000, Pupil Labs Core, or HTC Vive Pro, respectively) and (2) to apply unsupervised machine learning/deep learning approaches to extract meaningful information from this data.  Features to be extracted from this data include but are not limited to: fixation duration and fixation count in regions of interest, fixation order, saccade velocity, and pupil diameter.  This data collection and data analytics project will enable extraction of the most relevant features for task-oriented training of future AI-based disease diagnosis systems.  Capturing eye movements, and thereby the underlying visual decision-making mechanisms behind an expert’s knowledge that are not otherwise quantifiable, will allow us to mimic these mechanisms in AI systems, potentially improving their diagnostic accuracy and interpretability for future clinical applications.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Immunogenomic analysis of pediatric brain tumors</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-immunogenomic-analysis-of-pediatric-brain-tumors/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-immunogenomic-analysis-of-pediatric-brain-tumors/</guid>
+      <description>&lt;p&gt;Diffuse Intrinsic Pontine Glioma (DIPG) is a universally fatal pediatric brain tumor with an overall median survival of 9 to 11 months. As the molecular and genetic landscape of DIPG has become increasingly characterized over recent years, numerous clinical trials have explored a variety of targeted therapies. However, none have meaningfully prolonged survival.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Implementation and Dissemination of Novel Electronic Measures of Medication Errors</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-implementation-and-dissemination-of-novel-electronic-measures-of-medication-errors/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-implementation-and-dissemination-of-novel-electronic-measures-of-medication-errors/</guid>
+      <description>&lt;p&gt;Clinicians place orders for patients in the electronic health record (EHR). There is currently no internal mechanism to detect medical errors in EHR systems. Identifying and monitoring medical errors has relied on voluntary reporting and chart review, methods that are subject to substantial self-reporting bias. To quantify the magnitude of wrong-patient errors, I developed and validated the Wrong-Patient Retract-and-Reorder (RAR) Measure. The Wrong-Patient RAR measure overcomes limitations of voluntary reporting by using an electronic query to objectively detect wrong-patient orders in EHR data. Whereas previous data indicated an average of 9 wrong-patient medication errors per hospital per year based on voluntary reporting,2 the RAR measure identified 5,246 wrong-patient orders in a large healthcare system in 1 year. The vastly greater volume of errors detected provides insights into the epidemiology of wrong-patient orders, informs targeted intervention strategies, and yields sufficient numbers of events to power health IT safety intervention studies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Improving metagenomic assembly pipeline for microbial protein structure-function prediction</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-improving-metagenomic-assembly-pipeline-for-microbial-protein-structure-function-prediction/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-improving-metagenomic-assembly-pipeline-for-microbial-protein-structure-function-prediction/</guid>
+      <description>&lt;p&gt;Background:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Inclusion and participation of individuals with disability in eMERGE IV</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-inclusion-and-participation-of-individuals-with-disability-in-emerge-iv/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-inclusion-and-participation-of-individuals-with-disability-in-emerge-iv/</guid>
+      <description>&lt;p&gt;eMERGE is a NIH-funded national network of 10 sites that enroll participants into genetic research. It has had 3 earlier cycles with tens of thousands of participants recruited in each; the current cycle (eMERGE IV) plans to enroll 25,000 individuals, with a particular focus on patients from underserved communities. The network has developed several participant surveys that allow the collection of data across the sites.  This study focuses on participants who self-identified as people with disabilities as well as those who have chronic conditions such as kidney disease or type 1 diabetes. Issues to be explored include diverse representation in cohort, recruitment and retention, identify stated needs for participation, health behaviors, and expectations surrounding genetic testing for common diseases. Tasks required to fulfill study aims are literature review, quantitative data analyses skills, familiarity with e-health records and ICD codes, and drafting of manuscript; the projected outcome is a manuscript in a peer-review journal.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Integrating EHR and patient-generated health data for breast cancer risk assessment and decision support in a diverse multiethnic population</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-integrating-ehr-and-patient-generated-health-data-for-breast-cancer-risk-assessment-and-decision-support-in-a-diverse-multiethnic-population/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-integrating-ehr-and-patient-generated-health-data-for-breast-cancer-risk-assessment-and-decision-support-in-a-diverse-multiethnic-population/</guid>
+      <description>&lt;p&gt;Women identified as high-risk for breast cancer may benefit from personalized risk-reducing strategies; however, barriers exist, including the time required to conduct a risk assessment of each woman in a population. Electronic health records (EHRs), a common source for populating risk assessment models, present challenges, including missing data, and data types more accurate when provided by patients compared to EHRs. We previously extracted EHR data on age, race/ethnicity, family history of BC, benign breast disease, and breast density to calculate BC risk according to the Breast Cancer Surveillance Consortium (BCSC) model among 9,514 women. Comparing self-reported and EHR data, more women with a first-degree family history of BC (14.6% vs. 4.4%) and benign breast biopsies (21.3% vs. 11.3%) were identified with patient-reported data, but EHR data identified more women with atypia or lobular carcinoma in situ (1.1% vs. 2.3%). The EHR had missing data on race/ethnicity for 26.8% of women and on first-degree family history of BC for 87.2%. Opportunely, Fast Healthcare Interoperability Resources (FHIR), application programming interfaces (APIs), and new legislation offer an elegant solution for automated BC risk assessment that integrates both patient-generated health data and EHR data to harness the strengths of each approach. To increase the likelihood of developing disseminatable and equitable strategies that integrate EHR and patient-generated health data for risk assessment and personalized BC risk reduction, the focus of this project is to refine and test our approach among diverse multiethnic women. Our aims are: 1) upgrade FHIR integration of a patient decision aid, parse EHR data pulled by patients, develop a user interface to enable women to view and augment their EHR data, conduct user evaluations of the user interface; 2) assess the effect of the FHIR-enhanced patient decision aid on patient activation, risk perception, and usability in a pilot study of multiethnic high-risk women; and 3) identify multilevel barriers to implementing FHIR-enhanced patient decision aid into clinical care.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lyme Research Center Database</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-lyme-research-center-database/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-lyme-research-center-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuro-DBER: A flexible neuroscience- and technology-driven framework for Discipline-Based Education Research</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-neuro-dber-a-flexible-neuroscience-and-technology-driven-framework-for-discipline-based-education-research/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-neuro-dber-a-flexible-neuroscience-and-technology-driven-framework-for-discipline-based-education-research/</guid>
+      <description>&lt;p&gt;What predicts successful learning? Many variables complicate the collaborative paradigm of learning or skills acquisition, and while the relative contribution of those variables has been studied in isolation, a comprehensive understanding of their synergistic effects remains elusive. The objective of this project is  to specifically establish a framework allowing neurofeedback training in the classroom to help students’ performance. This project aims to develop a flexible neuroscience and technology-driven framework for Discipline-Based Education Research (Neuro-DBER) to revolutionize teaching and learning. Our system merges cognitive neuroscience, education, and innovative technology to enable investigations of the relationships between subjective experience, body language, real-time learning, and neural measures of attentional engagement. Neuro-DBER is a flexible technological framework suitable to any field of study to address critical questions about learning experiences, such as the gap between a student&amp;rsquo;s subjective feelings versus objective measures of content retention.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Predictors of weight change during the menopausal transition using a precision medicine platform:  Defining a phenotype</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-predictors-of-weight-change-during-the-menopausal-transition-using-a-precision-medicine-platform-defining-a-phenotype/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-predictors-of-weight-change-during-the-menopausal-transition-using-a-precision-medicine-platform-defining-a-phenotype/</guid>
+      <description>&lt;p&gt;Cardiovascular disease remains the leading cause of death in women. There are risk factors specific to women such as pregnancy complications, menopausal status, emotional stress, and sleep quality which play a role in the development of cardiovascular disease in women. In 2019, the American Heart Association (AHA) launched the Research Goes Red registry in collaboration with Verily’s Project Baseline. Verily is a corporation owned by Alphabet (Google’s parent company). The Research Goes Red registry is a novel online platform designed to be participant-centric and highly customizable and scalable. Dr. Brooke Aggarwal is Principal Investigator of the Research Goes Red Weight Study, a new 1-year prospective observational study to determine links between weight changes and novel physiologic and behavioral outcomes related to cardiovascular disease in women. The study, a collaboration between AHA and Verily, is conducted primarily remotely; online questionnaires are completed via the Trialkit app, developed and tailored to optimize the experience for research participants. Participants log their waist circumference, body composition via scale, and home blood pressure via the app. An in-person visit to a local LabCorp facility is required to obtain blood samples and blood pressure measurements. All data and electronic consents collected on the Trialkit app are synced into the AHA-Verily online platform for the study team to download files with coded data, in real-time. This study is the first of its kind to demonstrate the feasibility of collecting data from the Research Goes Red registry in a decentralized way. We have a rich dataset ready to be analyzed among 300 women across the US, including markers associated with adverse weight gain:  body composition, glucose, lipids, insulin resistance, inflammation (C-reactive protein, interleukin-6), as well as correlates of weight gain during the menopausal transition including meal timing, meal frequency, reproductive history, physical activity, perceived stress, and sleep patterns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Social needs, neighborhood environments, and childhood obesity</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-social-needs-neighborhood-environments-and-childhood-obesity/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-social-needs-neighborhood-environments-and-childhood-obesity/</guid>
+      <description>&lt;p&gt;Despite identification of modifiable behavioral targets for childhood obesity prevention, prevalence of obesity remains historically high in the United States and the most severe forms are increasing among young children. Disparities in obesity have been exacerbated in the wake of the COVID-19 pandemic. The goal of this project is to examine the effects of social needs (eg food insecurity, housing needs), neighborhood factors, and use of social service referrals on childhood obesity before and after COVID-19. The data scholar will gain hands-on experience with data cleaning, merging, and visualizations. If appropriate to skill level, checking code and conducting analytic tests may be part of the learning experience. Opportunities for abstract and manuscript co-authorship may be possible for exceptional Scholars.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal data prediction using GAN</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-spatio-temporal-data-prediction-using-gan/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-spatio-temporal-data-prediction-using-gan/</guid>
+      <description>&lt;p&gt;In this project, we aim to develop GAN based models to predict spatio-temporal evolution using open human mobility datasets – SafeGraph (&lt;a href=&#34;https://www.safegraph.com/)&#34;&gt;https://www.safegraph.com/)&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Structural racism&#39;s impact on dementia and cognitive aging</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-structural-racisms-impact-on-dementia-and-cognitive-aging/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-structural-racisms-impact-on-dementia-and-cognitive-aging/</guid>
+      <description>&lt;p&gt;This study aims to determine the effect of structural racism on cognitive aging. We are looking at many different aspects of structural racism (civics, education, employment, environment, healthcare, income/credit/wealth, media/marketing, neighborhood factors, and policing), and several variables to measure each aspect. We will be acquiring several large data sets that have data from multiple years. We will be linking all these datasets to determine exposure to structural racism based on geographic location in the United States over the years. We will then link this to a longitudinal dataset with participants’ residences over their lifetime as well as measures of cognitive aging.  Our analysis will primarily employ Structural Equation Modeling, but we will also conduct factor analyses and psychometric analyses. We will be analyzing each aspect individually, and as part of a larger model.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The role of brain and body rhythms in cognition</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-the-role-of-brain-and-body-rhythms-in-cognition/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-the-role-of-brain-and-body-rhythms-in-cognition/</guid>
+      <description>&lt;p&gt;We are constantly exposed to input from the outside world, but we do not perceive nor remember everything we encounter. The state of our brains right before we receive such sensory inputs influences whether or not we process them. Brain oscillations are proposed to play a key role in setting these brain states; however, how exactly these brain rhythms influence perception and other cognitive processes remains a topic of active research. The Brain Rhythms Lab investigates how brain rhythms gate information through the brain, how they facilitate interactions with the rest of the body, and how these rhythms influence cognitive functions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised clustering of the human gut microbiome: revealing the biases, optimizing the parameters</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-unsupervised-clustering-of-the-human-gut-microbiome-revealing-the-biases-optimizing-the-parameters/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-unsupervised-clustering-of-the-human-gut-microbiome-revealing-the-biases-optimizing-the-parameters/</guid>
+      <description>&lt;p&gt;Background: The human gut microbiome is a heterogeneous community of bacterial species. Many human diseases are associated with changes in the microbiome, and understanding the interaction between gut bacteria and human health is therefore expected to revolutionize healthcare.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UPGRADVISOR: AI-Driven Software Supply-Chain Management</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-upgradvisor-ai-driven-software-supply-chain-management/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-upgradvisor-ai-driven-software-supply-chain-management/</guid>
+      <description>&lt;p&gt;By helping you find and keep your dependencies up to date, you can focus on your code, and we will take care of the rest.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using Autoencoder to Perform a Population Level Survey of Synaptic Connections in the Cerebral Cortex with Edmund Au and Vilas Menon</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-using-autoencoder-to-perform-a-population-level-survey-of-synaptic-connections-in-the-cerebral-cortex-with-edmund-au-and-vilas-menon/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-using-autoencoder-to-perform-a-population-level-survey-of-synaptic-connections-in-the-cerebral-cortex-with-edmund-au-and-vilas-menon/</guid>
+      <description>&lt;p&gt;The brain is the most complex organ in the body, composed of billions of neurons and trillions of connections between those neurons. Those connections are known as synapses and have been for many years the subject of intense study. What is less clear, however, is how synapses are organized at a population level throughout the brain. To start to address this, we developed a method that analyzes individual synapses using spatial and intensity metrics and scaled this approach to analyze hundreds of thousands of synapses concurrently. By doing so, we found that synapses fall into previously unknown subgroups. The proposed project, which is a collaboration between 2 groups (the Au lab in Pathology and Cell Biology and Menon lab in Neurology), will be to develop the robustness of our approach by working to normalize our findings across batches and conditions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions (Fall 2022)</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/page/faq2022/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/page/faq2022/</guid>
+      <description>Question: When will the student applications to the Scholars|DFG program open for the Fall 2022 semester?
+Answer: We anticipate that the submission link for student applications will be available by September 6th. Please check the submission link on the program website during the first week of classes.
+  Question: With only one application form, how do I express interest in more than one project?
+Answer: It is recommended that you prioritize based on your interest and skills.</description>
+    </item>
+    
     <item>
       <title>Call for Faculty Participation --- DSI Scholars Fall 2022</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/08/call-for-faculty-participation-dsi-scholars-fall-2022/</link>

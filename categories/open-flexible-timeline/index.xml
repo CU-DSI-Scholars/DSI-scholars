@@ -6,7 +6,97 @@
     <description>Recent content in Open Flexible Timeline on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis of copy number variants and structural variants in pediatric neurological diseases</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-analysis-of-copy-number-variants-and-structural-variants-in-pediatric-neurological-diseases/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-analysis-of-copy-number-variants-and-structural-variants-in-pediatric-neurological-diseases/</guid>
+      <description>&lt;p&gt;Neurodevelopmental disorders (NDDs) comprise of a group of disorders associated with abnormal brain development. Rare genetic variants have been shown to play a key role in their development, especially in those NDDs which are severe in nature. During the last decade, genetic testing has emerged as an important etiological diagnostic test for NDDs with a considerable impact on disease management and treatment. Yet, current genetic testing has a diagnostic rate of ~ 50%. Due to technical limitations in modern next-generation sequencing techniques, these techniques fail to asses a large part of the genome (2/3rd), missing critical regions which may have clinical significance. New methods now have emerged that can assess these regions better, can access repetitive regions and identify complex structural genomic events with more accuracy. This project will employ and integrate novel genomic technologies, including optical genome mapping and long read sequencing, to perform a comprehensive investigation of the human genome in parent-child trios which remained genetically unsolved after standard genomic approaches.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Developing MLOps Tools for Researchers/Auto extraction of Model Architecture Metadata</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-developing-mlops-tools-for-researchers-auto-extraction-of-model-architecture-metadata/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-developing-mlops-tools-for-researchers-auto-extraction-of-model-architecture-metadata/</guid>
+      <description>&lt;p&gt;Students will design and contribute new features to the AI Model Share MLOps Platform.  Projects will allow students first hand experience working with and developing MLOps tools including model deployment, continuous model improvement, and ML analytics.  Individualized projects will allow students to 1) integrate advanced deep learning models into our system, 2) work on ML model replication tools, 3) integrate new ML dashboards into our toolkit, and more.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Diagnostic tools for identification of improvement in chronic diseases</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-diagnostic-tools-for-identification-of-improvement-in-chronic-diseases/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-diagnostic-tools-for-identification-of-improvement-in-chronic-diseases/</guid>
+      <description>&lt;p&gt;Research in Lyme Disease shows that it is very hard to identify clinically meaningful improvement for chronic patients whose symptoms tend to wax and wane. Our team developed a diagnostic tool - General Symptom Questionnaire (Fallon et all., 2019, PMID: 31867334) and gathered a lot of data on patients who attended our center for research and/or treatment. The purpose of the proposed study is to analyze the existing data to find clinically meaningful cut-offs on the scale that can inform clinicians on whether the patient improved or not. If you are interested in psychometrics and want to contribute to understanding of how the chronic disease evolves, this is the project for you.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Extracting Novel Decision-Making Features from Unstructured Eye Movements of Clinical Experts</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-extracting-novel-decision-making-features-from-unstructured-eye-movements-of-clinical-experts/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-extracting-novel-decision-making-features-from-unstructured-eye-movements-of-clinical-experts/</guid>
+      <description>&lt;p&gt;The aim of this project is to use artificial intelligence (AI) to extract valuable information from unstructured eye movements of highly-skilled domain experts, in particular those of expert clinicians as they perform complex diagnostic decision-making tasks.  Such eye-movement data is rich in patterns that can be deciphered using the power of unsupervised machine learning algorithms (such as k-nearest neighbor/hierarchical clustering and principal components analysis) or unsupervised deep learning algorithms (such as deep generative models, autoencoders, and long short-term memory autoencoders for sequence data).  Furthermore, as novices transform into experts, patterns embedded in their eye movements (time spent on regions of interest vs. time spent on surgical equipment) may offer a valuable tool for extracting features that pinpoint the critical mechanisms (’eureka moments’) behind expert decision-making.  The primary objectives of this project are (1) to collect eye movements of novice and expert ophthalmologists as they view medical images during eye-disease diagnoses using benchtop-based, head-mounted, or Virtual Reality embedded eye trackers (Eyelink 1000, Pupil Labs Core, or HTC Vive Pro, respectively) and (2) to apply unsupervised machine learning/deep learning approaches to extract meaningful information from this data.  Features to be extracted from this data include but are not limited to: fixation duration and fixation count in regions of interest, fixation order, saccade velocity, and pupil diameter.  This data collection and data analytics project will enable extraction of the most relevant features for task-oriented training of future AI-based disease diagnosis systems.  Capturing eye movements, and thereby the underlying visual decision-making mechanisms behind an expert’s knowledge that are not otherwise quantifiable, will allow us to mimic these mechanisms in AI systems, potentially improving their diagnostic accuracy and interpretability for future clinical applications.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Immunogenomic analysis of pediatric brain tumors</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-immunogenomic-analysis-of-pediatric-brain-tumors/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-immunogenomic-analysis-of-pediatric-brain-tumors/</guid>
+      <description>&lt;p&gt;Diffuse Intrinsic Pontine Glioma (DIPG) is a universally fatal pediatric brain tumor with an overall median survival of 9 to 11 months. As the molecular and genetic landscape of DIPG has become increasingly characterized over recent years, numerous clinical trials have explored a variety of targeted therapies. However, none have meaningfully prolonged survival.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Implementation and Dissemination of Novel Electronic Measures of Medication Errors</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-implementation-and-dissemination-of-novel-electronic-measures-of-medication-errors/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-implementation-and-dissemination-of-novel-electronic-measures-of-medication-errors/</guid>
+      <description>&lt;p&gt;Clinicians place orders for patients in the electronic health record (EHR). There is currently no internal mechanism to detect medical errors in EHR systems. Identifying and monitoring medical errors has relied on voluntary reporting and chart review, methods that are subject to substantial self-reporting bias. To quantify the magnitude of wrong-patient errors, I developed and validated the Wrong-Patient Retract-and-Reorder (RAR) Measure. The Wrong-Patient RAR measure overcomes limitations of voluntary reporting by using an electronic query to objectively detect wrong-patient orders in EHR data. Whereas previous data indicated an average of 9 wrong-patient medication errors per hospital per year based on voluntary reporting,2 the RAR measure identified 5,246 wrong-patient orders in a large healthcare system in 1 year. The vastly greater volume of errors detected provides insights into the epidemiology of wrong-patient orders, informs targeted intervention strategies, and yields sufficient numbers of events to power health IT safety intervention studies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Improving metagenomic assembly pipeline for microbial protein structure-function prediction</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-improving-metagenomic-assembly-pipeline-for-microbial-protein-structure-function-prediction/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-improving-metagenomic-assembly-pipeline-for-microbial-protein-structure-function-prediction/</guid>
+      <description>&lt;p&gt;Background:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lyme Research Center Database</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-lyme-research-center-database/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-lyme-research-center-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of brain and body rhythms in cognition</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-the-role-of-brain-and-body-rhythms-in-cognition/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-the-role-of-brain-and-body-rhythms-in-cognition/</guid>
+      <description>&lt;p&gt;We are constantly exposed to input from the outside world, but we do not perceive nor remember everything we encounter. The state of our brains right before we receive such sensory inputs influences whether or not we process them. Brain oscillations are proposed to play a key role in setting these brain states; however, how exactly these brain rhythms influence perception and other cognitive processes remains a topic of active research. The Brain Rhythms Lab investigates how brain rhythms gate information through the brain, how they facilitate interactions with the rest of the body, and how these rhythms influence cognitive functions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised clustering of the human gut microbiome: revealing the biases, optimizing the parameters</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-unsupervised-clustering-of-the-human-gut-microbiome-revealing-the-biases-optimizing-the-parameters/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-unsupervised-clustering-of-the-human-gut-microbiome-revealing-the-biases-optimizing-the-parameters/</guid>
+      <description>&lt;p&gt;Background: The human gut microbiome is a heterogeneous community of bacterial species. Many human diseases are associated with changes in the microbiome, and understanding the interaction between gut bacteria and human health is therefore expected to revolutionize healthcare.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Comparison of four workflows for structural variants identification</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
