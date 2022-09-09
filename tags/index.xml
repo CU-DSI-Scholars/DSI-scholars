@@ -6,13 +6,94 @@
     <description>Recent content in Tags on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fall 2022</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2022/</link>
-      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data For Good</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-for-good/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-for-good/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deduplication</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deduplication/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deduplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/power-bi/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/python/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/r/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Record linkage</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/record-linkage/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/record-linkage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/shiny/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring 2023</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2023/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/tableau/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/tableau/</guid>
       <description></description>
     </item>
     
@@ -80,83 +161,11 @@
     </item>
     
     <item>
-      <title>Data For Good</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-for-good/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/data-for-good/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deduplication</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deduplication/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/deduplication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fall 2021  - Data For Good</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2021-data-for-good/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/fall-2021-data-for-good/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power BI</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/power-bi/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/power-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/python/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/r/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Record linkage</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/record-linkage/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/record-linkage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shiny</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/shiny/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/shiny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tableau</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/tableau/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/tags/tableau/</guid>
       <description></description>
     </item>
     

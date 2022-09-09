@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decoding elements of mouse behavior that reveal vigilance during exploration</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-decoding-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-decoding-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</guid>
+      <description>&lt;p&gt;Decoding behavioral signifiers for the brain state of vigilance can have far reaching implications for understanding the neural basis for actions and identifying disease. We are using high resolution video recordings of mice as they navigate a maze but have access to very few pre-determined behavioral signifiers. Several recent publications implemented computer vision to extract a variety of previously unreachable aspects of behavioral analysis, including animal pose estimation and distinguishable internal states. These descriptions allowed for the identification and characterization of dynamics, which then revealed an unprecedented richness to the behaviors that determine decision making. Applying such computational approaches mice during exploration and in the context of behaviors that have been validated to measure choice and memory can reveal dimensions of behavior that predict or even determine psychological constructs like vigilance. We are also obtaining neural signal data, which can be aligned with the behavioral signifiers. DSI scholars would use pose estimation analysis to evaluate behavioral signifiers for choice and memory and relate it to our real time concurrent measures of neural activity and transmitter release. The students would also have opportunity to examine the effect of disease models known to impair performance on our maze task on any identified signifier.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Call for Student Applications - Fall 2022</title>
       <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/call-for-student-applications-dsi-scholars-fall-2022/</link>
@@ -16,6 +25,15 @@
       <description>&lt;p&gt;Columbia University &lt;a href=&#34;http://datascience.columbia.edu/&#34;&gt;Data Science Institute&lt;/a&gt; is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Fall 2022 are open for application.&lt;/p&gt;
 &lt;p&gt;The goal of the DSI Scholars Program is to engage Columbia University&amp;rsquo;s undergraduate and master&amp;rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
 &lt;p&gt;The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &amp;ldquo;real world&amp;rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data For Good: African North Americans Database</title>
+      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-dfg-african-north-americans-database/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-dfg-african-north-americans-database/</guid>
+      <description>&lt;p&gt;This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, &amp;ldquo;color,&amp;rdquo; birthplace, or other details.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -591,15 +609,6 @@ We have a rich dataset ready to be analyzed among 300 women across the US, inclu
       
       <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-covid-19-evidence-retrieval-and-synthesis-using-pubmed-abstracts/</guid>
       <description>&lt;p&gt;Evidence-based Medicine (EBM) is the conscientious, explicit and judicious use of current best evidence in making decisions about the care of individual patients. The key difference between evidence-based medicine and traditional medicine is not that EBM considers the evidence while the latter does not, but rather that EBM demands better evidence. Given the exponential growth of the medical literature and the free text format of this big body of literature that hampers efficient evidence computing, researchers, patients and clinicians face significant challenges in evidence retrieval, appraisal, and synthesis. Our long-term goal is to develop natural language processing and text summarization methods to overcome these challenges. Our short-term goal is to build a computable evidence base for COVID-19 and to enable evidence synthesis and reasoning over COVID-19 study findings. Currently we have a database of structured data elements for PubMed abstracts for randomized controlled trials published within the past 20 years. For this scholar project, we expect the participating students to develop methods to analyze the evidence in our evidence base, to build COVID-19 knowledge graphs, and to enable evidence synthesis and appraisal at scale. On this basis, we will also compare the evidence in the literature to the evidence derived from the real world data of COVID-19 patients.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Data For Good: African North Americans Database</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-african-north-americans-database/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-african-north-americans-database/</guid>
-      <description>&lt;p&gt;This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, &amp;ldquo;color,&amp;rdquo; birthplace, or other details.&lt;/p&gt;</description>
     </item>
     
     <item>
