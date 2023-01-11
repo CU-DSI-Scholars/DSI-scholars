@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/announcement/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2023/01/call-for-faculty-participation-dsi-scholars-spring-2023/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url>
@@ -33,6 +43,21 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/spring-2023/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/summer-2023/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url>
@@ -53,11 +78,6 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2022/09/project-decoding-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</loc>
     <lastmod>2022-09-09T00:00:00+00:00</lastmod>
   </url>
@@ -65,11 +85,6 @@
   <url>
     <loc>/categories/open-flexible-timeline/</loc>
     <lastmod>2022-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/announcement/</loc>
-    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -124,11 +139,6 @@
   
   <url>
     <loc>/tags/shiny/</loc>
-    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/spring-2023/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url>
   
