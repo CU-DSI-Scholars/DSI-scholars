@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Survey data on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/survey-data/</link>
+    <link>/tags/survey-data/</link>
     <description>Recent content in Survey data on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/survey-data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/survey-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using machine learning identify trends in HIV incidence, treatment disruption and risk factors in the PHIA multi-country population-based HIV Impact Assessment survey</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-using-machine-learning-identify-trends-in-hiv-incidence-treatment-disruption-and-risk-factors-in-the-phia-multi-country-population-based-hiv-impact-assessment-survey/</link>
+      <link>/2020/05/project-using-machine-learning-identify-trends-in-hiv-incidence-treatment-disruption-and-risk-factors-in-the-phia-multi-country-population-based-hiv-impact-assessment-survey/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-using-machine-learning-identify-trends-in-hiv-incidence-treatment-disruption-and-risk-factors-in-the-phia-multi-country-population-based-hiv-impact-assessment-survey/</guid>
+      <guid>/2020/05/project-using-machine-learning-identify-trends-in-hiv-incidence-treatment-disruption-and-risk-factors-in-the-phia-multi-country-population-based-hiv-impact-assessment-survey/</guid>
       <description>&lt;p&gt;The PHIA project is a multi-country population-based HIV Impact Assessment survey which has interviewed and tested for HIV over 450,000 people of all ages in Africa. We are also currently conducting a second round of surveys in many countries, and hope to use best practices in big data management to generate a combined dataset across all countries. We want to combine this data with environmental, mobility and social media data and then use machine learning to identify trends in HIV incidence, treatment disruption and risk factors. We would also be interested in looking at other ways to use environmental data to predict potential zoonotic outbreaks.&lt;/p&gt;</description>
     </item>
     

@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TensorFlow on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/tensorflow/</link>
+    <link>/tags/tensorflow/</link>
     <description>Recent content in TensorFlow on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Physically-informed polycrystal plasticity models of beta-HMX</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-physically-informed-polycrystal-plasticity-models-of-beta-hmx/</link>
+      <link>/2020/09/project-physically-informed-polycrystal-plasticity-models-of-beta-hmx/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-physically-informed-polycrystal-plasticity-models-of-beta-hmx/</guid>
+      <guid>/2020/09/project-physically-informed-polycrystal-plasticity-models-of-beta-hmx/</guid>
       <description>&lt;p&gt;Traditionally, these types of data are routinely neglected in hand-crafted constitutive models due to the complexity. Instead, descriptors such as void fraction, dislocation density, and other statistical measures of the microstructures are often incorporated into yield surface or hardening rules (e.g. Gurson damage model, critical state plasticity). In this work, we will overcome this technical barrier by using a deep convolutional neural network to deduce low-dimensional descriptors that best describes the physics of the deformation process of polycrystals. With deep Q reinforcement learning to automate the trial-and-error process, we may explore the decision tree with a large number of trials that are impossible to be done manually. This treatment will empower us to discover the underlying mechanics of polycrystals under a variety of pressure, temperature, and loading rates highly relevant to the Air Force applications. While previous work on data-driven models has often focused on complete substitutions of constitutive laws with a data-driven paradigm, I intend to seek the best option representing the hierarchy of material responses, while implementing adversarial attacks to determine hidden weaknesses of existing polycrystal plasticity models as well as the one generated from the ML approaches. I will make use of a collocation Fast Fourier Transformation (FFT) solver to speed up the generations of the material database, digesting microstructural data via descriptors in the non-Euclidean space, Graph-based knowledge abstraction, and adversarial attack.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Discovering the cost function optimized by the primate visual system&#39;s deep hierarchical architecture</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discovering-the-cost-function-optimized-by-the-primate-visual-system-s-deep-hierarchical-architecture/</link>
+      <link>/2019/01/project-discovering-the-cost-function-optimized-by-the-primate-visual-system-s-deep-hierarchical-architecture/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-discovering-the-cost-function-optimized-by-the-primate-visual-system-s-deep-hierarchical-architecture/</guid>
+      <guid>/2019/01/project-discovering-the-cost-function-optimized-by-the-primate-visual-system-s-deep-hierarchical-architecture/</guid>
       <description>&lt;p&gt;The visual cortex has a distinctive deep hierarchical organization as a result of ontogenetic and phylogenetic optimization. It is unclear what the factors are that shape this particular hierarchical organization. One factor is the compositional and hierarchical nature of our world’s appearance, which may be optimally processed by a hierarchical visual system. Another factor is the need for space and energy efficiency, which constrains the number of neurons and connections. The project will employ computational modeling to understand the contribution of these constraints to shaping the combination of breadth, depth, and skipping connections employed by primate visual cortex.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Learning Representations and Patterns in Mathematical Proofs </title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</link>
+      <link>/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</guid>
+      <guid>/2019/01/project-learning-representations-and-patterns-in-mathematical-proofs/</guid>
       <description>&lt;p&gt;A common challenge for students in heavy proof-based courses is to come up with a long sequence of logical arguments from the problem statement to the final solution. In doing so, they can often skip steps leading to logical leaps or downright incorrect solutions. Ideally the instructor should identify these mis-steps and help students master such proof-based course material. Here we want to take a data-driven approach to address this challenge.&lt;/p&gt;</description>
     </item>
     

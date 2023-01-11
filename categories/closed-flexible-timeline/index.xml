@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Closed Flexible Timeline on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline/</link>
+    <link>/categories/closed-flexible-timeline/</link>
     <description>Recent content in Closed Flexible Timeline on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-flexible-timeline/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/closed-flexible-timeline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Towards a combined geopolitical and technical understanding of regional Internet</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</link>
+      <link>/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</guid>
+      <guid>/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</guid>
       <description>&lt;p&gt;This research project aims at exploring and developing methods to improve and diversify the visualizations of the interactions between the Internet and the topographical and geopolitical space (i.e. space and the political actors that rule over it) through the case study of a region of interest (could be virtually any region that would be of interest for the student). The main intend of the project is to produce a set of maps and visualizations (including infographics where relevant), as comprehensive and diverse as possible, combining Internet mapping with the geographical and geopolitical context of that region. We will build on top of existing techniques for visualizations of the Internet and discuss potential capacities to further model the Internet.&lt;/p&gt;</description>
     </item>
     

@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social media on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/social-media/</link>
+    <link>/tags/social-media/</link>
     <description>Recent content in Social media on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estimating Social Influence with Probabilistic Machine Learning</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</link>
+      <link>/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</guid>
+      <guid>/2020/09/project-estimating-social-influence-with-probabilistic-machine-learning/</guid>
       <description>&lt;p&gt;We are developing machine learning (ML) methods to understand how people influence each others’ behavior in social networks. For example, on Twitter, do users influence the content shared or posted by their followers? Methods that can identify such patterns of influence will play a role in studying, e.g., the spread of misinformation on social media sites.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Using social network analysis to improve access to mental health treatment in Brazil</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</link>
+      <link>/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</guid>
+      <guid>/2020/09/project-using-social-network-analysis-to-improve-access-to-mental-health-treatment-in-brazil/</guid>
       <description>&lt;p&gt;The proposed project would focus on analyzing quantitative data from a 4 year NIMH-funded study entitled &amp;ldquo;Integrating evidence-based  depression treatment in primary care: Tuberculosis (TB) in Brazil as a model&amp;rdquo; (PI: Sweetland, K01MH104514). The aim of the study was to assess whether social network analysis could be used to leverage the receptivity and connectivity of TB providers in a Brazilian public health system in a way that could accelerate the adoption (implementation) and diffusion (dissemination) of an evidence-based treatment for depression treatment in a primary care network. Baseline receptivity was operationalized via six brief quantitative scales to measure mental health literacy, work self-efficacy, organizational climate, attitudes towards evidence-based practices, organizational readiness to change and individual innovation thresholds. Connectivity was assessed by asking TB providers with whom they discuss difficult cases, give advice to, or receive advice regarding difficult TB cases. Baseline receptivity and connectivity data was used to identify 3 pilot sites in which to train primary care providers to deliver evidence-based depression treatment for one year.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good: The Consequences of Language Policing</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-consequences-of-language-policing/</link>
+      <link>/2020/01/project-the-consequences-of-language-policing/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-the-consequences-of-language-policing/</guid>
+      <guid>/2020/01/project-the-consequences-of-language-policing/</guid>
       <description>&lt;p&gt;Contestation over language use is an unavoidable feature of American politics. Yet, despite the rise of language policing on both sides of the aisle, we know surprisingly little about how ordinary citizens respond to norms governing language use from both in-group and out-group members. Following Munger (2017), I would like to leverage social media platforms such as Reddit and Twitter to evaluate whether injunctions to use particular words (e.g., undocumented immigrant, Latinx) are effective. I plan to use an experimental approach, where conditional on mentions of &amp;ldquo;illegal alien&amp;rdquo; or &amp;ldquo;Hispanic/Latino,&amp;rdquo; users are randomly assigned to receive a &amp;ldquo;language correction.&amp;rdquo; Outcome measures would include subsequent use of corrected terms, valence of user responses, and upvoting/liking/RTing behavior.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Measuring Tax Evasion using Twitter Feeds</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-measuring-tax-evasion-using-twitter-feeds/</link>
+      <link>/2020/01/project-measuring-tax-evasion-using-twitter-feeds/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/01/project-measuring-tax-evasion-using-twitter-feeds/</guid>
+      <guid>/2020/01/project-measuring-tax-evasion-using-twitter-feeds/</guid>
       <description>&lt;p&gt;Tax evasion is one of the main sources of informal economic activity and has drastic effects on different macroeconomic variables. However, due to various reasons, it is difficult to directly measure the extent of tax evasion. This project aims to develop a novel way of measuring aggregate tax evasion in national economies using Twitter feeds. To this end, using carefully selected keywords in different national languages, we will collect country and regional level data from Twitter feeds in different frequencies for a large cross section of economies and then construct a measure of tax evasion using the collected data. In addition to fully describing the collected dataset, the project will also examine the evolution of the constructed series.&lt;/p&gt;</description>
     </item>
     

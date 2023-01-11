@@ -2,332 +2,332 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Flexible Timeline on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/</link>
+    <link>/categories/open-flexible-timeline/</link>
     <description>Recent content in Open Flexible Timeline on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-flexible-timeline/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/open-flexible-timeline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decoding elements of mouse behavior that reveal vigilance during exploration</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-decoding-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</link>
+      <link>/2022/09/project-decoding-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</link>
       <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-decoding-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</guid>
+      <guid>/2022/09/project-decoding-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration/</guid>
       <description>&lt;p&gt;Decoding behavioral signifiers for the brain state of vigilance can have far reaching implications for understanding the neural basis for actions and identifying disease. We are using high resolution video recordings of mice as they navigate a maze but have access to very few pre-determined behavioral signifiers. Several recent publications implemented computer vision to extract a variety of previously unreachable aspects of behavioral analysis, including animal pose estimation and distinguishable internal states. These descriptions allowed for the identification and characterization of dynamics, which then revealed an unprecedented richness to the behaviors that determine decision making. Applying such computational approaches mice during exploration and in the context of behaviors that have been validated to measure choice and memory can reveal dimensions of behavior that predict or even determine psychological constructs like vigilance. We are also obtaining neural signal data, which can be aligned with the behavioral signifiers. DSI scholars would use pose estimation analysis to evaluate behavioral signifiers for choice and memory and relate it to our real time concurrent measures of neural activity and transmitter release. The students would also have opportunity to examine the effect of disease models known to impair performance on our maze task on any identified signifier.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Analysis of copy number variants and structural variants in pediatric neurological diseases</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-analysis-of-copy-number-variants-and-structural-variants-in-pediatric-neurological-diseases/</link>
+      <link>/2022/09/project-analysis-of-copy-number-variants-and-structural-variants-in-pediatric-neurological-diseases/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-analysis-of-copy-number-variants-and-structural-variants-in-pediatric-neurological-diseases/</guid>
+      <guid>/2022/09/project-analysis-of-copy-number-variants-and-structural-variants-in-pediatric-neurological-diseases/</guid>
       <description>&lt;p&gt;Neurodevelopmental disorders (NDDs) comprise of a group of disorders associated with abnormal brain development. Rare genetic variants have been shown to play a key role in their development, especially in those NDDs which are severe in nature. During the last decade, genetic testing has emerged as an important etiological diagnostic test for NDDs with a considerable impact on disease management and treatment. Yet, current genetic testing has a diagnostic rate of ~ 50%. Due to technical limitations in modern next-generation sequencing techniques, these techniques fail to asses a large part of the genome (2/3rd), missing critical regions which may have clinical significance. New methods now have emerged that can assess these regions better, can access repetitive regions and identify complex structural genomic events with more accuracy. This project will employ and integrate novel genomic technologies, including optical genome mapping and long read sequencing, to perform a comprehensive investigation of the human genome in parent-child trios which remained genetically unsolved after standard genomic approaches.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Deep learning for predicting catalytic and small RNA in the genome</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-deep-learning-for-predicting-catalytic-and-small-rna-in-the-genome/</link>
+      <link>/2022/09/project-deep-learning-for-predicting-catalytic-and-small-rna-in-the-genome/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-deep-learning-for-predicting-catalytic-and-small-rna-in-the-genome/</guid>
+      <guid>/2022/09/project-deep-learning-for-predicting-catalytic-and-small-rna-in-the-genome/</guid>
       <description>&lt;p&gt;Background: The central dogma of biology stipulates that DNA is transcribed into RNA, which are translated into proteins, which carry out functions around the cell. However, as time passes, we are discovering more and more exceptions to this dogma. One of which are small non-coding RNAs (sRNA): these short fragments of RNA don’t get translated into proteins; instead, they fold into small structures and carry out many key and catalytic functions in the bacterial cell. sRNAs are uniquely versatile, as they are capable of interacting with both protein and nucleic acid targets, are responsible for bacterial responses to environmental stimuli, and can serve as virulence mechanisms.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Developing MLOps Tools for Researchers/Auto extraction of Model Architecture Metadata</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-developing-mlops-tools-for-researchers-auto-extraction-of-model-architecture-metadata/</link>
+      <link>/2022/09/project-developing-mlops-tools-for-researchers-auto-extraction-of-model-architecture-metadata/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-developing-mlops-tools-for-researchers-auto-extraction-of-model-architecture-metadata/</guid>
+      <guid>/2022/09/project-developing-mlops-tools-for-researchers-auto-extraction-of-model-architecture-metadata/</guid>
       <description>&lt;p&gt;Students will design and contribute new features to the AI Model Share MLOps Platform.  Projects will allow students first hand experience working with and developing MLOps tools including model deployment, continuous model improvement, and ML analytics.  Individualized projects will allow students to 1) integrate advanced deep learning models into our system, 2) work on ML model replication tools, 3) integrate new ML dashboards into our toolkit, and more.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Diagnostic tools for identification of improvement in chronic diseases</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-diagnostic-tools-for-identification-of-improvement-in-chronic-diseases/</link>
+      <link>/2022/09/project-diagnostic-tools-for-identification-of-improvement-in-chronic-diseases/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-diagnostic-tools-for-identification-of-improvement-in-chronic-diseases/</guid>
+      <guid>/2022/09/project-diagnostic-tools-for-identification-of-improvement-in-chronic-diseases/</guid>
       <description>&lt;p&gt;Research in Lyme Disease shows that it is very hard to identify clinically meaningful improvement for chronic patients whose symptoms tend to wax and wane. Our team developed a diagnostic tool - General Symptom Questionnaire (Fallon et all., 2019, PMID: 31867334) and gathered a lot of data on patients who attended our center for research and/or treatment. The purpose of the proposed study is to analyze the existing data to find clinically meaningful cut-offs on the scale that can inform clinicians on whether the patient improved or not. If you are interested in psychometrics and want to contribute to understanding of how the chronic disease evolves, this is the project for you.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Extracting Novel Decision-Making Features from Unstructured Eye Movements of Clinical Experts</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-extracting-novel-decision-making-features-from-unstructured-eye-movements-of-clinical-experts/</link>
+      <link>/2022/09/project-extracting-novel-decision-making-features-from-unstructured-eye-movements-of-clinical-experts/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-extracting-novel-decision-making-features-from-unstructured-eye-movements-of-clinical-experts/</guid>
+      <guid>/2022/09/project-extracting-novel-decision-making-features-from-unstructured-eye-movements-of-clinical-experts/</guid>
       <description>&lt;p&gt;The aim of this project is to use artificial intelligence (AI) to extract valuable information from unstructured eye movements of highly-skilled domain experts, in particular those of expert clinicians as they perform complex diagnostic decision-making tasks.  Such eye-movement data is rich in patterns that can be deciphered using the power of unsupervised machine learning algorithms (such as k-nearest neighbor/hierarchical clustering and principal components analysis) or unsupervised deep learning algorithms (such as deep generative models, autoencoders, and long short-term memory autoencoders for sequence data).  Furthermore, as novices transform into experts, patterns embedded in their eye movements (time spent on regions of interest vs. time spent on surgical equipment) may offer a valuable tool for extracting features that pinpoint the critical mechanisms (’eureka moments’) behind expert decision-making.  The primary objectives of this project are (1) to collect eye movements of novice and expert ophthalmologists as they view medical images during eye-disease diagnoses using benchtop-based, head-mounted, or Virtual Reality embedded eye trackers (Eyelink 1000, Pupil Labs Core, or HTC Vive Pro, respectively) and (2) to apply unsupervised machine learning/deep learning approaches to extract meaningful information from this data.  Features to be extracted from this data include but are not limited to: fixation duration and fixation count in regions of interest, fixation order, saccade velocity, and pupil diameter.  This data collection and data analytics project will enable extraction of the most relevant features for task-oriented training of future AI-based disease diagnosis systems.  Capturing eye movements, and thereby the underlying visual decision-making mechanisms behind an expert’s knowledge that are not otherwise quantifiable, will allow us to mimic these mechanisms in AI systems, potentially improving their diagnostic accuracy and interpretability for future clinical applications.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Immunogenomic analysis of pediatric brain tumors</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-immunogenomic-analysis-of-pediatric-brain-tumors/</link>
+      <link>/2022/09/project-immunogenomic-analysis-of-pediatric-brain-tumors/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-immunogenomic-analysis-of-pediatric-brain-tumors/</guid>
+      <guid>/2022/09/project-immunogenomic-analysis-of-pediatric-brain-tumors/</guid>
       <description>&lt;p&gt;Diffuse Intrinsic Pontine Glioma (DIPG) is a universally fatal pediatric brain tumor with an overall median survival of 9 to 11 months. As the molecular and genetic landscape of DIPG has become increasingly characterized over recent years, numerous clinical trials have explored a variety of targeted therapies. However, none have meaningfully prolonged survival.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Implementation and Dissemination of Novel Electronic Measures of Medication Errors</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-implementation-and-dissemination-of-novel-electronic-measures-of-medication-errors/</link>
+      <link>/2022/09/project-implementation-and-dissemination-of-novel-electronic-measures-of-medication-errors/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-implementation-and-dissemination-of-novel-electronic-measures-of-medication-errors/</guid>
+      <guid>/2022/09/project-implementation-and-dissemination-of-novel-electronic-measures-of-medication-errors/</guid>
       <description>&lt;p&gt;Clinicians place orders for patients in the electronic health record (EHR). There is currently no internal mechanism to detect medical errors in EHR systems. Identifying and monitoring medical errors has relied on voluntary reporting and chart review, methods that are subject to substantial self-reporting bias. To quantify the magnitude of wrong-patient errors, I developed and validated the Wrong-Patient Retract-and-Reorder (RAR) Measure. The Wrong-Patient RAR measure overcomes limitations of voluntary reporting by using an electronic query to objectively detect wrong-patient orders in EHR data. Whereas previous data indicated an average of 9 wrong-patient medication errors per hospital per year based on voluntary reporting,2 the RAR measure identified 5,246 wrong-patient orders in a large healthcare system in 1 year. The vastly greater volume of errors detected provides insights into the epidemiology of wrong-patient orders, informs targeted intervention strategies, and yields sufficient numbers of events to power health IT safety intervention studies.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Improving metagenomic assembly pipeline for microbial protein structure-function prediction</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-improving-metagenomic-assembly-pipeline-for-microbial-protein-structure-function-prediction/</link>
+      <link>/2022/09/project-improving-metagenomic-assembly-pipeline-for-microbial-protein-structure-function-prediction/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-improving-metagenomic-assembly-pipeline-for-microbial-protein-structure-function-prediction/</guid>
+      <guid>/2022/09/project-improving-metagenomic-assembly-pipeline-for-microbial-protein-structure-function-prediction/</guid>
       <description>&lt;p&gt;Background:&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Lyme Research Center Database</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-lyme-research-center-database/</link>
+      <link>/2022/09/project-lyme-research-center-database/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-lyme-research-center-database/</guid>
+      <guid>/2022/09/project-lyme-research-center-database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rapid, targeted, massive-scale genome reconstruction</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-rapid-targeted-massive-scale-genome-reconstruction/</link>
+      <link>/2022/09/project-rapid-targeted-massive-scale-genome-reconstruction/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-rapid-targeted-massive-scale-genome-reconstruction/</guid>
+      <guid>/2022/09/project-rapid-targeted-massive-scale-genome-reconstruction/</guid>
       <description>&lt;p&gt;Background: Genomes are inextricably tied to life as we know it, encoding all the molecular information used by organisms. Next-generation DNA sequencing has resulted in the scalable reading of genomes from organisms that inhabit complex environments - rather than being limited to organisms typically studied in the lab. Alongside this, algorithmic development is beginning to reveal the complex biology of genomes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The role of brain and body rhythms in cognition</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-the-role-of-brain-and-body-rhythms-in-cognition/</link>
+      <link>/2022/09/project-the-role-of-brain-and-body-rhythms-in-cognition/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-the-role-of-brain-and-body-rhythms-in-cognition/</guid>
+      <guid>/2022/09/project-the-role-of-brain-and-body-rhythms-in-cognition/</guid>
       <description>&lt;p&gt;We are constantly exposed to input from the outside world, but we do not perceive nor remember everything we encounter. The state of our brains right before we receive such sensory inputs influences whether or not we process them. Brain oscillations are proposed to play a key role in setting these brain states; however, how exactly these brain rhythms influence perception and other cognitive processes remains a topic of active research. The Brain Rhythms Lab investigates how brain rhythms gate information through the brain, how they facilitate interactions with the rest of the body, and how these rhythms influence cognitive functions.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Unsupervised clustering of the human gut microbiome: revealing the biases, optimizing the parameters</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-unsupervised-clustering-of-the-human-gut-microbiome-revealing-the-biases-optimizing-the-parameters/</link>
+      <link>/2022/09/project-unsupervised-clustering-of-the-human-gut-microbiome-revealing-the-biases-optimizing-the-parameters/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-unsupervised-clustering-of-the-human-gut-microbiome-revealing-the-biases-optimizing-the-parameters/</guid>
+      <guid>/2022/09/project-unsupervised-clustering-of-the-human-gut-microbiome-revealing-the-biases-optimizing-the-parameters/</guid>
       <description>&lt;p&gt;Background: The human gut microbiome is a heterogeneous community of bacterial species. Many human diseases are associated with changes in the microbiome, and understanding the interaction between gut bacteria and human health is therefore expected to revolutionize healthcare.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Using causal inference to understand health disparities and discrimination in pregnancy treatment and outcomes</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-using-causal-inference-to-understand-health-disparities-and-discrimination-in-pregnancy-treatment-and-outcomes/</link>
+      <link>/2022/09/project-using-causal-inference-to-understand-health-disparities-and-discrimination-in-pregnancy-treatment-and-outcomes/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-using-causal-inference-to-understand-health-disparities-and-discrimination-in-pregnancy-treatment-and-outcomes/</guid>
+      <guid>/2022/09/project-using-causal-inference-to-understand-health-disparities-and-discrimination-in-pregnancy-treatment-and-outcomes/</guid>
       <description>&lt;p&gt;Adverse pregnancy outcomes (APOs), such as preeclampsia and preterm birth, are common and devastating. The human and economic costs of APOs are tremendous, and the United States has among the highest APO rates among developed nations. APOs are especially common in non-White and low-income communities. For example, in the United States Black women are 50% more likely to deliver preterm compared to White women. Research has shown that the increased risk of adverse outcomes in overburdened populations is not fully explained by socioeconomic status or other socio-demographic factors. In addition to having elevated risk for adverse outcomes, non-White women in the United States may be less likely to receive certain interventions, such as treatment for postpartum depression, but are more likely to receive others, such as cesarean section, suggesting that there may be unwarranted and discriminatory variation in pregnancy care.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Comparison of four workflows for structural variants identification</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
+      <link>/2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/</guid>
+      <guid>/2022/01/project-comparison-of-four-workflows-for-structural-variants-identification/</guid>
       <description>&lt;p&gt;Recent advances in genomic technologies have led to the identification of many novel disease-gene associations, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to identify structural variants (i.e. relatively large deletions and duplications of genomic sequences). These workflows can lead to the identification of different structural variants, raising the risk of missing disease-causing variants when using only one of those methods. Unfortunately, many of the variants identified by those workflows are artifacts (i.e. absent in the biological sample), raising concerns that time and effort will be wasted on those artifacts instead of analyzing the causative genetic variant. The goal of this project is to develop best practices to increase the chance to identify causative structural variants, while reducing the number of artifacts. We will use the raw data from whole-exome and whole-genome sequencing of patients with renal diseases. The students will be expected to (1) Compare the output of 4 different tools for identifying structural variants and visualize the differences (using R or Python) and (2) Identify the tool specific parameters that increases the specificity and sensitivity of each tool in differentiating true variants and artifacts.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Database of variants/phenotype and ClinVar submissions</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-database-of-variants-phenotype-and-clinvar-submissions/</link>
+      <link>/2022/01/project-database-of-variants-phenotype-and-clinvar-submissions/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-database-of-variants-phenotype-and-clinvar-submissions/</guid>
+      <guid>/2022/01/project-database-of-variants-phenotype-and-clinvar-submissions/</guid>
       <description>&lt;p&gt;The IGM has performed diagnostic whole exome or whole genome sequencing on more than 5000 CUIMC patients with presentations including undiagnosed diseases of childhood, chronic kidney disease, fetal anomalies and neurological diseases (with a focus on epilepsy) among many others. These patients have been analyzed with a standardized diagnostic pipeline to identify single genotypes that are responsible for disease. Diagnostic genotypes are those that are considered to be likely contributing to the patient’s presentation through study team consensus (a multidisciplinary team that includes population geneticists, molecular geneticists, clinicians, genetic counselors, bioinformaticians and analysts). The student will be expected to 1) build an easy-to-use interface and secure database for variant records and phenotype information, and 2) implement a web interface to facilitate variant submission to ClinVar which is a freely accessible, public archive of reports of the relationships among human variations and phenotypes, with supporting evidence.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Detecting inherited compound heterozygous variants</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-detecting-inherited-compound-heterozygous-variants/</link>
+      <link>/2022/01/project-detecting-inherited-compound-heterozygous-variants/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-detecting-inherited-compound-heterozygous-variants/</guid>
+      <guid>/2022/01/project-detecting-inherited-compound-heterozygous-variants/</guid>
       <description>&lt;p&gt;One of the methods to identify novel gene-disease associations is called “trio analysis”, when an affected child (proband) and both his/her parents DNA are sequenced. The genetic information from the child and his/her parents allows for the rapid identification of compound heterozygous variants (i.e. 2 variants in the same gene, one inherited from the mother and the other one from the father).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Gaussian Mixture Regression to obtain useful, actionable air pollution data from consumer-grade, low-cost monitoring devices</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/</link>
+      <link>/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/</guid>
+      <guid>/2022/01/project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices/</guid>
       <description>&lt;p&gt;Our primary objective for this work will be to build a GMR model that can correct for bias in low cost particulate matter (PM2.5) sensors to be used globally. We will select 5-10 diverse reference PM2.5 and low cost PM2.5 co-locations to build a Gaussian Mixture Regression model (GMR). Recently, our team showed that GMR provides a higher quality correction factor for PurpleAir PM2.5 sensors than multiple linear regression and random forest, in terms of both correlation and accuracy. We then plan to evaluate this model on at least 20 independent co-location datasets that the GMR has not seen. There has been an exciting recent rise in commercially available low-cost sensors (LCS), such as PurpleAir (&lt;a href=&#34;http://www.purpleair.com&#34;&gt;www.purpleair.com&lt;/a&gt;) and Clarity sensors, which when paired with machine learning (ML) based correction algorithms demonstrate high accuracy compared to co-located reference grade monitors5,6. So far, these corrections have been limited to the few LCS locations which are co-located with expensive reference-grade monitors, while the potential from the thousands of un-co-located sensors remains untapped. PurpleAir and similar devices have been deployed all over the world. Ideally our global correction factor will allow for the extraction of more trustworthy data from huge open-access databases of air pollution data such as PurpleAir.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Structural variant detection in neurological disorders</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-structural-variant-detection-in-neurological-disorders/</link>
+      <link>/2022/01/project-structural-variant-detection-in-neurological-disorders/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-structural-variant-detection-in-neurological-disorders/</guid>
+      <guid>/2022/01/project-structural-variant-detection-in-neurological-disorders/</guid>
       <description>&lt;p&gt;Structural variants (SVs) are large genomic alterations which can be implicated in disease. This project will focus on using novel genomic techniques to identify structural variants in genomic cold cases with neurological disorders. These &amp;ldquo;cold&amp;rdquo; cases which have previously remained unsolved with standard genomic approaches. We will use optical genome mapping and long read sequencing, together with novel bioinformatic techniques to detect and analyze structural variants.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Urban Design and Children’s Mobility and Crash Risks in US Cities</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-urban-design-and-childrens-mobility-and-crash-risks-in-us-cities/</link>
+      <link>/2022/01/project-urban-design-and-childrens-mobility-and-crash-risks-in-us-cities/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/project-urban-design-and-childrens-mobility-and-crash-risks-in-us-cities/</guid>
+      <guid>/2022/01/project-urban-design-and-childrens-mobility-and-crash-risks-in-us-cities/</guid>
       <description>&lt;p&gt;Road traffic crashes involving child passengers, child pedestrians, and child bicyclists are the leading cause of death for people aged 5 to 15 years in the USA. A total of 10,344 children died on US roads in the decade from 2010-2019; a further 4.2 million were hospitalized. Urban design—meaning the overall physical form of cities—is a modifiable environmental feature that can be changed to reduce the immense burden due to child road traffic injuries. Altering the overall configuration of a city’s transportation network affects the way children and other road users routinely travel through urban space, thereby altering children’s risks for being injured or killed in a road traffic crash.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>@Dear Pandemic, a social media-based science communication project targeting the COVID-19 infodemic</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dear-pandemic-a-social-media-based-science-communication-project-targeting-the-covid-19-infodemic/</link>
+      <link>/2021/09/project-dear-pandemic-a-social-media-based-science-communication-project-targeting-the-covid-19-infodemic/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dear-pandemic-a-social-media-based-science-communication-project-targeting-the-covid-19-infodemic/</guid>
+      <guid>/2021/09/project-dear-pandemic-a-social-media-based-science-communication-project-targeting-the-covid-19-infodemic/</guid>
       <description>&lt;p&gt;The WHO has identified scientific misinformation as a public health crisis, calling it an “infodemic.” Social media allows misinformation to spread quickly and out-compete scientifically grounded information. Dear Pandemic is an innovative, multidisciplinary, social media-based science communication project led by women scientists across several institutions around the US and the UK. The mission is to educate and empower individuals to successfully navigate the overwhelming amount of information. The goals are: 1) To disseminate trustworthy, comprehensive, and timely scientific content about the pandemic to lay audiences, and 2) To promote media and health literacy, equipping readers to better manage the COVID-19 infodemic within their own networks. More than one year after launch, the project has a combined monthly reach of &amp;gt; 5 million people across 4 social media channels (2 Facebook pages in English and Spanish; Instagram; and Twitter).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A traffic map for the Internet</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-a-traffic-map-for-the-internet/</link>
+      <link>/2021/09/project-a-traffic-map-for-the-internet/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-a-traffic-map-for-the-internet/</guid>
+      <guid>/2021/09/project-a-traffic-map-for-the-internet/</guid>
       <description>&lt;p&gt;The impact of an outage, congestion, hijacking, and many other Internet phenomena depends on how many users or how much traffic use the route, but researchers lack visibility into how important routes are, and, distressingly, seem to have lost hope of obtaining this information without proprietary datasets or privileged viewpoints. We believe that there is hope &amp;ndash; new measurement methods and changes in Internet structure make it possible to construct an “Internet Traffic Map” identifying the locations (logical and perhaps geographical) of Internet users and major services, the paths between users and major services, and the relative activity levels (traffic, queries, or number of users) routed along these paths. We will construct this map. The realization of an Internet Traffic Map will be an Internet-scale effort that will have Internet-scale consequences that reach far beyond the research community.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Associations between specific antibiotic classes and risk for Clostridioides difficile infection within the MarketScan database</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-associations-between-specific-antibiotic-classes-and-risk-for-clostridioides-difficile-infection-within-the-marketscan-database/</link>
+      <link>/2021/09/project-associations-between-specific-antibiotic-classes-and-risk-for-clostridioides-difficile-infection-within-the-marketscan-database/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-associations-between-specific-antibiotic-classes-and-risk-for-clostridioides-difficile-infection-within-the-marketscan-database/</guid>
+      <guid>/2021/09/project-associations-between-specific-antibiotic-classes-and-risk-for-clostridioides-difficile-infection-within-the-marketscan-database/</guid>
       <description>&lt;p&gt;Clostridioides difficile infection (CDI) is highly associated with antibiotic exposure, but it is uncertain which classes of antibiotics confer the greatest risk for CDI.  This project will use the MarketScan database, a large commercial insurance billing database containing 40 million patient records, outpatient antibiotic prescription data, and ICD-based disease information, to test for associations between specific antibiotic classes and risk for CDI.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Complex genome rearrangements in a unicellular model organism</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-complex-genome-rearrangements-in-a-unicellular-model-organism/</link>
+      <link>/2021/09/project-complex-genome-rearrangements-in-a-unicellular-model-organism/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-complex-genome-rearrangements-in-a-unicellular-model-organism/</guid>
+      <guid>/2021/09/project-complex-genome-rearrangements-in-a-unicellular-model-organism/</guid>
       <description>&lt;p&gt;The Landweber Lab is looking for a computational student to work with us to analyze long-read DNA sequence datasets from Oxford Nanopore and PacBio (so-called third generation sequencing platforms). These datasets were collected across a time-course while single cells of the genus Oxytricha are undergoing RNA-guided natural genome editing. This process leads to a completely different &amp;ldquo;output&amp;rdquo; product genome from the precursor &amp;ldquo;input&amp;rdquo; or germline genome, and has been compared to a cellular computer. The goal will be to capture and classify long reads in these DNA datasets that represent the intermediate steps in genome rearrangements, when chromosomes mix and match hundreds of thousands of precursor building blocks to assemble a mature genome of 18,000 new chromosomes during programmed nuclear development.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>COVID-19 Evidence Retrieval and Synthesis Using PubMed Abstracts</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-covid-19-evidence-retrieval-and-synthesis-using-pubmed-abstracts/</link>
+      <link>/2021/09/project-covid-19-evidence-retrieval-and-synthesis-using-pubmed-abstracts/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-covid-19-evidence-retrieval-and-synthesis-using-pubmed-abstracts/</guid>
+      <guid>/2021/09/project-covid-19-evidence-retrieval-and-synthesis-using-pubmed-abstracts/</guid>
       <description>&lt;p&gt;Evidence-based Medicine (EBM) is the conscientious, explicit and judicious use of current best evidence in making decisions about the care of individual patients. The key difference between evidence-based medicine and traditional medicine is not that EBM considers the evidence while the latter does not, but rather that EBM demands better evidence. Given the exponential growth of the medical literature and the free text format of this big body of literature that hampers efficient evidence computing, researchers, patients and clinicians face significant challenges in evidence retrieval, appraisal, and synthesis. Our long-term goal is to develop natural language processing and text summarization methods to overcome these challenges. Our short-term goal is to build a computable evidence base for COVID-19 and to enable evidence synthesis and reasoning over COVID-19 study findings. Currently we have a database of structured data elements for PubMed abstracts for randomized controlled trials published within the past 20 years. For this scholar project, we expect the participating students to develop methods to analyze the evidence in our evidence base, to build COVID-19 knowledge graphs, and to enable evidence synthesis and appraisal at scale. On this basis, we will also compare the evidence in the literature to the evidence derived from the real world data of COVID-19 patients.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good: Poverty Research Cartagena</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-poverty-research-cartagena/</link>
+      <link>/2021/09/project-dfg-poverty-research-cartagena/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-poverty-research-cartagena/</guid>
+      <guid>/2021/09/project-dfg-poverty-research-cartagena/</guid>
       <description>&lt;p&gt;This project is an exciting opportunity to work with FEM, a non-profit that aims to address social rights issues among rural communities in Colombia. The team is currently working with the mayor’s office in Cartagena, Colombia to access multiple datasets and data sources to establish who and where the extreme poor in Cartagena live. Her team piloted a smartphone-based collection strategy during IOTA Hurricane and obtained data on 4845 households in a very vulnerable area. The first data science challenge was to wrangle and analyze these data to better characterize the population and their needs. This part of the project was conducted in the Spring and Summer of 2021.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data For Good: The Cost of Human Rights Violations</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-the-cost-of-human-rights-violations/</link>
+      <link>/2021/09/project-dfg-the-cost-of-human-rights-violations/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-dfg-the-cost-of-human-rights-violations/</guid>
+      <guid>/2021/09/project-dfg-the-cost-of-human-rights-violations/</guid>
       <description>&lt;p&gt;Rights CoLab is working with the Sustainability Accounting Standards Board (SASB) to define a strengthened set of disclosure standards that investors can use to persuade companies to improve labor rights for both their workforce and workers in supply chains. The project has two components: 1) a data science project, and 2) an Expert Group.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Evaluating the impact of telemedicine on chronic disease outcomes</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-evaluating-the-impact-of-telemedicine-on-chronic-disease-outcomes/</link>
+      <link>/2021/09/project-evaluating-the-impact-of-telemedicine-on-chronic-disease-outcomes/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-evaluating-the-impact-of-telemedicine-on-chronic-disease-outcomes/</guid>
+      <guid>/2021/09/project-evaluating-the-impact-of-telemedicine-on-chronic-disease-outcomes/</guid>
       <description>&lt;p&gt;The Center for Behavioral Cardiovascular Health has been at the forefront of developing virtual interventions (e.g., home BP telemonitoring, iHeart enhanced depression screening app, and COVID remote care program) to improve the management of hypertension, depression, and COVID. We are looking for motivated mentees to help us organize and analyze a wide-breadth of patient data from the Columbia-New York Presbyterian data warehouse to understand the impact of the interventions on patient outcomes. The mentee would work alongside highly experienced biostatisticians and our Center&amp;rsquo;s professionalized data team managers. The mentee will develop expertise in analyzing health system data and will inform decisions to modify, sustain, or de-implement existing programs.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Health Behaviors and Cardiovascular Risk</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-health-behaviors-and-cardiovascular-risk/</link>
+      <link>/2021/09/project-health-behaviors-and-cardiovascular-risk/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-health-behaviors-and-cardiovascular-risk/</guid>
+      <guid>/2021/09/project-health-behaviors-and-cardiovascular-risk/</guid>
       <description>&lt;p&gt;The project will include conducting analyses on lifestyle behaviors, namely diet and sleep, in relation to cardiovascular health. Analyses will be completed within NHANES (National Health and Nutrition Examination Surveys). Analyses will also be completed using data from a 24/7 sleep and activity tracker in relation to blood pressure. The student will contribute to data management and statistical analyses and will be a co-author on manuscripts submitted for publication.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Mapping NYPD Subway Fare Evasion Enforcement</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-mapping-nypd-subway-fare-evasion-enforcement/</link>
+      <link>/2021/09/project-mapping-nypd-subway-fare-evasion-enforcement/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-mapping-nypd-subway-fare-evasion-enforcement/</guid>
+      <guid>/2021/09/project-mapping-nypd-subway-fare-evasion-enforcement/</guid>
       <description>&lt;p&gt;This project is the next phase in ongoing research to document how the MTA and NYPD use public resources to criminalize poverty at the subway turnstile, especially in Black and Brown communities.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Multi-class probabilistic clustering of the human gut microbiome</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-multi-class-probabilistic-clustering-of-the-human-gut-microbiome/</link>
+      <link>/2021/09/project-multi-class-probabilistic-clustering-of-the-human-gut-microbiome/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-multi-class-probabilistic-clustering-of-the-human-gut-microbiome/</guid>
+      <guid>/2021/09/project-multi-class-probabilistic-clustering-of-the-human-gut-microbiome/</guid>
       <description>&lt;p&gt;Understanding the structure and function of the human gut microbiome is expected to revolutionize healthcare due to its many associations with human disease. A critical step in microbiome analysis involves a clustering stage, where genomic sequences of unknown origin are assigned to latent genomes present in the sample. Current clustering methods rely on mixture-models, yet these fail to correctly model the features of genomic sequences shared across multiple genomes. These sequences are of great importance, often encoding antibiotic resistance genes that drive resistant outbreaks. This project&amp;rsquo;s goal is to develop a clustering algorithm that will effectively cluster both shared and unique genomic sequences. We have developed two probabilistic models, both based around hierarchical Poisson factorization, that have already produced promising results. The project&amp;rsquo;s goal will be to refine these models: This will involve robustly evaluating the current models, determining their limitations, and designing new models that improve upon the current. A successful project will enable for the first time, scalable, and comprehensive reconstruction of bacterial genomes. In turn, this will enable a large-scale analysis of antimicrobial resistance in the context of the human gut microbiome. We anticipate a successful project to result in an exciting publication.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Predicting gene expression from sequencing in Alzheimers Disease</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-predicting-gene-expression-from-sequencing-in-alzheimers-disease/</link>
+      <link>/2021/09/project-predicting-gene-expression-from-sequencing-in-alzheimers-disease/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-predicting-gene-expression-from-sequencing-in-alzheimers-disease/</guid>
+      <guid>/2021/09/project-predicting-gene-expression-from-sequencing-in-alzheimers-disease/</guid>
       <description>&lt;p&gt;The goal of this project is to evaluate algorithms that predict gene expression directly from sequencing data. With the availability of large scale sequencing data in ADSP and progress made in machine learning methods, it is possible to model long range interactions in the DNA sequence to infer intermediate phenotypes such as gene expression. First, we will test a deep learning based method called Enformer that is able to integrate long-range interactions (such as promoter-enhancer interactions) in the genome and predict gene expression from sequence. Using available RNA-sequencing on a small number of samples (e.g. ROSMAP cohort), we will optimize the algorithm to improve accuracy of prediction. Secondly, inferred expression in the ADSP cohorts will be used to test association with Alzheimer’s Disease and related endophenotypes. Finally, we will incorporate datasets that will become available in future such as cell-type specific ATAC-seq and disease-specific gene expression to re-train learning models to improve gene-expression prediction directly from sequencing data.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Randomized algorithms for plasma fusion data analysis</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-randomized-algorithms-for-plasma-fusion-data-analysis/</link>
+      <link>/2021/09/project-randomized-algorithms-for-plasma-fusion-data-analysis/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-randomized-algorithms-for-plasma-fusion-data-analysis/</guid>
+      <guid>/2021/09/project-randomized-algorithms-for-plasma-fusion-data-analysis/</guid>
       <description>&lt;p&gt;Tokamak fusion reactors produce vast amounts of information rich data. Traditional approaches to data analysis struggle to cope with the scale of the data produced. In this project we aim to apply techniques from randomized numerical to beat the curse of dimensionality. Interested students should have a solid understanding of linear algebra, probability, and be happy coding in MATLAB or Python.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Representation learning for the identification of bacterial non-coding RNAs</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-representation-learning-for-the-identification-of-bacterial-non-coding-rnas/</link>
+      <link>/2021/09/project-representation-learning-for-the-identification-of-bacterial-non-coding-rnas/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-representation-learning-for-the-identification-of-bacterial-non-coding-rnas/</guid>
+      <guid>/2021/09/project-representation-learning-for-the-identification-of-bacterial-non-coding-rnas/</guid>
       <description>&lt;p&gt;Computational methods for identifying protein coding genes can leverage the conserved translational mapping of triplet codons to amino acids. However, non-coding genes, that are transcribed into RNAs but do not code for proteins, lack this structure, hindering their identification. Deep neural networks have shown tremendous promise in learning useful representations of unstructured data, including genomic data. Our lab is investigating the application of deep learning and natural language processing to the learning of representations useful for non-coding gene identification in bacterial genomes. We are seeking a student to contribute to this work. The goals of this project include 1) the identification and application of neural network architectures useful for identifying different classes of non-coding RNAs, 2) the interrogation of well-performing models in order to identify features of non-coding RNAs, and 3) the design of robust test cases which enable the comparison of these novel methods to existing methods for non-coding RNA identification in bacterial genomes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Volatile solubility laws in melts and magmas: an adaptative and universal Bayesian approach</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-volatile-solubility-laws-in-melts-and-magmas-an-adaptative-and-universal-bayesian-approach/</link>
+      <link>/2021/09/project-volatile-solubility-laws-in-melts-and-magmas-an-adaptative-and-universal-bayesian-approach/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-volatile-solubility-laws-in-melts-and-magmas-an-adaptative-and-universal-bayesian-approach/</guid>
+      <guid>/2021/09/project-volatile-solubility-laws-in-melts-and-magmas-an-adaptative-and-universal-bayesian-approach/</guid>
       <description>&lt;p&gt;All volcanoes on earth are driven by the degassing of volatile elements, mostly H2O and CO2 from their host magma. To model the degassing process, one needs to know the solubility laws of these volatile. To that end, petrologists have been performing high-pressure high-temperature experiments for sixty years to determine how much water and CO2 dissolves in magma as a function of Pressure, Temperature, Melt composition (12 oxides) and oxidation state. To model how these fifteen parameters affect solubility laws petrologist have then relied on empirical interpolation between experimental data points and some extrapolations using classical thermodynamic theory to infer the expected behavior beyond experimental calibration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Evaluating Machine learning algorithms in Earth science</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-evaluating-machine-learning-algorithms-in-earth-science/</link>
+      <link>/2021/01/project-evaluating-machine-learning-algorithms-in-earth-science/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-evaluating-machine-learning-algorithms-in-earth-science/</guid>
+      <guid>/2021/01/project-evaluating-machine-learning-algorithms-in-earth-science/</guid>
       <description>&lt;p&gt;Since the industrial revolution the atmosphere has continued to warm due to an accumulation of carbon. Terrestrial ecosystems play a crucial role in quelling the effects of climate change by storing atmospheric carbon in biomass and in the soils. In order to inform carbon reduction policy an accurate quantification of land-air carbon fluxes is necessary. To quantify the terrestrial CO2 exchange, direct monitoring of surface carbon fluxes at few locations across the globe provide valuable observations. However, this data is sparse in both space and time, and is thus unable to provide an estimate of the global spatiotemporal changes, as well as rare extreme conditions (droughts, heatwaves). In this project we will first use synthetic data and sample CO2 fluxes from a simulation of the Earth system at observation locations and then use various machine learning algorithms (neural networks, boosting, GANs) to reconstruct the model&amp;rsquo;s CO2 flux at all locations. We will then evaluate the performance of each method using a suite of regression metrics. Finally, time permitting, we will apply these methods to real observations. This project provides a way of evaluating the performance of machine learning methods as they are used in Earth science.&lt;/p&gt;</description>
     </item>
     

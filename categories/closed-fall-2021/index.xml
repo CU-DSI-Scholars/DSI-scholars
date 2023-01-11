@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Closed Fall 2021 on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-fall-2021/</link>
+    <link>/categories/closed-fall-2021/</link>
     <description>Recent content in Closed Fall 2021 on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/categories/closed-fall-2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/closed-fall-2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Image analysis of powder blends for content unifomity measurements</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-image-analysis-of-powder-blends-for-content-unifomity-measurements/</link>
+      <link>/2021/09/project-image-analysis-of-powder-blends-for-content-unifomity-measurements/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-image-analysis-of-powder-blends-for-content-unifomity-measurements/</guid>
+      <guid>/2021/09/project-image-analysis-of-powder-blends-for-content-unifomity-measurements/</guid>
       <description>&lt;p&gt;Using image analysis and decision tree methods establish algorithms to determine extent of blend uniformity.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Learning from Learners- Designing a Data Science Curriculum</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-learning-from-learners-designing-a-data-science-curriculum/</link>
+      <link>/2021/09/project-learning-from-learners-designing-a-data-science-curriculum/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-learning-from-learners-designing-a-data-science-curriculum/</guid>
+      <guid>/2021/09/project-learning-from-learners-designing-a-data-science-curriculum/</guid>
       <description>&lt;p&gt;This project is an opportunity to gain hands-on experience teaching data science in an advanced secondary-school environment. This fall, you will act as a teaching assistant (mostly remote, but with some on-site requirements) for a new introductory data science class that will be offered to advanced secondary-school students through the Bard College Early High School program. You will have the opportunity to contribute to the curriculum for this unique course, as well as learn firsthand from this diverse student body about how data science instruction can attract and engage learners of all backgrounds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Organizational Statements and Inequality</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-organizational-statements-and-inequality/</link>
+      <link>/2021/09/project-organizational-statements-and-inequality/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-organizational-statements-and-inequality/</guid>
+      <guid>/2021/09/project-organizational-statements-and-inequality/</guid>
       <description>&lt;p&gt;Project focuses on using text (from company statements and job postings) to better understand inequality in labor market outcomes. It will require some data scraping, managing large amounts of text data (e.g., captures from company websites), using NLP to better understand trends in the data, and SML to code key elements in text data. It may also involve running descriptives and comparisons of text data across time periods (e.g., how the language changes).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Towards a combined geopolitical and technical understanding of regional Internet</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</link>
+      <link>/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</guid>
+      <guid>/2021/09/project-towards-a-combined-geopolitical-and-technical-understanding-of-regional-internet/</guid>
       <description>&lt;p&gt;This research project aims at exploring and developing methods to improve and diversify the visualizations of the interactions between the Internet and the topographical and geopolitical space (i.e. space and the political actors that rule over it) through the case study of a region of interest (could be virtually any region that would be of interest for the student). The main intend of the project is to produce a set of maps and visualizations (including infographics where relevant), as comprehensive and diverse as possible, combining Internet mapping with the geographical and geopolitical context of that region. We will build on top of existing techniques for visualizations of the Internet and discuss potential capacities to further model the Internet.&lt;/p&gt;</description>
     </item>
     

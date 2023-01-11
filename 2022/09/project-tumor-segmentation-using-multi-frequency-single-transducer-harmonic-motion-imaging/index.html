@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="generator" content="Hugo 0.80.0 with theme Tranquilpeak 0.4.8-BETA">
+<meta name="generator" content="Hugo 0.79.0 with theme Tranquilpeak 0.4.8-BETA">
 <meta name="author" content="Columbia Data Science Institute (DSI) Scholars Program">
 <meta name="keywords" content="">
 <meta name="description" content="Tumor segmentation and size assessment are of great clinical value in cancer diagnosis and treatment monitoring. As an example, tumor size is used to monitor neoadjuvant chemotherapy (NAC) response. As the NAC changes the stiffness (i.e. elasticity) of the tumor, elasticity imaging can be used to monitor the NAC response.  Single transducer harmonic motion imaging (ST-HMI) is an ultrasound elastography method to assess elasticity of tissue. In ST-HMI, a force from the ultrasound propagating wave is used to oscillate tissue at a particular frequency and another ultrasound beam is used to assess the oscillatory motion. Then, the elasticity of the tissue is inferred from the motion. Instead of collecting a single frequency oscillation at a time, ST-HMI is expanded to collected several frequencies of data in a single acquisition (i.e. multi-frequency ST-HMI). We have demonstrated that lesions with different sizes and stiffness can be detected by exploiting oscillation frequency without prior knowledge of the inclusion characteristics. However, the boundary delineation is performed manually. The objective of this work is to develop an artificial intelligence algorithm to delineate tumor boundaries in the multi-frequency ST-HMI images automatically. A large data set of multi-frequency ST-HMI images of phantom with and without the presence of noise and artifacts, in vivo, and ex vivo mouse tumors, and in vivo human breast tumors will be used to train and test the artificial intelligence algorithm. By learning these multi-frequency data with a variety of noise sources, the constructed network is expected to learn boundary effects and be able to separate tumor boundaries from the background.">
@@ -15,8 +15,8 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="Tumor segmentation using multi-frequency single transducer harmonic motion imaging">
 <meta name="twitter:title" content="Tumor segmentation using multi-frequency single transducer harmonic motion imaging">
-<meta property="og:url" content="https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
-<meta property="twitter:url" content="https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
+<meta property="og:url" content="/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
+<meta property="twitter:url" content="/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
 <meta property="og:site_name" content="Columbia DSI Scholars">
 <meta property="og:description" content="Tumor segmentation and size assessment are of great clinical value in cancer diagnosis and treatment monitoring. As an example, tumor size is used to monitor neoadjuvant chemotherapy (NAC) response. As the NAC changes the stiffness (i.e. elasticity) of the tumor, elasticity imaging can be used to monitor the NAC response.  Single transducer harmonic motion imaging (ST-HMI) is an ultrasound elastography method to assess elasticity of tissue. In ST-HMI, a force from the ultrasound propagating wave is used to oscillate tissue at a particular frequency and another ultrasound beam is used to assess the oscillatory motion. Then, the elasticity of the tissue is inferred from the motion. Instead of collecting a single frequency oscillation at a time, ST-HMI is expanded to collected several frequencies of data in a single acquisition (i.e. multi-frequency ST-HMI). We have demonstrated that lesions with different sizes and stiffness can be detected by exploiting oscillation frequency without prior knowledge of the inclusion characteristics. However, the boundary delineation is performed manually. The objective of this work is to develop an artificial intelligence algorithm to delineate tumor boundaries in the multi-frequency ST-HMI images automatically. A large data set of multi-frequency ST-HMI images of phantom with and without the presence of noise and artifacts, in vivo, and ex vivo mouse tumors, and in vivo human breast tumors will be used to train and test the artificial intelligence algorithm. By learning these multi-frequency data with a variety of noise sources, the constructed network is expected to learn boundary effects and be able to separate tumor boundaries from the background.">
 <meta name="twitter:description" content="Tumor segmentation and size assessment are of great clinical value in cancer diagnosis and treatment monitoring. As an example, tumor size is used to monitor neoadjuvant chemotherapy (NAC) response. As the NAC changes the stiffness (i.e. elasticity) of the tumor, elasticity imaging can be used to monitor the NAC response.  Single transducer harmonic motion imaging (ST-HMI) is an ultrasound elastography method to assess elasticity of tissue. In ST-HMI, a force from the ultrasound propagating wave is used to oscillate tissue at a particular frequency and another ultrasound beam is used to assess the oscillatory motion. Then, the elasticity of the tissue is inferred from the motion. Instead of collecting a single frequency oscillation at a time, ST-HMI is expanded to collected several frequencies of data in a single acquisition (i.e. multi-frequency ST-HMI). We have demonstrated that lesions with different sizes and stiffness can be detected by exploiting oscillation frequency without prior knowledge of the inclusion characteristics. However, the boundary delineation is performed manually. The objective of this work is to develop an artificial intelligence algorithm to delineate tumor boundaries in the multi-frequency ST-HMI images automatically. A large data set of multi-frequency ST-HMI images of phantom with and without the presence of noise and artifacts, in vivo, and ex vivo mouse tumors, and in vivo human breast tumors will be used to train and test the artificial intelligence algorithm. By learning these multi-frequency data with a variety of noise sources, the constructed network is expected to learn boundary effects and be able to separate tumor boundaries from the background.">
@@ -53,8 +53,8 @@
 
 
 
-  <meta property="og:image" content="https://cu-dsi-scholars.github.io/Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png">
-  <meta property="twitter:image" content="https://cu-dsi-scholars.github.io/Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png">
+  <meta property="og:image" content="/Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png">
+  <meta property="twitter:image" content="/Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png">
 
 
 
@@ -71,7 +71,7 @@
 
     
 
-    <link rel="canonical" href="https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
+    <link rel="canonical" href="../../../2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
 
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
@@ -99,7 +99,7 @@
   
     
       <a class="header-right-picture "
-         href="http://datascience.columbia.edu/" target="_blank" rel="noopener">
+         href="http://datascience.columbia.edu/">
     
     
     
@@ -182,7 +182,7 @@
       
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://docs.google.com/forms/d/e/1FAIpQLSdGH2lzr5iotxuRPLmWcSRjKcMd6Rj8Ln4mvONBGr3pX8fQAQ/viewform" target="_blank" rel="noopener">
+      <a class="sidebar-button-link " href="https://docs.google.com/forms/d/e/1FAIpQLSdGH2lzr5iotxuRPLmWcSRjKcMd6Rj8Ln4mvONBGr3pX8fQAQ/viewform">
     
       <i class="sidebar-button-icon fa fa-lg fa-mortar-board"></i>
       
@@ -202,7 +202,7 @@
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://github.com/CU-DSI-Scholars" target="_blank" rel="noopener">
+      <a class="sidebar-button-link " href="https://github.com/CU-DSI-Scholars">
     
       <i class="sidebar-button-icon fa fa-lg fa-github"></i>
       
@@ -212,7 +212,7 @@
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://twitter.com/DSI_Columbia" target="_blank" rel="noopener">
+      <a class="sidebar-button-link " href="https://twitter.com/DSI_Columbia">
     
       <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
       
@@ -343,19 +343,19 @@
         </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
               <i class="fa fa-facebook-official"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=../../../2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
               <i class="fa fa-google-plus"></i>
             </a>
           </li>
@@ -380,7 +380,7 @@
         </article>
         <footer id="footer" class="main-content-wrap">
   <span class="copyrights">
-    &copy; 2022 Columbia Data Science Institute (DSI) Scholars Program. All Rights Reserved
+    &copy; 2023 Columbia Data Science Institute (DSI) Scholars Program. All Rights Reserved
   </span>
 </footer>
 
@@ -419,19 +419,19 @@
         </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
               <i class="fa fa-facebook-official"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://cu-dsi-scholars.github.io/DSI-scholars/2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=../../../2022/09/project-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging/">
               <i class="fa fa-google-plus"></i>
             </a>
           </li>
@@ -455,19 +455,19 @@
   <ul class="share-options">
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcu-dsi-scholars.github.io%2FDSI-scholars%2F2022%2F09%2Fproject-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging%2F">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=%2F2022%2F09%2Fproject-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging%2F">
           <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
         </a>
       </li>
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fcu-dsi-scholars.github.io%2FDSI-scholars%2F2022%2F09%2Fproject-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging%2F">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=%2F2022%2F09%2Fproject-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging%2F">
           <i class="fa fa-twitter"></i><span>Share on Twitter</span>
         </a>
       </li>
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=https%3A%2F%2Fcu-dsi-scholars.github.io%2FDSI-scholars%2F2022%2F09%2Fproject-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging%2F">
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=%2F2022%2F09%2Fproject-tumor-segmentation-using-multi-frequency-single-transducer-harmonic-motion-imaging%2F">
           <i class="fa fa-google-plus"></i><span>Share on Google&#43;</span>
         </a>
       </li>

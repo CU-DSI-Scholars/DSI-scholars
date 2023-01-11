@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COVID on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/covid/</link>
+    <link>/tags/covid/</link>
     <description>Recent content in COVID on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/covid/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/covid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COVID-19 Evidence Extraction and Computing</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-covid-19-evidence-extraction-and-computing/</link>
+      <link>/2021/01/project-covid-19-evidence-extraction-and-computing/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/01/project-covid-19-evidence-extraction-and-computing/</guid>
+      <guid>/2021/01/project-covid-19-evidence-extraction-and-computing/</guid>
       <description>&lt;p&gt;With the explosive growth of medical literature, making sense of medical evidence is harder than ever. The free text form also makes it difficult to perform evidence retrieval of appraisal. There is a great need for tools and methods that can structure and reason over medical evidence. The goal of this project is to develop computational and symbolic methods to extract evidence from PubMed abstracts, integrate it with evidence derived from real world clinical data (or practice-based evidence), and perform automated knowledge discovery and evidence reasoning. We also hope this research can support evidence-based medicine during the COVID-19 pandemic and provide opportunities for students to hone his/her skills on natural language processing, data mining, deep learning, and semantic knowledge engineering. We have solid preliminary results for the students to build upon. An open-source PICO parser that extracts Population, Intervention, Comparison and Outcome information from PubMed abstracts has been developed and published. Current COVID-19 literature has been downloaded from PubMed and been pre-processed. Preliminary analyses are under way to investigate the patterns in the study populations in COVID-19 clinical studies. Our next steps include but are not limited to evidence summarization at the study level and evidence reasoning at the problem/topic level.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Can we detect COVID in the Internet?</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-can-we-detect-covid-in-the-internet/</link>
+      <link>/2020/09/project-can-we-detect-covid-in-the-internet/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/project-can-we-detect-covid-in-the-internet/</guid>
+      <guid>/2020/09/project-can-we-detect-covid-in-the-internet/</guid>
       <description>&lt;p&gt;COVID-19 has changed the way we use the internet, from taking classes to social interactions and entertainment. The FCC publishes a large dataset of network measurements from thousands of homes, with gigabytes of data. The project goal is to analyze the data and answer questions such as: Has the increased usage reduced internet speeds? Can we tell how much people are staying at home from data usage records? Is the increased use of video conferencing reflected in the upload metrics?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Phenotyping COVID-19 patients using NLP and clinical notes</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</link>
+      <link>/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</guid>
+      <guid>/2020/05/project-phenotyping-covid-19-patients-using-nlp-and-clinical-notes/</guid>
       <description>&lt;p&gt;Our lab is using clinical notes to phenotype COVID patient outcomes. The aim is to better understand the sequela of COVID-19 from clinical notes.&lt;/p&gt;</description>
     </item>
     

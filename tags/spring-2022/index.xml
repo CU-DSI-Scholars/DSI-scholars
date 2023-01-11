@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spring 2022 on Columbia DSI Scholars</title>
-    <link>https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2022/</link>
+    <link>/tags/spring-2022/</link>
     <description>Recent content in Spring 2022 on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cu-dsi-scholars.github.io/DSI-scholars/tags/spring-2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/spring-2022/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call for Student Applications - Spring/Summer 2022</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/call-for-student-applications-dsi-scholars-spring-2022/</link>
+      <link>/2022/01/call-for-student-applications-dsi-scholars-spring-2022/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2022/01/call-for-student-applications-dsi-scholars-spring-2022/</guid>
+      <guid>/2022/01/call-for-student-applications-dsi-scholars-spring-2022/</guid>
       <description>&lt;p&gt;Columbia University &lt;a href=&#34;http://datascience.columbia.edu/&#34;&gt;Data Science Institute&lt;/a&gt; is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Spring 2022 are open for application.&lt;/p&gt;
 &lt;p&gt;The goal of the DSI Scholars Program is to engage Columbia University&amp;rsquo;s undergraduate and master&amp;rsquo;s students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.&lt;/p&gt;
 &lt;p&gt;The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As &amp;ldquo;real world&amp;rdquo; problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.&lt;/p&gt;</description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>Call for Faculty Participation --- DSI Scholars Spring-Summer 2022</title>
-      <link>https://cu-dsi-scholars.github.io/DSI-scholars/2021/12/call-for-faculty-participation-dsi-scholars-spring-2022/</link>
+      <link>/2021/12/call-for-faculty-participation-dsi-scholars-spring-2022/</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://cu-dsi-scholars.github.io/DSI-scholars/2021/12/call-for-faculty-participation-dsi-scholars-spring-2022/</guid>
+      <guid>/2021/12/call-for-faculty-participation-dsi-scholars-spring-2022/</guid>
       <description>&lt;h3 id=&#34;call-for-faculty-participation--springsummer-2022&#34;&gt;Call for Faculty Participation- Spring/Summer 2022.&lt;/h3&gt;
 &lt;p&gt;The Data Science Institute is calling for faculty submissions of research projects for the Spring and/or summer 2022 sessions of the Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with over 40 projects and received more than 350 unique applications from Columbia Students. The program&amp;rsquo;s unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScyVuBIx2F1SdIdXOcuHZev0flwvubO9ACmTy0PVxQlb5Cm2w/viewform&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
