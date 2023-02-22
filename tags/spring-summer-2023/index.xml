@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring-Summer 2023 on Columbia DSI Scholars</title>
+    <link>/tags/spring-summer-2023/</link>
+    <description>Recent content in Spring-Summer 2023 on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/spring-summer-2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A longitudial study of instructional contexts, student communication, and educational inequality using natural language processing</title>
+      <link>/2023/02/project-a-longitudial-study-of-instructional-contexts-student-communication-and-educational-inequality-using-natural-language-processing/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-a-longitudial-study-of-instructional-contexts-student-communication-and-educational-inequality-using-natural-language-processing/</guid>
+      <description>&lt;p&gt;The growing use of digital technologies in the education system has generated large amounts of data that records educational processes at a granular level. This project aims to leverage large-scale text data and NLP and causal inference techniques to understand the interplay between instructional contexts, students’ day-to-day online communication experience, and systematic inequality in academic achievement. This understanding can help educators create a more inclusive and effective educational environment to promote engagement and sense of belonging for students from marginalized groups, thereby reducing existing inequities in the system.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Machine learning for automated ultrasound guided infant lumbar puncture</title>
+      <link>/2023/02/project-machine-learning-for-automated-ultrasound-guided-infant-lumbar-puncture/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-machine-learning-for-automated-ultrasound-guided-infant-lumbar-puncture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Models of empirical phenomena in deep learning</title>
+      <link>/2023/02/project-models-of-empirical-phenomena-in-deep-learning/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-models-of-empirical-phenomena-in-deep-learning/</guid>
+      <description>&lt;p&gt;The goal of this project is to develop and mathematically analyze simple models of empirical phenomena observed in deep learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Real-World Outcomes of Hybrid Closed Loop System use in Pediatric Patients with Type 1 Diabetes</title>
+      <link>/2023/02/project-real-world-outcomes-of-hybrid-closed-loop-system-use-in-pediatric-patients-with-type-1-diabetes/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-real-world-outcomes-of-hybrid-closed-loop-system-use-in-pediatric-patients-with-type-1-diabetes/</guid>
+      <description>&lt;p&gt;Type 1 diabetes (T1D) is a chronic autoimmune disease that requires patients to need lifelong insulin therapy. Diabetes technology (insulin pumps and continuous glucose monitors (CGM)) have been shown to reduce the risk of high and low blood sugars and thus reduce long term diabetes complications. Hybrid closed-loop (HCL) insulin pumps integrate CGM technology to automatically adjust insulin delivery from the pump, with the goal of improved blood sugar and better quality of life for the patient. There are two commonly used HCL systems in our diabetes center: the t:slim x2 with Control IQ (TS) and the Omnipod 5 (O5).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

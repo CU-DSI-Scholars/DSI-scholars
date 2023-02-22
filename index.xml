@@ -6,7 +6,151 @@
     <description>Recent content on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A longitudial study of instructional contexts, student communication, and educational inequality using natural language processing</title>
+      <link>/2023/02/project-a-longitudial-study-of-instructional-contexts-student-communication-and-educational-inequality-using-natural-language-processing/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-a-longitudial-study-of-instructional-contexts-student-communication-and-educational-inequality-using-natural-language-processing/</guid>
+      <description>&lt;p&gt;The growing use of digital technologies in the education system has generated large amounts of data that records educational processes at a granular level. This project aims to leverage large-scale text data and NLP and causal inference techniques to understand the interplay between instructional contexts, students’ day-to-day online communication experience, and systematic inequality in academic achievement. This understanding can help educators create a more inclusive and effective educational environment to promote engagement and sense of belonging for students from marginalized groups, thereby reducing existing inequities in the system.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence and  Public Policy</title>
+      <link>/2023/02/project-artificial-intelligence-and-public-policy/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-artificial-intelligence-and-public-policy/</guid>
+      <description>&lt;p&gt;In this project we&amp;rsquo;ll be expanding on an existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project is to use additional document level data, such as regulatory discretion, to develop better data modelling tools.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Association of polygenic risk score for obesity with eating behaviors</title>
+      <link>/2023/02/project-association-of-polygenic-risk-score-for-obesity-with-eating-behaviors/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-association-of-polygenic-risk-score-for-obesity-with-eating-behaviors/</guid>
+      <description>&lt;p&gt;This project will generate polygenic risk score for obesity for ~ 250 subjects using 2 different datasets using existing R and python based tools. The student will also need to be familiar with unix platform. An association of polygenic risk score with eating behaviors will be tested.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Broadband Equity, Access and Deployment: Analyzing internet for rural areas</title>
+      <link>/2023/02/project-broadband-equity-access-and-deployment-analyzing-internet-for-rural-areas/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-broadband-equity-access-and-deployment-analyzing-internet-for-rural-areas/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m currently working, on loan, for NTIA (ntia.gov) on the BEAD (Broadband Equity, Access and Deployment), a roughly $40 billion project to deploy high-speed internet to all or most locations that currently lack access. We have a public and semi-public data set that lists every home and business in the United States, as well as broadband deployments and government grants.The project will answer questions such as: What will it cost to deploy fiber? Where are community anchor institutions located? What locations are already being subsidized? Which locations without service are in high-poverty areas?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centralized  and Decentralized (DAPP) Collaborative Expert Predictions Using New Market Mechanisms:</title>
+      <link>/2023/02/project-centralized-and-decentralized-dapp-collaborative-expert-predictions-using-new-market-mechanisms/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-centralized-and-decentralized-dapp-collaborative-expert-predictions-using-new-market-mechanisms/</guid>
+      <description>&lt;p&gt;Prediction Markets have been used to forecast outcomes of research interest using market mechanisms (See &lt;a href=&#34;https://www.nature.com/news/the-power-of-prediction-markets-1.20820)&#34;&gt;https://www.nature.com/news/the-power-of-prediction-markets-1.20820)&lt;/a&gt;. A decentralized prediction market, Auger, has been created on blockchain for betting purposes (See, &lt;a href=&#34;https://www.augur.net/)&#34;&gt;https://www.augur.net/)&lt;/a&gt;. An alternative approach to prediction market has been proposed in Dalal et al (&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0040162511000734)&#34;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0040162511000734)&lt;/a&gt;.  This project develops a new hybrid model for centralized and decentralized collaborative prediction market that can be used to elicit opinions of university researchers on socially important issues. Specifically, the project uses Django and Ethereum based platform to develop a smart contract and an ERC-20 compliant token for researchers to participate in the new market. The smart contract is being developed in Solidity and Javascript. The corresponding frontend and backend uses Django and python on AWS cloud. The project will require developing and experimenting with new innovative Automated Market Makers used in DeFi.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Large Language Models for Clinical Evidence Computing</title>
+      <link>/2023/02/project-large-language-models-for-clinical-evidence-computing/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-large-language-models-for-clinical-evidence-computing/</guid>
+      <description>&lt;p&gt;We will leverage and extend large language models and ChatGPT or GPT-3 technologies to retrieve, appraise and synthesize clinical evidence for patients and clinicians.  Students with strong background in large language models and natural language processing will be preferred. We will be working closely with clinicians to fine tune the methods.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Leveraging Machine Learning to Understand Changing Ice Albedo on the Greenland Ice Sheet</title>
+      <link>/2023/02/project-leveraging-machine-learning-to-understand-changing-ice-albedo-on-the-greenland-ice-sheet/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-leveraging-machine-learning-to-understand-changing-ice-albedo-on-the-greenland-ice-sheet/</guid>
+      <description>&lt;p&gt;Global sea level rise has been accelerating at an alarming rate for the last couple of decades, endangering and displacing millions of people. The majority of this sea level rise can be attributed to ice mass loss processes. In particular, ice mass loss from the Greenland ice sheet (GrIS) is a major contributor to sea level rise. Every year, about half of the ice that is lost from Greenland, and added to the oceans, comes from melting ice from the surface of the ice sheet. A large driver of ice surface melting is solar radiation. The amount of solar radiation that is absorbed vs reflected is strongly controlled by the ice albedo, with dark surfaces having a lower albedo (and absorbing more solar radiation) than light surfaces.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Machine learning for automated ultrasound guided infant lumbar puncture</title>
+      <link>/2023/02/project-machine-learning-for-automated-ultrasound-guided-infant-lumbar-puncture/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-machine-learning-for-automated-ultrasound-guided-infant-lumbar-puncture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Models of empirical phenomena in deep learning</title>
+      <link>/2023/02/project-models-of-empirical-phenomena-in-deep-learning/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-models-of-empirical-phenomena-in-deep-learning/</guid>
+      <description>&lt;p&gt;The goal of this project is to develop and mathematically analyze simple models of empirical phenomena observed in deep learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multiomic spatial and single cell technologies in human brain disorders</title>
+      <link>/2023/02/project-multiomic-spatial-and-single-cell-technologies-in-human-brain-disorders/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-multiomic-spatial-and-single-cell-technologies-in-human-brain-disorders/</guid>
+      <description>&lt;p&gt;The hippocampus neurogenic niche (HNN) generates new neurons in mammals, but it is unclear if this is happening in humans. Adult hippocampal neurogenesis is necessary to maintain intact cognitive and emotional functions regulated by the hippocampus. Markers of immaturity have been detected in neuronal cells of the HNN but it is still unclear if they represent adult-born neurons, or neuronal cells that have maintained their immaturity since birth. We found that the number of neural progenitor cells (NPCs) and immature neurons was stable throughout the eighth decade of life in normal aging (NA) subjects, but angiogenesis and neuroplasticity were decreased in older people. Other groups have supported our findings, while some could not detect immature neuronal cells in human hippocampus. Moreover, in aging mice, more NPCs differentiate into glia rather than neurons, compared to younger animals, but we do not know if this happens in humans. Adult neurogenesis is lower in Alzheimer’s Disease (AD) and it is unknown if this is because more NPCs differentiate into glia or through other mechanisms. These gaps in knowledge warrant the use of new technologies to investigate cellular lineages in the human HNN, and molecular regulators of NPCs proliferation, cell fate, differentiation, maturation and survival. This project aims to identify differentially expressed proteins (DEPs) and genes (DEGs) in the human HNN, at the regional and single cell level, comparing NA and AD. We will apply our pipeline using high resolution mass spectrometry for proteomics analysis, and single nuclei (sn) RNA and ATAC (Assay for Transposase-Accessible Chromatin) sequencing (seq), to identify gene expression and epigenetic changes. In slide-mounted hippocampus tissue, we will apply Visium (10X Genomics) and our custom-made spatial transcriptomic technology for anatomical co-mapping of cell-type specific mRNAs and proteins (DBiT-seq). Novel computational approaches will identify neurogenesis regulators in the human HNN that can be tested in cellular or animal models. Findings obtained with these “OMICS” approaches will be validated using HighPlex RNAscope® (ADCBio) and immunofluorescence, and qPCR, Western blots, and ELISA assays, to visualize and quantify DEP and DEG expression at the single cell and regional level. Our rigorous brain collection methods assure tissue quality, uniform processing, use of toxicology and neuropathology, and strict clinical inclusion/exclusion criteria. Groups include: NA subjects (N=100), Braak stage 0-1, age 14-99 yrs., 40 of which (60 years of age and older) are matched (by age, sex and postmortem interval between death and brain collection) with 40 AD cases (from the Columbia Taub Institute collection), Braak stage 1 through 4. Aims: 1. Identify HNN DEPs associated with NA and AD. 2. Identify DEGs in immature and mature neuronal and glial cell populations of the DG in NA and AD subjects, using sn-RNA and sn-ATAC-seq (10X Genomics). 3. Determine the anatomical localization of cell expressing DEGs and DEPs associated with NA and AD, using Visium and DBiT-seq. 4. Test correlations between DEPs and DEGs, and numbers of NPCs and immature neurons and glia in NA and AD.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Opportunistic Weather Sensing via ML and data analysis, using Link Measurements from a NYC-Wide Wireless Network</title>
+      <link>/2023/02/project-opportunistic-weather-sensing-via-ml-and-data-analysis-using-link-measurements-from-a-nyc-wide-wireless-network/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-opportunistic-weather-sensing-via-ml-and-data-analysis-using-link-measurements-from-a-nyc-wide-wireless-network/</guid>
+      <description>&lt;p&gt;5G-and-beyond networks will use high-frequency millimeter-wave (mmWave) links to transmit and receive information with high throughput. A particularity of mmWave links is that they can be severely affected by diverse weather conditions such as rain, snow, fog, and even humidity. In this project, our goal is to leverage measurements of weather-induced link attenuation to infer the current weather conditions and to predict link attenuation in the near future. Students working on this project will have access to a unique set of measurements of link attenuation from a city-wide wireless network in NYC. The project entails: (i) developing a pipeline that continuously collects the relevant data from our partner’s database, (ii) ensuring the quality of the dataset and maintaining an easy-to-access dataset, (iii) correlating the link attenuation data with weather monitoring (and perhaps pollution) information, (iv) developing a machine learning architecture that infers the current weather and its impact on links based on the sequence of past attenuation values, and (v) validating the accuracy of the proposed architecture. The student will have the opportunity to work with a team of experienced researchers from Columbia and Tel Aviv Universities and gain valuable experience in machine learning, data science, and weather analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Physics Guided Quantification of the Ocean Carbon Sink</title>
+      <link>/2023/02/project-physics-guided-quantification-of-the-ocean-carbon-sink/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-physics-guided-quantification-of-the-ocean-carbon-sink/</guid>
+      <description>&lt;p&gt;The ocean significantly mitigates climate change by absorbing fossil fuel carbon from the atmosphere. Cumulatively since the preindustrial times, the ocean has absorbed 40% of emissions. To understand past changes, diagnose ongoing changes, and to predict the future behavior of the ocean carbon sink, we must understand its spatial and temporal variability. However, the ocean is poorly sampled and so we cannot do this directly from in situ measurements.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Race, Ethnicity, and Air pollution in COVID-19 Hospitalization OUTcomes (REACH OUT Study)</title>
+      <link>/2023/02/project-race-ethnicity-and-air-pollution-in-covid-19-hospitalization-outcomes-reach-out-study/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-race-ethnicity-and-air-pollution-in-covid-19-hospitalization-outcomes-reach-out-study/</guid>
+      <description>&lt;p&gt;The REACH OUT study is a multi-institutional collaboration funded by the Health Effects Institute to determine if populations who have been chronically exposed to higher levels of air pollution are at greater risk of severe COVID-19 outcomes. This is a paid position which will provide students with the opportunity to use analytic approaches on public health and environmental data. The selected student will work as part of a research team to analyze publicly available COVID-related and environmental data from the New York City Department of Health. They will also integrate findings with those from harmonized electronic health records and conduct simulations to assess the potential for selection bias in study populations. All analyses will be performed using R/R Studio. Students will be expected to create shareable and commented code as part of this work. Students will also create visualizations to communicate study results in publications and presentations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Real-World Outcomes of Hybrid Closed Loop System use in Pediatric Patients with Type 1 Diabetes</title>
+      <link>/2023/02/project-real-world-outcomes-of-hybrid-closed-loop-system-use-in-pediatric-patients-with-type-1-diabetes/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-real-world-outcomes-of-hybrid-closed-loop-system-use-in-pediatric-patients-with-type-1-diabetes/</guid>
+      <description>&lt;p&gt;Type 1 diabetes (T1D) is a chronic autoimmune disease that requires patients to need lifelong insulin therapy. Diabetes technology (insulin pumps and continuous glucose monitors (CGM)) have been shown to reduce the risk of high and low blood sugars and thus reduce long term diabetes complications. Hybrid closed-loop (HCL) insulin pumps integrate CGM technology to automatically adjust insulin delivery from the pump, with the goal of improved blood sugar and better quality of life for the patient. There are two commonly used HCL systems in our diabetes center: the t:slim x2 with Control IQ (TS) and the Omnipod 5 (O5).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning for vehicle routing</title>
+      <link>/2023/02/project-reinforcement-learning-for-vehicle-routing/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-reinforcement-learning-for-vehicle-routing/</guid>
+      <description>&lt;p&gt;Vehicle routing has been extensively studied in optimization problems. With the advance of AI and big data, this project aims to solve vehicle routing problems (VRP) using reinforcement learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal data prediction using GCN-based GAN</title>
+      <link>/2023/02/project-spatio-temporal-data-prediction-using-gcn-based-gan/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/project-spatio-temporal-data-prediction-using-gcn-based-gan/</guid>
+      <description>&lt;p&gt;In this project, we aim to develop GCN-based GAN models to predict spatio-temporal evolution using open human mobility datasets – SafeGraph (&lt;a href=&#34;https://www.safegraph.com/)&#34;&gt;https://www.safegraph.com/)&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Call for Faculty Participation --- DSI Scholars Spring-Summer 2023</title>
       <link>/2023/01/call-for-faculty-participation-dsi-scholars-spring-2023/</link>
