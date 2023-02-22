@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>/categories/announcement/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2023/02/project-artificial-intelligence-and-public-policy/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url>
@@ -28,6 +33,11 @@
   </url>
   
   <url>
+    <loc>/2023/02/call-for-student-applications-dsi-scholars-spring-2023/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url>
@@ -39,6 +49,21 @@
   
   <url>
     <loc>/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/faq2022/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/info/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/info/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,6 +113,11 @@
   </url>
   
   <url>
+    <loc>/page/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2023/02/project-physics-guided-quantification-of-the-ocean-carbon-sink/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url>
@@ -118,7 +148,17 @@
   </url>
   
   <url>
+    <loc>/tags/spring-2023/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/spring-summer-2023/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/summer-2023/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,42 +168,12 @@
   </url>
   
   <url>
-    <loc>/categories/announcement/</loc>
-    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2023/01/call-for-faculty-participation-dsi-scholars-spring-2023/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/info/</loc>
-    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/info/</loc>
-    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page/</loc>
-    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/page/pi_faq_spring_2023/</loc>
-    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/spring-2023/</loc>
-    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/summer-2023/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -395,11 +405,6 @@
   <url>
     <loc>/2022/09/project-using-causal-inference-to-understand-health-disparities-and-discrimination-in-pregnancy-treatment-and-outcomes/</loc>
     <lastmod>2022-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page/faq2022/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

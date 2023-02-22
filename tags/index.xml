@@ -17,6 +17,24 @@
     </item>
     
     <item>
+      <title>Info</title>
+      <link>/tags/info/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring 2023</title>
+      <link>/tags/spring-2023/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spring-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spring-Summer 2023</title>
       <link>/tags/spring-summer-2023/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
@@ -26,27 +44,9 @@
     </item>
     
     <item>
-      <title>Info</title>
-      <link>/tags/info/</link>
-      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/info/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring 2023</title>
-      <link>/tags/spring-2023/</link>
-      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/spring-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Summer 2023</title>
       <link>/tags/summer-2023/</link>
-      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/summer-2023/</guid>
       <description></description>

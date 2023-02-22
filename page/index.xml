@@ -6,7 +6,19 @@
     <description>Recent content in Pages on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frequently Asked Questions (Spring-Summer 2023)</title>
+      <link>/page/faq2022/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/page/faq2022/</guid>
+      <description>Question: When will the student applications to the Scholars|DFG program open for the Spring-Summer 2023?
+Answer: We anticipate that the submission link for student applications will be available by February 23rd.
+  Question: With only one application form, how do I express interest in more than one project?
+Answer: It is recommended that you prioritize based on your interest and skills. To a large extent, the methods of data science can be translated from one domain to another so demonstrating core competency is paramount.</description>
+    </item>
+    
     <item>
       <title>PI Frequently Asked Questions</title>
       <link>/page/pi_faq_spring_2023/</link>
@@ -15,18 +27,6 @@
       <guid>/page/pi_faq_spring_2023/</guid>
       <description>Question: How does the DSI Scholars stipend/matching fund process work?
 Answer: This applies to the projects that have been selected for matching funds. Stipends are issued by Student Financial Services in coordination with the Data Science Institute using chart strings. PIs for selected projects will be asked to make a commitment as to the level of their support, after which the DSI will arrange for the stipend to be issued.</description>
-    </item>
-    
-    <item>
-      <title>Frequently Asked Questions (Fall 2022)</title>
-      <link>/page/faq2022/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/page/faq2022/</guid>
-      <description>Question: When will the student applications to the Scholars|DFG program open for the Fall 2022 semester?
-Answer: We anticipate that the submission link for student applications will be available by September 6th. Please check the submission link on the program website during the first week of classes.
-  Question: With only one application form, how do I express interest in more than one project?
-Answer: It is recommended that you prioritize based on your interest and skills.</description>
     </item>
     
     <item>

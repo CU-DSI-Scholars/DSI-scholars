@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Announcement</title>
+      <link>/categories/announcement/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>info</title>
+      <link>/categories/info/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Open  2023</title>
       <link>/categories/open-2023/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
@@ -31,24 +49,6 @@
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>/categories/open-spring-summer-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Announcement</title>
-      <link>/categories/announcement/</link>
-      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/announcement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>info</title>
-      <link>/categories/info/</link>
-      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/info/</guid>
       <description></description>
     </item>
     
