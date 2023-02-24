@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A longitudial study of instructional contexts, student communication, and educational inequality using natural language processing</title>
-      <link>/2023/02/project-a-longitudial-study-of-instructional-contexts-student-communication-and-educational-inequality-using-natural-language-processing/</link>
+      <title>A longitudinal study of instructional contexts, student communication, and educational inequality using natural language processing</title>
+      <link>/2023/02/project-a-longitudinal-study-of-instructional-contexts-student-communication-and-educational-inequality-using-natural-language-processing/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/2023/02/project-a-longitudial-study-of-instructional-contexts-student-communication-and-educational-inequality-using-natural-language-processing/</guid>
+      <guid>/2023/02/project-a-longitudinal-study-of-instructional-contexts-student-communication-and-educational-inequality-using-natural-language-processing/</guid>
       <description>&lt;p&gt;The growing use of digital technologies in the education system has generated large amounts of data that records educational processes at a granular level. This project aims to leverage large-scale text data and NLP and causal inference techniques to understand the interplay between instructional contexts, students’ day-to-day online communication experience, and systematic inequality in academic achievement. This understanding can help educators create a more inclusive and effective educational environment to promote engagement and sense of belonging for students from marginalized groups, thereby reducing existing inequities in the system.&lt;/p&gt;</description>
     </item>
     
@@ -136,11 +136,11 @@
     </item>
     
     <item>
-      <title>Real Time Digital Twin for Smart City Intersectionsions</title>
-      <link>/2023/02/project-real-time-digital-twin-for-smart-city-intersectionsions/</link>
+      <title>Real Time Digital Twin for Smart City Intersections</title>
+      <link>/2023/02/project-real-time-digital-twin-for-smart-city-intersections/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/2023/02/project-real-time-digital-twin-for-smart-city-intersectionsions/</guid>
+      <guid>/2023/02/project-real-time-digital-twin-for-smart-city-intersections/</guid>
       <description>&lt;p&gt;We research techniques for improving safety of pedestrians, traffic flow, and smart streetscape applications. We aim to accomplish precise localization and tracking of objects by utilizing infrastructure-installed multimodal sensors such as cameras and lidars to provide a global view of the behavior of smart city traffic participants. We rely significantly on traffic intersections which are particularly suitable locations for the deployment of computing, communications, and AI-based services for smart cities of the future. The abundance of data to be collected and processed, in combination with privacy and security concerns, motivates the use of machine learning and deep learning processing, and to deploy the edge-computing paradigm which aligns well with physical intersections in metropolises.&lt;/p&gt;</description>
     </item>
     
