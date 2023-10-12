@@ -6,7 +6,17 @@
     <description>Recent content in 2023 on Columbia DSI Scholars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/2023/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Outdated</title>
+      <link>/2023/10/website-update/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/10/website-update/</guid>
+      <description>This website is now out of use. You can find up-to-date information about the DSI Scholars Program on the
+DSI website.</description>
+    </item>
+    
     <item>
       <title>Developing a Large Database of Medication Ordering Errors</title>
       <link>/2023/03/project-developing-a-large-database-of-medication-ordering-errors/</link>

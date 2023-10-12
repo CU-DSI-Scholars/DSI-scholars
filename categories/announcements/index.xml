@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on Columbia DSI Scholars</title>
+    <link>/categories/announcements/</link>
+    <description>Recent content in Announcements on Columbia DSI Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/announcements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Outdated</title>
+      <link>/2023/10/website-update/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/10/website-update/</guid>
+      <description>This website is now out of use. You can find up-to-date information about the DSI Scholars Program on the
+DSI website.</description>
+    </item>
+    
+  </channel>
+</rss>
